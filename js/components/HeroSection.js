@@ -14,7 +14,7 @@
         <p class="hero-intro">${esc(s.intro)}</p>
         <div class="hero-search">${CT.components.SearchBox.render({ id: 'hero-search', placeholder: 'Tìm theo tên môn, tên bài học, chủ đề, tuần, nội dung tích hợp…', hints: true })}</div>
       </div>
-      <div class="hero-aside">${CT.components.SchoolTag.render({ subtitle: s.authority || '' })}</div>
+      <div class="hero-aside">${CT.components.SchoolTag.render({ subtitle: s.authority || '' })}${s.internalNotice ? `<div class="internal-stamp" role="note">${esc(s.internalNotice)}</div>` : ''}</div>
     </div>
   </div>
 </section>`;

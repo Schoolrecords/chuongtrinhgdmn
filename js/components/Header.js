@@ -6,7 +6,7 @@
 
   function render() {
     const s = CT.store.data.school;
-    const logo = s.logo ? `<img src="${esc(s.logo)}" alt="${esc(s.logoAlt || 'Logo ' + s.name)}" width="44" height="44">` : icon('book-open');
+    const logo = s.logo ? `<img src="${esc(s.logoMark || s.logo)}" alt="${esc(s.logoAlt || 'Logo ' + s.name)}" width="44" height="44">` : icon('book-open');
     return `
 <header class="site-header" role="banner">
   <div class="container">

@@ -125,6 +125,7 @@
     const pct = (mm) => ((mm || 0) / total * 100).toFixed(2) + '%';
     const o = { query, target };
     return note + `
+<div class="scroll-hint">${icon('arrow-right')} Vuốt ngang để xem đủ các cột của bảng.</div>
 <div class="plan-table-wrap">
   <table class="plan-table">
     <colgroup>${w.map((mm) => `<col style="width:${pct(mm)}">`).join('')}</colgroup>
@@ -134,8 +135,7 @@
     </thead>
     <tbody>${tableRows(groups, o)}</tbody>
   </table>
-</div>
-<div class="plan-cards">${cardBlocks(groups, o)}</div>`;
+</div>`;
   }
 
   CT.components.CurriculumTable = { render, filterLessons, group };

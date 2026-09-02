@@ -62,7 +62,12 @@
   /** Trang A4: đầu trang, mục I–III, bảng, quy ước mã, ghi chú, mục IV, chữ kí */
   function sheet(grade, subject, cur, state) {
     const d = cur.document || { before: [], after: [], legend: [], signature: [] };
-    const before = (d.before || []).map(para).join('');
+    // Hai dòng đầu (UBND xã / Trường) xếp thành khối bên trái, căn giữa trong khối như bản Word
+    const blocks = d.before || [];
+    let before = '';
+    if (blocks.length >= 2 && /^UBND/i.test(blocks[0].text.trim())) {
+      before = `<div class="org"><p class="org-1">${esc(blocks[0].text.trim())}</p><p class="org-2">${esc(blocks[1].text.trim())}</p></div>` + blocks.slice(2).map(para).join('');
+    } else before = blocks.map(para).join('');
     const legend = (d.legend || []).length ? `
       <table class="legend-table"><colgroup><col class="c-code"><col class="c-domain"><col></colgroup><thead><tr><th>Mã</th><th>Miền năng lực / nội dung</th><th>Ý nghĩa khi đưa vào KHDH/KHBD</th></tr></thead>
       <tbody>${d.legend.map((r) => `<tr><td>${CT.components.IntegrationBadge.render(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>` : '';
