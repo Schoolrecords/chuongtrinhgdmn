@@ -5,6 +5,9 @@
   const { state, set } = CT.store;
   const C = CT.components;
 
+  // Không để trình duyệt tự nhớ vị trí cuộn: mở trang phải thấy từ dòng đầu tiên
+  if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+
   const app = document.getElementById('app');
   let main;
   let currentCur = null; // KHDH đang mở
@@ -23,6 +26,7 @@
     C.SearchBox.bind(main);
     document.title = `${CT.store.data.school.siteTitle} | ${CT.store.data.school.name}`;
     if (scrollToSubjects) requestAnimationFrame(() => scrollToEl($('#mon-hoc', main)));
+    else window.scrollTo(0, 0);
   }
 
   /** Chọn khối lớp: cập nhật thẻ được chọn + bản đồ môn, không tải lại trang */

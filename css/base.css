@@ -14,6 +14,9 @@ body {
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
 }
+/* clip cắt phần tràn ngang mà KHÔNG tạo vùng cuộn mới, nhờ đó .site-header dính được
+   ở đỉnh màn hình trên Safari iOS (overflow-x: hidden làm hỏng position: sticky). */
+@supports (overflow: clip) { body { overflow-x: clip; } }
 img, svg, picture { display: block; max-width: 100%; }
 img { height: auto; }
 button, input, select { font: inherit; color: inherit; }
