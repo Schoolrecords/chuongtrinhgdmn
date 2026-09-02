@@ -5,6 +5,16 @@
 
   let prepared = null;
 
+  /** Từ khoá phải bắt đầu một từ trong chuỗi (tránh "an" khớp giữa "bản") */
+  function hasWord(hay, t) {
+    let i = hay.indexOf(t);
+    while (i !== -1) {
+      if (i === 0 || !/[a-z0-9]/.test(hay[i - 1])) return true;
+      i = hay.indexOf(t, i + 1);
+    }
+    return false;
+  }
+
   function prepare(index) {
     const { subjectById, integrationInfo } = CT.store;
     const rows = index.rows || []; const subjectIds = index.subjects || []; const themes = index.themes || [];
@@ -54,10 +64,10 @@
         let all = true;
         for (const t of toks) {
           let s = 0;
-          if (r.nTitle.includes(t)) s += r.nTitle.startsWith(t) ? 6 : 4;
-          if (r.nTheme.includes(t)) s += 2;
-          if (r.nSubject.includes(t)) s += 3;
-          if (r.nInteg.includes(t)) s += 2;
+          if (hasWord(r.nTitle, t)) s += r.nTitle.startsWith(t) ? 6 : 4;
+          if (hasWord(r.nTheme, t)) s += 2;
+          if (hasWord(r.nSubject, t)) s += 3;
+          if (hasWord(r.nInteg, t)) s += 2;
           if (!s) { all = false; break; }
           score += s;
         }

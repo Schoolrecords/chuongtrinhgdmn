@@ -28,9 +28,14 @@
     const norm = normChars.join('');
     if (normChars.some((c) => c.length !== 1)) return esc(src); // an toàn: bỏ tô sáng nếu ánh xạ lệch
     const ranges = [];
+    const isWordChar = (c) => /[a-z0-9]/.test(c || '');
     for (const t of toks) {
       let i = 0;
-      while ((i = norm.indexOf(t, i)) !== -1) { ranges.push([i, i + t.length]); i += t.length; }
+      while ((i = norm.indexOf(t, i)) !== -1) {
+        // Chỉ tô sáng khi từ khoá bắt đầu một từ (tránh "an" trong "bản")
+        if (i === 0 || !isWordChar(norm[i - 1])) ranges.push([i, i + t.length]);
+        i += t.length;
+      }
     }
     if (!ranges.length) return esc(src);
     ranges.sort((a, b) => a[0] - b[0]);

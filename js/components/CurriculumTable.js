@@ -20,7 +20,7 @@
       if (wm) return l.week === parseInt(wm[1], 10);
       const hay = normalize([l.title, l.theme, l.adjustments, l.note, l.content, l.periodLabel,
         ...l.integrations.map((i) => `${i.code} ${CT.store.integrationInfo(i.code).short} ${i.text}`)].join(' | '));
-      return q.split(' ').every((t) => hay.includes(t));
+      return q.split(' ').every((t) => { let i = hay.indexOf(t); while (i !== -1) { if (i === 0 || !/[a-z0-9]/.test(hay[i - 1])) return true; i = hay.indexOf(t, i + 1); } return false; });
     });
   }
 
