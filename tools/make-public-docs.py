@@ -203,12 +203,13 @@ def main():
             count += 1
     print(f'Đã ẩn danh {count} tệp Word -> {dst_docs}')
 
+    # Khu "Mẫu biểu trống" đã bỏ khỏi trang (2/9/2026). Muốn bật lại: khai báo mục "templates"
+    # trong tools/public/school.json rồi bỏ chú thích khối dưới đây.
     tpl_dir = os.path.join(OUT, 'assets', 'templates')
     if os.path.isdir(tpl_dir):
         shutil.rmtree(tpl_dir)
-    base = os.path.join(src_docs, 'lop1', 'Toan - Lop 1.docx')
-    make_blank_template(base, os.path.join(tpl_dir, 'Mau Phu luc 2 - KHDH mon hoc (trong).docx'))
-    print('Đã tạo mẫu Phụ lục 2 (trống) ->', tpl_dir)
+    # base = os.path.join(src_docs, 'lop1', 'Toan - Lop 1.docx')
+    # make_blank_template(base, os.path.join(tpl_dir, 'Mau Phu luc 2 - KHDH mon hoc (trong).docx'))
 
 
 if __name__ == '__main__':

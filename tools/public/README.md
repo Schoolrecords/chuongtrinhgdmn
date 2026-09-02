@@ -1,4 +1,4 @@
-# Chương trình giáo dục phổ thông 2018 – Cấp Tiểu học
+# Chương trình giáo dục môn học – Cấp Tiểu học
 
 Tài liệu tham khảo **dùng chung** cho giáo viên tiểu học: kế hoạch dạy học theo tuần và nội dung
 tích hợp của 13 môn học, hoạt động giáo dục từ lớp 1 đến lớp 5, lập theo Phụ lục 2 Công văn
@@ -12,8 +12,7 @@ tích hợp của 13 môn học, hoạt động giáo dục từ lớp 1 đến 
 
 1. Chọn khối lớp trên trang chủ, chọn môn học để xem kế hoạch dạy học dạng trang A4 đúng khuôn Word.
 2. Bấm **Tải Word** để lấy tệp của môn đó (hoặc **Cả khối** để lấy trọn khối lớp).
-3. Cần một biểu trống để tự soạn từ đầu: mục **Mẫu biểu trống** ở cuối trang chủ.
-4. Ô tìm kiếm tra được theo tên bài, chủ đề, tuần (`tuần 5`) và mã nội dung tích hợp.
+3. Ô tìm kiếm tra được theo tên bài, chủ đề, tuần (`tuần 5`) và mã nội dung tích hợp.
 
 ## Kho mã
 
@@ -28,7 +27,6 @@ js/                   lib/, components/, app.js, data.bundle.js (sinh tự độ
 data/                 school.json, grades.json, subjects.json, integrations.json, curriculum/
 assets/fonts          UTM Avo · assets/covers bìa SGK · assets/logo logo, favicon, ảnh chia sẻ
 assets/docs/lopN/     bản Word từng môn (đã lược bỏ tên trường)
-assets/templates/     mẫu biểu trống
 tools/build-data.mjs  đóng gói JSON -> JS · tools/serve.mjs máy chủ xem thử
 ```
 

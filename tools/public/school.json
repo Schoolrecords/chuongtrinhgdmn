@@ -1,31 +1,13 @@
 {
   "name": "Tài liệu tham khảo dùng chung",
-  "nameUpper": "CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG 2018",
+  "nameUpper": "CHƯƠNG TRÌNH GIÁO DỤC MÔN HỌC",
   "authority": "Cấp Tiểu học · Tài liệu tham khảo dùng chung",
-  "siteTitle": "Chương trình giáo dục phổ thông 2018 – Cấp Tiểu học",
-  "siteTitleUpper": "CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG 2018",
+  "siteTitle": "Chương trình giáo dục môn học – Cấp Tiểu học",
+  "siteTitleUpper": "CHƯƠNG TRÌNH GIÁO DỤC MÔN HỌC",
   "schoolYear": "2026-2027",
   "schoolYearLabel": "Năm học 2026–2027",
-  "schoolYearLabelUpper": "CẤP TIỂU HỌC · NĂM HỌC 2026–2027",
-  "intro": "Tra cứu kế hoạch dạy học theo tuần và nội dung tích hợp của 13 môn học, hoạt động giáo dục từ lớp 1 đến lớp 5; xem trực tiếp trên máy tính, điện thoại hoặc tải bản Word về dùng.",
-  "disclaimer": "Đây là bản tham khảo dùng chung, không phải kế hoạch của riêng trường nào. Thầy cô tải bản Word về, điền tên trường, rà soát và điều chỉnh nội dung cho phù hợp với điều kiện thực tế của đơn vị mình trước khi trình phê duyệt.",
-  "heroSteps": {
-    "title": "Dùng nhanh trong 3 bước",
-    "items": [
-      {
-        "name": "Chọn lớp, chọn môn",
-        "desc": "Xem kế hoạch dạy học theo tuần, đúng khuôn trang A4 như bản Word."
-      },
-      {
-        "name": "Tải bản Word về",
-        "desc": "Từng môn hoặc trọn khối lớp; hoặc lấy mẫu biểu trống ở cuối trang."
-      },
-      {
-        "name": "Điền tên trường, rà soát",
-        "desc": "Chỉnh cho khớp điều kiện của đơn vị rồi trình Hiệu trưởng phê duyệt."
-      }
-    ]
-  },
+  "schoolYearLabelUpper": "CẤP TIỂU HỌC - NĂM HỌC 2026-2027",
+  "intro": "Đây là bản tham khảo dùng chung, không phải kế hoạch của riêng trường nào. Thầy cô tải bản Word về, điền tên trường, rà soát và điều chỉnh nội dung cho phù hợp với điều kiện thực tế của đơn vị mình trước khi trình phê duyệt.",
   "heroTag": false,
   "internalNotice": "TÀI LIỆU THAM KHẢO · DÙNG CHUNG",
   "internalNoticeTone": "teal",
@@ -47,19 +29,5 @@
   },
   "logo": "assets/logo/logo-mark.png",
   "logoAlt": "Logo CTGD – Chương trình giáo dục phổ thông 2018, cấp Tiểu học",
-  "logoMark": "assets/logo/logo-mark.png",
-  "templates": {
-    "title": "Mẫu biểu trống – tải về và tự điền",
-    "intro": "Giữ nguyên khuôn trang, đầu trang, bảng 6 cột và bảng quy ước mã tích hợp; phần nội dung để trống cho thầy cô tự điền.",
-    "items": [
-      {
-        "name": "Phụ lục 2 – Kế hoạch dạy học môn học (trống)",
-        "desc": "Khuôn Phụ lục 2 Công văn 2345/BGDĐT-GDTH cho một môn học, hoạt động giáo dục: căn cứ, điều kiện thực hiện, bảng kế hoạch theo tuần, quy ước mã tích hợp, phần kí duyệt.",
-        "file": "assets/templates/Mau Phu luc 2 - KHDH mon hoc (trong).docx",
-        "fileName": "Mau Phu luc 2 - KHDH mon hoc (trong).docx",
-        "icon": "file",
-        "tone": "teal"
-      }
-    ]
-  }
+  "logoMark": "assets/logo/logo-mark.png"
 }

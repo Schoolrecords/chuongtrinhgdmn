@@ -22,7 +22,7 @@ FONTS = os.path.join(WEBSITE, 'assets', 'fonts')
 SAFE = {'·': '-', '–': '-', '—': '-', ' ': ' '}
 
 LINES = [
-    ('UTM-Avo-Bold.ttf', 54, NAVY, 'CHƯƠNG TRÌNH GIÁO DỤC PHỔ THÔNG 2018'),
+    ('UTM-Avo-Bold.ttf', 54, NAVY, 'CHƯƠNG TRÌNH GIÁO DỤC MÔN HỌC'),
     ('UTM-Avo-Bold.ttf', 36, TEAL, 'CẤP TIỂU HỌC - NĂM HỌC 2026-2027'),
     ('UTM-Avo-Regular.ttf', 30, INK, 'Tài liệu tham khảo dùng chung cho giáo viên tiểu học'),
 ]
