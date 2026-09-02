@@ -9,7 +9,7 @@
     return `
 <div class="school-tag" role="img" aria-label="${esc(s.name)}">
   <span class="tag-dot" aria-hidden="true"></span>
-  <span class="tag-icon" aria-hidden="true">${icon('graduation')}</span>
+  <span class="tag-icon${s.logo ? ' has-img' : ''}" aria-hidden="true">${s.logo ? `<img src="${esc(s.logo)}" alt="" width="38" height="38">` : icon('graduation')}</span>
   <span class="tag-text">${esc(s.nameUpper || s.name)}${subtitle ? `<small>${esc(subtitle)}</small>` : ''}</span>
 </div>`;
   }

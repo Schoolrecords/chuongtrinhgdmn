@@ -6,12 +6,12 @@
 
   function render() {
     const s = CT.store.data.school;
-    const logo = s.logo ? `<img src="${esc(s.logo)}" alt="Logo ${esc(s.name)}">` : icon('book-open');
+    const logo = s.logo ? `<img src="${esc(s.logo)}" alt="${esc(s.logoAlt || 'Logo ' + s.name)}" width="44" height="44">` : icon('book-open');
     return `
 <header class="site-header" role="banner">
   <div class="container">
     <a class="brand" href="#/" data-action="home" aria-label="Về trang chủ">
-      <span class="brand-logo" aria-hidden="true">${logo}</span>
+      <span class="brand-logo${s.logo ? ' has-img' : ''}" aria-hidden="true">${logo}</span>
       <span class="brand-text">
         <span class="brand-school">${esc(s.nameUpper || s.name)}</span>
         <span class="brand-sub">${esc(s.authority || '')}</span>
