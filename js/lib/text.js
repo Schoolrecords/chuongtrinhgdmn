@@ -20,7 +20,7 @@
    */
   function highlight(text, query) {
     const src = String(text ?? '');
-    const toks = tokens(query);
+    const toks = tokens(query).filter((t) => t.length >= 2); // bỏ từ 1 ký tự (vd: số lớp) để không tô sáng lung tung
     if (!src || !toks.length) return esc(src);
     // Ánh xạ vị trí ký tự sau khi bỏ dấu về vị trí gốc (mỗi ký tự gốc -> đúng 1 ký tự chuẩn hoá)
     const chars = Array.from(src);

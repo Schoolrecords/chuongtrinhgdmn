@@ -72,7 +72,7 @@ mark { background: var(--gold-100); color: inherit; padding: 0 2px; border-radiu
 .grade-card { position: relative; display: flex; flex-direction: column; text-align: left; width: 100%; background: var(--surface); border: 2px solid var(--line); border-radius: var(--radius-lg); box-shadow: var(--shadow-sm); overflow: hidden; transition: transform var(--t), box-shadow var(--t), border-color var(--t); }
 .grade-card:hover { transform: translateY(-4px); box-shadow: var(--shadow); border-color: #b9cfe9; }
 .grade-card:focus-visible { box-shadow: var(--ring), var(--shadow); border-color: var(--sky-600); }
-.grade-card.is-selected { border-color: var(--navy-700); box-shadow: 0 0 0 4px rgba(11, 47, 91, .12), var(--shadow); }
+.grade-card.is-selected { border-color: var(--accent-600); box-shadow: 0 0 0 4px rgba(59, 181, 173, .18), var(--shadow); }
 .grade-cover { position: relative; aspect-ratio: 4 / 4.6; padding: 16px 20px 10px; background: linear-gradient(160deg, var(--sky-50), #fff 55%, var(--teal-50)); display: grid; place-items: end center; }
 .grade-cover img { width: 100%; height: 100%; object-fit: contain; object-position: bottom center; filter: drop-shadow(0 12px 16px rgba(11, 47, 91, .22)); transition: transform var(--t); }
 .grade-card:hover .grade-cover img { transform: translateY(-3px) scale(1.015); }
@@ -86,8 +86,8 @@ mark { background: var(--gold-100); color: inherit; padding: 0 2px; border-radiu
 .grade-body > div { min-width: 0; }
 .grade-hint { font-size: var(--fs-xs); color: var(--ink-500); margin-top: 3px; }
 .grade-arrow { width: 38px; height: 38px; flex: none; display: grid; place-items: center; border-radius: 50%; background: var(--navy-50); color: var(--navy-800); transition: background var(--t), color var(--t), transform var(--t); }
-.grade-card:hover .grade-arrow { background: var(--navy-800); color: #fff; transform: translateX(2px); }
-.grade-card.is-selected .grade-arrow { background: var(--navy-800); color: #fff; }
+.grade-card:hover .grade-arrow { background: var(--accent); color: #fff; transform: translateX(2px); }
+.grade-card.is-selected .grade-arrow { background: var(--accent); color: #fff; }
 
 /* ---------- SubjectGrid / SubjectCard (bản đồ môn học) ---------- */
 .subject-section { scroll-margin-top: 80px; }
@@ -261,4 +261,6 @@ mark { background: var(--gold-100); color: inherit; padding: 0 2px; border-radiu
 .footer-col h4 { font-size: var(--fs-xs); text-transform: uppercase; letter-spacing: .08em; color: var(--ink-500); margin-bottom: 8px; }
 .footer-col li { font-size: var(--fs-xs); color: var(--ink-600); padding: 3px 0; }
 .footer-bottom { border-top: 1px solid var(--line); }
-.footer-bottom .container { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; padding-block: 12px; font-size: var(--fs-xs); color: var(--ink-500); }
+.footer-bottom .container { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 6px 16px; padding-block: 12px; font-size: var(--fs-xs); color: var(--ink-500); }
+.footer-bottom .designer { color: var(--navy-700); font-weight: 700; }
+.footer-bottom .designer a { color: inherit; }

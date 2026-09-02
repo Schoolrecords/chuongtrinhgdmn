@@ -47,6 +47,9 @@
   --sky-600:  #1d7fd6;
   --sky-100:  #dcefff;
   --sky-50:   #eef7ff;
+  --accent: #3bb5ad;      /* xanh ngọc: nút chính, mũi tên */
+  --accent-600: #2a9d95;
+  --accent-700: #1f857e;
   --gold-600: #c98a12;
   --gold-500: #f2b632;
   --gold-100: #fdf0cc;

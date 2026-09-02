@@ -21,7 +21,7 @@
       <ul>${(s.legalBasis || []).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
     </div>
   </div>
-  <div class="footer-bottom"><div class="container"><span>© ${new Date().getFullYear()} ${esc(s.name)}</span><span>${genLabel ? `Dữ liệu cập nhật ngày ${esc(genLabel)}` : ''}</span></div></div>
+  <div class="footer-bottom"><div class="container"><span>© ${new Date().getFullYear()} ${esc(s.name)}</span>${s.designer ? `<span class="designer">Thiết kế: ${esc(s.designer.name)}${s.designer.phone ? ` – <a href="tel:${esc(s.designer.phone)}">${esc(s.designer.phone)}</a>` : ''}</span>` : ''}<span>${genLabel ? `Dữ liệu cập nhật ngày ${esc(genLabel)}` : ''}</span></div></div>
 </footer>`;
   }
 
