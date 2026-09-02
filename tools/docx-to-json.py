@@ -16,6 +16,7 @@ import glob
 import json
 import os
 import re
+import shutil
 import sys
 
 try:
@@ -27,6 +28,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 WEBSITE = os.path.dirname(HERE)
 DEFAULT_SRC = os.path.dirname(WEBSITE)          # thư mục "Chương trình GD Môn học"
 OUT_DIR = os.path.join(WEBSITE, "data", "curriculum")
+DOCS_DIR = os.path.join(WEBSITE, "assets", "docs")   # tệp Word đính kèm để tải về
 SCHOOL_YEAR = "2026-2027"
 
 # Tên môn trong tên tệp -> mã môn dùng trong website (khớp data/subjects.json)
@@ -169,6 +171,64 @@ def parse_period(label):
     return a, b, b - a + 1, lesson_total
 
 
+ALIGN = {0: "left", 1: "center", 2: "right", 3: "justify"}
+
+
+def extract_document(d):
+    """Lấy phần văn bản ngoài bảng KHDH (đầu trang, mục I–IV, quy ước mã, chữ kí) để dựng trang A4."""
+    from docx.text.paragraph import Paragraph
+    blocks = []      # các đoạn trước bảng KHDH
+    after = []       # các đoạn sau bảng KHDH (trừ bảng)
+    legend, signature = [], []
+    seen_main = False
+    ti = 0
+    for child in d.element.body.iterchildren():
+        tag = child.tag.split("}")[1]
+        if tag == "tbl":
+            t = d.tables[ti]; ti += 1
+            if ti == 1:
+                seen_main = True
+                continue
+            rows = [[c.text.strip() for c in r.cells] for r in t.rows]
+            if len(t.columns) == 3 and rows and rows[0][0].strip().lower() == "mã":
+                legend = rows[1:]
+            elif len(t.columns) == 2 and len(rows) == 1:
+                signature = [[ln.strip() for ln in c.splitlines()] for c in [t.rows[0].cells[0].text, t.rows[0].cells[1].text]]
+            else:
+                after.append({"table": rows})
+            continue
+        if tag != "p":
+            continue
+        para = Paragraph(child, d)
+        text = para.text.strip()
+        if not text:
+            continue
+        runs = para.runs
+        blk = {
+            "text": text,
+            "align": ALIGN.get(para.alignment, "left"),
+            "bold": any(r.bold for r in runs),
+            "italic": any(r.italic for r in runs) and not any(r.bold for r in runs),
+        }
+        (after if seen_main else blocks).append(blk)
+    widths = []
+    try:
+        widths = [round(c.width.mm) if c.width else None for c in d.tables[0].columns]
+    except Exception:  # noqa
+        pass
+    sec = d.sections[0]
+    return {
+        "page": {"orientation": "landscape" if sec.page_width > sec.page_height else "portrait",
+                 "widthMm": round(sec.page_width.mm), "heightMm": round(sec.page_height.mm),
+                 "marginMm": round(sec.left_margin.mm)},
+        "columnWidthsMm": widths,
+        "before": blocks,
+        "legend": legend,
+        "after": after,
+        "signature": signature,
+    }
+
+
 def parse_docx(path, grade, subject_id):
     d = docx.Document(path)
     if not d.tables:
@@ -239,6 +299,44 @@ def parse_docx(path, grade, subject_id):
             "integrations": len([1 for l in lessons for _ in l["integrations"]]),
         },
         "lessons": lessons,
+        "document": extract_document(d),
+    }
+
+
+def ascii_name(text):
+    """'Tiếng Việt' -> 'Tieng Viet' (bỏ dấu, giữ hoa/thường) để đặt tên tệp tải về."""
+    import unicodedata
+    t = unicodedata.normalize("NFD", text).replace("đ", "d").replace("Đ", "D")
+    t = "".join(ch for ch in t if unicodedata.category(ch) != "Mn")
+    return re.sub(r"[^A-Za-z0-9 \-]+", "", t).strip()
+
+
+def subject_display_name(sid):
+    """Tên môn để đặt tên tệp, lấy từ data/subjects.json (Ngoại ngữ 1 -> Tiếng Anh)."""
+    try:
+        with open(os.path.join(WEBSITE, "data", "subjects.json"), encoding="utf-8") as fh:
+            for sub in json.load(fh):
+                if sub["id"] == sid:
+                    return sub.get("subtitle") or sub["name"]
+    except Exception:  # noqa
+        pass
+    return sid
+
+
+def attach(src, grade, name):
+    """Chép tệp Word vào assets/docs/lopN/<Tên môn> - Lop N.docx và trả về mô tả đính kèm."""
+    d = os.path.join(DOCS_DIR, f"lop{grade}")
+    os.makedirs(d, exist_ok=True)
+    fname = f"{name} - Lop {grade}.docx"
+    dst = os.path.join(d, fname)
+    shutil.copyfile(src, dst)
+    st = os.stat(src)
+    return {
+        "file": f"assets/docs/lop{grade}/{fname}",
+        "name": fname,
+        "original": os.path.basename(src),
+        "size": st.st_size,
+        "updated": datetime.date.fromtimestamp(st.st_mtime).isoformat(),
     }
 
 
@@ -247,8 +345,14 @@ def main():
     ap.add_argument("--src", default=DEFAULT_SRC)
     args = ap.parse_args()
     os.makedirs(OUT_DIR, exist_ok=True)
+    if os.path.isdir(DOCS_DIR):   # xoá các tệp cũ để không còn tệp thừa (giữ thư mục vì Google Drive khoá thư mục)
+        for root, _dirs, fnames in os.walk(DOCS_DIR):
+            for fn in fnames:
+                if fn.lower().endswith(".docx"):
+                    os.remove(os.path.join(root, fn))
     index = []
     files = sorted(glob.glob(os.path.join(args.src, "Lớp *", "KHDH *lớp * (*).docx")))
+    grade_files = sorted(glob.glob(os.path.join(args.src, "Lớp *", "KHDH cả khối * (*).docx")))
     files = [f for f in files if "cả khối" not in os.path.basename(f)]
     if not files:
         sys.exit(f"Không tìm thấy tệp KHDH trong {args.src}")
@@ -275,6 +379,7 @@ def main():
         if reviewed:
             data["status"] = "reviewed"
             data["statusLabel"] = "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt"
+        data["attachment"] = attach(f, grade, ascii_name(subject_display_name(sid)))
         out_dir = os.path.join(OUT_DIR, f"lop{grade}")
         os.makedirs(out_dir, exist_ok=True)
         out = os.path.join(out_dir, f"{sid}.json")
@@ -283,13 +388,27 @@ def main():
         index.append({
             "grade": grade, "subjectId": sid, "file": f"curriculum/lop{grade}/{sid}.json",
             "status": data["status"], "summary": data["summary"], "source": data["source"],
+            "attachment": data["attachment"],
         })
         s = data["summary"]
         print(f"OK lớp {grade} {sid:24s} {'[rà soát]' if reviewed else '[gốc]':9s} bài={s['lessons']:3d} tiết={s['totalPeriods']:3d} tuần={s['weeks']:2d} tích hợp={s['integrations']}")
     index.sort(key=lambda x: (x["grade"], x["subjectId"]))
+    # Tệp KHDH gộp cả khối (Phụ lục 2): ưu tiên bản "(đã rà soát)"
+    grade_docs = {}
+    for f in grade_files:
+        base = os.path.basename(f)
+        g = re.search(r"khối\s*(\d)", base, re.I)
+        if not g:
+            continue
+        grade = int(g.group(1))
+        reviewed = "rà soát" in base.lower()
+        if grade not in grade_docs or (reviewed and not grade_docs[grade][1]):
+            grade_docs[grade] = (f, reviewed)
+    grade_attachments = {str(g): attach(f, g, "KHDH ca khoi") for g, (f, _) in sorted(grade_docs.items())}
     with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8") as fh:
-        json.dump({"schoolYear": SCHOOL_YEAR, "generatedAt": datetime.date.today().isoformat(), "items": index},
-                  fh, ensure_ascii=False, indent=1)
+        json.dump({"schoolYear": SCHOOL_YEAR, "generatedAt": datetime.date.today().isoformat(), "items": index,
+                   "gradeAttachments": grade_attachments}, fh, ensure_ascii=False, indent=1)
+    print(f"Đã chép {len(index) + len(grade_attachments)} tệp Word vào {DOCS_DIR}")
     print(f"Đã ghi {len(index)} tệp JSON vào {OUT_DIR}")
 
 

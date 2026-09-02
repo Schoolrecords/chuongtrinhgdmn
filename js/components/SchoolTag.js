@@ -1,4 +1,4 @@
-/* SchoolTag: thẻ tên trường – nền trắng, viền xanh mảnh, chữ navy, nghiêng nhẹ 1°, một chấm vàng */
+/* SchoolTag: thẻ tên trường – nền trắng, viền xanh mảnh, chữ navy, một chấm vàng nhỏ */
 (function () {
   const CT = window.CT;
   const { esc } = CT.lib.dom;

@@ -1,4 +1,4 @@
-/* SubjectCard: thẻ môn học – biểu tượng, tên, mô tả, thời lượng (nếu có dữ liệu), trạng thái, mũi tên */
+/* SubjectCard: ô môn học trên bản đồ môn – biểu tượng, tên, thời lượng, nút xem trang A4 và nút tải Word */
 (function () {
   const CT = window.CT;
   const { esc } = CT.lib.dom;
@@ -15,19 +15,27 @@
 
   function render(s, grade) {
     const cat = s.catalog;
+    const href = CT.router.build.subject(grade, s.id);
     const meta = cat
-      ? `<b>${cat.summary.totalPeriods} tiết</b> / năm học · ${cat.summary.weeks} tuần`
-      : `<span class="muted">Chưa có kế hoạch dạy học</span>`;
+      ? `<b>${cat.summary.totalPeriods}</b> tiết · ${cat.summary.weeks} tuần`
+      : `<span class="muted">Chưa có kế hoạch</span>`;
+    const dl = cat && cat.attachment
+      ? `<a class="btn btn-outline btn-sm" href="${encodeURI(cat.attachment.file)}" download="${esc(cat.attachment.name)}" title="Tải ${esc(cat.attachment.name)} (${CT.store.fileSize(cat.attachment.size)})" aria-label="Tải bản Word KHDH ${esc(s.name)} lớp ${grade}">${icon('download')} Word</a>`
+      : '';
     return `
-<a class="subject-card" href="${CT.router.build.subject(grade, s.id)}" data-subject="${esc(s.id)}" aria-label="${esc(s.name)} lớp ${grade} – xem chi tiết">
-  <span class="subject-icon tone-${esc(s.tone || 'navy')}" aria-hidden="true">${icon(s.icon)}</span>
-  <span class="subject-body">
-    <span class="subject-name">${esc(s.name)}${s.subtitle ? `<small>(${esc(s.subtitle)})</small>` : ''}</span>
-    <span class="subject-desc">${esc(s.description || '')}</span>
-    <span class="subject-meta">${meta} ${statusPill(cat)}</span>
+<article class="subject-card${cat ? '' : ' is-empty'}" data-subject="${esc(s.id)}">
+  <a class="subject-main" href="${href}" aria-label="${esc(s.name)} lớp ${grade} – xem kế hoạch dạy học">
+    <span class="subject-icon tone-${esc(s.tone || 'navy')}" aria-hidden="true">${icon(s.icon)}</span>
+    <span class="subject-body">
+      <span class="subject-name">${esc(s.name)}${s.subtitle ? `<small>(${esc(s.subtitle)})</small>` : ''}</span>
+      <span class="subject-meta">${meta}</span>
+    </span>
+  </a>
+  <span class="subject-actions">
+    ${cat ? `<a class="btn btn-view btn-sm" href="${href}">${icon('file')} Xem kế hoạch</a>` : statusPill(cat)}
+    ${dl}
   </span>
-  <span class="subject-arrow" aria-hidden="true">${icon('arrow-right')}</span>
-</a>`;
+</article>`;
   }
 
   CT.components.SubjectCard = { render, statusPill };

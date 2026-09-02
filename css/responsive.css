@@ -1,26 +1,27 @@
 /* ==========================================================================
-   Đáp ứng theo thiết bị. Breakpoint: <480, 480–768, 768–1024, >1024
+   Đáp ứng theo thiết bị. Breakpoint: <480, 480–768, 768–1024, >1024. In ấn A4 ngang.
    ========================================================================== */
 
 /* ---------- Dưới 1024px: máy tính bảng và điện thoại ---------- */
 @media (max-width: 1023.98px) {
   .header-search { display: none; }
   .hero-grid { grid-template-columns: 1fr; }
-  .hero-aside { align-items: flex-start; }
-  .hero-stats { max-width: none; }
+  .hero-aside { justify-content: flex-start; }
 
   /* Giá sách vuốt ngang */
-  .shelf { display: flex; gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-inline: var(--gutter); padding: 6px var(--gutter) 18px; margin-inline: calc(-1 * var(--gutter)); width: calc(100% + 2 * var(--gutter)); -webkit-overflow-scrolling: touch; scrollbar-width: thin; }
+  .shelf { display: flex; gap: 14px; max-width: none; overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-inline: var(--gutter); padding: 6px var(--gutter) 18px; margin-inline: calc(-1 * var(--gutter)); width: calc(100% + 2 * var(--gutter)); -webkit-overflow-scrolling: touch; scrollbar-width: thin; }
   .shelf::-webkit-scrollbar { height: 6px; }
   .shelf::-webkit-scrollbar-thumb { background: var(--line-strong); border-radius: 6px; }
-  .grade-card { flex: 0 0 clamp(200px, 30vw, 260px); scroll-snap-align: start; }
+  .grade-card { flex: 0 0 clamp(200px, 30vw, 250px); scroll-snap-align: start; }
 
-  /* Bảng kế hoạch chuyển sang thẻ */
-  .plan-scroll { display: none; }
+  /* Trang A4 -> tờ giấy mềm, bảng chuyển sang thẻ theo tuần */
+  .sheet { padding: 22px 18px 26px; font-size: var(--fs-sm); }
+  .plan-table-wrap { display: none; }
   .plan-cards { display: block; }
-  .plan-toolbar { position: static; }
-  .detail-head { grid-template-columns: 1fr; }
-  .detail-side { max-width: none; }
+  .legend-table { font-size: 11.5px; }
+  .signature { gap: 8px; }
+  .signature .sig-name { margin-top: 40px; }
+  .doc-top { flex-direction: column; align-items: stretch; }
   .site-footer .container { grid-template-columns: 1fr; }
 }
 
@@ -33,31 +34,28 @@
 /* ---------- Dưới 768px ---------- */
 @media (max-width: 767.98px) {
   :root { --fs-md: 1rem; --fs-lg: 1.15rem; --fs-xl: 1.35rem; }
-  .site-header .container { min-height: 64px; gap: 10px; }
-  .brand-logo { width: 42px; height: 42px; }
-  .brand-school { font-size: 11.5px; letter-spacing: .04em; }
-  .brand-title { font-size: var(--fs-sm); }
-  .year-pill { padding: 6px 10px; font-size: var(--fs-xs); }
+  .site-header .container { min-height: 62px; gap: 10px; }
+  .brand-logo { width: 40px; height: 40px; }
+  .brand-school { font-size: 13px; letter-spacing: .03em; }
+  .brand-sub { font-size: 12px; }
   .hero-title { font-size: clamp(1.45rem, 1.05rem + 2.6vw, 1.9rem); }
   .hero-intro { font-size: var(--fs-sm); }
-  .school-tag { font-size: var(--fs-sm); padding: 12px 18px 12px 14px; letter-spacing: .04em; transform: rotate(-1deg); }
-  .school-tag .tag-icon { width: 30px; height: 30px; }
+  .school-tag { font-size: var(--fs-md); padding: 12px 18px 12px 14px; letter-spacing: .04em; gap: 10px; }
+  .school-tag .tag-icon { width: 32px; height: 32px; }
   .search-box form { flex-direction: column; }
   .search-box .btn { width: 100%; }
   .grade-card { flex: 0 0 min(72vw, 250px); }
   .subject-grid { grid-template-columns: 1fr; }
-  .subject-card { padding: 14px; min-height: 0; }
-  .subject-icon { width: 48px; height: 48px; border-radius: 14px; }
-  .detail-title .subject-icon { width: 50px; height: 50px; border-radius: 14px; }
-  .detail-title h1 { font-size: 1.4rem; }
-  .detail-info { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .subject-card { padding: 14px; }
+  .subject-icon { width: 50px; height: 50px; border-radius: 14px; }
+  .doc-title { font-size: 1.25rem; }
+  .doc-title .subject-icon { width: 40px; height: 40px; border-radius: 11px; }
+  .doc-actions .btn { flex: 1 1 auto; }
   .plan-toolbar { padding: 10px; gap: 8px; }
   .plan-toolbar .field { flex-basis: 100%; }
   .plan-toolbar select.input { flex: 1 1 100%; }
   .segmented { width: 100%; justify-content: stretch; }
   .segmented button { flex: 1; padding-inline: 8px; }
-  .toolbar-actions { margin-left: 0; width: 100%; }
-  .toolbar-actions .btn { flex: 1; }
   .section-head h2 { font-size: var(--fs-xl); }
   .footer-bottom .container { flex-direction: column; }
 }
@@ -65,28 +63,31 @@
 /* ---------- Dưới 480px ---------- */
 @media (max-width: 479.98px) {
   :root { --gutter: 16px; }
-  .brand-school { max-width: 52vw; }
-  .brand-title { max-width: 52vw; }
-  .year-pill { display: none; }
-  .hero-eyebrow { font-size: 12px; }
+  .brand-school { max-width: 62vw; }
+  .brand-sub { max-width: 62vw; }
   .hero-title { font-size: clamp(1.3rem, 1rem + 2.6vw, 1.6rem); }
-  .hero-stats { grid-template-columns: repeat(3, 1fr); gap: 6px; }
-  .stat b { font-size: 1.2rem; }
-  .stat span { font-size: 11.5px; }
   .grade-card { flex: 0 0 78vw; }
   .grade-number { width: 40px; height: 40px; font-size: 1.3rem; border-radius: 12px; }
-  .detail-info { grid-template-columns: 1fr 1fr; gap: 8px; }
-  .info-item { padding: 10px 12px; }
-  .lesson-card { padding: 12px; }
-  .week-toggle { padding: 10px; gap: 8px; }
+  .sheet { padding: 16px 12px 20px; border-radius: 4px; }
+  .lesson-card { padding: 10px 2px 12px; }
 }
 
-/* ---------- In ấn ---------- */
+/* ---------- In ấn: chỉ in trang A4 kế hoạch, khổ ngang ---------- */
 @media print {
-  .site-header, .hero-search, .plan-toolbar, .site-footer, .grade-arrow, .subject-arrow, .skip-link { display: none !important; }
+  @page { size: A4 landscape; margin: 12mm 14mm; }
   body { background: #fff; }
-  .plan-scroll { display: block !important; }
+  .site-header, .site-footer, .hero, .plan-toolbar, .doc-top, .skip-link, .plan-filter-note .link, .section-shelf, .subject-section { display: none !important; }
+  .doc-section, .doc-section .container { padding: 0 !important; width: auto !important; }
+  .sheet-wrap { display: block; }
+  .sheet { max-width: none; width: auto; padding: 0; border: 0; box-shadow: none; border-radius: 0; font-size: 11.5pt; }
+  .plan-table-wrap { display: block !important; overflow: visible; }
+  .plan-table { min-width: 0; font-size: 9.5pt; }
+  .plan-table th, .plan-table td { border-color: #000; }
+  .plan-table thead { display: table-header-group; }
+  .plan-table tr { break-inside: avoid; }
   .plan-cards { display: none !important; }
-  .plan-table { min-width: 0; font-size: 11px; }
-  .lesson-row[hidden] { display: table-row !important; }
+  .badge { border: 1px solid #999; background: none !important; color: #000 !important; }
+  .badge::before { display: none; }
+  mark { background: none; font-weight: 700; }
+  .signature { break-inside: avoid; }
 }

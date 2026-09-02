@@ -45,6 +45,8 @@ strong, b { font-weight: 700; }
 .btn-primary:hover { background: var(--navy-700); }
 .btn-outline { background: var(--surface); color: var(--navy-800); border-color: var(--line-strong); }
 .btn-outline:hover { border-color: var(--navy-600); background: var(--navy-50); }
+.btn-view { background: #e6f7d9; color: #1f6a2e; border-color: #b7e3a1; }
+.btn-view:hover { background: #d7f1c4; border-color: #8fd274; color: #17561f; }
 .btn-ghost { background: transparent; color: var(--navy-800); }
 .btn-ghost:hover { background: var(--navy-50); }
 .btn-sm { min-height: 38px; padding: 6px 14px; font-size: var(--fs-xs); }

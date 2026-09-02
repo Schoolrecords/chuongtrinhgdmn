@@ -70,7 +70,7 @@
   --info-700: #1e5aa8; --info-100: #e2eefc;
 
   /* Khoảng cách, bo góc, bóng */
-  --container: 1240px;
+  --container: 1560px;
   --gutter: clamp(16px, 4vw, 40px);
   --radius-sm: 10px;
   --radius: 16px;

@@ -9,7 +9,11 @@
     subjects: D.subjects || [],
     integrations: D.integrations || { groups: [], codes: {} },
     catalog: D.catalog || {},
+    gradeAttachments: D.gradeAttachments || {},
   };
+  /** "123456" -> "121 KB" */
+  const fileSize = (b) => (b >= 1048576 ? (b / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB');
+  const dateVi = (iso) => (iso ? iso.split('-').reverse().join('/') : '');
   const subjectById = Object.fromEntries(data.subjects.map((s) => [s.id, s]));
   const gradeByNo = Object.fromEntries(data.grades.map((g) => [g.grade, g]));
   const groupById = Object.fromEntries((data.integrations.groups || []).map((g) => [g.id, g]));
@@ -45,5 +49,5 @@
   const subscribe = (fn) => { listeners.add(fn); return () => listeners.delete(fn); };
   const set = (patch) => { Object.assign(state, patch); listeners.forEach((fn) => fn(state)); };
 
-  CT.store = { data, subjectById, gradeByNo, integrationInfo, subjectsOfGrade, state, set, subscribe };
+  CT.store = { data, subjectById, gradeByNo, integrationInfo, subjectsOfGrade, state, set, subscribe, fileSize, dateVi };
 })();

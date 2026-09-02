@@ -16,7 +16,7 @@
     C.SearchBox.bind(app.querySelector('.site-header'));
   }
 
-  /* ---------- Trang chủ ---------- */
+  /* ---------- Trang chủ: chọn lớp -> bản đồ môn học ---------- */
   function renderHome({ scrollToSubjects = false } = {}) {
     main.innerHTML = C.HeroSection.render() + C.GradeBookshelf.render({ selected: state.grade }) + C.SubjectGrid.render({ grade: state.grade });
     C.SearchBox.bind(main);
@@ -24,7 +24,7 @@
     if (scrollToSubjects) requestAnimationFrame(() => scrollToEl($('#mon-hoc', main)));
   }
 
-  /** Chọn khối lớp: cập nhật thẻ được chọn + danh sách môn, không tải lại trang */
+  /** Chọn khối lớp: cập nhật thẻ được chọn + bản đồ môn, không tải lại trang */
   function selectGrade(grade) {
     set({ grade });
     history.replaceState(null, '', CT.router.build.home(grade));
@@ -39,7 +39,7 @@
     scrollToEl(fresh);
   }
 
-  /* ---------- Chi tiết môn ---------- */
+  /* ---------- Trang A4 kế hoạch môn ---------- */
   async function renderSubject(grade, subjectId, params) {
     const subject = CT.store.subjectById[subjectId];
     const g = CT.store.gradeByNo[grade];
@@ -51,9 +51,9 @@
     set({
       grade, subjectId, view: 'subject',
       query: params.get('q') || '', semester: params.get('hk') || 'all', integration: params.get('th') || '',
-      lesson: params.get('bai') || null, collapsed: new Set(),
+      lesson: params.get('bai') || null,
     });
-    document.title = `${subject.name} lớp ${grade} | ${CT.store.data.school.siteTitle}`;
+    document.title = `KHDH ${subject.name} lớp ${grade} | ${CT.store.data.school.siteTitle}`;
     window.scrollTo({ top: 0 });
     main.innerHTML = C.SubjectDetail.render({ grade, subject, cur: null, cat, state, loading: !!cat });
     if (!cat) return;
@@ -61,21 +61,14 @@
     try { cur = await CT.loader.loadCurriculum(grade, subjectId); } catch (e) { console.error(e); }
     if (state.view !== 'subject' || state.subjectId !== subjectId || state.grade !== grade) return; // người dùng đã chuyển trang
     currentCur = cur;
-    if (!cur) {
-      main.innerHTML = C.SubjectDetail.render({ grade, subject, cur: null, cat: null, state });
-      return;
-    }
-    // Mặc định: mở tuần chứa bài cần xem, nếu không thì mở tất cả tuần học kì I và thu gọn học kì II để trang gọn
-    if (state.lesson) {
-      const target = cur.lessons.find((l) => l.id === state.lesson);
-      if (target) { set({ semester: 'all' }); }
-    }
-    main.innerHTML = C.SubjectDetail.render({ grade, subject, cur, cat, state });
+    main.innerHTML = C.SubjectDetail.render({ grade, subject, cur, cat: cur ? cat : null, state });
+    if (!cur) return;
     bindDetail();
     if (state.lesson) {
       requestAnimationFrame(() => {
-        const el = $('.plan-scroll', main)?.offsetParent ? $(`#row-${CSS.escape(state.lesson)}`, main) : $(`#card-${CSS.escape(state.lesson)}`, main);
-        scrollToEl(el, 150);
+        const tableVisible = $('.plan-table-wrap', main)?.offsetParent;
+        const el = tableVisible ? $(`#row-${CSS.escape(state.lesson)}`, main) : $(`#card-${CSS.escape(state.lesson)}`, main);
+        scrollToEl(el, 140);
       });
     }
   }
@@ -130,36 +123,21 @@
   /* ---------- Sự kiện chung ---------- */
   function bindGlobal() {
     on(app, 'click', '.grade-card', (ev, el) => { ev.preventDefault(); selectGrade(Number(el.dataset.grade)); });
-    on(app, 'click', '.week-toggle', (ev, el) => {
-      const week = Number(el.dataset.week);
-      const expanded = el.getAttribute('aria-expanded') !== 'true';
-      // Đồng bộ cả bảng và thẻ (cùng dữ liệu)
-      $$(`.week-toggle[data-week="${week}"]`, main).forEach((b) => b.setAttribute('aria-expanded', expanded ? 'true' : 'false'));
-      $$(`.lesson-row[data-week="${week}"]`, main).forEach((tr) => { tr.hidden = !expanded; });
-      $$(`[data-week-body="${week}"]`, main).forEach((d) => { d.hidden = !expanded; });
-      if (expanded) state.collapsed.delete(week); else state.collapsed.add(week);
-    });
-    on(app, 'click', '[data-expand]', (ev, el) => {
-      const all = el.dataset.expand === 'all';
-      const weeks = $$('.week-toggle', main).map((b) => Number(b.dataset.week));
-      state.collapsed = all ? new Set() : new Set(weeks);
-      rerenderTable();
-    });
     on(app, 'click', '[data-semester]', (ev, el) => {
       set({ semester: el.dataset.semester === 'all' ? 'all' : Number(el.dataset.semester) });
       $$('[data-semester]', main).forEach((b) => b.setAttribute('aria-pressed', b === el ? 'true' : 'false'));
       rerenderTable();
     });
-    on(app, 'click', '[data-integration]', (ev, el) => {
-      const sel = $('#plan-integration', main);
-      const v = state.integration === el.dataset.integration ? '' : el.dataset.integration;
-      set({ integration: v });
-      if (sel) sel.value = v;
+    on(app, 'click', '[data-clear-filters]', () => {
+      set({ semester: 'all', integration: '', query: '' });
+      const input = $('#plan-search', main); if (input) input.value = '';
+      const sel = $('#plan-integration', main); if (sel) sel.value = '';
+      $$('[data-semester]', main).forEach((b) => b.setAttribute('aria-pressed', b.dataset.semester === 'all' ? 'true' : 'false'));
       rerenderTable();
-      scrollToEl($('.plan-toolbar', main), 90);
     });
+    on(app, 'click', '[data-action="print"]', () => window.print());
     on(app, 'click', '[data-action="back"]', (ev, el) => {
-      // Liên kết dạng #/lop/1#mon-hoc: điều hướng thủ công để giữ vị trí cuộn hợp lí
+      // Liên kết dạng #/lop/1#mon-hoc: giữ vị trí cuộn tới bản đồ môn học
       ev.preventDefault();
       set({ view: 'subject' });
       location.hash = el.getAttribute('href');
