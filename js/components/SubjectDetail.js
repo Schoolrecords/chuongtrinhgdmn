@@ -52,10 +52,13 @@
     if (!cur) return '';
     const c = cur.status;
     const pill = CT.components.SubjectCard.statusPill(cat || cur);
-    let text = '';
-    if (c === 'reviewed') text = cur.statusLabel || 'Đã rà soát.';
-    else if (c === 'draft') text = cur.statusLabel || 'Bản nháp, chờ xác nhận.';
-    else if (c === 'sample') text = 'Dữ liệu minh họa, chưa phải kế hoạch chính thức.';
+    let text = cur.statusLabel || '';
+    if (!text) {
+      if (c === 'reviewed') text = 'Đã rà soát.';
+      else if (c === 'draft') text = 'Bản nháp, chờ xác nhận.';
+      else if (c === 'reference') text = 'Bản tham khảo, mỗi trường tự rà soát và điều chỉnh cho phù hợp.';
+      else if (c === 'sample') text = 'Dữ liệu minh họa, chưa phải kế hoạch chính thức.';
+    }
     return `<div class="doc-status">${pill}<span>${esc(text)}</span></div>`;
   }
 

@@ -278,3 +278,22 @@ mark { background: var(--gold-100); color: inherit; padding: 0 2px; border-radiu
 .footer-bottom .container { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 6px 16px; padding-block: 12px; font-size: var(--fs-xs); color: var(--ink-500); }
 .footer-bottom .designer { color: var(--ink-500); font-weight: 400; }
 .footer-bottom .designer a { color: inherit; }
+
+/* ---------- TemplateSection (mẫu biểu trống – chỉ có ở bản dùng chung) ---------- */
+.internal-stamp.tone-teal { border-color: var(--accent-600); color: var(--accent-700, #24857f); box-shadow: inset 0 0 0 2px #fff, 0 0 0 1px var(--accent-600); }
+.template-section { padding-top: clamp(12px, 2vw, 24px); }
+.template-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: clamp(12px, 1.6vw, 18px); }
+.template-card { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 2px 14px; align-items: start; padding: 16px; background: var(--surface); border: 1.5px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-sm); transition: transform var(--t), box-shadow var(--t), border-color var(--t); }
+.template-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); border-color: #b9cfe9; }
+.template-card .subject-icon { grid-row: span 2; }
+.template-name { font-weight: 700; color: var(--navy-800); font-size: var(--fs-base); line-height: 1.25; }
+.template-desc { font-size: var(--fs-sm); color: var(--ink-600); margin-top: 3px; }
+.template-card .btn { grid-column: 2; justify-self: start; margin-top: 10px; }
+.hero-note { margin-top: 8px; font-size: var(--fs-sm); color: var(--ink-600); max-width: 62ch; }
+.hero-steps { width: 100%; max-width: 460px; padding: 18px 20px; background: var(--surface); border: 1.5px solid var(--line); border-radius: var(--radius-lg); box-shadow: var(--shadow-sm); }
+.hero-steps h2 { font-size: var(--fs-md); color: var(--navy-800); margin-bottom: 12px; }
+.hero-steps ol { list-style: none; counter-reset: step; display: grid; gap: 12px; }
+.hero-steps li { counter-increment: step; position: relative; padding-left: 38px; font-size: var(--fs-sm); color: var(--ink-600); }
+.hero-steps li::before { content: counter(step); position: absolute; left: 0; top: -1px; width: 26px; height: 26px; display: grid; place-items: center; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 700; font-size: var(--fs-xs); }
+.hero-steps li b { display: block; color: var(--navy-800); font-size: var(--fs-base); line-height: 1.25; }
+.hero-steps li span { display: block; margin-top: 2px; }

@@ -9,6 +9,7 @@
     if (!cat) return `<span class="pill pill-warn">Đang cập nhật</span>`;
     if (cat.status === 'official') return `<span class="pill pill-ok">Chính thức</span>`;
     if (cat.status === 'reviewed') return `<span class="pill pill-ok" title="${esc(cat.statusLabel || '')}">Đã rà soát</span>`;
+    if (cat.status === 'reference') return `<span class="pill pill-info" title="${esc(cat.statusLabel || '')}">Tham khảo</span>`;
     if (cat.status === 'sample') return `<span class="pill pill-warn">Dữ liệu minh họa</span>`;
     return `<span class="pill pill-info" title="${esc(cat.statusLabel || '')}">Chờ xác nhận</span>`;
   }

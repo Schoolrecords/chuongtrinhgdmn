@@ -18,7 +18,8 @@
 
   /* ---------- Trang chủ: chọn lớp -> bản đồ môn học ---------- */
   function renderHome({ scrollToSubjects = false } = {}) {
-    main.innerHTML = C.HeroSection.render() + C.GradeBookshelf.render({ selected: state.grade }) + C.SubjectGrid.render({ grade: state.grade });
+    main.innerHTML = C.HeroSection.render() + C.GradeBookshelf.render({ selected: state.grade })
+      + C.SubjectGrid.render({ grade: state.grade }) + C.TemplateSection.render();
     C.SearchBox.bind(main);
     document.title = `${CT.store.data.school.siteTitle} | ${CT.store.data.school.name}`;
     if (scrollToSubjects) requestAnimationFrame(() => scrollToEl($('#mon-hoc', main)));

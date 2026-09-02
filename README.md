@@ -60,6 +60,37 @@ Hoặc mở trực tiếp `index.html` bằng trình duyệt (dữ liệu đư�
 4. Thêm `"team"` và `"teachers"` vào tệp KHDH để hiển thị tổ chuyên môn, giáo viên phụ trách.
 5. Đổi năm học: sửa `data/school.json` và `SCHOOL_YEAR` trong `tools/docx-to-json.py`.
 
+## Bản dùng chung (không thuộc trường nào)
+
+Ngoài bản nội bộ của trường, kho này còn sinh ra **bản tham khảo dùng chung** tại
+<https://chuongtrinhgiaoduc.quantrisotruonghoc.com/> – cùng một mã giao diện, chỉ khác phần định danh,
+nhãn dữ liệu và các tệp Word đã lược bỏ tên trường, tên người kí, địa danh.
+
+```bash
+node tools/build-public.mjs      # sinh ../web-chung/ (cần Python + python-docx, Pillow)
+```
+
+Bộ sinh gồm:
+
+| Tệp | Việc |
+| --- | --- |
+| `tools/build-public.mjs` | chép mã, thay `data/school.json`, ẩn danh KHDH, chuyển trạng thái sang *tham khảo*, sửa thẻ meta, CNAME, README |
+| `tools/public/school.json` | phần định danh riêng của bản dùng chung (tên trang, khối "3 bước", mục *Mẫu biểu trống*) |
+| `tools/public/README.md` | README của kho công khai |
+| `tools/make-public-docs.py` | ẩn danh 56 tệp Word và dựng *Mẫu Phụ lục 2 – KHDH môn học (trống)* |
+| `tools/make-og-image.py` | ảnh xem trước khi chia sẻ (1200×630) |
+
+Thư mục `web-chung/` là **kết quả sinh tự động**, đừng sửa tay. Sửa giao diện ở `website/` rồi chạy lại
+lệnh trên là cả hai bản cùng được cập nhật.
+
+Đưa lên GitHub Pages (kho `Schoolrecords/chuongtrinhgiaoduc`):
+
+```bash
+cd ..
+git subtree split --prefix=web-chung -b gh-chung-src
+git push -f chung gh-chung-src:main       # remote "chung" trỏ tới kho công khai
+```
+
 ## Đưa lên GitHub Pages
 
 Đẩy toàn bộ thư mục `website/` lên nhánh `main` của kho `schoolrecords/chuongtrinhgdmn`
