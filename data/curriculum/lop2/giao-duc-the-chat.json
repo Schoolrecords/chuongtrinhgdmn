@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 2,
  "subjectId": "giao-duc-the-chat",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH GDTC lớp 2 (2026-2027).docx",
+  "file": "Lớp 2/KHDH GDTC lớp 2 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 92
+  "integrations": 9
  },
  "lessons": [
   {
@@ -57,18 +57,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -84,18 +73,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -111,18 +89,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -138,18 +105,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -165,18 +121,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -192,18 +137,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -219,18 +153,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -246,18 +169,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -273,18 +185,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -322,13 +223,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -344,13 +239,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -366,13 +255,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -388,13 +271,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -410,13 +287,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -424,7 +295,7 @@
    "semester": 1,
    "week": 9,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP, ĐÁNH GIÁ GIỮA HỌC KÌ I: Đội hình đội ngũ và một số động tác bài thể dục",
+   "title": "ÔN TẬP GIỮA HỌC KÌ I: Đội hình đội ngũ và một số động tác bài thể dục",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -432,18 +303,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -481,13 +341,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -503,13 +357,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -525,13 +373,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -574,18 +416,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -601,18 +432,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -628,18 +448,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -655,18 +464,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -682,18 +480,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -709,18 +496,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -736,18 +512,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -768,11 +533,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
     }
    ],
    "note": ""
@@ -790,18 +550,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -817,18 +566,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -844,18 +582,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -871,18 +598,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -898,13 +614,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -912,7 +622,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "KIỂM TRA, ĐÁNH GIÁ CUỐI HỌC KÌ I",
+   "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
@@ -958,13 +668,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -980,13 +684,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1002,13 +700,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1024,13 +716,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1046,13 +732,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1068,13 +748,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1090,13 +764,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1112,13 +780,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1134,13 +796,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1156,13 +812,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1178,13 +828,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1200,13 +844,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1222,13 +860,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1244,13 +876,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1266,13 +892,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1280,7 +900,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP, ĐÁNH GIÁ GIỮA HỌC KÌ II: Kĩ năng vận động với bóng (thể thao tự chọn)",
+   "title": "ÔN TẬP GIỮA HỌC KÌ II: Kĩ năng vận động với bóng (thể thao tự chọn)",
    "content": "",
    "periodLabel": "Tiết 53 (1 tiết)",
    "periodFrom": 53,
@@ -1288,18 +908,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1337,13 +946,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1359,13 +962,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1381,13 +978,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1403,13 +994,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1425,13 +1010,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1447,13 +1026,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1469,13 +1042,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1491,13 +1058,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1513,13 +1074,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1535,13 +1090,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1557,13 +1106,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1579,13 +1122,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1601,13 +1138,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1623,13 +1154,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1653,7 +1178,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "KIỂM TRA, ĐÁNH GIÁ CUỐI NĂM HỌC",
+   "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI NĂM HỌC",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,

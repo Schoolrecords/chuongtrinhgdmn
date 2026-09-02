@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 5,
  "subjectId": "hoat-dong-trai-nghiem",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH HĐTN lớp 5 (2026-2027).docx",
+  "file": "Lớp 5/KHDH HĐTN lớp 5 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 118
+  "integrations": 87
  },
  "lessons": [
   {
@@ -77,8 +77,13 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -256,14 +261,14 @@
    "semester": 1,
    "week": 5,
    "theme": "CHỦ ĐỀ 2: GIỮ",
-   "title": "SHDC: Vui trung thu cùng bạn (Tuần 2 mới phù hợp)",
+   "title": "SHDC: Vui trung thu cùng bạn",
    "content": "",
    "periodLabel": "Tiết 13 (1 tiết)",
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Đề xuất chuyển sang tuần 2",
    "integrations": [],
    "note": ""
   },
@@ -279,8 +284,13 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -306,8 +316,13 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -328,14 +343,8 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -350,14 +359,8 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -372,13 +375,8 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -399,14 +397,8 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -421,14 +413,8 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -443,14 +429,8 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -465,14 +445,8 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -487,13 +461,8 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -514,14 +483,8 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -536,8 +499,13 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -563,8 +531,13 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -590,19 +563,8 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -617,19 +579,8 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -714,13 +665,8 @@
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -766,14 +712,14 @@
    "semester": 1,
    "week": 12,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "SHL: Chào mừng ngày nhà giáo Việt Nam 20-11 (Tuần 11 mới phù hợp)",
+   "title": "SHL: Chào mừng ngày nhà giáo Việt Nam 20-11",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Đề xuất chuyển sang tuần 11",
    "integrations": [],
    "note": ""
   },
@@ -789,8 +735,13 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -816,8 +767,13 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -843,13 +799,8 @@
    "periodTo": 39,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -870,13 +821,8 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -897,13 +843,8 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -924,13 +865,8 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -944,20 +880,15 @@
    "semester": 1,
    "week": 15,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "SHDC: Chào mừng ngày thành lập Quân đội nhân dân Việt Nam 22-12 (Tuần 15 mới phù hợp).",
+   "title": "SHDC: Chào mừng ngày thành lập Quân đội nhân dân Việt Nam 22-12",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
    "periodFrom": 43,
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -978,13 +909,8 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1005,13 +931,8 @@
    "periodTo": 45,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1032,13 +953,8 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1059,13 +975,8 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1086,13 +997,8 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1206,13 +1112,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1220,14 +1120,14 @@
    "semester": 2,
    "week": 19,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHDC: Tết đoàn viên (Sau Tuần 19 mới phù hợp)",
+   "title": "SHDC: Tết đoàn viên",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
    "periodFrom": 55,
    "periodTo": 55,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Đề xuất chuyển sang sau Tuần 19",
    "integrations": [],
    "note": ""
   },
@@ -1236,7 +1136,7 @@
    "semester": 2,
    "week": 19,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "HĐGDCĐ: Gia đình là tổ ốm",
+   "title": "HĐGDCĐ: Gia đình là tổ ấm",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
    "periodFrom": 56,
@@ -1268,14 +1168,14 @@
    "semester": 2,
    "week": 20,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHDC: Hội chợ xuân gây quỹ nhân ái (Sau Tuần 19 mới phù hợp)",
+   "title": "SHDC: Hội chợ xuân gây quỹ nhân ái",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
    "periodFrom": 58,
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Đề xuất chuyển sang sau Tuần 19",
    "integrations": [],
    "note": ""
   },
@@ -1339,8 +1239,13 @@
    "periodTo": 62,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -1366,8 +1271,13 @@
    "periodTo": 63,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -1409,19 +1319,8 @@
    "periodTo": 65,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1436,19 +1335,8 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1456,14 +1344,14 @@
    "semester": 2,
    "week": 23,
    "theme": "toàn và tự chủ",
-   "title": "SHDC: Kỉ niệm ngày Quốc tế phụ nữ 8-3 (Tuần 24 mới phù hợp)",
+   "title": "SHDC: Kỉ niệm ngày Quốc tế phụ nữ 8-3",
    "content": "",
    "periodLabel": "Tiết 67 (1 tiết)",
    "periodFrom": 67,
    "periodTo": 67,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Đề xuất chuyển sang tuần 24",
    "integrations": [],
    "note": ""
   },
@@ -1587,8 +1475,13 @@
    "periodTo": 73,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -1614,8 +1507,13 @@
    "periodTo": 74,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -1641,19 +1539,8 @@
    "periodTo": 75,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1838,11 +1725,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
@@ -1864,11 +1746,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1892,11 +1769,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
@@ -1919,11 +1791,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
@@ -1943,17 +1810,17 @@
    "periodTo": 88,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GT",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
     },
     {
-     "code": "QPAN",
+     "code": "NLS-ST",
      "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
     }
    ],
    "note": ""
@@ -1970,17 +1837,17 @@
    "periodTo": 89,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
+   "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GT",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
     },
     {
-     "code": "QPAN",
+     "code": "NLS-ST",
      "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
     }
    ],
    "note": ""
@@ -1997,19 +1864,8 @@
    "periodTo": 90,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2024,19 +1880,8 @@
    "periodTo": 91,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2051,19 +1896,8 @@
    "periodTo": 92,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-GT,",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2080,11 +1914,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2235,7 +2064,7 @@
    "semester": 2,
    "week": 34,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "SHDC: Kỉ niệm ngày sinh Bác Hồ kính yêi",
+   "title": "SHDC: Kỉ niệm ngày sinh Bác Hồ kính yêu",
    "content": "",
    "periodLabel": "Tiết 100 (1 tiết)",
    "periodFrom": 100,

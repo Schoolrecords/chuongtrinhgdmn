@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 1,
  "subjectId": "hoat-dong-trai-nghiem",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH HĐTN lớp 1 (2026-2027).docx",
+  "file": "Lớp 1/KHDH HĐTN lớp 1 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,14 +14,14 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 143
+  "integrations": 28
  },
  "lessons": [
   {
    "id": "l1-hoat-dong-trai-nghiem-001",
    "semester": 1,
    "week": 1,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Sinh hoạt dưới cờ: Làm quen với bạn mới",
    "content": "",
    "periodLabel": "Tiết 1 (1 tiết)",
@@ -43,7 +43,7 @@
    "id": "l1-hoat-dong-trai-nghiem-002",
    "semester": 1,
    "week": 1,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Bài 1: Làm quen với bạn mới",
    "content": "",
    "periodLabel": "Tiết 2 (1 tiết)",
@@ -65,7 +65,7 @@
    "id": "l1-hoat-dong-trai-nghiem-003",
    "semester": 1,
    "week": 1,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 3 (1 tiết)",
@@ -74,25 +74,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-004",
    "semester": 1,
    "week": 2,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Sinh hoạt dưới cờ: Tìm hiểu nội quy nhà trường",
    "content": "",
    "periodLabel": "Tiết 4 (1 tiết)",
@@ -114,7 +103,7 @@
    "id": "l1-hoat-dong-trai-nghiem-005",
    "semester": 1,
    "week": 2,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Bài 2: Những việc nên làm trong giờ học, giờ chơi (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 5 (1 tiết)",
@@ -130,8 +119,8 @@
    "id": "l1-hoat-dong-trai-nghiem-006",
    "semester": 1,
    "week": 2,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
-   "title": "Sinh hoạt sao: Sơ kết tuần, lập kế hoạch tuần tới",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
+   "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 6 (1 tiết)",
    "periodFrom": 6,
@@ -139,25 +128,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-007",
    "semester": 1,
    "week": 3,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Sinh hoạt dưới cờ: Nói lời hay - làm việc tốt",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
@@ -173,7 +151,7 @@
    "id": "l1-hoat-dong-trai-nghiem-008",
    "semester": 1,
    "week": 3,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Bài 2: Những việc nên làm trong giờ học, giờ chơi (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8 (1 tiết)",
@@ -189,7 +167,7 @@
    "id": "l1-hoat-dong-trai-nghiem-009",
    "semester": 1,
    "week": 3,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Sinh hoạt lớp: Làm quen với sinh hoạt Sao Nhi đồng",
    "content": "",
    "periodLabel": "Tiết 9 (1 tiết)",
@@ -199,11 +177,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -216,7 +189,7 @@
    "id": "l1-hoat-dong-trai-nghiem-010",
    "semester": 1,
    "week": 4,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Sinh hoạt dưới cờ: Sao Nhi đồng chăm ngoan",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
@@ -232,7 +205,7 @@
    "id": "l1-hoat-dong-trai-nghiem-011",
    "semester": 1,
    "week": 4,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Bài 2: Những việc nên làm trong giờ học, giờ chơi (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 11 (1 tiết)",
@@ -248,7 +221,7 @@
    "id": "l1-hoat-dong-trai-nghiem-012",
    "semester": 1,
    "week": 4,
-   "theme": "Làm quen với sinh hoạt sao nhi đồng",
+   "theme": "CHỦ ĐỀ 1: CHÀO NĂM HỌC MỚI",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 12 (1 tiết)",
@@ -257,25 +230,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-013",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Sinh hoạt dưới cờ: Vui trung thu",
    "content": "",
    "periodLabel": "Tiết 13 (1 tiết)",
@@ -291,7 +253,7 @@
    "id": "l1-hoat-dong-trai-nghiem-014",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Bài 3: Cảm xúc của em",
    "content": "",
    "periodLabel": "Tiết 14 (1 tiết)",
@@ -313,7 +275,7 @@
    "id": "l1-hoat-dong-trai-nghiem-015",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 15 (1 tiết)",
@@ -322,25 +284,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-016",
    "semester": 1,
    "week": 6,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Sinh hoạt dưới cờ: Hoạt động nhân đạo",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
@@ -356,7 +307,7 @@
    "id": "l1-hoat-dong-trai-nghiem-017",
    "semester": 1,
    "week": 6,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Bài 4: Yêu thương con người (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
@@ -364,16 +315,22 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-018",
    "semester": 1,
    "week": 6,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
-   "title": "Sinh hoạt sao: Sơ kết tuần, lập kế hoạch tuần tới",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
+   "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -381,25 +338,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-019",
    "semester": 1,
    "week": 7,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Sinh hoạt dưới cờ: Thử làm ca sĩ chào mừng ngày PNVN",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
@@ -415,7 +361,7 @@
    "id": "l1-hoat-dong-trai-nghiem-020",
    "semester": 1,
    "week": 7,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Bài 4: Yêu thương con người (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
@@ -431,7 +377,7 @@
    "id": "l1-hoat-dong-trai-nghiem-021",
    "semester": 1,
    "week": 7,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
@@ -440,25 +386,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-022",
    "semester": 1,
    "week": 8,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Sinh hoạt dưới cờ: Tuyên dương tấm gương Nhi đồng chăm ngoan",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
@@ -474,7 +409,7 @@
    "id": "l1-hoat-dong-trai-nghiem-023",
    "semester": 1,
    "week": 8,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Bài 4: Yêu thương con người (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
@@ -490,7 +425,7 @@
    "id": "l1-hoat-dong-trai-nghiem-024",
    "semester": 1,
    "week": 8,
-   "theme": "CHỦ ĐỀ 2 EM BIẾT YÊU THƯƠNG",
+   "theme": "CHỦ ĐỀ 2: EM BIẾT YÊU THƯƠNG",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
@@ -499,18 +434,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -553,11 +477,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
     }
    ],
    "note": ""
@@ -575,18 +494,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -603,11 +511,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -628,8 +531,13 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -651,18 +559,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -678,13 +575,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -692,7 +583,7 @@
    "semester": 1,
    "week": 11,
    "theme": "CHỦ ĐỀ 3: TRUYỀN THỐNG TRƯỜNG EM",
-   "title": "Bài 7: Kính yêu thầy cô ( Tiết 1)",
+   "title": "Bài 7: Kính yêu thầy cô (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
    "periodFrom": 32,
@@ -700,13 +591,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -722,18 +607,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -754,11 +628,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
     }
    ],
    "note": ""
@@ -768,7 +637,7 @@
    "semester": 1,
    "week": 12,
    "theme": "CHỦ ĐỀ 3: TRUYỀN THỐNG TRƯỜNG EM",
-   "title": "Bài 7: Kính yêu thầy cô ( Tiết 2)",
+   "title": "Bài 7: Kính yêu thầy cô (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -776,13 +645,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -790,7 +653,7 @@
    "semester": 1,
    "week": 12,
    "theme": "CHỦ ĐỀ 3: TRUYỀN THỐNG TRƯỜNG EM",
-   "title": "Sinh hoạt sao: Sơ kết tuần, lập kế hoạch tuần tới",
+   "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
@@ -798,25 +661,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-037",
    "semester": 1,
    "week": 13,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Sinh hoạt dưới cờ: Tìm hiểu về quyền và bổn phận của trẻ em",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
@@ -825,25 +677,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-038",
    "semester": 1,
    "week": 13,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Bài 8: An toàn khi vui chơi (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 38 (1 tiết)",
@@ -853,11 +694,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -870,8 +706,8 @@
    "id": "l1-hoat-dong-trai-nghiem-039",
    "semester": 1,
    "week": 13,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
-   "title": "Sinh hoạt sao: Sơ kết tuần, lập kế hoạch tuần tới",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
+   "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 39 (1 tiết)",
    "periodFrom": 39,
@@ -879,25 +715,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-040",
    "semester": 1,
    "week": 14,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Sinh hoạt dưới cờ: Chào mừng ngày thành lập QĐND Việt Nam 22-12",
    "content": "",
    "periodLabel": "Tiết 40 (1 tiết)",
@@ -911,11 +736,6 @@
      "code": "QPAN",
      "level": "",
      "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
     }
    ],
    "note": ""
@@ -924,7 +744,7 @@
    "id": "l1-hoat-dong-trai-nghiem-041",
    "semester": 1,
    "week": 14,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Bài 8: An toàn khi vui chơi (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 41 (1 tiết)",
@@ -933,26 +753,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-042",
    "semester": 1,
    "week": 14,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
-   "title": "Sinh hoạt sao: Sơ kết tuần, lập kế hoạch tuần tới",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
+   "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 42 (1 tiết)",
    "periodFrom": 42,
@@ -960,25 +769,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-043",
    "semester": 1,
    "week": 15,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Sinh hoạt dưới cờ: Diễn đàn phòng chống bạo lực học đường",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
@@ -987,25 +785,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-044",
    "semester": 1,
    "week": 15,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Bài 9: Phòng tránh bị bắt nạt",
    "content": "",
    "periodLabel": "Tiết 44 (1 tiết)",
@@ -1015,11 +802,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1032,7 +814,7 @@
    "id": "l1-hoat-dong-trai-nghiem-045",
    "semester": 1,
    "week": 15,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 45 (1 tiết)",
@@ -1041,25 +823,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-046",
    "semester": 1,
    "week": 16,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Sinh hoạt dưới cờ: An toàn cho nụ cười trẻ thơ",
    "content": "",
    "periodLabel": "Tiết 46 (1 tiết)",
@@ -1068,25 +839,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-047",
    "semester": 1,
    "week": 16,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Bài 10: Sử dụng đồ dùng an toàn trong gia đình",
    "content": "",
    "periodLabel": "Tiết 47 (1 tiết)",
@@ -1095,25 +855,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-048",
    "semester": 1,
    "week": 16,
-   "theme": "CHỦ ĐỀ 4 AN TOÀN CHO EM",
+   "theme": "CHỦ ĐỀ 4: AN TOÀN CHO EM",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 48 (1 tiết)",
@@ -1122,25 +871,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-049",
    "semester": 1,
    "week": 17,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Sinh hoạt dưới cờ: Giao lưu \"Nét đẹp tuổi thơ\"",
    "content": "",
    "periodLabel": "Tiết 49 (1 tiết)",
@@ -1167,7 +905,7 @@
    "id": "l1-hoat-dong-trai-nghiem-050",
    "semester": 1,
    "week": 17,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Bài 11: Chân dung của em",
    "content": "",
    "periodLabel": "Tiết 50 (1 tiết)",
@@ -1189,7 +927,7 @@
    "id": "l1-hoat-dong-trai-nghiem-051",
    "semester": 1,
    "week": 17,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 51 (1 tiết)",
@@ -1198,25 +936,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-052",
    "semester": 1,
    "week": 18,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Sinh hoạt dưới cờ: Ngày hội vì sức khỏe học đường",
    "content": "",
    "periodLabel": "Tiết 52 (1 tiết)",
@@ -1225,20 +952,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-053",
    "semester": 1,
    "week": 18,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Bài 12: Giữ vệ sinh cá nhân",
    "content": "",
    "periodLabel": "Tiết 53 (1 tiết)",
@@ -1247,20 +968,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-054",
    "semester": 1,
    "week": 18,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 54 (1 tiết)",
@@ -1269,25 +984,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-055",
    "semester": 2,
    "week": 19,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Sinh hoạt dưới cờ: Vệ sinh an toàn thực phẩm",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
@@ -1296,25 +1000,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-056",
    "semester": 2,
    "week": 19,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Bài 13: Ăn uống hợp lí",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
@@ -1323,20 +1016,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-057",
    "semester": 2,
    "week": 19,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
@@ -1345,25 +1032,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-058",
    "semester": 2,
    "week": 20,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Sinh hoạt dưới cờ: Ngày hội trình diễn thời trang",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
@@ -1372,20 +1048,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-059",
    "semester": 2,
    "week": 20,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
    "title": "Bài 14: Sử dụng trang phục hằng ngày",
    "content": "",
    "periodLabel": "Tiết 59 (1 tiết)",
@@ -1394,21 +1064,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-060",
    "semester": 2,
    "week": 20,
-   "theme": "CHỦ ĐỀ 5 EM QUÝ TRỌNG BẢN THÂN",
-   "title": "Sinh hoạt sao: Sơ kết tuần, lập kế hoạch tuần tới",
+   "theme": "CHỦ ĐỀ 5: EM QUÝ TRỌNG BẢN THÂN",
+   "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 60 (1 tiết)",
    "periodFrom": 60,
@@ -1416,26 +1080,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-061",
    "semester": 2,
    "week": 21,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
-   "title": "Sinh hoạt dưới cờ: Ủng hộ \" Tết yêu thương\"",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
+   "title": "Sinh hoạt dưới cờ: Ủng hộ \"Tết yêu thương\"",
    "content": "",
    "periodLabel": "Tiết 61 (1 tiết)",
    "periodFrom": 61,
@@ -1450,8 +1103,8 @@
    "id": "l1-hoat-dong-trai-nghiem-062",
    "semester": 2,
    "week": 21,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
-   "title": "Bài 15: Sắp xếp nhà cửa gọn gàng đón Tết ( Tiết 1)",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
+   "title": "Bài 15: Sắp xếp nhà cửa gọn gàng đón Tết (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 62 (1 tiết)",
    "periodFrom": 62,
@@ -1466,7 +1119,7 @@
    "id": "l1-hoat-dong-trai-nghiem-063",
    "semester": 2,
    "week": 21,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 63 (1 tiết)",
@@ -1475,25 +1128,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-064",
    "semester": 2,
    "week": 22,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
    "title": "Sinh hoạt dưới cờ: Hội chợ xuân",
    "content": "",
    "periodLabel": "Tiết 64 (1 tiết)",
@@ -1509,8 +1151,8 @@
    "id": "l1-hoat-dong-trai-nghiem-065",
    "semester": 2,
    "week": 22,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
-   "title": "Bài 15: Sắp xếp nhà cửa gọn gàng đón Tết ( Tiết 2)",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
+   "title": "Bài 15: Sắp xếp nhà cửa gọn gàng đón Tết (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 65 (1 tiết)",
    "periodFrom": 65,
@@ -1525,7 +1167,7 @@
    "id": "l1-hoat-dong-trai-nghiem-066",
    "semester": 2,
    "week": 22,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 66 (1 tiết)",
@@ -1534,25 +1176,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-067",
    "semester": 2,
    "week": 23,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
    "title": "Sinh hoạt dưới cờ: Giao lưu \"Đón Tết cổ truyền dân tộc\"",
    "content": "",
    "periodLabel": "Tiết 67 (1 tiết)",
@@ -1579,7 +1210,7 @@
    "id": "l1-hoat-dong-trai-nghiem-068",
    "semester": 2,
    "week": 23,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
    "title": "Bài 16: Ứng xử khi được nhận quà ngày Tết (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
@@ -1595,7 +1226,7 @@
    "id": "l1-hoat-dong-trai-nghiem-069",
    "semester": 2,
    "week": 23,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
@@ -1604,25 +1235,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-070",
    "semester": 2,
    "week": 24,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
    "title": "Sinh hoạt dưới cờ: Vui chơi ngày Tết",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
@@ -1638,7 +1258,7 @@
    "id": "l1-hoat-dong-trai-nghiem-071",
    "semester": 2,
    "week": 24,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
    "title": "Bài 16: Ứng xử khi được nhận quà ngày Tết (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 71 (1 tiết)",
@@ -1654,7 +1274,7 @@
    "id": "l1-hoat-dong-trai-nghiem-072",
    "semester": 2,
    "week": 24,
-   "theme": "CHỦ ĐỀ 6 VUI ĐÓN MÙA XUÂN",
+   "theme": "CHỦ ĐỀ 6: VUI ĐÓN MÙA XUÂN",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 72 (1 tiết)",
@@ -1663,25 +1283,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-073",
    "semester": 2,
    "week": 25,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Sinh hoạt dưới cờ: Trò chơi sinh hoạt cộng đồng",
    "content": "",
    "periodLabel": "Tiết 73 (1 tiết)",
@@ -1695,11 +1304,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
     }
    ],
    "note": ""
@@ -1708,7 +1312,7 @@
    "id": "l1-hoat-dong-trai-nghiem-074",
    "semester": 2,
    "week": 25,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Bài 17: Hàng xóm nhà em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 74 (1 tiết)",
@@ -1718,11 +1322,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1735,7 +1334,7 @@
    "id": "l1-hoat-dong-trai-nghiem-075",
    "semester": 2,
    "week": 25,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 75 (1 tiết)",
@@ -1744,25 +1343,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-076",
    "semester": 2,
    "week": 26,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Sinh hoạt dưới cờ: Chào mừng ngày Quốc tế Phụ nữ 8-3",
    "content": "",
    "periodLabel": "Tiết 76 (1 tiết)",
@@ -1771,25 +1359,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-077",
    "semester": 2,
    "week": 26,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Bài 17: Hàng xóm nhà em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 77 (1 tiết)",
@@ -1798,25 +1375,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-078",
    "semester": 2,
    "week": 26,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 78 (1 tiết)",
@@ -1825,25 +1391,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-079",
    "semester": 2,
    "week": 27,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Sinh hoạt dưới cờ: Em làm kế hoạch nhỏ",
    "content": "",
    "periodLabel": "Tiết 79 (1 tiết)",
@@ -1852,25 +1407,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-080",
    "semester": 2,
    "week": 27,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Bài 18: Em tham gia các hoạt động xã hội (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 80 (1 tiết)",
@@ -1878,8 +1422,13 @@
    "periodTo": 80,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -1892,7 +1441,7 @@
    "id": "l1-hoat-dong-trai-nghiem-081",
    "semester": 2,
    "week": 27,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 81 (1 tiết)",
@@ -1901,26 +1450,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-082",
    "semester": 2,
    "week": 28,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
-   "title": "Sinh hoạt dưới cờ: Phong trào Tuổi nhỏ làm việc nhỏ \"Nuôi heo đất - Giúp bạn",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "title": "Sinh hoạt dưới cờ: Phong trào Tuổi nhỏ làm việc nhỏ \"Nuôi heo đất - Giúp bạn\"",
    "content": "",
    "periodLabel": "Tiết 82 (1 tiết)",
    "periodFrom": 82,
@@ -1933,11 +1471,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
     }
    ],
    "note": ""
@@ -1946,7 +1479,7 @@
    "id": "l1-hoat-dong-trai-nghiem-083",
    "semester": 2,
    "week": 28,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
    "title": "Bài 18: Em tham gia các hoạt động xã hội (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 83 (1 tiết)",
@@ -1955,26 +1488,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-084",
    "semester": 2,
    "week": 28,
-   "theme": "CHỦ ĐỀ 7 THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
-   "title": "Sinh hoạt sao: Sơ kết tuần, lập kế hoạch tuần tới",
+   "theme": "CHỦ ĐỀ 7: THAM GIA HOẠT ĐỘNG CỘNG ĐỒNG",
+   "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 84 (1 tiết)",
    "periodFrom": 84,
@@ -1982,26 +1504,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-085",
    "semester": 2,
    "week": 29,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
-   "title": "Sinh hoạt dướ cờ: Chăm sóc vườn cây nhà trường",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
+   "title": "Sinh hoạt dưới cờ: Chăm sóc vườn cây nhà trường",
    "content": "",
    "periodLabel": "Tiết 85 (1 tiết)",
    "periodFrom": 85,
@@ -2009,20 +1520,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-086",
    "semester": 2,
    "week": 29,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Bài 19: Thiên nhiên tươi đẹp quê em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 86 (1 tiết)",
@@ -2030,8 +1535,13 @@
    "periodTo": 86,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -2044,7 +1554,7 @@
    "id": "l1-hoat-dong-trai-nghiem-087",
    "semester": 2,
    "week": 29,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 87 (1 tiết)",
@@ -2053,25 +1563,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-088",
    "semester": 2,
    "week": 30,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Sinh hoạt dưới cờ: Em tập làm hướng dẫn viên du lịch",
    "content": "",
    "periodLabel": "Tiết 88 (1 tiết)",
@@ -2080,20 +1579,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-089",
    "semester": 2,
    "week": 30,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Bài 19: Thiên nhiên tươi đẹp quê em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 89 (1 tiết)",
@@ -2102,20 +1595,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-090",
    "semester": 2,
    "week": 30,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 90 (1 tiết)",
@@ -2124,25 +1611,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-091",
    "semester": 2,
    "week": 31,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Sinh hoạt dưới cờ: Hát ca ngợi cảnh đẹp quê hương",
    "content": "",
    "periodLabel": "Tiết 91 (1 tiết)",
@@ -2151,20 +1627,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-092",
    "semester": 2,
    "week": 31,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Bài 20: Em bảo vệ cảnh quan thiên nhiên (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 92 (1 tiết)",
@@ -2173,20 +1643,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-093",
    "semester": 2,
    "week": 31,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 93 (1 tiết)",
@@ -2195,25 +1659,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-094",
    "semester": 2,
    "week": 32,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Sinh hoạt dưới cờ: Ngày hội sách trường em",
    "content": "",
    "periodLabel": "Tiết 94 (1 tiết)",
@@ -2222,20 +1675,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-095",
    "semester": 2,
    "week": 32,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
    "title": "Bài 20: Em bảo vệ cảnh quan thiên nhiên (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 95 (1 tiết)",
@@ -2244,21 +1691,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-096",
    "semester": 2,
    "week": 32,
-   "theme": "CHỦ ĐỀ 8 QUÊ HƯƠNG TƯƠI ĐẸP",
-   "title": "Sinh hoạt sao: Sơ kết tuần, lập kế hoạch tuần tới",
+   "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
+   "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 96 (1 tiết)",
    "periodFrom": 96,
@@ -2266,25 +1707,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-097",
    "semester": 2,
    "week": 33,
-   "theme": "CHỦ ĐỀ 9 EM BẢO VỆ MÔI TRƯỜNG",
+   "theme": "CHỦ ĐỀ 9: EM BẢO VỆ MÔI TRƯỜNG",
    "title": "Sinh hoạt dưới cờ: Thân thiện với môi trường",
    "content": "",
    "periodLabel": "Tiết 97 (1 tiết)",
@@ -2293,20 +1723,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-098",
    "semester": 2,
    "week": 33,
-   "theme": "CHỦ ĐỀ 9 EM BẢO VỆ MÔI TRƯỜNG",
+   "theme": "CHỦ ĐỀ 9: EM BẢO VỆ MÔI TRƯỜNG",
    "title": "Bài 21: Giữ gìn môi trường sạch, đẹp (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 98 (1 tiết)",
@@ -2314,12 +1738,12 @@
    "periodTo": 98,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp giáo dục địa phương",
+   "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
+     "code": "GDĐP",
      "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+     "text": "Tích hợp giáo dục địa phương"
     }
    ],
    "note": ""
@@ -2328,7 +1752,7 @@
    "id": "l1-hoat-dong-trai-nghiem-099",
    "semester": 2,
    "week": 33,
-   "theme": "CHỦ ĐỀ 9 EM BẢO VỆ MÔI TRƯỜNG",
+   "theme": "CHỦ ĐỀ 9: EM BẢO VỆ MÔI TRƯỜNG",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 99 (1 tiết)",
@@ -2337,26 +1761,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-100",
    "semester": 2,
    "week": 34,
-   "theme": "CHỦ ĐỀ 9 EM BẢO VỆ MÔI TRƯỜNG",
-   "title": "SH dưới cờ: Mừng Sinh nhật Bác Hồ, mừng đội ta trưởng thành",
+   "theme": "CHỦ ĐỀ 9: EM BẢO VỆ MÔI TRƯỜNG",
+   "title": "Sinh hoạt dưới cờ: Mừng Sinh nhật Bác Hồ, mừng đội ta trưởng thành",
    "content": "",
    "periodLabel": "Tiết 100 (1 tiết)",
    "periodFrom": 100,
@@ -2364,20 +1777,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-101",
    "semester": 2,
    "week": 34,
-   "theme": "CHỦ ĐỀ 9 EM BẢO VỆ MÔI TRƯỜNG",
+   "theme": "CHỦ ĐỀ 9: EM BẢO VỆ MÔI TRƯỜNG",
    "title": "Bài 21: Giữ gìn môi trường sạch, đẹp (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 101 (1 tiết)",
@@ -2386,20 +1793,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-102",
    "semester": 2,
    "week": 34,
-   "theme": "CHỦ ĐỀ 9 EM BẢO VỆ MÔI TRƯỜNG",
+   "theme": "CHỦ ĐỀ 9: EM BẢO VỆ MÔI TRƯỜNG",
    "title": "Sinh hoạt lớp: Sơ kết tuần, lập kế hoạch tuần tới",
    "content": "",
    "periodLabel": "Tiết 102 (1 tiết)",
@@ -2408,25 +1809,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-103",
    "semester": 2,
    "week": 35,
-   "theme": "CHỦ ĐỀ 9 EM BẢO VỆ MÔI TRƯỜNG",
+   "theme": "CHỦ ĐỀ 9: EM BẢO VỆ MÔI TRƯỜNG",
    "title": "Sinh hoạt dưới cờ: Lễ Tổng kết năm học",
    "content": "",
    "periodLabel": "Tiết 103 (1 tiết)",
@@ -2435,25 +1825,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-104",
    "semester": 2,
    "week": 35,
-   "theme": "CHỦ ĐỀ 9 EM BẢO VỆ MÔI TRƯỜNG",
+   "theme": "CHỦ ĐỀ 9: EM BẢO VỆ MÔI TRƯỜNG",
    "title": "Bài 21: Giữ gìn môi trường sạch, đẹp (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 104 (1 tiết)",
@@ -2462,20 +1841,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-105",
    "semester": 2,
    "week": 35,
-   "theme": "CHỦ ĐỀ 9 EM BẢO VỆ MÔI TRƯỜNG",
+   "theme": "CHỦ ĐỀ 9: EM BẢO VỆ MÔI TRƯỜNG",
    "title": "Sinh hoạt lớp: Tổng kết năm học",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
@@ -2484,18 +1857,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

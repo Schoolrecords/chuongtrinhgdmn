@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 2,
  "subjectId": "tieng-viet",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Tiếng Việt lớp 2 (2026-2027).docx",
+  "file": "Lớp 2/KHDH Tiếng Việt lớp 2 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 219,
-  "integrations": 124
+  "integrations": 43
  },
  "lessons": [
   {
@@ -35,11 +35,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -89,18 +84,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -148,7 +132,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -164,18 +154,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -223,18 +202,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -282,7 +250,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -298,18 +272,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -357,18 +320,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -416,7 +368,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -432,18 +390,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -491,18 +438,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -550,7 +486,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -571,11 +513,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -625,18 +562,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -684,7 +610,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -700,18 +632,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -759,18 +680,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -818,7 +728,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -834,18 +750,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -893,18 +798,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -952,7 +846,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -968,18 +868,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1027,18 +916,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1086,7 +964,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1187,11 +1071,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1241,18 +1120,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1300,7 +1168,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1316,18 +1190,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1375,18 +1238,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1434,7 +1286,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1450,18 +1308,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1509,18 +1356,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1584,18 +1420,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1643,18 +1468,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1723,11 +1537,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1777,18 +1586,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1852,18 +1650,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1911,18 +1698,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1986,7 +1762,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2002,18 +1784,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2061,18 +1832,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2136,7 +1896,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2152,18 +1918,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2211,18 +1966,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2286,7 +2030,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2387,11 +2137,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -2425,18 +2170,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2468,7 +2202,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2484,18 +2224,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2527,18 +2256,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2570,7 +2288,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2588,11 +2312,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Liên hệ tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
@@ -2605,7 +2324,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 5: GIỌT NƯỚC VÀ BIỂN LỚN – TIẾT 3: VIẾT CHỮ HOA G; TIẾT 4: NÓI VÀ NGHE",
+   "title": "Bài 5: GIỌT NƯỚC VÀ BIỂN LỚN – TIẾT 3: VIẾT CHỮ HOA S; TIẾT 4: NÓI VÀ NGHE",
    "content": "",
    "periodLabel": "Tiết 203–204",
    "periodFrom": 203,
@@ -2629,18 +2348,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2672,7 +2380,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2688,18 +2402,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2707,7 +2410,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 7: HẠT THÓC – TIẾT 3: VIẾT CHỮ HOA G; TIẾT 4: NÓI VÀ NGHE",
+   "title": "Bài 7: HẠT THÓC – TIẾT 3: VIẾT CHỮ HOA T; TIẾT 4: NÓI VÀ NGHE",
    "content": "",
    "periodLabel": "Tiết 213–214",
    "periodFrom": 213,
@@ -2731,18 +2434,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2774,7 +2466,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2795,11 +2493,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -2833,18 +2526,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2860,7 +2542,13 @@
    "periods": 4,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2876,18 +2564,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2919,18 +2596,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2946,7 +2612,13 @@
    "periods": 4,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2962,18 +2634,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3005,18 +2666,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3032,7 +2682,13 @@
    "periods": 4,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -3049,11 +2705,6 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -3091,18 +2742,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3118,7 +2758,13 @@
    "periods": 4,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -3219,11 +2865,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3257,18 +2898,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3284,7 +2914,13 @@
    "periods": 4,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -3300,18 +2936,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3319,7 +2944,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
-   "title": "Bài 19: CẢM ƠN ANH HÀ MÃ – TIẾT 3: VIẾT - CHỮ HOA M",
+   "title": "Bài 19: CẢM ƠN ANH HÀ MÃ – TIẾT 3: VIẾT - CHỮ HOA M (kiểu 2)",
    "content": "",
    "periodLabel": "Tiết 283",
    "periodFrom": 283,
@@ -3359,18 +2984,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3418,7 +3032,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -3453,7 +3073,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ điểm: Con người Việt Nam",
-   "title": "Bài 21: MAI AN TIÊM – TIẾT 3: VIẾT - CHỮ HOA N",
+   "title": "Bài 21: MAI AN TIÊM – TIẾT 3: VIẾT - CHỮ HOA N (kiểu 2)",
    "content": "",
    "periodLabel": "Tiết 293",
    "periodFrom": 293,
@@ -3494,11 +3114,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -3552,7 +3167,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -3568,18 +3189,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3627,18 +3237,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3702,7 +3301,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -3777,18 +3382,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3836,7 +3430,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -3852,18 +3452,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3912,11 +3501,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -3970,7 +3554,13 @@
    "periods": 2,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -3986,18 +3576,7 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4045,18 +3624,7 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4120,7 +3688,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {

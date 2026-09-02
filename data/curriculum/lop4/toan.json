@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 4,
  "subjectId": "toan",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Toán lớp 4 (2026-2027).docx",
+  "file": "Lớp 4/KHDH Toán lớp 4 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -1582,7 +1582,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "",
-     "text": "Dùng công cụ số (máy tính cầm tay/bảng tính) hỗ trợ kiểm tra kết quả tính toán (có hướng dẫn)."
+     "text": "Dùng công cụ số (máy tính cầm tay/bảng tính) hỗ trợ kiểm tra kết quả tính toán (có hướng dẫn). Điều chỉnh: sử dụng làm các tiết ôn tập, củng cố kiến thức HKI vào đầu học kì II."
     }
    ],
    "note": ""
@@ -1752,7 +1752,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 8: PHÉP NHÂN VÀ PHÉP CHIA",
-   "title": "Bài 41: Nhân, chia với 10, 100, 1 000, (tiết 1)",
+   "title": "Bài 41: Nhân, chia với 10, 100, 1 000 (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 102 (2 tiết)",
    "periodFrom": 102,
@@ -1768,7 +1768,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 8: PHÉP NHÂN VÀ PHÉP CHIA",
-   "title": "Bài 41: Nhân, chia với 10, 100, 1 000, (tiết 2)",
+   "title": "Bài 41: Nhân, chia với 10, 100, 1 000 (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 103",
    "periodFrom": 103,

@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 4,
  "subjectId": "dao-duc",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Đạo đức lớp 4 (2026-2027).docx",
+  "file": "Lớp 4/KHDH Đạo đức lớp 4 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 19
+  "integrations": 12
  },
  "lessons": [
   {
@@ -273,11 +273,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN hợp tác và chia sẻ: biết cảm thông, giúp đỡ bạn và làm việc cùng nhau."
@@ -321,43 +316,38 @@
    "id": "l4-dao-duc-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 5: Bảo vệ của công",
-   "title": "Bài 05: BẢO VỆ CỦA CÔNG (Tiết 1)",
+   "theme": "Ôn tập, thực hành kĩ năng",
+   "title": "THỰC HÀNH KĨ NĂNG CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
-    }
-   ],
+   "adjustments": "Điều chỉnh: chuyển tiết thực hành cuối HKI lên tuần 17 để Bài 05 (3 tiết) học liền mạch tuần 18–20",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-dao-duc-018",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, thực hành kĩ năng",
-   "title": "THỰC HÀNH KĨ NĂNG CUỐI HỌC KÌ I",
+   "theme": "Chủ đề 5: Bảo vệ của công",
+   "title": "Bài 05: BẢO VỆ CỦA CÔNG (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodLabel": "Tiết 18 (3 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
+    }
+   ],
    "note": ""
   },
   {
@@ -367,24 +357,13 @@
    "theme": "Chủ đề 5: Bảo vệ của công",
    "title": "Bài 05: BẢO VỆ CỦA CÔNG (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 19 (2 tiết)",
+   "periodLabel": "Tiết 19",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -499,43 +478,38 @@
    "id": "l4-dao-duc-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 7: Quý trọng đồng tiền",
-   "title": "Bài 08: QUÝ TRỌNG ĐỒNG TIỀN (Tiết 1)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "THỰC HÀNH KĨ NĂNG GIỮA HỌC KÌ II",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
-    }
-   ],
+   "adjustments": "Điều chỉnh: chuyển tiết ôn tập giữa HKII lên tuần 26 để Bài 08 (4 tiết) học liền mạch tuần 27–30",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-dao-duc-027",
    "semester": 2,
    "week": 27,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP GIỮA HỌC KÌ II",
+   "theme": "Chủ đề 7: Quý trọng đồng tiền",
+   "title": "Bài 08: QUÝ TRỌNG ĐỒNG TIỀN (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 27 (1 tiết)",
+   "periodLabel": "Tiết 27 (4 tiết)",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
+    }
+   ],
    "note": ""
   },
   {
@@ -545,24 +519,13 @@
    "theme": "Chủ đề 7: Quý trọng đồng tiền",
    "title": "Bài 08: QUÝ TRỌNG ĐỒNG TIỀN (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 28 (3 tiết)",
+   "periodLabel": "Tiết 28",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": 3,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -672,7 +635,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP CUỐI HỌC KÌ II",
+   "title": "THỰC HÀNH KĨ NĂNG CUỐI NĂM HỌC",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,

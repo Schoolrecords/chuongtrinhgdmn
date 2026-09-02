@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 1,
  "subjectId": "toan",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH Toán lớp 1 (2026-2027).docx",
+  "file": "Lớp 1/KHDH Toán lớp 1 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 32
+  "integrations": 20
  },
  "lessons": [
   {
@@ -366,7 +366,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
+     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học dưới sự hướng dẫn của GV."
     }
    ],
    "note": ""
@@ -404,7 +404,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
+     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học dưới sự hướng dẫn của GV."
     }
    ],
    "note": ""
@@ -438,13 +438,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -706,13 +700,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -764,7 +752,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
+     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học dưới sự hướng dẫn của GV."
     }
    ],
    "note": ""
@@ -830,13 +818,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -855,7 +837,7 @@
    "integrations": [
     {
      "code": "NLS-GQVĐ",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
     }
    ],
@@ -890,13 +872,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -928,13 +904,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -942,7 +912,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 5: ÔN TẬP HỌC KÌ I",
-   "title": "Bài 20: Ôn tập chung",
+   "title": "Bài 20: Ôn tập chung — Kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 54 (1 tiết)",
    "periodFrom": 54,
@@ -950,13 +920,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1179,7 +1143,7 @@
    "integrations": [
     {
      "code": "NLS-ST",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Dùng thước/que tính, công cụ đo đơn giản và ghi lại kết quả đo (GV hướng dẫn)."
     }
    ],
@@ -1217,7 +1181,7 @@
    "integrations": [
     {
      "code": "NLS-ST",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Dùng thước/que tính, công cụ đo đơn giản và ghi lại kết quả đo (GV hướng dẫn)."
     }
    ],
@@ -1255,7 +1219,7 @@
    "integrations": [
     {
      "code": "NLS-ST",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Dùng thước/que tính, công cụ đo đơn giản và ghi lại kết quả đo (GV hướng dẫn)."
     }
    ],
@@ -1290,13 +1254,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1488,13 +1446,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1561,7 +1513,7 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Quan sát đồng hồ/lịch (vật thật hoặc hình ảnh số) để khai thác thông tin thời gian (GV hướng dẫn)."
     },
     {
@@ -1604,7 +1556,7 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Quan sát đồng hồ/lịch (vật thật hoặc hình ảnh số) để khai thác thông tin thời gian (GV hướng dẫn)."
     },
     {
@@ -1647,7 +1599,7 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Quan sát đồng hồ/lịch (vật thật hoặc hình ảnh số) để khai thác thông tin thời gian (GV hướng dẫn)."
     },
     {
@@ -1689,11 +1641,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
@@ -1733,7 +1680,7 @@
    "integrations": [
     {
      "code": "NLS-GQVĐ",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
     }
    ],
@@ -1784,13 +1731,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1838,13 +1779,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1868,7 +1803,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Chủ đề 10: ÔN TẬP CUỐI NĂM",
-   "title": "Bài 41: Ôn tập chung",
+   "title": "Bài 41: Ôn tập chung — Kiểm tra định kì cuối năm học",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
    "periodFrom": 105,
@@ -1876,13 +1811,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

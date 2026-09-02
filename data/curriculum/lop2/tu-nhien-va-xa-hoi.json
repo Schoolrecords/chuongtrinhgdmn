@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 2,
  "subjectId": "tu-nhien-va-xa-hoi",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Tự nhiên và Xã hội lớp 2 (2026-2027).docx",
+  "file": "Lớp 2/KHDH Tự nhiên và Xã hội lớp 2 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 53
+  "integrations": 27
  },
  "lessons": [
   {
@@ -197,18 +197,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "ảnh và thông tin gia đình là dữ liệu riêng — chỉ chia sẻ khi bố mẹ đồng ý."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -301,11 +290,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
@@ -387,11 +371,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
@@ -414,11 +393,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
@@ -439,18 +413,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -541,18 +504,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -611,18 +563,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -654,18 +595,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -681,18 +611,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -754,7 +673,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 4: Thực vật và động vật",
-   "title": "Bài 17: ĐỘNG VẬT SỐNG Ở ĐÂU? BÀI HỌC STEM: NƠI SỐNG CỦA ĐỘNG VẬT (Tiết 1)",
+   "title": "Bài 17: ĐỘNG VẬT SỐNG Ở ĐÂU? (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 35 (2 tiết)",
    "periodFrom": 35,
@@ -766,7 +685,12 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
+     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng. Tích hợp bài học"
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Nơi sống của động vật."
     }
    ],
    "note": ""
@@ -776,7 +700,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 4: Thực vật và động vật",
-   "title": "Bài 17: ĐỘNG VẬT SỐNG Ở ĐÂU? BÀI HỌC STEM: NƠI SỐNG CỦA ĐỘNG VẬT (Tiết 2)",
+   "title": "Bài 17: ĐỘNG VẬT SỐNG Ở ĐÂU? (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 36",
    "periodFrom": 36,
@@ -859,13 +783,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -913,13 +831,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1005,13 +917,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1043,13 +949,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1081,13 +981,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1119,13 +1013,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1157,13 +1045,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1179,13 +1061,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1201,13 +1077,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1336,18 +1206,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1355,7 +1214,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 6: Trái Đất và bầu trời",
-   "title": "Bài 30: LUYỆN TẬP ỨNG PHÓ VỚI THIÊN TAI (Tiết 2+3)",
+   "title": "Bài 30: LUYỆN TẬP ỨNG PHÓ VỚI THIÊN TAI (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 66",
    "periodFrom": 66,
@@ -1371,7 +1230,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề 6: Trái Đất và bầu trời",
-   "title": "Bài 30: LUYỆN TẬP ỨNG PHÓ VỚI THIÊN TAI (Tiết 2+3)",
+   "title": "Bài 30: LUYỆN TẬP ỨNG PHÓ VỚI THIÊN TAI (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 67",
    "periodFrom": 67,
@@ -1395,13 +1254,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {

@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 1,
  "subjectId": "tieng-viet",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH Tiếng Việt lớp 1 (2026-2027).docx",
+  "file": "Lớp 1/KHDH Tiếng Việt lớp 1 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 122,
-  "integrations": 75
+  "integrations": 17
  },
  "lessons": [
   {
@@ -100,11 +100,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -189,7 +184,7 @@
    "integrations": [
     {
      "code": "NLS-GT",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
     },
     {
@@ -293,18 +288,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -400,18 +384,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -507,18 +480,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -614,18 +576,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -727,18 +678,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -837,7 +777,7 @@
    "integrations": [
     {
      "code": "NLS-GT",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
     },
     {
@@ -941,18 +881,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1048,18 +977,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1155,18 +1073,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1262,18 +1169,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1369,18 +1265,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1476,18 +1361,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1583,18 +1457,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1690,18 +1553,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1797,18 +1649,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1875,7 +1716,7 @@
    "integrations": [
     {
      "code": "NLS-GQVĐ",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Hệ thống hoá âm – vần đã học qua trò chơi/sơ đồ (GV hỗ trợ)."
     }
    ],
@@ -1913,7 +1754,7 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
     },
     {
@@ -1940,7 +1781,7 @@
    "integrations": [
     {
      "code": "NLS-GT",
-     "level": "",
+     "level": "Cơ bản 1",
      "text": "Trao đổi, chia sẻ cảm nhận về bài đọc; kể lại theo tranh (GV hỗ trợ)."
     },
     {
@@ -1964,18 +1805,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1991,18 +1821,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trao đổi, chia sẻ cảm nhận về bài đọc; kể lại theo tranh (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2018,18 +1837,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2045,18 +1853,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trao đổi, chia sẻ cảm nhận về bài đọc; kể lại theo tranh (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2072,18 +1869,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2099,18 +1885,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trao đổi, chia sẻ cảm nhận về bài đọc; kể lại theo tranh (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2126,18 +1901,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2153,18 +1917,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trao đổi, chia sẻ cảm nhận về bài đọc; kể lại theo tranh (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2181,11 +1934,6 @@
    "lessonPeriods": 12,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2207,18 +1955,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trao đổi, chia sẻ cảm nhận về bài đọc; kể lại theo tranh (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2234,18 +1971,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2261,18 +1987,7 @@
    "periods": 12,
    "lessonPeriods": 12,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trao đổi, chia sẻ cảm nhận về bài đọc; kể lại theo tranh (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2289,11 +2004,6 @@
    "lessonPeriods": 12,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2317,11 +2027,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trao đổi, chia sẻ cảm nhận về bài đọc; kể lại theo tranh (GV hỗ trợ)."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
@@ -2342,18 +2047,7 @@
    "periods": 6,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Hệ thống hoá kiến thức qua trò chơi/phần mềm luyện tập đơn giản (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2369,18 +2063,7 @@
    "periods": 6,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

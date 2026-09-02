@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 3,
  "subjectId": "tin-hoc",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Tin học lớp 3 (2026-2027).docx",
+  "file": "Lớp 3/KHDH Tin học lớp 3 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 15
+  "integrations": 7
  },
  "lessons": [
   {
@@ -52,13 +52,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -74,13 +68,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -96,13 +84,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -118,13 +100,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -140,13 +116,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -162,13 +132,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -184,13 +148,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -206,13 +164,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -227,8 +179,14 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+    }
+   ],
    "note": ""
   },
   {
@@ -243,7 +201,7 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -259,8 +217,14 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+    }
+   ],
    "note": ""
   },
   {
@@ -275,7 +239,7 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -291,8 +255,14 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+    }
+   ],
    "note": ""
   },
   {
@@ -307,7 +277,7 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -323,7 +293,7 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -339,7 +309,7 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -348,7 +318,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập / Kiểm tra, đánh giá (theo phân phối chương trình)",
+   "title": "Ôn tập và kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -371,7 +341,7 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -387,7 +357,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -403,8 +373,14 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+    }
+   ],
    "note": ""
   },
   {
@@ -419,7 +395,7 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -435,8 +411,14 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+    }
+   ],
    "note": ""
   },
   {
@@ -451,7 +433,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -467,9 +449,9 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
-   "note": ""
+   "note": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3."
   },
   {
    "id": "l3-tin-hoc-026",
@@ -483,16 +465,16 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-ƯD (Cơ bản 1): HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn.",
+   "adjustments": "",
    "integrations": [],
-   "note": ""
+   "note": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3."
   },
   {
    "id": "l3-tin-hoc-027",
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập / Kiểm tra, đánh giá (theo phân phối chương trình)",
+   "title": "Ôn tập",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -538,13 +520,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -560,13 +536,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -582,13 +552,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -604,13 +568,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -626,13 +584,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-NB",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -640,7 +592,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập / Kiểm tra, đánh giá (theo phân phối chương trình)",
+   "title": "Ôn tập cuối năm",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -656,7 +608,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập / Kiểm tra, đánh giá (theo phân phối chương trình)",
+   "title": "Kiểm tra định kì cuối năm học",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,

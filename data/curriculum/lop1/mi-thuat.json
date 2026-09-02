@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 1,
  "subjectId": "mi-thuat",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH Mĩ thuật lớp 1 (2026-2027).docx",
+  "file": "Lớp 1/KHDH Mĩ thuật lớp 1 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,14 +14,14 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 38
+  "integrations": 5
  },
  "lessons": [
   {
    "id": "l1-mi-thuat-001",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề 1: Mĩ thuật trong nhà trường (Tiết 1)",
+   "theme": "Chủ đề 1: Mĩ thuật trong nhà trường",
    "title": "Chủ đề 1: Mĩ thuật trong nhà trường (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (1 tiết)",
@@ -43,7 +43,7 @@
    "id": "l1-mi-thuat-002",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề 1: Mĩ thuật trong nhà trường (Tiết 2)",
+   "theme": "Chủ đề 1: Mĩ thuật trong nhà trường",
    "title": "Chủ đề 1: Mĩ thuật trong nhà trường (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2 (1 tiết)",
@@ -52,20 +52,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-003",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 1)",
+   "theme": "Chủ đề 2: Sáng tạo từ những chấm màu",
    "title": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (1 tiết)",
@@ -74,20 +68,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-004",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 2)",
+   "theme": "Chủ đề 2: Sáng tạo từ những chấm màu",
    "title": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4 (1 tiết)",
@@ -96,20 +84,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-005",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 3)",
+   "theme": "Chủ đề 2: Sáng tạo từ những chấm màu",
    "title": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 5 (1 tiết)",
@@ -118,20 +100,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-006",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 3: Nét vẽ của em (Tiết 1)",
+   "theme": "Chủ đề 3: Nét vẽ của em",
    "title": "Chủ đề 3: Nét vẽ của em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 6 (1 tiết)",
@@ -140,20 +116,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-007",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề 3: Nét vẽ của em (Tiết 2)",
+   "theme": "Chủ đề 3: Nét vẽ của em",
    "title": "Chủ đề 3: Nét vẽ của em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
@@ -162,20 +132,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-008",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề 3: Nét vẽ của em (Tiết 3)",
+   "theme": "Chủ đề 3: Nét vẽ của em",
    "title": "Chủ đề 3: Nét vẽ của em (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 8 (1 tiết)",
@@ -184,20 +148,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-009",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 1)",
+   "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản",
    "title": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 9 (1 tiết)",
@@ -206,20 +164,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-010",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 2)",
+   "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản",
    "title": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
@@ -228,20 +180,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-011",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 3)",
+   "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản",
    "title": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 11 (1 tiết)",
@@ -250,20 +196,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-012",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 4)",
+   "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản",
    "title": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 12 (1 tiết)",
@@ -272,20 +212,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-013",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 1)",
+   "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật",
    "title": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 13 (1 tiết)",
@@ -294,20 +228,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-014",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 2)",
+   "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật",
    "title": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 14 (1 tiết)",
@@ -316,20 +244,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-015",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 3)",
+   "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật",
    "title": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 15 (1 tiết)",
@@ -338,20 +260,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-016",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 4)",
+   "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật",
    "title": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
@@ -360,20 +276,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 1)",
+   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản",
    "title": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
@@ -382,20 +292,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-018",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 2)",
+   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản",
    "title": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
@@ -404,20 +308,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-019",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 3)",
+   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản",
    "title": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
@@ -426,20 +324,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-020",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 4)",
+   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản",
    "title": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
@@ -448,20 +340,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề 7: Hoa, quả (Tiết 1)",
+   "theme": "Chủ đề 7: Hoa, quả",
    "title": "Chủ đề 7: Hoa, quả (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
@@ -470,20 +356,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-022",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề 7: Hoa, quả (Tiết 2)",
+   "theme": "Chủ đề 7: Hoa, quả",
    "title": "Chủ đề 7: Hoa, quả (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
@@ -492,20 +372,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-023",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề 7: Hoa, quả (Tiết 3)",
+   "theme": "Chủ đề 7: Hoa, quả",
    "title": "Chủ đề 7: Hoa, quả (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
@@ -514,20 +388,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-024",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 7: Hoa, quả (Tiết 4)",
+   "theme": "Chủ đề 7: Hoa, quả",
    "title": "Chủ đề 7: Hoa, quả (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
@@ -536,20 +404,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-025",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề 8: Người thân của em (Tiết 1)",
+   "theme": "Chủ đề 8: Người thân của em",
    "title": "Chủ đề 8: Người thân của em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
@@ -576,7 +438,7 @@
    "id": "l1-mi-thuat-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 8: Người thân của em (Tiết 2)",
+   "theme": "Chủ đề 8: Người thân của em",
    "title": "Chủ đề 8: Người thân của em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
@@ -585,25 +447,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 8: Người thân của em (Tiết 3)",
+   "theme": "Chủ đề 8: Người thân của em",
    "title": "Chủ đề 8: Người thân của em (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
@@ -612,25 +463,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-028",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 8: Người thân của em (Tiết 4)",
+   "theme": "Chủ đề 8: Người thân của em",
    "title": "Chủ đề 8: Người thân của em (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
@@ -639,25 +479,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-029",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 1)",
+   "theme": "Chủ đề 9: Em là học sinh lớp 1",
    "title": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
@@ -673,7 +502,7 @@
    "id": "l1-mi-thuat-030",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 2)",
+   "theme": "Chủ đề 9: Em là học sinh lớp 1",
    "title": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
@@ -689,7 +518,7 @@
    "id": "l1-mi-thuat-031",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 3)",
+   "theme": "Chủ đề 9: Em là học sinh lớp 1",
    "title": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
@@ -705,7 +534,7 @@
    "id": "l1-mi-thuat-032",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 4)",
+   "theme": "Chủ đề 9: Em là học sinh lớp 1",
    "title": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
@@ -721,7 +550,7 @@
    "id": "l1-mi-thuat-033",
    "semester": 2,
    "week": 33,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Trưng bày sản phẩm cuối năm (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
@@ -734,7 +563,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+     "text": "chụp lại sản phẩm để trưng bày dưới sự hướng dẫn của GV."
     },
     {
      "code": "KNS",
@@ -748,7 +577,7 @@
    "id": "l1-mi-thuat-034",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Trưng bày sản phẩm cuối năm (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
@@ -757,25 +586,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-035",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Trưng bày sản phẩm cuối năm (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -784,18 +602,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

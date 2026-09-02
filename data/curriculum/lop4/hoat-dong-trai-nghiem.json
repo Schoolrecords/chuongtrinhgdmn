@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 4,
  "subjectId": "hoat-dong-trai-nghiem",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH HĐTN lớp 4 (2026-2027).docx",
+  "file": "Lớp 4/KHDH HĐTN lớp 4 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 104
+  "integrations": 64
  },
  "lessons": [
   {
@@ -174,7 +174,7 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề: NHẬN DIỆN BẢN THÂN",
-   "title": "Sinh hoạt dưới cờ: GIAO LƯU TÀI NĂNG HỌC TRÒ VỚI CHỦ ĐỀ :”NỤ CƯỜI LAN TỎA NIỀM VUI”",
+   "title": "Sinh hoạt dưới cờ: GIAO LƯU TÀI NĂNG HỌC TRÒ VỚI CHỦ ĐỀ “NỤ CƯỜI LAN TỎA NIỀM VUI”",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
    "periodFrom": 7,
@@ -250,7 +250,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề: NHẬN DIỆN BẢN THÂN",
-   "title": "Sinh hoạt dưới cờ: NGÀY HỘI :”CÙNG LÀM CÙNG VUI”",
+   "title": "Sinh hoạt dưới cờ: NGÀY HỘI “CÙNG LÀM CÙNG VUI”",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -321,7 +321,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề: NHẬN DIỆN BẢN THÂN",
-   "title": "Sinh hoạt dưới cờ: TRUNG THU CỦA EM”",
+   "title": "Sinh hoạt dưới cờ: “TRUNG THU CỦA EM”",
    "content": "",
    "periodLabel": "Tiết 13 (1 tiết)",
    "periodFrom": 13,
@@ -375,7 +375,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề: NẾP SỐNG VÀ TƯ DUY KHOA HỌC",
-   "title": "Sinh hoạt dưới cờ: CUỘC PHIÊU LƯU CỦA SÁCH BÚT”",
+   "title": "Sinh hoạt dưới cờ: “CUỘC PHIÊU LƯU CỦA SÁCH BÚT”",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -423,7 +423,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề: NẾP SỐNG VÀ TƯ DUY KHOA HỌC",
-   "title": "Sinh hoạt dưới cờ: HỘI CHỢ ĐỒ TÁI CHẾ”",
+   "title": "Sinh hoạt dưới cờ: “HỘI CHỢ ĐỒ TÁI CHẾ”",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
@@ -471,7 +471,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề: NẾP SỐNG VÀ TƯ DUY KHOA HỌC",
-   "title": "Sinh hoạt dưới cờ: NGÀY HỘI STEM”",
+   "title": "Sinh hoạt dưới cờ: “NGÀY HỘI STEM”",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -519,7 +519,7 @@
    "semester": 1,
    "week": 9,
    "theme": "Chủ đề: NẾP SỐNG VÀ TƯ DUY KHOA HỌC",
-   "title": "Sinh hoạt dưới cờ: GÓC ĐỌC XANH”",
+   "title": "Sinh hoạt dưới cờ: “GÓC ĐỌC XANH”",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
    "periodFrom": 25,
@@ -567,7 +567,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề: YÊU TRƯỜNG, MẾN LỚP",
-   "title": "Sinh hoạt dưới cờ: MÁI TRƯỜNG THÂN YÊU”",
+   "title": "Sinh hoạt dưới cờ: “MÁI TRƯỜNG THÂN YÊU”",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -615,7 +615,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề: YÊU TRƯỜNG, MẾN LỚP",
-   "title": "Sinh hoạt dưới cờ: ĐỘI VIÊN CÙNG TIẾN”",
+   "title": "Sinh hoạt dưới cờ: “ĐỘI VIÊN CÙNG TIẾN”",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
    "periodFrom": 31,
@@ -675,7 +675,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề: YÊU TRƯỜNG, MẾN LỚP",
-   "title": "Sinh hoạt dưới cờ: CHÀO MỪNG NGÀY NHÀ GIÁO VIỆT NAM 20-11”",
+   "title": "Sinh hoạt dưới cờ: “CHÀO MỪNG NGÀY NHÀ GIÁO VIỆT NAM 20-11”",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -723,7 +723,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề: YÊU TRƯỜNG, MẾN LỚP",
-   "title": "Sinh hoạt dưới cờ: TỰ HỌC TỰ LÀM”",
+   "title": "Sinh hoạt dưới cờ: “TỰ HỌC TỰ LÀM”",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
    "periodFrom": 37,
@@ -771,7 +771,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề: TỰ LỰC THỰC HIỆN NHIỆM VỤ",
-   "title": "Sinh hoạt dưới cờ: KẾ HOẠCH HOẠT ĐỘNG TẠI THƯ VIỆN”",
+   "title": "Sinh hoạt dưới cờ: “KẾ HOẠCH HOẠT ĐỘNG TẠI THƯ VIỆN”",
    "content": "",
    "periodLabel": "Tiết 40 (1 tiết)",
    "periodFrom": 40,
@@ -831,7 +831,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề: TỰ LỰC THỰC HIỆN NHIỆM VỤ",
-   "title": "Sinh hoạt dưới cờ: CHÀO MỪNG NGÀY THÀNH LẬP QUÂN ĐỘI NHÂN DÂN 22-12”",
+   "title": "Sinh hoạt dưới cờ: “CHÀO MỪNG NGÀY THÀNH LẬP QUÂN ĐỘI NHÂN DÂN 22-12”",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
    "periodFrom": 43,
@@ -1067,7 +1067,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề: MÁI ẤM GIA ĐÌNH",
-   "title": "SHL: LỤA CHON CHI TIÊU”CẦN,MUỐN VÀ CÓ THỂ”",
+   "title": "SHL: LỰA CHỌN CHI TIÊU “CẦN, MUỐN VÀ CÓ THỂ”",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
    "periodFrom": 57,
@@ -1163,11 +1163,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
@@ -1189,11 +1184,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1217,11 +1207,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
@@ -1243,11 +1228,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1271,11 +1251,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
@@ -1298,11 +1273,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
@@ -1324,11 +1294,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1355,11 +1320,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
     }
    ],
    "note": ""
@@ -1382,11 +1342,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 2",
      "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
     }
    ],
    "note": ""
@@ -1405,11 +1360,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1433,11 +1383,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
@@ -1459,11 +1404,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1490,11 +1430,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -1517,11 +1452,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -1571,11 +1501,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -1594,11 +1519,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1625,11 +1545,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -1652,11 +1567,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -1679,11 +1589,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -1702,11 +1607,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1728,13 +1628,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1772,13 +1666,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1794,13 +1682,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1816,13 +1698,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1830,7 +1706,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề: QUÊ HƯƠNG EM TƯƠI ĐẸP",
-   "title": "Sinh hoạt dưới cờ: CHUNG TAY BẢO VỆ CẢNH QUAN ĐIA PHƯƠNG",
+   "title": "Sinh hoạt dưới cờ: CHUNG TAY BẢO VỆ CẢNH QUAN ĐỊA PHƯƠNG",
    "content": "",
    "periodLabel": "Tiết 88 (1 tiết)",
    "periodFrom": 88,
@@ -1838,13 +1714,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1860,13 +1730,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1882,13 +1746,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1896,7 +1754,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề: QUÊ HƯƠNG EM TƯƠI ĐẸP",
-   "title": "Sinh hoạt dưới cờ: NGÀY HÔI SỐNG XANH- BẢO VỆ MÔI TRƯỜNG",
+   "title": "Sinh hoạt dưới cờ: NGÀY HỘI SỐNG XANH – BẢO VỆ MÔI TRƯỜNG",
    "content": "",
    "periodLabel": "Tiết 91 (1 tiết)",
    "periodFrom": 91,
@@ -1904,13 +1762,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1926,13 +1778,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1949,11 +1795,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1980,11 +1821,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -2007,11 +1843,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -2031,11 +1862,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
@@ -2048,7 +1874,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề: TRẢI NGHIỆM NGHỀ TRUYỀN THỐNG",
-   "title": "Sinh hoạt dưới cờ: NGÀY HỘI NGHỀ NHÂN TƯƠNG LAI",
+   "title": "Sinh hoạt dưới cờ: NGÀY HỘI NGHỆ NHÂN TƯƠNG LAI",
    "content": "",
    "periodLabel": "Tiết 97 (1 tiết)",
    "periodFrom": 97,
@@ -2061,11 +1887,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -2088,11 +1909,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -2102,7 +1918,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề: TRẢI NGHIỆM NGHỀ TRUYỀN THỐNG",
-   "title": "SHL: SẢN PHẨM TRUYỂN THỐNG Ở ĐỊA PHƯƠNG",
+   "title": "SHL: SẢN PHẨM TRUYỀN THỐNG Ở ĐỊA PHƯƠNG",
    "content": "",
    "periodLabel": "Tiết 99 (1 tiết)",
    "periodFrom": 99,
@@ -2115,11 +1931,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -2138,11 +1949,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2178,7 +1984,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề: THEO DẤU NGHỆ NHÂN",
-   "title": "SHL: CẢM XÚC VÀ NIỀM TỰ HÀO VỀ LÀNG NGHỀ TRUYỀN THÔNG",
+   "title": "SHL: CẢM XÚC VÀ NIỀM TỰ HÀO VỀ LÀNG NGHỀ TRUYỀN THỐNG",
    "content": "",
    "periodLabel": "Tiết 102 (1 tiết)",
    "periodFrom": 102,
@@ -2191,11 +1997,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 2",
      "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -2231,8 +2032,8 @@
    "id": "l4-hoat-dong-trai-nghiem-104",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: TRẢI NGHIỆM NGHỀ TRUYỀN THỐNG",
-   "title": "HĐGD chủ đề: TRẢI NGHIỆM NGHỀ TRUYỀN THỐNG",
+   "theme": "Chủ đề: THEO DẤU NGHỆ NHÂN",
+   "title": "HĐGD chủ đề: THEO DẤU NGHỆ NHÂN",
    "content": "",
    "periodLabel": "Tiết 104 (1 tiết)",
    "periodFrom": 104,
@@ -2245,11 +2046,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -2258,7 +2054,7 @@
    "id": "l4-hoat-dong-trai-nghiem-105",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: TRẢI NGHIỆM NGHỀ TRUYỀN THỐNG",
+   "theme": "Chủ đề: THEO DẤU NGHỆ NHÂN",
    "title": "SHL: CHIA SẺ YÊU THƯƠNG",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
@@ -2272,11 +2068,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""

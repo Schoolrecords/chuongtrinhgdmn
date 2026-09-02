@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 2,
  "subjectId": "mi-thuat",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Mĩ thuật lớp 2 (2026-2027).docx",
+  "file": "Lớp 2/KHDH Mĩ thuật lớp 2 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 48
+  "integrations": 35
  },
  "lessons": [
   {
@@ -123,13 +123,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -358,13 +352,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -380,13 +368,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -394,14 +376,14 @@
    "semester": 1,
    "week": 17,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "KIỂM TRA, ĐÁNH GIÁ CUỐI HỌC KÌ I",
+   "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Tổ chuyên môn cân nhắc chuyển tiết đánh giá sang tuần 18",
    "integrations": [],
    "note": ""
   },
@@ -489,18 +471,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -538,13 +509,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -587,18 +552,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -642,11 +596,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -697,11 +646,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
@@ -744,13 +688,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -793,18 +731,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -812,7 +739,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "KIỂM TRA, ĐÁNH GIÁ CUỐI NĂM",
+   "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI NĂM",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,

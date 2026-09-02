@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 5,
  "subjectId": "ngoai-ngu-1",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH Tiếng Anh lớp 5 (2026-2027).docx",
+  "file": "Lớp 5/KHDH Tiếng Anh lớp 5 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 237
+  "integrations": 130
  },
  "lessons": [
   {
@@ -29,8 +29,13 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "NLS-KT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "Hướng dẫn HS dùng học liệu/audio trực tuyến dưới sự kiểm soát của GV; không chia sẻ tài khoản/thông tin cá nhân."
+    },
     {
      "code": "NLS-AT",
      "level": "",
@@ -442,11 +447,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -469,11 +469,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -496,11 +491,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -523,11 +513,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -545,13 +530,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -572,11 +551,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -599,11 +573,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -626,11 +595,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -653,11 +617,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -680,11 +639,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -702,13 +656,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -729,11 +677,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -756,11 +699,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -783,11 +721,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -810,11 +743,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -837,11 +765,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -859,13 +782,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -886,11 +803,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -979,11 +891,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1006,11 +913,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1033,11 +935,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1060,11 +957,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1082,13 +974,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1109,11 +995,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1136,11 +1017,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1163,11 +1039,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1190,11 +1061,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1217,11 +1083,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1239,13 +1100,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1266,11 +1121,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1293,11 +1143,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1320,11 +1165,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1347,11 +1187,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1374,11 +1209,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1396,13 +1226,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1423,11 +1247,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1450,11 +1269,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1477,11 +1291,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1504,11 +1313,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1531,11 +1335,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1553,13 +1352,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1580,11 +1373,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1607,11 +1395,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1634,11 +1417,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1661,11 +1439,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1688,11 +1461,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1710,13 +1478,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1737,11 +1499,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1862,11 +1619,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1889,11 +1641,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1916,11 +1663,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1943,11 +1685,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1965,13 +1702,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1992,11 +1723,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2019,11 +1745,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2046,11 +1767,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2073,11 +1789,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2100,11 +1811,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2122,13 +1828,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2149,11 +1849,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2176,11 +1871,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2203,11 +1893,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2230,11 +1915,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2257,11 +1937,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2279,13 +1954,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2306,11 +1975,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2333,11 +1997,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2360,11 +2019,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2387,11 +2041,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2414,11 +2063,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2436,13 +2080,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2463,11 +2101,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2490,11 +2123,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2517,11 +2145,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2544,11 +2167,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2571,11 +2189,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2593,13 +2206,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2620,11 +2227,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2713,11 +2315,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2740,11 +2337,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2767,11 +2359,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2794,11 +2381,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2816,13 +2398,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2843,11 +2419,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2870,11 +2441,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2897,11 +2463,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2924,11 +2485,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2951,11 +2507,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2973,13 +2524,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3000,11 +2545,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3027,11 +2567,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3054,11 +2589,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3081,11 +2611,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3108,11 +2633,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3130,13 +2650,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3157,11 +2671,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3184,11 +2693,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3211,11 +2715,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3238,11 +2737,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3265,11 +2759,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3287,13 +2776,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3314,11 +2797,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3341,11 +2819,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3368,11 +2841,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3395,11 +2863,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3422,11 +2885,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -3444,13 +2902,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3471,11 +2923,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""

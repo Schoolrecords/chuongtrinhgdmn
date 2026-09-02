@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 4,
  "subjectId": "tieng-viet",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Tiếng Việt lớp 4 (2026-2027).docx",
+  "file": "Lớp 4/KHDH Tiếng Việt lớp 4 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 194,
-  "integrations": 141
+  "integrations": 74
  },
  "lessons": [
   {
@@ -469,7 +469,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm 1: Mỗi người một vẻ",
-   "title": "Đọc mở rộng: Đọc câu chuyện vể những người có năng khiếu nổi bật",
+   "title": "Đọc mở rộng: Đọc câu chuyện về những người có năng khiếu nổi bật",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -683,11 +683,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -700,7 +695,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm 2: Trải nghiệm và khám phá",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 42 (1 tiết)",
    "periodFrom": 42,
@@ -815,13 +810,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -920,7 +909,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm 2: Trải nghiệm và khám phá",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
    "periodFrom": 56,
@@ -928,18 +917,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -947,7 +925,7 @@
    "semester": 1,
    "week": 9,
    "theme": "Ôn tập, đánh giá giữa học kì I",
-   "title": "Ôn tập và đánh giá\nÔn tập: Ôn tập, củng cố kiến thức và kĩ năng đã học",
+   "title": "Ôn tập: Ôn tập, củng cố kiến thức và kĩ năng đã học",
    "content": "",
    "periodLabel": "Tiết 57–61 (5 tiết)",
    "periodFrom": 57,
@@ -1021,11 +999,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -1078,13 +1051,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1177,11 +1144,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -1194,7 +1156,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm 3: Niềm vui sáng tạo",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 77 (1 tiết)",
    "periodFrom": 77,
@@ -1202,18 +1164,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1237,7 +1188,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm 3: Niềm vui sáng tạo",
-   "title": "Luyện từ và câu: tính từ",
+   "title": "Luyện từ và câu: Tính từ",
    "content": "",
    "periodLabel": "Tiết 79 (1 tiết)",
    "periodFrom": 79,
@@ -1315,13 +1266,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1415,7 +1360,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm 3: Niềm vui sáng tạo",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 91 (1 tiết)",
    "periodFrom": 91,
@@ -1423,18 +1368,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1483,11 +1417,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1541,13 +1470,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1596,11 +1519,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1654,18 +1572,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1764,7 +1671,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm 4: Chắp cánh ước mơ",
-   "title": "Nói và nghe: Kể chuyện: đôi cánh của ngựa trắng",
+   "title": "Nói và nghe: Kể chuyện: Đôi cánh của ngựa trắng",
    "content": "",
    "periodLabel": "Tiết 112 (1 tiết)",
    "periodFrom": 112,
@@ -1773,11 +1680,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1832,11 +1734,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1893,7 +1790,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm 4: Chắp cánh ước mơ",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 119 (1 tiết)",
    "periodFrom": 119,
@@ -1901,18 +1798,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1920,7 +1806,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, đánh giá cuối học kì I",
-   "title": "Ôn tập và đánh giá\nÔn tập: Ôn tập, củng cố kiến thức và kĩ năng đã học",
+   "title": "Ôn tập: Ôn tập, củng cố kiến thức và kĩ năng đã học",
    "content": "",
    "periodLabel": "Tiết 120–124 (5 tiết)",
    "periodFrom": 120,
@@ -1994,11 +1880,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -2051,13 +1932,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2156,7 +2031,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm 5: Sống để yêu thương",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 140 (1 tiết)",
    "periodFrom": 140,
@@ -2164,18 +2039,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2268,11 +2132,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -2294,11 +2153,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2398,7 +2252,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm 5: Sống để yêu thương",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 154 (1 tiết)",
    "periodFrom": 154,
@@ -2406,18 +2260,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2530,13 +2373,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2635,7 +2472,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ điểm 6: Uống nước nhớ nguồn",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 168 (1 tiết)",
    "periodFrom": 168,
@@ -2643,18 +2480,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2703,11 +2529,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2762,11 +2583,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2877,7 +2693,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ điểm 6: Uống nước nhớ nguồn",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 182 (1 tiết)",
    "periodFrom": 182,
@@ -2885,18 +2701,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2904,7 +2709,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập, đánh giá giữa học kì II",
-   "title": "Ôn tập và đánh giá\nÔn tập: Ôn tập, củng cố kiến thức và kĩ năng đã học",
+   "title": "Ôn tập: Ôn tập, củng cố kiến thức và kĩ năng đã học",
    "content": "",
    "periodLabel": "Tiết 183–187 (5 tiết)",
    "periodFrom": 183,
@@ -2966,13 +2771,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2988,18 +2787,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3015,13 +2803,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3037,18 +2819,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3064,18 +2835,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3113,13 +2873,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3135,13 +2889,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3157,13 +2905,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3179,18 +2921,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3198,7 +2929,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ điểm 7: Quê hương trong tôi",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 203 (1 tiết)",
    "periodFrom": 203,
@@ -3206,18 +2937,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3255,13 +2975,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3277,13 +2991,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3299,13 +3007,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3321,13 +3023,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3343,18 +3039,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3392,13 +3077,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3419,11 +3098,6 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý từ ngữ / kiểm tra chính tả; HS tự viết, KHÔNG để AI viết thay (trung thực học thuật)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -3463,13 +3137,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3477,7 +3145,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ điểm 7: Quê hương trong tôi",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 217 (1 tiết)",
    "periodFrom": 217,
@@ -3485,18 +3153,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3595,11 +3252,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -3620,13 +3272,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3742,7 +3388,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm 8: Vì một thế giới bình yên",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 231 (1 tiết)",
    "periodFrom": 231,
@@ -3750,18 +3396,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3874,13 +3509,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trình bày, chia sẻ ý kiến lịch sự, đúng quy tắc ứng xử; có thể ghi âm/quay lại phần nói để tự đánh giá (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3888,7 +3517,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, đánh giá cuối năm học",
-   "title": "Ôn tập và đánh giá\nÔn tập: Ôn tập, củng cố kiến thức và kĩ năng đã học",
+   "title": "Ôn tập: Ôn tập, củng cố kiến thức và kĩ năng đã học",
    "content": "",
    "periodLabel": "Tiết 239–243 (5 tiết)",
    "periodFrom": 239,

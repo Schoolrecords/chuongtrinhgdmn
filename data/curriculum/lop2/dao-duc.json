@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 2,
  "subjectId": "dao-duc",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Đạo đức lớp 2 (2026-2027).docx",
+  "file": "Lớp 2/KHDH Đạo đức lớp 2 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 28
+  "integrations": 25
  },
  "lessons": [
   {
@@ -269,11 +269,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: dám nhận lỗi và sửa lỗi; chịu trách nhiệm về việc mình làm."
@@ -388,14 +383,14 @@
    "semester": 2,
    "week": 19,
    "theme": "Ôn tập, thực hành kĩ năng",
-   "title": "ÔN TẬP TỔNG HỢP",
+   "title": "ÔN TẬP TỔNG HỢP CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "GV chủ động bố trí nội dung ôn tập trong tuần 18",
    "integrations": [],
    "note": ""
   },
@@ -544,7 +539,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập, thực hành kĩ năng",
-   "title": "KẾ HOẠCH BÀI DẠY – TUẦN 27 THỰC HÀNH KĨ NĂNG GIỮA HỌC KÌ II – MÔN ĐẠO ĐỨC",
+   "title": "THỰC HÀNH KĨ NĂNG GIỮA HỌC KÌ II",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -552,13 +547,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -717,7 +706,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, thực hành kĩ năng",
-   "title": "KẾ HOẠCH BÀI DẠY – TUẦN 35 THỰC HÀNH KĨ NĂNG CUỐI NĂM – MÔN ĐẠO ĐỨC LỚP 2",
+   "title": "THỰC HÀNH KĨ NĂNG CUỐI NĂM",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -725,13 +714,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 3,
  "subjectId": "toan",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Toán lớp 3 (2026-2027).docx",
+  "file": "Lớp 3/KHDH Toán lớp 3 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 60
+  "integrations": 36
  },
  "lessons": [
   {
@@ -134,11 +134,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
@@ -175,13 +170,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -213,13 +202,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -289,13 +272,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -372,7 +349,7 @@
    "id": "l3-toan-020",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề: BẢNG NHÂN, BẢNG CHIA.",
+   "theme": "Chủ đề: BẢNG NHÂN, BẢNG CHIA",
    "title": "Bài 10. Bảng nhân 7, bảng chia 7 (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 20 (2 tiết)",
@@ -394,7 +371,7 @@
    "id": "l3-toan-021",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề: BẢNG NHÂN, BẢNG CHIA.",
+   "theme": "Chủ đề: BẢNG NHÂN, BẢNG CHIA",
    "title": "Bài 10. Bảng nhân 7, bảng chia 7 (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 21",
@@ -419,13 +396,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -457,13 +428,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -511,13 +476,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -549,13 +508,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -592,11 +545,6 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -622,7 +570,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG, HÌNH KHỐI",
-   "title": "Bài 16. ĐIỂM Ở GIỮA, TRUNG ĐIỂM CỦA ĐOẠN THẲNG (Tiết 1)",
+   "title": "Bài 16. Điểm ở giữa, trung điểm của đoạn thẳng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 33 (2 tiết)",
    "periodFrom": 33,
@@ -644,7 +592,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG, HÌNH KHỐI",
-   "title": "Bài 16. ĐIỂM Ở GIỮA, TRUNG ĐIỂM CỦA ĐOẠN THẲNG (Tiết 2)",
+   "title": "Bài 16. Điểm ở giữa, trung điểm của đoạn thẳng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 34",
    "periodFrom": 34,
@@ -660,7 +608,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG, HÌNH KHỐI",
-   "title": "Bài 17. Hình tròn. tâm, bán kính, đường kính của hình tròn (Tiết 1)",
+   "title": "Bài 17. Hình tròn. Tâm, bán kính, đường kính của hình tròn",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -669,11 +617,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -696,7 +639,7 @@
    "lessonPeriods": 5,
    "adjustments": "",
    "integrations": [],
-   "note": ""
+   "note": "Gồm cả Bài 19 (Hình tam giác, hình tứ giác. Hình chữ nhật, hình vuông) — Tổ CM đối chiếu mục lục SGK, tách tiết phù hợp."
   },
   {
    "id": "l3-toan-037",
@@ -766,8 +709,8 @@
    "id": "l3-toan-041",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG- HÌNH KHỐI",
-   "title": "Bài 20. Thực hành vẽ góc vuông, vẽ đường tròn , hình vuông, hình chữ nhật và vẽ trang trí (Tiết 1)",
+   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG, HÌNH KHỐI",
+   "title": "Bài 20. Thực hành vẽ góc vuông, vẽ đường tròn , hình vuông, hình chữ nhật và vẽ trang trí",
    "content": "",
    "periodLabel": "Tiết 41 (1 tiết)",
    "periodFrom": 41,
@@ -788,7 +731,7 @@
    "id": "l3-toan-042",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG- HÌNH KHỐI",
+   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG, HÌNH KHỐI",
    "title": "Bài 21. Khối lập phương- khối hộp chữ nhật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 42 (2 tiết)",
@@ -797,20 +740,14 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-toan-043",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG- HÌNH KHỐI",
+   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG, HÌNH KHỐI",
    "title": "Bài 21. Khối lập phương- khối hộp chữ nhật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 43",
@@ -826,7 +763,7 @@
    "id": "l3-toan-044",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG- HÌNH KHỐI",
+   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG, HÌNH KHỐI",
    "title": "Bài 22. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 44 (2 tiết)",
@@ -848,7 +785,7 @@
    "id": "l3-toan-045",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG- HÌNH KHỐI",
+   "theme": "Chủ đề: LÀM QUEN VỚI HÌNH PHẲNG, HÌNH KHỐI",
    "title": "Bài 22. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 45",
@@ -865,7 +802,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 100",
-   "title": "Bài 23. Nhân số có hai chữ số với số có một chữ số (Tiết 1)",
+   "title": "Bài 23. Nhân số có hai chữ số với số có một chữ số",
    "content": "",
    "periodLabel": "Tiết 46 (1 tiết)",
    "periodFrom": 46,
@@ -993,7 +930,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 100",
-   "title": "Bài 27. Giảm một số đi một số lẩn (Tiết 1)",
+   "title": "Bài 27. Giảm một số đi một số lần (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 54 (2 tiết)",
    "periodFrom": 54,
@@ -1009,7 +946,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 100",
-   "title": "Bài 27. Giảm một số đi một số lẩn (Tiết 2)",
+   "title": "Bài 27. Giảm một số đi một số lần (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 55",
    "periodFrom": 55,
@@ -1100,8 +1037,8 @@
    "id": "l3-toan-060",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT Đ",
-   "title": "Bài 30. mi-li-mét (Tiết 1)",
+   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT ĐỘ",
+   "title": "Bài 30. Mi-li-mét (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 60 (2 tiết)",
    "periodFrom": 60,
@@ -1122,8 +1059,8 @@
    "id": "l3-toan-061",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT Đ",
-   "title": "Bài 30. mi-li-mét (Tiết 2)",
+   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT ĐỘ",
+   "title": "Bài 30. Mi-li-mét (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 61",
    "periodFrom": 61,
@@ -1138,8 +1075,8 @@
    "id": "l3-toan-062",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT Đ",
-   "title": "Bài 32. mi-li-lít (Tiết 1)",
+   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT ĐỘ",
+   "title": "Bài 32. Mi-li-lít (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 62 (4 tiết)",
    "periodFrom": 62,
@@ -1147,21 +1084,15 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
-   "note": ""
+   "integrations": [],
+   "note": "Gồm cả Bài 31 (Gam) và Bài 33 theo mục lục SGK — Tổ CM đối chiếu, tách tiết phù hợp."
   },
   {
    "id": "l3-toan-063",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT Đ",
-   "title": "Bài 32. mi-li-lít (Tiết 2)",
+   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT ĐỘ",
+   "title": "Bài 32. Mi-li-lít (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 63",
    "periodFrom": 63,
@@ -1176,8 +1107,8 @@
    "id": "l3-toan-064",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT Đ",
-   "title": "Bài 32. mi-li-lít (Tiết 3)",
+   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT ĐỘ",
+   "title": "Bài 32. Mi-li-lít (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 64",
    "periodFrom": 64,
@@ -1192,8 +1123,8 @@
    "id": "l3-toan-065",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT Đ",
-   "title": "Bài 32. mi-li-lít (Tiết 4)",
+   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT ĐỘ",
+   "title": "Bài 32. Mi-li-lít (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 65",
    "periodFrom": 65,
@@ -1208,8 +1139,8 @@
    "id": "l3-toan-066",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT Đ",
-   "title": "Bài 34. Thực hành và trải nghiệm với các đơn vị mi-li-mét, gam, mi-li-lít, độ c (Tiết 1)",
+   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT ĐỘ",
+   "title": "Bài 34. Thực hành và trải nghiệm với các đơn vị mi-li-mét, gam, mi-li-lít, độ C",
    "content": "",
    "periodLabel": "Tiết 66 (1 tiết)",
    "periodFrom": 66,
@@ -1217,20 +1148,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-toan-067",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT Đ",
+   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT ĐỘ",
    "title": "Bài 35. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 67 (2 tiết)",
@@ -1252,7 +1177,7 @@
    "id": "l3-toan-068",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT Đ",
+   "theme": "Chủ đề: MỘT SỐ ĐƠN VỊ ĐO ĐỘ DÀI, KHỐI LƯỢNG, DUNG TÍCH, NHIỆT ĐỘ",
    "title": "Bài 35. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 68",
@@ -1316,7 +1241,7 @@
    "id": "l3-toan-072",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 100",
+   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000",
    "title": "Bài 37. Chia số có ba chữ số cho số có một chữ số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 72",
@@ -1332,7 +1257,7 @@
    "id": "l3-toan-073",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 100",
+   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000",
    "title": "Bài 37. Chia số có ba chữ số cho số có một chữ số (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 73",
@@ -1348,8 +1273,8 @@
    "id": "l3-toan-074",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1 000",
-   "title": "Bài 38. Biểu thức số. tính giá trị cùa biểu thức số (Tiết 1)",
+   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000",
+   "title": "Bài 38. Biểu thức số. Tính giá trị của biểu thức số (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 74 (7 tiết)",
    "periodFrom": 74,
@@ -1358,14 +1283,14 @@
    "lessonPeriods": 7,
    "adjustments": "",
    "integrations": [],
-   "note": ""
+   "note": "Gồm cả các bài 39–41 theo mục lục SGK — Tổ CM đối chiếu."
   },
   {
    "id": "l3-toan-075",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1 000",
-   "title": "Bài 38. Biểu thức số. tính giá trị cùa biểu thức số (Tiết 2)",
+   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000",
+   "title": "Bài 38. Biểu thức số. Tính giá trị của biểu thức số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 75",
    "periodFrom": 75,
@@ -1380,8 +1305,8 @@
    "id": "l3-toan-076",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1 000",
-   "title": "Bài 38. Biểu thức số. tính giá trị cùa biểu thức số (Tiết 3)",
+   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000",
+   "title": "Bài 38. Biểu thức số. Tính giá trị của biểu thức số (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 76",
    "periodFrom": 76,
@@ -1396,8 +1321,8 @@
    "id": "l3-toan-077",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1 000",
-   "title": "Bài 38. Biểu thức số. tính giá trị cùa biểu thức số (Tiết 4)",
+   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000",
+   "title": "Bài 38. Biểu thức số. Tính giá trị của biểu thức số (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 77",
    "periodFrom": 77,
@@ -1412,8 +1337,8 @@
    "id": "l3-toan-078",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1 000",
-   "title": "Bài 38. Biểu thức số. tính giá trị cùa biểu thức số (Tiết 5)",
+   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000",
+   "title": "Bài 38. Biểu thức số. Tính giá trị của biểu thức số (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 78",
    "periodFrom": 78,
@@ -1428,8 +1353,8 @@
    "id": "l3-toan-079",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1 000",
-   "title": "Bài 38. Biểu thức số. tính giá trị cùa biểu thức số (Tiết 6)",
+   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000",
+   "title": "Bài 38. Biểu thức số. Tính giá trị của biểu thức số (Tiết 6)",
    "content": "",
    "periodLabel": "Tiết 79",
    "periodFrom": 79,
@@ -1444,8 +1369,8 @@
    "id": "l3-toan-080",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1 000",
-   "title": "Bài 38. Biểu thức số. tính giá trị cùa biểu thức số (Tiết 7)",
+   "theme": "Chủ đề: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000",
+   "title": "Bài 38. Biểu thức số. Tính giá trị của biểu thức số (Tiết 7)",
    "content": "",
    "periodLabel": "Tiết 80",
    "periodFrom": 80,
@@ -1476,7 +1401,7 @@
      "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
     }
    ],
-   "note": ""
+   "note": "Tên bài và phạm vi ôn tập: Tổ CM đối chiếu mục lục SGK (chủ đề Ôn tập học kì I)."
   },
   {
    "id": "l3-toan-082",
@@ -1601,21 +1526,15 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề: ÔN TẬP HỌC KÌ I",
-   "title": "Bài 44. Ôn tập chung (Tiết 1)",
+   "title": "Bài 44. Ôn tập chung",
    "content": "",
-   "periodLabel": "Tiết 89 (2 tiết)",
+   "periodLabel": "Tiết 89 (1 tiết)",
    "periodFrom": 89,
    "periodTo": 89,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1623,13 +1542,13 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề: ÔN TẬP HỌC KÌ I",
-   "title": "Bài 44. Ôn tập chung (Tiết 2)",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
-   "periodLabel": "Tiết 90",
+   "periodLabel": "Tiết 90 (1 tiết)",
    "periodFrom": 90,
    "periodTo": 90,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1648,7 +1567,7 @@
    "lessonPeriods": 5,
    "adjustments": "",
    "integrations": [],
-   "note": ""
+   "note": "Gồm cả Bài 45 theo mục lục SGK — Tổ CM đối chiếu."
   },
   {
    "id": "l3-toan-092",
@@ -1719,7 +1638,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề: CÁC SỐ ĐẾN 10 000",
-   "title": "Bài 47. Làm quen với chữ số la mã (Tiết 1)",
+   "title": "Bài 47. Làm quen với chữ số La Mã (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 96 (2 tiết)",
    "periodFrom": 96,
@@ -1735,7 +1654,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề: CÁC SỐ ĐẾN 10 000",
-   "title": "Bài 47. Làm quen với chữ số la mã (Tiết 2)",
+   "title": "Bài 47. Làm quen với chữ số La Mã (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 97",
    "periodFrom": 97,
@@ -1751,7 +1670,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề: CÁC SỐ ĐẾN 10 000",
-   "title": "Bài 48. Làm tròn số đến hàng chục, hàng trăm (Tiết 1)",
+   "title": "Bài 48. Làm tròn số đến hàng chục, hàng trăm",
    "content": "",
    "periodLabel": "Tiết 98 (1 tiết)",
    "periodFrom": 98,
@@ -1875,7 +1794,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề: CHU VI, DIỆN TÍCH MỘT SỐ HÌNH PHẲNG",
-   "title": "Bài 51. Diện tích của một hình. xăng-ti-mét vuông (Tiết 1)",
+   "title": "Bài 51. Diện tích của một hình. Xăng-ti-mét vuông (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 105 (2 tiết)",
    "periodFrom": 105,
@@ -1897,7 +1816,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề: CHU VI, DIỆN TÍCH MỘT SỐ HÌNH PHẲNG",
-   "title": "Bài 51. Diện tích của một hình. xăng-ti-mét vuông (Tiết 2)",
+   "title": "Bài 51. Diện tích của một hình. Xăng-ti-mét vuông (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 106",
    "periodFrom": 106,
@@ -1921,13 +1840,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2036,7 +1949,7 @@
    "id": "l3-toan-114",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: :",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 54. Phép cộng trong phạm vi 10 000 (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 114",
@@ -2052,7 +1965,7 @@
    "id": "l3-toan-115",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: :",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 54. Phép cộng trong phạm vi 10 000 (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 115",
@@ -2068,7 +1981,7 @@
    "id": "l3-toan-116",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA TRONG PHẠM VI 10 000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 56. Nhân số có bốn chữ số với số có một chữ số (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 116 (3 tiết)",
@@ -2078,13 +1991,13 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [],
-   "note": ""
+   "note": "Gồm cả Bài 55 (Phép trừ trong phạm vi 10 000) — Tổ CM đối chiếu, tách tiết phù hợp."
   },
   {
    "id": "l3-toan-117",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA TRONG PHẠM VI 10 000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 56. Nhân số có bốn chữ số với số có một chữ số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 117",
@@ -2100,7 +2013,7 @@
    "id": "l3-toan-118",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA TRONG PHẠM VI 10 000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 56. Nhân số có bốn chữ số với số có một chữ số (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 118",
@@ -2116,7 +2029,7 @@
    "id": "l3-toan-119",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA TRONG PHẠM VI 10 000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 57. Chia số có bốn chữ số cho số có một chữ số (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 119 (4 tiết)",
@@ -2132,7 +2045,7 @@
    "id": "l3-toan-120",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA TRONG PHẠM VI 10 000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 57. Chia số có bốn chữ số cho số có một chữ số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 120",
@@ -2148,7 +2061,7 @@
    "id": "l3-toan-121",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA TRONG PHẠM VI 10 000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 57. Chia số có bốn chữ số cho số có một chữ số (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 121",
@@ -2164,7 +2077,7 @@
    "id": "l3-toan-122",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA TRONG PHẠM VI 10 000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 57. Chia số có bốn chữ số cho số có một chữ số (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 122",
@@ -2180,7 +2093,7 @@
    "id": "l3-toan-123",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: CỘNG TRỪ NHÂN CHIA TRONG PHẠM VỊ 10000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 58. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 123 (3 tiết)",
@@ -2202,7 +2115,7 @@
    "id": "l3-toan-124",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: CỘNG TRỪ NHÂN CHIA TRONG PHẠM VỊ 10000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 58. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 124",
@@ -2218,7 +2131,7 @@
    "id": "l3-toan-125",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: CỘNG TRỪ NHÂN CHIA TRONG PHẠM VỊ 10000",
+   "theme": "Chủ đề: CỘNG, TRỪ, NHÂN, CHIA CÁC SỐ TRONG PHẠM VI 10 000",
    "title": "Bài 58. Luyện tập chung (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 125",
@@ -2331,7 +2244,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Chủ đề: CÁC SỐ ĐẾN 100 000",
-   "title": "Bài 61. Làm tròn các số đến hàng nghìn, hàng chục nghìn (Tiết 1)",
+   "title": "Bài 61. Làm tròn các số đến hàng nghìn, hàng chục nghìn",
    "content": "",
    "periodLabel": "Tiết 132 (1 tiết)",
    "periodFrom": 132,
@@ -2346,7 +2259,7 @@
    "id": "l3-toan-133",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: CỘNG TRỪ NHÂN CHIA TRONG PHẠM VỊ 10000",
+   "theme": "Chủ đề: CÁC SỐ ĐẾN 100 000",
    "title": "Bài 62. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 133 (3 tiết)",
@@ -2355,20 +2268,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-toan-134",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: CỘNG TRỪ NHÂN CHIA TRONG PHẠM VỊ 10000",
+   "theme": "Chủ đề: CÁC SỐ ĐẾN 100 000",
    "title": "Bài 62. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 134",
@@ -2384,7 +2291,7 @@
    "id": "l3-toan-135",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: CỘNG TRỪ NHÂN CHIA TRONG PHẠM VỊ 10000",
+   "theme": "Chủ đề: CÁC SỐ ĐẾN 100 000",
    "title": "Bài 62. Luyện tập chung (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 135",
@@ -2465,7 +2372,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề: CỘNG TRỪ TRONG PHẠM VI 100 000",
-   "title": "Bài 65. Luyện tập chung (Tiết 1)",
+   "title": "Bài 65. Luyện tập chung",
    "content": "",
    "periodLabel": "Tiết 140 (1 tiết)",
    "periodFrom": 140,
@@ -2486,8 +2393,8 @@
    "id": "l3-toan-141",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG - NĂM.",
-   "title": "Bài 66. Xem đồng hồ. tháng-năm (Tiết 1)",
+   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM",
+   "title": "Bài 66. Xem đồng hồ. Tháng – năm (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 141 (2 tiết)",
    "periodFrom": 141,
@@ -2513,8 +2420,8 @@
    "id": "l3-toan-142",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG - NĂM.",
-   "title": "Bài 66. Xem đồng hồ. tháng-năm (Tiết 2)",
+   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM",
+   "title": "Bài 66. Xem đồng hồ. Tháng – năm (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 142",
    "periodFrom": 142,
@@ -2529,8 +2436,8 @@
    "id": "l3-toan-143",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM.",
-   "title": "Bài 67. Thực hành xem đồng hồ , xem lịch (Tiết 1)",
+   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM",
+   "title": "Bài 67. Thực hành xem đồng hồ, xem lịch (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 143 (2 tiết)",
    "periodFrom": 143,
@@ -2556,8 +2463,8 @@
    "id": "l3-toan-144",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM.",
-   "title": "Bài 67. Thực hành xem đồng hồ , xem lịch (Tiết 2)",
+   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM",
+   "title": "Bài 67. Thực hành xem đồng hồ, xem lịch (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 144",
    "periodFrom": 144,
@@ -2572,8 +2479,8 @@
    "id": "l3-toan-145",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM.",
-   "title": "Bài 68. Tiền việt nam (Tiết 1)",
+   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM",
+   "title": "Bài 68. Tiền Việt Nam (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 145 (2 tiết)",
    "periodFrom": 145,
@@ -2586,11 +2493,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem hình tiền trên màn hình để nhận biết mệnh giá; nhắc HS không tự ý mua bán trên mạng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -2599,8 +2501,8 @@
    "id": "l3-toan-146",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM.",
-   "title": "Bài 68. Tiền việt nam (Tiết 2)",
+   "theme": "Chủ đề: XEM ĐỒNG HỒ. THÁNG – NĂM. TIỀN VIỆT NAM",
+   "title": "Bài 68. Tiền Việt Nam (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 146",
    "periodFrom": 146,
@@ -2625,7 +2527,7 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [],
-   "note": ""
+   "note": "Gồm cả Bài 69 theo mục lục SGK — Tổ CM đối chiếu."
   },
   {
    "id": "l3-toan-148",
@@ -2759,7 +2661,7 @@
    "id": "l3-toan-156",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: NHÂN CHIA TRONG PHẠM VI 100 000.",
+   "theme": "Chủ đề: NHÂN, CHIA TRONG PHẠM VI 100 000",
    "title": "Bài 72. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 156 (2 tiết)",
@@ -2781,7 +2683,7 @@
    "id": "l3-toan-157",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: NHÂN CHIA TRONG PHẠM VI 100 000.",
+   "theme": "Chủ đề: NHÂN, CHIA TRONG PHẠM VI 100 000",
    "title": "Bài 72. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 157",
@@ -2798,7 +2700,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ, XÁC SUẤT",
-   "title": "Bài 73. Thu thập, phân loại, ghi chép số liệu. bảng số liệu (Tiết 1)",
+   "title": "Bài 73. Thu thập, phân loại, ghi chép số liệu. Bảng số liệu (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 158 (3 tiết)",
    "periodFrom": 158,
@@ -2825,7 +2727,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ, XÁC SUẤT",
-   "title": "Bài 73. Thu thập, phân loại, ghi chép số liệu. bảng số liệu (Tiết 2)",
+   "title": "Bài 73. Thu thập, phân loại, ghi chép số liệu. Bảng số liệu (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 159",
    "periodFrom": 159,
@@ -2833,13 +2735,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen đọc bảng số liệu/biểu đồ tranh đơn giản; thu thập, sắp xếp dữ liệu (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2847,7 +2743,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ, XÁC SUẤT",
-   "title": "Bài 73. Thu thập, phân loại, ghi chép số liệu. bảng số liệu (Tiết 3)",
+   "title": "Bài 73. Thu thập, phân loại, ghi chép số liệu. Bảng số liệu (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 160",
    "periodFrom": 160,
@@ -2855,21 +2751,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen đọc bảng số liệu/biểu đồ tranh đơn giản; thu thập, sắp xếp dữ liệu (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-toan-161",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ, XÁC XUẤT",
-   "title": "Bài 74. Khả năng xảy ra của một sự kiện (Tiết 1)",
+   "theme": "Chủ đề: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ, XÁC SUẤT",
+   "title": "Bài 74. Khả năng xảy ra của một sự kiện",
    "content": "",
    "periodLabel": "Tiết 161 (1 tiết)",
    "periodFrom": 161,
@@ -2890,7 +2780,7 @@
    "id": "l3-toan-162",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ, SÁC XUẤT",
+   "theme": "Chủ đề: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ, XÁC SUẤT",
    "title": "Bài 75. Thực hành và trải nghiệm thu thập, phân loại ghi chép số liệu, đọc bảng số liệu (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 162 (2 tiết)",
@@ -2917,7 +2807,7 @@
    "id": "l3-toan-163",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ, SÁC XUẤT",
+   "theme": "Chủ đề: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ, XÁC SUẤT",
    "title": "Bài 75. Thực hành và trải nghiệm thu thập, phân loại ghi chép số liệu, đọc bảng số liệu (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 163",
@@ -2926,13 +2816,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen đọc bảng số liệu/biểu đồ tranh đơn giản; thu thập, sắp xếp dữ liệu (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2978,7 +2862,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề: ÔN TẬP CUỐI NĂM",
-   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 – (Tiết 1)",
+   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 166 (5 tiết)",
    "periodFrom": 166,
@@ -2986,21 +2870,15 @@
    "periods": 1,
    "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
-   "note": ""
+   "integrations": [],
+   "note": "Gồm cả Bài 78 (Ôn tập phép nhân, phép chia trong phạm vi 10 000, 100 000) — Tổ CM đối chiếu."
   },
   {
    "id": "l3-toan-167",
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề: ÔN TẬP CUỐI NĂM",
-   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 – (Tiết 2)",
+   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 167",
    "periodFrom": 167,
@@ -3016,7 +2894,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề: ÔN TẬP CUỐI NĂM",
-   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 – (Tiết 3)",
+   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 168",
    "periodFrom": 168,
@@ -3032,7 +2910,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề: ÔN TẬP CUỐI NĂM",
-   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 – (Tiết 4)",
+   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 169",
    "periodFrom": 169,
@@ -3048,7 +2926,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề: ÔN TẬP CUỐI NĂM",
-   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 – (Tiết 5)",
+   "title": "Bài 77. Ôn tập phép cộng phép trừ trong phạm vi 10 000, 100 000 (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 170",
    "periodFrom": 170,
@@ -3064,7 +2942,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Chủ đề: ÔN TẬP CUỐI NĂM",
-   "title": "Bài 79. Ôn tập hình học và đo lường (Tiết 1)",
+   "title": "Bài 79. Ôn tập hình học và đo lường",
    "content": "",
    "periodLabel": "Tiết 171 (1 tiết)",
    "periodFrom": 171,
@@ -3088,11 +2966,11 @@
    "theme": "Chủ đề: ÔN TẬP CUỐI NĂM",
    "title": "Bài 80. Ôn tập một số yếu tố thống kê và xác suất (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 172 (4 tiết)",
+   "periodLabel": "Tiết 172 (3 tiết)",
    "periodFrom": 172,
    "periodTo": 172,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
     {
@@ -3116,13 +2994,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen đọc bảng số liệu/biểu đồ tranh đơn giản; thu thập, sắp xếp dữ liệu (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3138,13 +3010,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen đọc bảng số liệu/biểu đồ tranh đơn giản; thu thập, sắp xếp dữ liệu (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3152,21 +3018,15 @@
    "semester": 2,
    "week": 35,
    "theme": "Chủ đề: ÔN TẬP CUỐI NĂM",
-   "title": "Bài 80. Ôn tập một số yếu tố thống kê và xác suất (Tiết 4)",
+   "title": "Kiểm tra định kì cuối năm học",
    "content": "",
-   "periodLabel": "Tiết 175",
+   "periodLabel": "Tiết 175 (1 tiết)",
    "periodFrom": 175,
    "periodTo": 175,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen đọc bảng số liệu/biểu đồ tranh đơn giản; thu thập, sắp xếp dữ liệu (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

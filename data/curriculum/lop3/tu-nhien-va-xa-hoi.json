@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 3,
  "subjectId": "tu-nhien-va-xa-hoi",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Tự nhiên và Xã hội lớp 3 (2026-2027).docx",
+  "file": "Lớp 3/KHDH Tự nhiên và Xã hội lớp 3 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 64
+  "integrations": 13
  },
  "lessons": [
   {
@@ -84,13 +84,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -160,13 +154,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -241,18 +229,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -343,18 +320,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -377,7 +343,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-019",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (8 tiết)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
    "title": "Bài 9. Hoạt động sản xuất nông nghiệp (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 19 (3 tiết)",
@@ -391,11 +357,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     }
    ],
    "note": ""
@@ -404,7 +365,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-020",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (8 tiết)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
    "title": "Bài 9. Hoạt động sản xuất nông nghiệp (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 20",
@@ -413,20 +374,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-021",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (8 tiết)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
    "title": "Bài 9. Hoạt động sản xuất nông nghiệp (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 21",
@@ -435,47 +390,30 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-022",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (8 tiết)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
    "title": "Bài 10. Hoạt động sản xuất thủ công và công nghiệp (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 22 (2 tiết)",
+   "periodLabel": "Tiết 22 (3 tiết)",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-023",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (8 tiết)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
    "title": "Bài 10. Hoạt động sản xuất thủ công và công nghiệp (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 23",
@@ -484,21 +422,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-024",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (8 tiết)",
-   "title": "Bài 10. Hoạt động sản xuất thủ công và công nghiệp ( (Tiết 3)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
+   "title": "Bài 10. Hoạt động sản xuất thủ công và công nghiệp (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
    "periodFrom": 24,
@@ -506,25 +438,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-025",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (8 tiết)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
    "title": "Bài 11. Di tích lịch sử văn hoá và cảnh quan thiên nhiên (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 25 (2 tiết)",
@@ -534,11 +455,6 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -551,7 +467,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-026",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (8 tiết)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
    "title": "Bài 11. Di tích lịch sử văn hoá và cảnh quan thiên nhiên (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 26",
@@ -560,20 +476,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-027",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: CỘNG ĐỒNG VÀ ĐỊA PHƯƠNG (2 tiết)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
    "title": "Bài 12. Ôn tập chủ đề cộng đồng, địa phương (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 27 (2 tiết)",
@@ -583,11 +493,6 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -600,7 +505,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-028",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: CỘNG ĐỒNG VÀ ĐỊA PHƯƠNG (2 tiết)",
+   "theme": "Chủ đề: CỘNG ĐỒNG ĐỊA PHƯƠNG (10 tiết)",
    "title": "Bài 12. Ôn tập chủ đề cộng đồng, địa phương (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 28",
@@ -616,7 +521,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-029",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
    "title": "Bài 13. Một số bộ phận của thực vật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 29 (3 tiết)",
@@ -638,7 +543,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-030",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
    "title": "Bài 13. Một số bộ phận của thực vật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 30",
@@ -647,20 +552,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-031",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
    "title": "Bài 13. Một số bộ phận của thực vật (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 31",
@@ -669,20 +568,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-032",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
    "title": "Bài 14. Chức năng một số bộ phận của thực vật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 32 (2 tiết)",
@@ -691,20 +584,14 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-033",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
    "title": "Bài 14. Chức năng một số bộ phận của thực vật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 33",
@@ -713,21 +600,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-034",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
-   "title": "Đánh giá học kì 1 (Tiết 1)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
+   "title": "Bài 15. Một số bộ phận của động vật và chức năng của chúng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -736,14 +617,14 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
-   "note": ""
+   "note": "Bài 15 hoàn thành đầu HKII do bố trí đánh giá cuối học kì I trong tuần 18."
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-035",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
-   "title": "Bài 15. Một số bộ phận của động vật và chức năng của chúng (Tiết 1)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
+   "title": "Ôn tập, đánh giá cuối học kì I (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -751,21 +632,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-036",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
-   "title": "Đánh giá học kì 1 (Tiết 2)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
+   "title": "Ôn tập, đánh giá cuối học kì I (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
@@ -773,20 +648,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-037",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
    "title": "Bài 15. Một số bộ phận của động vật và chức năng của chúng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 37 (2 tiết)",
@@ -795,20 +664,14 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-038",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
    "title": "Bài 15. Một số bộ phận của động vật và chức năng của chúng (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 38",
@@ -817,20 +680,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-039",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
    "title": "Bài 16. Sử dụng hợp lí thực vật và động vật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 39 (2 tiết)",
@@ -839,20 +696,14 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-040",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
    "title": "Bài 16. Sử dụng hợp lí thực vật và động vật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 40",
@@ -861,21 +712,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-041",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
-   "title": "Bài 17. Ôn tập chủ đềthực vật và động vật (Tiết 1)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
+   "title": "Bài 17. Ôn tập chủ đề Thực vật và động vật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 41 (2 tiết)",
    "periodFrom": 41,
@@ -890,8 +735,8 @@
    "id": "l3-tu-nhien-va-xa-hoi-042",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (13 tiết)",
-   "title": "Bài 17. Ôn tập chủ đềthực vật và động vật (Tiết 2)",
+   "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
+   "title": "Bài 17. Ôn tập chủ đề Thực vật và động vật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 42",
    "periodFrom": 42,
@@ -906,7 +751,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-043",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 18. Cơ quan tiêu hóa (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 43 (2 tiết)",
@@ -920,11 +765,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     }
    ],
    "note": ""
@@ -933,7 +773,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-044",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 18. Cơ quan tiêu hóa (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 44",
@@ -942,20 +782,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-045",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 19. Chăm sóc và bảo vệ cơ quan tiêu hóa (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 45 (2 tiết)",
@@ -964,25 +798,14 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-046",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 19. Chăm sóc và bảo vệ cơ quan tiêu hóa (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 46",
@@ -991,20 +814,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-047",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 20. Cơ quan tuần hoàn (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 47 (2 tiết)",
@@ -1013,25 +830,14 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-048",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 20. Cơ quan tuần hoàn (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 48",
@@ -1040,20 +846,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-049",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 21. Chăm sóc và bảo vệ cơ quan tuần hoàn (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 49 (2 tiết)",
@@ -1062,25 +862,14 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-050",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 21. Chăm sóc và bảo vệ cơ quan tuần hoàn (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 50",
@@ -1089,20 +878,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-051",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 22. Cơ quan thần kinh (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 51 (2 tiết)",
@@ -1111,25 +894,14 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-052",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 22. Cơ quan thần kinh (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 52",
@@ -1138,20 +910,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-053",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 23. Chăm sóc và bảo vệ cơ quan thần kinh (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 53 (2 tiết)",
@@ -1160,25 +926,14 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-054",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHỎE (12 tiết)",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 23. Chăm sóc và bảo vệ cơ quan thần kinh (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 54",
@@ -1187,20 +942,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-055",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 24. Thu thập thông tin về các chất và hoạt động có hại cho sức khoẻ",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
@@ -1216,7 +965,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-056",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ",
+   "theme": "Chủ đề: CON NGƯỜI VÀ SỨC KHOẺ (14 tiết)",
    "title": "Bài 25. Ôn tập về chủ đề Con người và sức khoẻ",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
@@ -1232,7 +981,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-057",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (7 tiết)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
    "title": "Bài 26. Xác định các phương trong không gian (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 57 (2 tiết)",
@@ -1254,7 +1003,7 @@
    "id": "l3-tu-nhien-va-xa-hoi-058",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (7 tiết)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
    "title": "Bài 26. Xác định các phương trong không gian (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 58",
@@ -1263,21 +1012,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-059",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI. (2 tiết)",
-   "title": "Bài 27. Trái đất và các đới khí hậu (Tiết 1)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Bài 27. Trái Đất và các đới khí hậu (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 59 (2 tiết)",
    "periodFrom": 59,
@@ -1298,8 +1041,8 @@
    "id": "l3-tu-nhien-va-xa-hoi-060",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI. (2 tiết)",
-   "title": "Bài 27. Trái đất và các đới khí hậu (Tiết 2)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Bài 27. Trái Đất và các đới khí hậu (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 60",
    "periodFrom": 60,
@@ -1307,21 +1050,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-061",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (7 tiết)",
-   "title": "Bài 28. Bề mặt trái đất (Tiết 1)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Bài 28. Bề mặt Trái Đất (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 61 (3 tiết)",
    "periodFrom": 61,
@@ -1329,21 +1066,15 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-062",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (7 tiết)",
-   "title": "Bài 28. Bề mặt trái đất (Tiết 2)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Bài 28. Bề mặt Trái Đất (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 62",
    "periodFrom": 62,
@@ -1351,21 +1082,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-063",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (7 tiết)",
-   "title": "Bài 28. Bề mặt trái đất (Tiết 3)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Bài 28. Bề mặt Trái Đất (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 63",
    "periodFrom": 63,
@@ -1373,21 +1098,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-064",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (7 tiết)",
-   "title": "Bài 29. Mặt trời, trái đất, mặt trăng (Tiết 1)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Bài 29. Mặt Trời, Trái Đất, Mặt Trăng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 64 (2 tiết)",
    "periodFrom": 64,
@@ -1395,21 +1114,15 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-065",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (7 tiết)",
-   "title": "Bài 29. Mặt trời, trái đất, mặt trăng (Tiết 2)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Bài 29. Mặt Trời, Trái Đất, Mặt Trăng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 65",
    "periodFrom": 65,
@@ -1417,21 +1130,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-066",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: ÔN TẬP CHỦ ĐỀ TRÁI ĐẤT VÀ BẦU TRỜI (6 tiết)",
-   "title": "Bài 30. Ôn tập chủ đề trái đất và bầu trời (Tiết 1)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Bài 30. Ôn tập chủ đề Trái Đất và bầu trời (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 66 (2 tiết)",
    "periodFrom": 66,
@@ -1446,8 +1153,8 @@
    "id": "l3-tu-nhien-va-xa-hoi-067",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: ÔN TẬP CHỦ ĐỀ TRÁI ĐẤT VÀ BẦU TRỜI (6 tiết)",
-   "title": "Bài 30. Ôn tập chủ đề trái đất và bầu trời (Tiết 2)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Bài 30. Ôn tập chủ đề Trái Đất và bầu trời (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 67",
    "periodFrom": 67,
@@ -1462,8 +1169,8 @@
    "id": "l3-tu-nhien-va-xa-hoi-068",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: ÔN TẬP CHỦ ĐỀ TRÁI ĐẤT VÀ BẦU TRỜI (6 tiết)",
-   "title": "Ôn tập đánh giá cuối học kì II (Tiết 1)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Ôn tập, đánh giá cuối năm học (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
    "periodFrom": 68,
@@ -1478,8 +1185,8 @@
    "id": "l3-tu-nhien-va-xa-hoi-069",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: ÔN TẬP CHỦ ĐỀ TRÁI ĐẤT VÀ BẦU TRỜI (6 tiết)",
-   "title": "Ôn tập đánh giá cuối năm (Tiết 1)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Ôn tập, đánh giá cuối năm học (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 69 (2 tiết)",
    "periodFrom": 69,
@@ -1494,8 +1201,8 @@
    "id": "l3-tu-nhien-va-xa-hoi-070",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: ÔN TẬP CHỦ ĐỀ TRÁI ĐẤT VÀ BẦU TRỜI (6 tiết)",
-   "title": "Ôn tập đánh giá cuối năm (Tiết 2)",
+   "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
+   "title": "Ôn tập, đánh giá cuối năm học (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 70",
    "periodFrom": 70,

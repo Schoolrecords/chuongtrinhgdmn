@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 4,
  "subjectId": "khoa-hoc",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Khoa học lớp 4 (2026-2027).docx",
+  "file": "Lớp 4/KHDH Khoa học lớp 4 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 58
+  "integrations": 32
  },
  "lessons": [
   {
@@ -67,8 +67,13 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "GD STEM",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "GD STEM"
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -330,11 +335,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
@@ -371,18 +371,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -419,11 +408,6 @@
      "code": "NLS-GQVĐ",
      "level": "",
      "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -440,17 +424,17 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "GD STEM",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "GD STEM"
+    },
     {
      "code": "NLS-ST",
      "level": "",
      "text": "Tạo sản phẩm học tập số đơn giản (sơ đồ, áp phích) trình bày kết quả."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -484,18 +468,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -511,13 +484,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -533,18 +500,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -581,11 +537,6 @@
      "code": "NLS-GQVĐ",
      "level": "",
      "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -603,13 +554,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -651,19 +596,13 @@
    "theme": "Chủ đề 3: THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 16: Động vật cần gì để sống (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 31 (2 tiết)",
+   "periodLabel": "Tiết 31 (3 tiết)",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -687,21 +626,15 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề 3: THỰC VẬT VÀ ĐỘNG VẬT",
-   "title": "Ôn tập cuối học kì I",
+   "title": "Bài 16: Động vật cần gì để sống (tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 33 (1 tiết)",
+   "periodLabel": "Tiết 33",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -709,7 +642,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề 3: THỰC VẬT VÀ ĐỘNG VẬT",
-   "title": "Kiểm tra định kì cuối học kì I",
+   "title": "Bài 17: Chăm sóc cây trồng và vật nuôi",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -725,7 +658,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 3: THỰC VẬT VÀ ĐỘNG VẬT",
-   "title": "Bài 16: Động vật cần gì để sống (tiết 3)",
+   "title": "Ôn tập cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -733,7 +666,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "",
+     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn). Điều chỉnh: dạy trọn Bài 16, 17 trong tuần 16–17; ôn tập và kiểm tra định kì cuối HKI chuyển về tuần 18."
+    }
+   ],
    "note": ""
   },
   {
@@ -741,7 +680,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 3: THỰC VẬT VÀ ĐỘNG VẬT",
-   "title": "Bài 17: Chăm sóc cây trồng và vật nuôi",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
@@ -749,13 +688,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -793,13 +726,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -831,13 +758,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -931,11 +852,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
@@ -971,8 +887,13 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "GD STEM",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "GD STEM"
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -1031,18 +952,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1138,11 +1048,6 @@
      "code": "NLS-GQVĐ",
      "level": "",
      "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -1165,11 +1070,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Tra cứu an toàn về thực phẩm/phòng tránh tai nạn; bảo vệ sức khoẻ và thông tin cá nhân khi dùng thiết bị số."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -1208,11 +1108,6 @@
      "code": "NLS-GQVĐ",
      "level": "",
      "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -1246,18 +1141,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1305,18 +1189,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1369,11 +1242,6 @@
      "code": "NLS-GQVĐ",
      "level": "",
      "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -1396,11 +1264,6 @@
      "code": "NLS-GQVĐ",
      "level": "",
      "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -1432,21 +1295,15 @@
    "semester": 2,
    "week": 35,
    "theme": "Chủ đề 6: SINH VẬT VÀ MÔI TRƯỜNG",
-   "title": "Tổng kết môn học (tiết 1)",
+   "title": "Kiểm tra định kì cuối năm học",
    "content": "",
-   "periodLabel": "Tiết 69 (2 tiết)",
+   "periodLabel": "Tiết 69 (1 tiết)",
    "periodFrom": 69,
    "periodTo": 69,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "lessonPeriods": 1,
+   "adjustments": "Điều chỉnh: dành 1 tiết Tổng kết cho kiểm tra định kì cuối năm theo Thông tư 27/2020/TT-BGDĐT",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1454,13 +1311,13 @@
    "semester": 2,
    "week": 35,
    "theme": "Chủ đề 6: SINH VẬT VÀ MÔI TRƯỜNG",
-   "title": "Tổng kết môn học (tiết 2)",
+   "title": "Tổng kết môn học",
    "content": "",
-   "periodLabel": "Tiết 70",
+   "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,
    "periodTo": 70,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""

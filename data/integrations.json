@@ -1,35 +1,161 @@
 {
   "groups": [
-    { "id": "nls", "label": "Năng lực số", "tone": "blue" },
-    { "id": "ai", "label": "Trí tuệ nhân tạo", "tone": "violet" },
-    { "id": "qpan", "label": "Giáo dục quốc phòng và an ninh", "tone": "olive" },
-    { "id": "kns", "label": "Kĩ năng sống", "tone": "amber" },
-    { "id": "stem", "label": "Giáo dục STEM", "tone": "teal" },
-    { "id": "ddls", "label": "Giáo dục đạo đức, lối sống", "tone": "rose" },
-    { "id": "qte", "label": "Quyền trẻ em", "tone": "pink" },
-    { "id": "gddp", "label": "Giáo dục địa phương", "tone": "brown" },
-    { "id": "atgt", "label": "An toàn giao thông", "tone": "orange" },
-    { "id": "gdmt", "label": "Giáo dục môi trường", "tone": "green" },
-    { "id": "gdhn", "label": "Giáo dục hoà nhập", "tone": "indigo" },
-    { "id": "khac", "label": "Nội dung khác theo kế hoạch nhà trường", "tone": "slate" }
+    {
+      "id": "nls",
+      "label": "Năng lực số",
+      "tone": "blue"
+    },
+    {
+      "id": "ai",
+      "label": "Trí tuệ nhân tạo",
+      "tone": "violet"
+    },
+    {
+      "id": "qpan",
+      "label": "Giáo dục quốc phòng và an ninh",
+      "tone": "olive"
+    },
+    {
+      "id": "kns",
+      "label": "Kĩ năng sống",
+      "tone": "amber"
+    },
+    {
+      "id": "stem",
+      "label": "Giáo dục STEM",
+      "tone": "teal"
+    },
+    {
+      "id": "ddls",
+      "label": "Giáo dục đạo đức, lối sống",
+      "tone": "rose"
+    },
+    {
+      "id": "qte",
+      "label": "Quyền trẻ em",
+      "tone": "pink"
+    },
+    {
+      "id": "gddp",
+      "label": "Giáo dục địa phương",
+      "tone": "brown"
+    },
+    {
+      "id": "atgt",
+      "label": "An toàn giao thông",
+      "tone": "orange"
+    },
+    {
+      "id": "gdmt",
+      "label": "Giáo dục môi trường",
+      "tone": "green"
+    },
+    {
+      "id": "gdhn",
+      "label": "Giáo dục hoà nhập",
+      "tone": "indigo"
+    },
+    {
+      "id": "khac",
+      "label": "Nội dung khác theo kế hoạch nhà trường",
+      "tone": "slate"
+    }
   ],
   "codes": {
-    "NLS-KT": { "group": "nls", "label": "Năng lực số · Khai thác thông tin", "short": "NLS · Khai thác" },
-    "NLS-GT": { "group": "nls", "label": "Năng lực số · Giao tiếp, hợp tác", "short": "NLS · Giao tiếp" },
-    "NLS-ST": { "group": "nls", "label": "Năng lực số · Sáng tạo nội dung số", "short": "NLS · Sáng tạo" },
-    "NLS-AT": { "group": "nls", "label": "Năng lực số · An toàn", "short": "NLS · An toàn" },
-    "NLS-GQVĐ": { "group": "nls", "label": "Năng lực số · Giải quyết vấn đề", "short": "NLS · Giải quyết vấn đề" },
-    "NLS-NB": { "group": "nls", "label": "Năng lực số · Nhận biết", "short": "NLS · Nhận biết" },
-    "NLS": { "group": "nls", "label": "Năng lực số", "short": "Năng lực số" },
-    "AI-NB": { "group": "ai", "label": "Trí tuệ nhân tạo · Nhận biết, trải nghiệm", "short": "Trí tuệ nhân tạo" },
-    "QPAN": { "group": "qpan", "label": "Giáo dục quốc phòng và an ninh", "short": "Quốc phòng, an ninh" },
-    "KNS": { "group": "kns", "label": "Giáo dục kĩ năng sống", "short": "Kĩ năng sống" },
-    "STEM": { "group": "stem", "label": "Giáo dục STEM", "short": "STEM" },
-    "ĐĐLS": { "group": "ddls", "label": "Giáo dục đạo đức, lối sống", "short": "Đạo đức, lối sống" },
-    "QTE": { "group": "qte", "label": "Quyền trẻ em", "short": "Quyền trẻ em" },
-    "GDĐP": { "group": "gddp", "label": "Giáo dục địa phương", "short": "Địa phương" },
-    "ATGT": { "group": "atgt", "label": "An toàn giao thông", "short": "An toàn giao thông" },
-    "GDMT": { "group": "gdmt", "label": "Giáo dục môi trường", "short": "Môi trường" },
-    "GDHN": { "group": "gdhn", "label": "Giáo dục hoà nhập", "short": "Hoà nhập" }
+    "NLS-KT": {
+      "group": "nls",
+      "label": "Năng lực số · Khai thác thông tin",
+      "short": "NLS · Khai thác"
+    },
+    "NLS-GT": {
+      "group": "nls",
+      "label": "Năng lực số · Giao tiếp, hợp tác",
+      "short": "NLS · Giao tiếp"
+    },
+    "NLS-ST": {
+      "group": "nls",
+      "label": "Năng lực số · Sáng tạo nội dung số",
+      "short": "NLS · Sáng tạo"
+    },
+    "NLS-AT": {
+      "group": "nls",
+      "label": "Năng lực số · An toàn",
+      "short": "NLS · An toàn"
+    },
+    "NLS-GQVĐ": {
+      "group": "nls",
+      "label": "Năng lực số · Giải quyết vấn đề",
+      "short": "NLS · Giải quyết vấn đề"
+    },
+    "NLS-NB": {
+      "group": "nls",
+      "label": "Năng lực số · Nhận biết",
+      "short": "NLS · Nhận biết"
+    },
+    "NLS": {
+      "group": "nls",
+      "label": "Năng lực số",
+      "short": "Năng lực số"
+    },
+    "AI-NB": {
+      "group": "ai",
+      "label": "Trí tuệ nhân tạo · Nhận biết, trải nghiệm",
+      "short": "Trí tuệ nhân tạo"
+    },
+    "QPAN": {
+      "group": "qpan",
+      "label": "Giáo dục quốc phòng và an ninh",
+      "short": "Quốc phòng, an ninh"
+    },
+    "KNS": {
+      "group": "kns",
+      "label": "Giáo dục kĩ năng sống",
+      "short": "Kĩ năng sống"
+    },
+    "STEM": {
+      "group": "stem",
+      "label": "Giáo dục STEM",
+      "short": "STEM"
+    },
+    "ĐĐLS": {
+      "group": "ddls",
+      "label": "Giáo dục đạo đức, lối sống",
+      "short": "Đạo đức, lối sống"
+    },
+    "QTE": {
+      "group": "qte",
+      "label": "Quyền trẻ em",
+      "short": "Quyền trẻ em"
+    },
+    "GDĐP": {
+      "group": "gddp",
+      "label": "Giáo dục địa phương",
+      "short": "Địa phương"
+    },
+    "ATGT": {
+      "group": "atgt",
+      "label": "An toàn giao thông",
+      "short": "An toàn giao thông"
+    },
+    "GDMT": {
+      "group": "gdmt",
+      "label": "Giáo dục môi trường",
+      "short": "Môi trường"
+    },
+    "GDHN": {
+      "group": "gdhn",
+      "label": "Giáo dục hoà nhập",
+      "short": "Hoà nhập"
+    },
+    "NLS-ƯD": {
+      "group": "nls",
+      "label": "Năng lực số · Ứng dụng thiết bị, phần mềm",
+      "short": "NLS · Ứng dụng"
+    },
+    "GDVL": {
+      "group": "khac",
+      "label": "Giáo dục quan hệ hữu nghị Việt Nam – Lào",
+      "short": "Việt – Lào"
+    }
   }
 }

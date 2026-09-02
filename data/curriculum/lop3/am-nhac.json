@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 3,
  "subjectId": "am-nhac",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Âm nhạc lớp 3 (2026-2027).docx",
+  "file": "Lớp 3/KHDH Âm nhạc lớp 3 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 1
+  "integrations": 9
  },
  "lessons": [
   {
@@ -29,8 +29,14 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+    }
+   ],
    "note": ""
   },
   {
@@ -45,7 +51,7 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -61,7 +67,7 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -93,8 +99,13 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -115,7 +126,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -131,7 +142,7 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -163,8 +174,14 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+    }
+   ],
    "note": ""
   },
   {
@@ -179,7 +196,7 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -195,7 +212,7 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -227,8 +244,14 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+    }
+   ],
    "note": ""
   },
   {
@@ -243,7 +266,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -259,7 +282,7 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -284,7 +307,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập / Kiểm tra, đánh giá cuối học kì I (theo phân phối chương trình)",
+   "title": "Ôn tập cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -300,7 +323,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập / Kiểm tra, đánh giá cuối học kì I (theo phân phối chương trình)",
+   "title": "Ôn tập, đánh giá cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -323,8 +346,14 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+    }
+   ],
    "note": ""
   },
   {
@@ -339,7 +368,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -355,7 +384,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -387,8 +416,14 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+    }
+   ],
    "note": ""
   },
   {
@@ -403,7 +438,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -419,7 +454,7 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -451,8 +486,14 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+    }
+   ],
    "note": ""
   },
   {
@@ -467,7 +508,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -483,7 +524,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -515,8 +556,14 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ƯD",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+    }
+   ],
    "note": ""
   },
   {
@@ -531,7 +578,7 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -547,7 +594,7 @@
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-ƯD (Cơ bản 1): GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn.",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -556,7 +603,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập cuối năm (theo phân phối chương trình)",
+   "title": "Ôn tập cuối năm",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -572,7 +619,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập cuối năm (theo phân phối chương trình)",
+   "title": "Ôn tập, đánh giá cuối năm học",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,

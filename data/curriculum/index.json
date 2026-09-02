@@ -6,7 +6,7 @@
    "grade": 1,
    "subjectId": "am-nhac",
    "file": "curriculum/lop1/am-nhac.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 35,
     "weeks": 35,
@@ -16,7 +16,7 @@
     "integrations": 43
    },
    "source": {
-    "file": "Lớp 1/KHDH Âm nhạc lớp 1 (2026-2027).docx",
+    "file": "Lớp 1/KHDH Âm nhạc lớp 1 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -24,17 +24,17 @@
    "grade": 1,
    "subjectId": "dao-duc",
    "file": "curriculum/lop1/dao-duc.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 35,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 44
+    "integrations": 31
    },
    "source": {
-    "file": "Lớp 1/KHDH Đạo đức lớp 1 (2026-2027).docx",
+    "file": "Lớp 1/KHDH Đạo đức lớp 1 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -42,17 +42,17 @@
    "grade": 1,
    "subjectId": "giao-duc-the-chat",
    "file": "curriculum/lop1/giao-duc-the-chat.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 70,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 70,
-    "integrations": 101
+    "integrations": 8
    },
    "source": {
-    "file": "Lớp 1/KHDH GDTC lớp 1 (2026-2027).docx",
+    "file": "Lớp 1/KHDH GDTC lớp 1 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -60,17 +60,17 @@
    "grade": 1,
    "subjectId": "hoat-dong-trai-nghiem",
    "file": "curriculum/lop1/hoat-dong-trai-nghiem.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 105,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 105,
-    "integrations": 143
+    "integrations": 28
    },
    "source": {
-    "file": "Lớp 1/KHDH HĐTN lớp 1 (2026-2027).docx",
+    "file": "Lớp 1/KHDH HĐTN lớp 1 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -78,17 +78,17 @@
    "grade": 1,
    "subjectId": "mi-thuat",
    "file": "curriculum/lop1/mi-thuat.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 35,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 38
+    "integrations": 5
    },
    "source": {
-    "file": "Lớp 1/KHDH Mĩ thuật lớp 1 (2026-2027).docx",
+    "file": "Lớp 1/KHDH Mĩ thuật lớp 1 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -96,17 +96,17 @@
    "grade": 1,
    "subjectId": "tieng-viet",
    "file": "curriculum/lop1/tieng-viet.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 420,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 122,
-    "integrations": 75
+    "integrations": 17
    },
    "source": {
-    "file": "Lớp 1/KHDH Tiếng Việt lớp 1 (2026-2027).docx",
+    "file": "Lớp 1/KHDH Tiếng Việt lớp 1 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -114,17 +114,17 @@
    "grade": 1,
    "subjectId": "toan",
    "file": "curriculum/lop1/toan.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 105,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 105,
-    "integrations": 32
+    "integrations": 20
    },
    "source": {
-    "file": "Lớp 1/KHDH Toán lớp 1 (2026-2027).docx",
+    "file": "Lớp 1/KHDH Toán lớp 1 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -132,17 +132,17 @@
    "grade": 1,
    "subjectId": "tu-nhien-va-xa-hoi",
    "file": "curriculum/lop1/tu-nhien-va-xa-hoi.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 70,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 70,
-    "integrations": 83
+    "integrations": 30
    },
    "source": {
-    "file": "Lớp 1/KHDH Tự nhiên và Xã hội lớp 1 (2026-2027).docx",
+    "file": "Lớp 1/KHDH Tự nhiên và Xã hội lớp 1 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -150,17 +150,17 @@
    "grade": 2,
    "subjectId": "am-nhac",
    "file": "curriculum/lop2/am-nhac.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 35,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 43
+    "integrations": 31
    },
    "source": {
-    "file": "Lớp 2/KHDH Âm nhạc lớp 2 (2026-2027).docx",
+    "file": "Lớp 2/KHDH Âm nhạc lớp 2 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -168,169 +168,7 @@
    "grade": 2,
    "subjectId": "dao-duc",
    "file": "curriculum/lop2/dao-duc.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 28
-   },
-   "source": {
-    "file": "Lớp 2/KHDH Đạo đức lớp 2 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 2,
-   "subjectId": "giao-duc-the-chat",
-   "file": "curriculum/lop2/giao-duc-the-chat.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 70,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 70,
-    "integrations": 92
-   },
-   "source": {
-    "file": "Lớp 2/KHDH GDTC lớp 2 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 2,
-   "subjectId": "hoat-dong-trai-nghiem",
-   "file": "curriculum/lop2/hoat-dong-trai-nghiem.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 105,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 105,
-    "integrations": 156
-   },
-   "source": {
-    "file": "Lớp 2/KHDH HĐTN lớp 2 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 2,
-   "subjectId": "mi-thuat",
-   "file": "curriculum/lop2/mi-thuat.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 48
-   },
-   "source": {
-    "file": "Lớp 2/KHDH Mĩ thuật lớp 2 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 2,
-   "subjectId": "tieng-viet",
-   "file": "curriculum/lop2/tieng-viet.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 350,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 219,
-    "integrations": 124
-   },
-   "source": {
-    "file": "Lớp 2/KHDH Tiếng Việt lớp 2 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 2,
-   "subjectId": "toan",
-   "file": "curriculum/lop2/toan.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 175,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 174,
-    "integrations": 88
-   },
-   "source": {
-    "file": "Lớp 2/KHDH Toán lớp 2 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 2,
-   "subjectId": "tu-nhien-va-xa-hoi",
-   "file": "curriculum/lop2/tu-nhien-va-xa-hoi.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 70,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 70,
-    "integrations": 53
-   },
-   "source": {
-    "file": "Lớp 2/KHDH Tự nhiên và Xã hội lớp 2 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 3,
-   "subjectId": "am-nhac",
-   "file": "curriculum/lop3/am-nhac.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 1
-   },
-   "source": {
-    "file": "Lớp 3/KHDH Âm nhạc lớp 3 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 3,
-   "subjectId": "cong-nghe",
-   "file": "curriculum/lop3/cong-nghe.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 42
-   },
-   "source": {
-    "file": "Lớp 3/KHDH Công nghệ lớp 3 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 3,
-   "subjectId": "dao-duc",
-   "file": "curriculum/lop3/dao-duc.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 35,
     "weeks": 35,
@@ -340,501 +178,123 @@
     "integrations": 25
    },
    "source": {
-    "file": "Lớp 3/KHDH Đạo đức lớp 3 (2026-2027).docx",
+    "file": "Lớp 2/KHDH Đạo đức lớp 2 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
   {
-   "grade": 3,
+   "grade": 2,
    "subjectId": "giao-duc-the-chat",
-   "file": "curriculum/lop3/giao-duc-the-chat.json",
-   "status": "draft",
+   "file": "curriculum/lop2/giao-duc-the-chat.json",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 70,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 70,
-    "integrations": 112
+    "integrations": 9
    },
    "source": {
-    "file": "Lớp 3/KHDH GDTC lớp 3 (2026-2027).docx",
+    "file": "Lớp 2/KHDH GDTC lớp 2 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
   {
-   "grade": 3,
+   "grade": 2,
    "subjectId": "hoat-dong-trai-nghiem",
-   "file": "curriculum/lop3/hoat-dong-trai-nghiem.json",
-   "status": "draft",
+   "file": "curriculum/lop2/hoat-dong-trai-nghiem.json",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 105,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 105,
-    "integrations": 131
+    "integrations": 52
    },
    "source": {
-    "file": "Lớp 3/KHDH HĐTN lớp 3 (2026-2027).docx",
+    "file": "Lớp 2/KHDH HĐTN lớp 2 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
   {
-   "grade": 3,
+   "grade": 2,
    "subjectId": "mi-thuat",
-   "file": "curriculum/lop3/mi-thuat.json",
-   "status": "draft",
+   "file": "curriculum/lop2/mi-thuat.json",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 35,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 36
+    "integrations": 35
    },
    "source": {
-    "file": "Lớp 3/KHDH Mĩ thuật lớp 3 (2026-2027).docx",
+    "file": "Lớp 2/KHDH Mĩ thuật lớp 2 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
   {
-   "grade": 3,
-   "subjectId": "ngoai-ngu-1",
-   "file": "curriculum/lop3/ngoai-ngu-1.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 140,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 140,
-    "integrations": 240
-   },
-   "source": {
-    "file": "Lớp 3/KHDH Tiếng Anh lớp 3 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 3,
+   "grade": 2,
    "subjectId": "tieng-viet",
-   "file": "curriculum/lop3/tieng-viet.json",
-   "status": "draft",
+   "file": "curriculum/lop2/tieng-viet.json",
+   "status": "reviewed",
    "summary": {
-    "totalPeriods": 245,
+    "totalPeriods": 350,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
-    "lessons": 163,
-    "integrations": 145
+    "lessons": 219,
+    "integrations": 43
    },
    "source": {
-    "file": "Lớp 3/KHDH Tiếng Việt lớp 3 (2026-2027).docx",
+    "file": "Lớp 2/KHDH Tiếng Việt lớp 2 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
   {
-   "grade": 3,
-   "subjectId": "tin-hoc",
-   "file": "curriculum/lop3/tin-hoc.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 15
-   },
-   "source": {
-    "file": "Lớp 3/KHDH Tin học lớp 3 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 3,
+   "grade": 2,
    "subjectId": "toan",
-   "file": "curriculum/lop3/toan.json",
-   "status": "draft",
+   "file": "curriculum/lop2/toan.json",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 175,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
-    "lessons": 175,
-    "integrations": 60
+    "lessons": 174,
+    "integrations": 27
    },
    "source": {
-    "file": "Lớp 3/KHDH Toán lớp 3 (2026-2027).docx",
+    "file": "Lớp 2/KHDH Toán lớp 2 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
   {
-   "grade": 3,
+   "grade": 2,
    "subjectId": "tu-nhien-va-xa-hoi",
-   "file": "curriculum/lop3/tu-nhien-va-xa-hoi.json",
-   "status": "draft",
+   "file": "curriculum/lop2/tu-nhien-va-xa-hoi.json",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 70,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 70,
-    "integrations": 64
+    "integrations": 27
    },
    "source": {
-    "file": "Lớp 3/KHDH Tự nhiên và Xã hội lớp 3 (2026-2027).docx",
+    "file": "Lớp 2/KHDH Tự nhiên và Xã hội lớp 2 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
   {
-   "grade": 4,
+   "grade": 3,
    "subjectId": "am-nhac",
-   "file": "curriculum/lop4/am-nhac.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 45
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Âm nhạc lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "cong-nghe",
-   "file": "curriculum/lop4/cong-nghe.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 20
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Công nghệ lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "dao-duc",
-   "file": "curriculum/lop4/dao-duc.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 19
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Đạo đức lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "giao-duc-the-chat",
-   "file": "curriculum/lop4/giao-duc-the-chat.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 70,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 70,
-    "integrations": 96
-   },
-   "source": {
-    "file": "Lớp 4/KHDH GDTC lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "hoat-dong-trai-nghiem",
-   "file": "curriculum/lop4/hoat-dong-trai-nghiem.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 105,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 105,
-    "integrations": 104
-   },
-   "source": {
-    "file": "Lớp 4/KHDH HĐTN lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "khoa-hoc",
-   "file": "curriculum/lop4/khoa-hoc.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 70,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 70,
-    "integrations": 58
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Khoa học lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "lich-su-va-dia-li",
-   "file": "curriculum/lop4/lich-su-va-dia-li.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 70,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 70,
-    "integrations": 62
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Lịch sử & Địa lí lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "mi-thuat",
-   "file": "curriculum/lop4/mi-thuat.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 40
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Mĩ thuật lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "ngoai-ngu-1",
-   "file": "curriculum/lop4/ngoai-ngu-1.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 140,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 140,
-    "integrations": 240
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Tiếng Anh lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "tieng-viet",
-   "file": "curriculum/lop4/tieng-viet.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 245,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 194,
-    "integrations": 141
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Tiếng Việt lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "tin-hoc",
-   "file": "curriculum/lop4/tin-hoc.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 24
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Tin học lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 4,
-   "subjectId": "toan",
-   "file": "curriculum/lop4/toan.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 175,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 175,
-    "integrations": 36
-   },
-   "source": {
-    "file": "Lớp 4/KHDH Toán lớp 4 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 5,
-   "subjectId": "am-nhac",
-   "file": "curriculum/lop5/am-nhac.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 36
-   },
-   "source": {
-    "file": "Lớp 5/KHDH Âm nhạc lớp 5 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 5,
-   "subjectId": "cong-nghe",
-   "file": "curriculum/lop5/cong-nghe.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 50
-   },
-   "source": {
-    "file": "Lớp 5/KHDH Công nghệ lớp 5 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 5,
-   "subjectId": "dao-duc",
-   "file": "curriculum/lop5/dao-duc.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 35,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 35,
-    "integrations": 30
-   },
-   "source": {
-    "file": "Lớp 5/KHDH Đạo đức lớp 5 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 5,
-   "subjectId": "giao-duc-the-chat",
-   "file": "curriculum/lop5/giao-duc-the-chat.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 70,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 70,
-    "integrations": 69
-   },
-   "source": {
-    "file": "Lớp 5/KHDH GDTC lớp 5 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 5,
-   "subjectId": "hoat-dong-trai-nghiem",
-   "file": "curriculum/lop5/hoat-dong-trai-nghiem.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 105,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 105,
-    "integrations": 118
-   },
-   "source": {
-    "file": "Lớp 5/KHDH HĐTN lớp 5 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 5,
-   "subjectId": "khoa-hoc",
-   "file": "curriculum/lop5/khoa-hoc.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 70,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 70,
-    "integrations": 70
-   },
-   "source": {
-    "file": "Lớp 5/KHDH Khoa học lớp 5 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 5,
-   "subjectId": "lich-su-va-dia-li",
-   "file": "curriculum/lop5/lich-su-va-dia-li.json",
-   "status": "draft",
-   "summary": {
-    "totalPeriods": 70,
-    "weeks": 35,
-    "semester1Weeks": 18,
-    "semester2Weeks": 17,
-    "lessons": 70,
-    "integrations": 90
-   },
-   "source": {
-    "file": "Lớp 5/KHDH Lịch sử & Địa lí lớp 5 (2026-2027).docx",
-    "importedAt": "2026-09-02"
-   }
-  },
-  {
-   "grade": 5,
-   "subjectId": "mi-thuat",
-   "file": "curriculum/lop5/mi-thuat.json",
-   "status": "draft",
+   "file": "curriculum/lop3/am-nhac.json",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 35,
     "weeks": 35,
@@ -844,7 +304,547 @@
     "integrations": 9
    },
    "source": {
-    "file": "Lớp 5/KHDH Mĩ thuật lớp 5 (2026-2027).docx",
+    "file": "Lớp 3/KHDH Âm nhạc lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "cong-nghe",
+   "file": "curriculum/lop3/cong-nghe.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 15
+   },
+   "source": {
+    "file": "Lớp 3/KHDH Công nghệ lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "dao-duc",
+   "file": "curriculum/lop3/dao-duc.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 10
+   },
+   "source": {
+    "file": "Lớp 3/KHDH Đạo đức lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "giao-duc-the-chat",
+   "file": "curriculum/lop3/giao-duc-the-chat.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 70,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 70,
+    "integrations": 11
+   },
+   "source": {
+    "file": "Lớp 3/KHDH GDTC lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "hoat-dong-trai-nghiem",
+   "file": "curriculum/lop3/hoat-dong-trai-nghiem.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 105,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 105,
+    "integrations": 20
+   },
+   "source": {
+    "file": "Lớp 3/KHDH HĐTN lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "mi-thuat",
+   "file": "curriculum/lop3/mi-thuat.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 36
+   },
+   "source": {
+    "file": "Lớp 3/KHDH Mĩ thuật lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "ngoai-ngu-1",
+   "file": "curriculum/lop3/ngoai-ngu-1.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 140,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 140,
+    "integrations": 23
+   },
+   "source": {
+    "file": "Lớp 3/KHDH Tiếng Anh lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "tieng-viet",
+   "file": "curriculum/lop3/tieng-viet.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 245,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 163,
+    "integrations": 60
+   },
+   "source": {
+    "file": "Lớp 3/KHDH Tiếng Việt lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "tin-hoc",
+   "file": "curriculum/lop3/tin-hoc.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 7
+   },
+   "source": {
+    "file": "Lớp 3/KHDH Tin học lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "toan",
+   "file": "curriculum/lop3/toan.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 175,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 175,
+    "integrations": 36
+   },
+   "source": {
+    "file": "Lớp 3/KHDH Toán lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 3,
+   "subjectId": "tu-nhien-va-xa-hoi",
+   "file": "curriculum/lop3/tu-nhien-va-xa-hoi.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 70,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 70,
+    "integrations": 13
+   },
+   "source": {
+    "file": "Lớp 3/KHDH Tự nhiên và Xã hội lớp 3 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "am-nhac",
+   "file": "curriculum/lop4/am-nhac.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 45
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Âm nhạc lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "cong-nghe",
+   "file": "curriculum/lop4/cong-nghe.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 8
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Công nghệ lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "dao-duc",
+   "file": "curriculum/lop4/dao-duc.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 12
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Đạo đức lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "giao-duc-the-chat",
+   "file": "curriculum/lop4/giao-duc-the-chat.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 70,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 70,
+    "integrations": 12
+   },
+   "source": {
+    "file": "Lớp 4/KHDH GDTC lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "hoat-dong-trai-nghiem",
+   "file": "curriculum/lop4/hoat-dong-trai-nghiem.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 105,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 105,
+    "integrations": 64
+   },
+   "source": {
+    "file": "Lớp 4/KHDH HĐTN lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "khoa-hoc",
+   "file": "curriculum/lop4/khoa-hoc.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 70,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 70,
+    "integrations": 32
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Khoa học lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "lich-su-va-dia-li",
+   "file": "curriculum/lop4/lich-su-va-dia-li.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 70,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 70,
+    "integrations": 23
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Lịch sử & Địa lí lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "mi-thuat",
+   "file": "curriculum/lop4/mi-thuat.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 10
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Mĩ thuật lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "ngoai-ngu-1",
+   "file": "curriculum/lop4/ngoai-ngu-1.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 140,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 140,
+    "integrations": 32
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Tiếng Anh lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "tieng-viet",
+   "file": "curriculum/lop4/tieng-viet.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 245,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 194,
+    "integrations": 74
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Tiếng Việt lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "tin-hoc",
+   "file": "curriculum/lop4/tin-hoc.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 20
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Tin học lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 4,
+   "subjectId": "toan",
+   "file": "curriculum/lop4/toan.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 175,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 175,
+    "integrations": 36
+   },
+   "source": {
+    "file": "Lớp 4/KHDH Toán lớp 4 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 5,
+   "subjectId": "am-nhac",
+   "file": "curriculum/lop5/am-nhac.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 17
+   },
+   "source": {
+    "file": "Lớp 5/KHDH Âm nhạc lớp 5 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 5,
+   "subjectId": "cong-nghe",
+   "file": "curriculum/lop5/cong-nghe.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 69
+   },
+   "source": {
+    "file": "Lớp 5/KHDH Công nghệ lớp 5 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 5,
+   "subjectId": "dao-duc",
+   "file": "curriculum/lop5/dao-duc.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 33
+   },
+   "source": {
+    "file": "Lớp 5/KHDH Đạo đức lớp 5 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 5,
+   "subjectId": "giao-duc-the-chat",
+   "file": "curriculum/lop5/giao-duc-the-chat.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 70,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 70,
+    "integrations": 42
+   },
+   "source": {
+    "file": "Lớp 5/KHDH GDTC lớp 5 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 5,
+   "subjectId": "hoat-dong-trai-nghiem",
+   "file": "curriculum/lop5/hoat-dong-trai-nghiem.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 105,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 105,
+    "integrations": 87
+   },
+   "source": {
+    "file": "Lớp 5/KHDH HĐTN lớp 5 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 5,
+   "subjectId": "khoa-hoc",
+   "file": "curriculum/lop5/khoa-hoc.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 70,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 70,
+    "integrations": 34
+   },
+   "source": {
+    "file": "Lớp 5/KHDH Khoa học lớp 5 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 5,
+   "subjectId": "lich-su-va-dia-li",
+   "file": "curriculum/lop5/lich-su-va-dia-li.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 70,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 70,
+    "integrations": 45
+   },
+   "source": {
+    "file": "Lớp 5/KHDH Lịch sử & Địa lí lớp 5 (2026-2027) (đã rà soát).docx",
+    "importedAt": "2026-09-02"
+   }
+  },
+  {
+   "grade": 5,
+   "subjectId": "mi-thuat",
+   "file": "curriculum/lop5/mi-thuat.json",
+   "status": "reviewed",
+   "summary": {
+    "totalPeriods": 35,
+    "weeks": 35,
+    "semester1Weeks": 18,
+    "semester2Weeks": 17,
+    "lessons": 35,
+    "integrations": 7
+   },
+   "source": {
+    "file": "Lớp 5/KHDH Mĩ thuật lớp 5 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -852,17 +852,17 @@
    "grade": 5,
    "subjectId": "ngoai-ngu-1",
    "file": "curriculum/lop5/ngoai-ngu-1.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 140,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 140,
-    "integrations": 237
+    "integrations": 130
    },
    "source": {
-    "file": "Lớp 5/KHDH Tiếng Anh lớp 5 (2026-2027).docx",
+    "file": "Lớp 5/KHDH Tiếng Anh lớp 5 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -870,17 +870,17 @@
    "grade": 5,
    "subjectId": "tieng-viet",
    "file": "curriculum/lop5/tieng-viet.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 245,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 210,
-    "integrations": 145
+    "integrations": 156
    },
    "source": {
-    "file": "Lớp 5/KHDH Tiếng Việt lớp 5 (2026-2027).docx",
+    "file": "Lớp 5/KHDH Tiếng Việt lớp 5 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -888,17 +888,17 @@
    "grade": 5,
    "subjectId": "tin-hoc",
    "file": "curriculum/lop5/tin-hoc.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 35,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 39
+    "integrations": 26
    },
    "source": {
-    "file": "Lớp 5/KHDH Tin học lớp 5 (2026-2027).docx",
+    "file": "Lớp 5/KHDH Tin học lớp 5 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   },
@@ -906,17 +906,17 @@
    "grade": 5,
    "subjectId": "toan",
    "file": "curriculum/lop5/toan.json",
-   "status": "draft",
+   "status": "reviewed",
    "summary": {
     "totalPeriods": 175,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 175,
-    "integrations": 28
+    "integrations": 30
    },
    "source": {
-    "file": "Lớp 5/KHDH Toán lớp 5 (2026-2027).docx",
+    "file": "Lớp 5/KHDH Toán lớp 5 (2026-2027) (đã rà soát).docx",
     "importedAt": "2026-09-02"
    }
   }

@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 5,
  "subjectId": "mi-thuat",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH Mĩ thuật lớp 5 (2026-2027).docx",
+  "file": "Lớp 5/KHDH Mĩ thuật lớp 5 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 9
+  "integrations": 7
  },
  "lessons": [
   {
@@ -616,18 +616,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "quan sát tranh/ảnh số; lưu ảnh sản phẩm mĩ thuật để chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

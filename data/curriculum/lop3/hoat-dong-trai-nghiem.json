@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 3,
  "subjectId": "hoat-dong-trai-nghiem",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH HĐTN lớp 3 (2026-2027).docx",
+  "file": "Lớp 3/KHDH HĐTN lớp 3 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,14 +14,14 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 131
+  "integrations": 20
  },
  "lessons": [
   {
    "id": "l3-hoat-dong-trai-nghiem-001",
    "semester": 1,
    "week": 1,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 1: Chân dung em – Nét riêng mỗi người — Sinh hoạt dưới cờ: Chào năm học mới",
    "content": "",
    "periodLabel": "Tiết 1 (3 tiết)",
@@ -37,13 +37,13 @@
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
     }
    ],
-   "note": ""
+   "note": "Tổ CM tách và ghi tên Chủ đề 1, 2, 3 theo mục lục SGK."
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-002",
    "semester": 1,
    "week": 1,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Chân dung em",
    "content": "",
    "periodLabel": "Tiết 2",
@@ -52,20 +52,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-003",
    "semester": 1,
    "week": 1,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Nét riêng của mỗi người",
    "content": "",
    "periodLabel": "Tiết 3",
@@ -74,20 +68,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-004",
    "semester": 1,
    "week": 2,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 2: Sở thích của em- tài năng học trò — Sinh hoạt dưới cờ: Câu lạc bộ theo sở thích",
    "content": "",
    "periodLabel": "Tiết 4 (3 tiết)",
@@ -97,11 +85,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -114,7 +97,7 @@
    "id": "l3-hoat-dong-trai-nghiem-005",
    "semester": 1,
    "week": 2,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Sở thích của em",
    "content": "",
    "periodLabel": "Tiết 5",
@@ -123,20 +106,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-006",
    "semester": 1,
    "week": 2,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: tài năng học trò",
    "content": "",
    "periodLabel": "Tiết 6",
@@ -145,20 +122,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-007",
    "semester": 1,
    "week": 3,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 3: Ngôi sao của tôi, ngôi sao của bạn – Sản phẩm theo sở thích — Sinh hoạt dưới cờ: Giao lưu tài năng của học trò",
    "content": "",
    "periodLabel": "Tiết 7 (3 tiết)",
@@ -167,25 +138,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-008",
    "semester": 1,
    "week": 3,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Ngôi sao của tôi, ngôi sao của bạn",
    "content": "",
    "periodLabel": "Tiết 8",
@@ -194,20 +154,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-009",
    "semester": 1,
    "week": 3,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Sản phẩm theo sở thích",
    "content": "",
    "periodLabel": "Tiết 9",
@@ -216,20 +170,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-010",
    "semester": 1,
    "week": 4,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 4: Đọc sách theo sở thích- danh mục theo sở thích — Sinh hoạt dưới cờ: Giới thiệu sản phẩm của các câu lạc bộ",
    "content": "",
    "periodLabel": "Tiết 10 (3 tiết)",
@@ -238,25 +186,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-011",
    "semester": 1,
    "week": 4,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Đọc sách theo sở thích",
    "content": "",
    "periodLabel": "Tiết 11",
@@ -265,20 +202,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-012",
    "semester": 1,
    "week": 4,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Danh mục sách theo sở thích",
    "content": "",
    "periodLabel": "Tiết 12",
@@ -287,20 +218,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-013",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 5: Thời gian biểu của em- quý trọng thời gian — Sinh hoạt dưới cờ: Đêm hội trăng rằm",
    "content": "",
    "periodLabel": "Tiết 13 (3 tiết)",
@@ -310,11 +235,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -327,7 +247,7 @@
    "id": "l3-hoat-dong-trai-nghiem-014",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Thời gian biểu của em",
    "content": "",
    "periodLabel": "Tiết 14",
@@ -336,21 +256,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-015",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề:Quý trọng thời gian",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Quý trọng thời gian",
    "content": "",
    "periodLabel": "Tiết 15",
    "periodFrom": 15,
@@ -358,20 +272,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-016",
    "semester": 1,
    "week": 6,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 6: Cuốn sổ nhắc việc – làm việc theo kế hoạch — Sinh hoạt dưới cờ: Sách bút thân yêu",
    "content": "",
    "periodLabel": "Tiết 16 (3 tiết)",
@@ -381,11 +289,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -398,7 +301,7 @@
    "id": "l3-hoat-dong-trai-nghiem-017",
    "semester": 1,
    "week": 6,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Cuốn sổ nhắc việc",
    "content": "",
    "periodLabel": "Tiết 17",
@@ -407,20 +310,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-018",
    "semester": 1,
    "week": 6,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Làm việc theo kế hoạch",
    "content": "",
    "periodLabel": "Tiết 18",
@@ -429,20 +326,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-019",
    "semester": 1,
    "week": 7,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 7: Ứng xử với đồ cũ – Phân loại đồ cũ — Sinh hoạt dưới cờ: Hội chợ trao đổi đồ dùng đồ chơi",
    "content": "",
    "periodLabel": "Tiết 19 (3 tiết)",
@@ -451,20 +342,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-020",
    "semester": 1,
    "week": 7,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: ứng xử với đồ cũ",
    "content": "",
    "periodLabel": "Tiết 20",
@@ -473,20 +358,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-021",
    "semester": 1,
    "week": 7,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Phân loại đồ cũ",
    "content": "",
    "periodLabel": "Tiết 21",
@@ -495,20 +374,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-022",
    "semester": 1,
    "week": 8,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 8: Người tiêu dùng thông minh – Cũ mà vẫn tốt — Sinh hoạt dưới cờ: Ngày hội tiêu dùng thông minh",
    "content": "",
    "periodLabel": "Tiết 22 (3 tiết)",
@@ -517,20 +390,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-023",
    "semester": 1,
    "week": 8,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Người tiêu dùng thông minh",
    "content": "",
    "periodLabel": "Tiết 23",
@@ -539,20 +406,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-024",
    "semester": 1,
    "week": 8,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Cũ mà vẫn tốt",
    "content": "",
    "periodLabel": "Tiết 24",
@@ -561,20 +422,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-025",
    "semester": 1,
    "week": 9,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 9: Lớp học của em – Lớp học thân thương — Sinh hoạt dưới cờ: Phong trào xây dựng tủ sách lớp học",
    "content": "",
    "periodLabel": "Tiết 25 (3 tiết)",
@@ -583,20 +438,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-026",
    "semester": 1,
    "week": 9,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Lớp học của em",
    "content": "",
    "periodLabel": "Tiết 26",
@@ -605,21 +454,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-027",
    "semester": 1,
    "week": 9,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề : Lớp học thân thương",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Lớp học thân thương",
    "content": "",
    "periodLabel": "Tiết 27",
    "periodFrom": 27,
@@ -627,21 +470,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-028",
    "semester": 1,
    "week": 10,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
-   "title": "Bài 10: Bảo vệ tình bạn – Chúng mình hiểu nhau — Sinh hoạt dưới cờ: Triển lãm tranh về chủ đề “ Tình bạn”",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
+   "title": "Bài 10: Bảo vệ tình bạn – Chúng mình hiểu nhau — Sinh hoạt dưới cờ: Triển lãm tranh về chủ đề “Tình bạn”",
    "content": "",
    "periodLabel": "Tiết 28 (3 tiết)",
    "periodFrom": 28,
@@ -649,20 +486,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-029",
    "semester": 1,
    "week": 10,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Bảo vệ tình bạn",
    "content": "",
    "periodLabel": "Tiết 29",
@@ -671,20 +502,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-030",
    "semester": 1,
    "week": 10,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Chúng mình hiểu nhau",
    "content": "",
    "periodLabel": "Tiết 30",
@@ -693,21 +518,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-031",
    "semester": 1,
    "week": 11,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
-   "title": "Bài 11: Phấn đấu trờ thành Đội viên – Tự hào về Đội ta — Sinh hoạt dưới cờ: Gương sáng đội ta",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
+   "title": "Bài 11: Phấn đấu trở thành Đội viên – Tự hào về Đội ta — Sinh hoạt dưới cờ: Gương sáng đội ta",
    "content": "",
    "periodLabel": "Tiết 31 (3 tiết)",
    "periodFrom": 31,
@@ -715,25 +534,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-032",
    "semester": 1,
    "week": 11,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Phấn đấu trở thành đội viên",
    "content": "",
    "periodLabel": "Tiết 32",
@@ -742,20 +550,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-033",
    "semester": 1,
    "week": 11,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Tự hào về Đội ta",
    "content": "",
    "periodLabel": "Tiết 33",
@@ -764,20 +566,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-034",
    "semester": 1,
    "week": 12,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Bài 12: Thầy cô trong mắt em- Món quà tặng thầy cô — Sinh hoạt dưới cờ: Chào mừng ngày nhà giáo Việt Nam",
    "content": "",
    "periodLabel": "Tiết 34 (3 tiết)",
@@ -786,20 +582,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-035",
    "semester": 1,
    "week": 12,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Thầy cô trong mắt em",
    "content": "",
    "periodLabel": "Tiết 35",
@@ -808,20 +598,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-036",
    "semester": 1,
    "week": 12,
-   "theme": "CHỦ ĐỀ 1: TỰ GIỚI THIỆU VỀ MÌNH (36 tiết)",
+   "theme": "CHỦ ĐỀ 1 – 3 (36 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Món quà tặng thầy cô",
    "content": "",
    "periodLabel": "Tiết 36",
@@ -830,13 +614,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -879,13 +657,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -901,13 +673,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -915,7 +681,7 @@
    "semester": 1,
    "week": 14,
    "theme": "CHỦ ĐỀ 4: Tự phục vụ bản thân (15 tiết)",
-   "title": "Bài 14 : — Sinh hoạt dưới cờ: Thư viện em yêu",
+   "title": "Bài 14: Góc học tập đáng yêu – Góc nhà thân thương — Sinh hoạt dưới cờ: Thư viện em yêu",
    "content": "",
    "periodLabel": "Tiết 40 (3 tiết)",
    "periodFrom": 40,
@@ -923,18 +689,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -950,13 +705,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -972,13 +721,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -986,7 +729,7 @@
    "semester": 1,
    "week": 15,
    "theme": "CHỦ ĐỀ 4: Tự phục vụ bản thân (15 tiết)",
-   "title": "Bài 15: — Sinh hoạt dưới cờ: Chào mừng ngày thành lập quân đội nhân dân Việt Nam 22-12",
+   "title": "Bài 15: Nhà là tổ ấm – Em chăm sóc nhà cửa — Sinh hoạt dưới cờ: Chào mừng ngày thành lập quân đội nhân dân Việt Nam 22-12",
    "content": "",
    "periodLabel": "Tiết 43 (3 tiết)",
    "periodFrom": 43,
@@ -995,11 +738,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -1021,13 +759,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1043,13 +775,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1057,7 +783,7 @@
    "semester": 1,
    "week": 16,
    "theme": "CHỦ ĐỀ 4: Tự phục vụ bản thân (15 tiết)",
-   "title": "Bài 16 : — Sinh hoạt dưới cờ: Nét đẹp học trò",
+   "title": "Bài 16: Nhà sạch thì mát – Chăm làm việc nhà — Sinh hoạt dưới cờ: Nét đẹp học trò",
    "content": "",
    "periodLabel": "Tiết 46 (3 tiết)",
    "periodFrom": 46,
@@ -1065,18 +791,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1092,13 +807,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1114,13 +823,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1128,7 +831,7 @@
    "semester": 1,
    "week": 17,
    "theme": "CHỦ ĐỀ 4: Tự phục vụ bản thân (15 tiết)",
-   "title": "Bài 17: — Sinh hoạt dưới cờ: Kỉ niệm theo ta",
+   "title": "Bài 17: Đồ dùng của người thân – Câu chuyện yêu thương — Sinh hoạt dưới cờ: Kỉ niệm theo ta",
    "content": "",
    "periodLabel": "Tiết 49 (3 tiết)",
    "periodFrom": 49,
@@ -1136,18 +839,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1163,13 +855,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1185,21 +871,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-052",
    "semester": 1,
    "week": 18,
-   "theme": "CHỦ ĐỀ 5:Gia đình thân thưng (9 tiết)",
-   "title": "Bài 18: — Sinh hoạt dưới cờ: Biết ơn người thân trong gia đình",
+   "theme": "CHỦ ĐỀ 5: Gia đình thân thương (9 tiết)",
+   "title": "Bài 18: Lá thư tri ân – Tình cảm gia đình — Sinh hoạt dưới cờ: Biết ơn người thân trong gia đình",
    "content": "",
    "periodLabel": "Tiết 52 (3 tiết)",
    "periodFrom": 52,
@@ -1225,8 +905,8 @@
    "id": "l3-hoat-dong-trai-nghiem-053",
    "semester": 1,
    "week": 18,
-   "theme": "CHỦ ĐỀ 5:Gia đình thân thưng (9 tiết)",
-   "title": "Hoạt động giáo dục theo chủ đề: Lá thưu tri ân",
+   "theme": "CHỦ ĐỀ 5: Gia đình thân thương (9 tiết)",
+   "title": "Hoạt động giáo dục theo chủ đề: Lá thư tri ân",
    "content": "",
    "periodLabel": "Tiết 53",
    "periodFrom": 53,
@@ -1234,21 +914,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-054",
    "semester": 1,
    "week": 18,
-   "theme": "CHỦ ĐỀ 5:Gia đình thân thưng (9 tiết)",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Tình cảm giá đình",
+   "theme": "CHỦ ĐỀ 5: Gia đình thân thương (9 tiết)",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Tình cảm gia đình",
    "content": "",
    "periodLabel": "Tiết 54",
    "periodFrom": 54,
@@ -1256,21 +930,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-055",
    "semester": 2,
    "week": 19,
-   "theme": "CHỦ ĐỀ 5:Gia đình thân thưng (9 tiết)",
-   "title": "Bài 19: — Sinh hoạt dưới cờ: Cùng người thân sắm Tết",
+   "theme": "CHỦ ĐỀ 5: Gia đình thân thương (9 tiết)",
+   "title": "Bài 19: Lao động và thu nhập gia đình – Mua sắm tiết kiệm — Sinh hoạt dưới cờ: Cùng người thân sắm Tết",
    "content": "",
    "periodLabel": "Tiết 55 (3 tiết)",
    "periodFrom": 55,
@@ -1278,20 +946,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-056",
    "semester": 2,
    "week": 19,
-   "theme": "CHỦ ĐỀ 5:Gia đình thân thưng (9 tiết)",
+   "theme": "CHỦ ĐỀ 5: Gia đình thân thương (9 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: lao động và thu nhập gia đình",
    "content": "",
    "periodLabel": "Tiết 56",
@@ -1300,20 +962,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-057",
    "semester": 2,
    "week": 19,
-   "theme": "CHỦ ĐỀ 5:Gia đình thân thưng (9 tiết)",
+   "theme": "CHỦ ĐỀ 5: Gia đình thân thương (9 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Mua sắm tiết kiệm",
    "content": "",
    "periodLabel": "Tiết 57",
@@ -1322,21 +978,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-058",
    "semester": 2,
    "week": 20,
-   "theme": "CHỦ ĐỀ 5:Gia đình thân thưng (9 tiết)",
-   "title": "Bài 20: — Sinh hoạt dưới cờ: Ngày hội gia đình",
+   "theme": "CHỦ ĐỀ 5: Gia đình thân thương (9 tiết)",
+   "title": "Bài 20: Tiết kiệm điện nước trong gia đình – Sử dụng thiết bị điện, nước — Sinh hoạt dưới cờ: Ngày hội gia đình",
    "content": "",
    "periodLabel": "Tiết 58 (3 tiết)",
    "periodFrom": 58,
@@ -1344,20 +994,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-059",
    "semester": 2,
    "week": 20,
-   "theme": "CHỦ ĐỀ 5:Gia đình thân thưng (9 tiết)",
+   "theme": "CHỦ ĐỀ 5: Gia đình thân thương (9 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Tiết kiệm điện nước trong gia đình",
    "content": "",
    "periodLabel": "Tiết 59",
@@ -1366,20 +1010,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-060",
    "semester": 2,
    "week": 20,
-   "theme": "CHỦ ĐỀ 5:Gia đình thân thưng (9 tiết)",
+   "theme": "CHỦ ĐỀ 5: Gia đình thân thương (9 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Sử dụng thiết bị điện, nước",
    "content": "",
    "periodLabel": "Tiết 60",
@@ -1388,13 +1026,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1402,7 +1034,7 @@
    "semester": 2,
    "week": 21,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân (12 tiết)",
-   "title": "Bài 21: — Sinh hoạt dưới cờ: Vì tầm vóc việt",
+   "title": "Bài 21: Bếp nhà em – Tiêu chí đánh giá của ông Táo — Sinh hoạt dưới cờ: Vì tầm vóc Việt",
    "content": "",
    "periodLabel": "Tiết 61 (3 tiết)",
    "periodFrom": 61,
@@ -1437,13 +1069,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1467,7 +1093,7 @@
    "semester": 2,
    "week": 22,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân (12 tiết)",
-   "title": "Bài 22: — Sinh hoạt dưới cờ",
+   "title": "Bài 22: (Tổ CM bổ sung tên bài theo SGK) — Sinh hoạt dưới cờ",
    "content": "",
    "periodLabel": "Tiết 64 (3 tiết)",
    "periodFrom": 64,
@@ -1475,18 +1101,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1494,7 +1109,7 @@
    "semester": 2,
    "week": 22,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân (12 tiết)",
-   "title": "Hoạt động giáo dục theo chủ đề",
+   "title": "Hoạt động giáo dục theo chủ đề: (Tổ CM bổ sung nội dung theo SGK)",
    "content": "",
    "periodLabel": "Tiết 65",
    "periodFrom": 65,
@@ -1502,13 +1117,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1516,7 +1125,7 @@
    "semester": 2,
    "week": 22,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân (12 tiết)",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề:",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: (Tổ CM bổ sung nội dung theo SGK)",
    "content": "",
    "periodLabel": "Tiết 66",
    "periodFrom": 66,
@@ -1524,13 +1133,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1538,7 +1141,7 @@
    "semester": 2,
    "week": 23,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân (12 tiết)",
-   "title": "Bài 23: — Sinh hoạt dưới cờ: Tham gia văn nghệ chào mừng ngày Quốc tế Phụ nữ 8 – 3. Ngày đáng nhớ của gia đình",
+   "title": "Bài 23: Câu chuyện lạc đường — Sinh hoạt dưới cờ: Tham gia văn nghệ chào mừng ngày Quốc tế Phụ nữ 8 – 3. Ngày đáng nhớ của gia đình",
    "content": "",
    "periodLabel": "Tiết 67 (3 tiết)",
    "periodFrom": 67,
@@ -1546,18 +1149,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1573,13 +1165,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1587,7 +1173,7 @@
    "semester": 2,
    "week": 23,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân (12 tiết)",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề:Câu chuyện lạc đường",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Câu chuyện lạc đường",
    "content": "",
    "periodLabel": "Tiết 69",
    "periodFrom": 69,
@@ -1595,13 +1181,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1609,7 +1189,7 @@
    "semester": 2,
    "week": 24,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân (12 tiết)",
-   "title": "Bài 24 : Phòng tránh bị bắt cóc — Sinh hoạt dưới cờ: - Xem tiểu phẩm về chủ đề “ Phòng chống bắt cóc trẻ em”.- Nghe thầy cô hướng dẫn cách phòng tránh bị bắt cóc",
+   "title": "Bài 24 : Phòng tránh bị bắt cóc — Sinh hoạt dưới cờ: - Xem tiểu phẩm về chủ đề “Phòng chống bắt cóc trẻ em”.- Nghe thầy cô hướng dẫn cách phòng tránh bị bắt cóc",
    "content": "",
    "periodLabel": "Tiết 70 (3 tiết)",
    "periodFrom": 70,
@@ -1618,11 +1198,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -1644,13 +1219,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1658,7 +1227,7 @@
    "semester": 2,
    "week": 24,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân (12 tiết)",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề:Phòng tránh bị bắt cóc",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Phòng tránh bị bắt cóc",
    "content": "",
    "periodLabel": "Tiết 72",
    "periodFrom": 72,
@@ -1666,20 +1235,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-073",
    "semester": 2,
    "week": 25,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Bài 25: Những người bạn hàng xóm — Sinh hoạt dưới cờ: Tham gia Ngày hội học sinh Tiểu học. Chào mừng ngày Quốc tế Phụ nữ 8/3",
    "content": "",
    "periodLabel": "Tiết 73 (3 tiết)",
@@ -1706,7 +1269,7 @@
    "id": "l3-hoat-dong-trai-nghiem-074",
    "semester": 2,
    "week": 25,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Những người bạn hàng xóm",
    "content": "",
    "periodLabel": "Tiết 74",
@@ -1715,21 +1278,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-075",
    "semester": 2,
    "week": 25,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề:Những người bạn hàng xóm",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Những người bạn hàng xóm",
    "content": "",
    "periodLabel": "Tiết 75",
    "periodFrom": 75,
@@ -1737,21 +1294,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-076",
    "semester": 2,
    "week": 26,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
-   "title": "Bài 26 : Tôi luôn bên bạn — Sinh hoạt dưới cờ: Tham dự phát động phong trào “ Học nhân ái, biết sẻ chia”",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
+   "title": "Bài 26 : Tôi luôn bên bạn — Sinh hoạt dưới cờ: Tham dự phát động phong trào “Học nhân ái, biết sẻ chia”",
    "content": "",
    "periodLabel": "Tiết 76 (3 tiết)",
    "periodFrom": 76,
@@ -1759,25 +1310,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-077",
    "semester": 2,
    "week": 26,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Tôi luôn bên bạn",
    "content": "",
    "periodLabel": "Tiết 77",
@@ -1786,21 +1326,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-078",
    "semester": 2,
    "week": 26,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề:Tôi luôn bên bạn",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Tôi luôn bên bạn",
    "content": "",
    "periodLabel": "Tiết 78",
    "periodFrom": 78,
@@ -1808,21 +1342,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-079",
    "semester": 2,
    "week": 27,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
-   "title": "Bài 28: Cảnh đẹp quê em — Sinh hoạt dưới cờ: - Tổng kết phong trào “ Học nhân ái, biết sẻ chia”. Tham gia phong trào ngày thành lập Đoàn thanh nên cộng sản Hồ Chí Minh. Ngày hội Bảo vệ môi trường - Phòng tránh tai nạn đuối nước",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
+   "title": "Bài 27: Chia sẻ khó khăn với người khuyết tật — Sinh hoạt dưới cờ: - Tổng kết phong trào “Học nhân ái, biết sẻ chia”. Tham gia phong trào ngày thành lập Đoàn thanh niên cộng sản Hồ Chí Minh. Ngày hội Bảo vệ môi trường - Phòng tránh tai nạn đuối nước",
    "content": "",
    "periodLabel": "Tiết 79 (3 tiết)",
    "periodFrom": 79,
@@ -1831,11 +1359,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1848,7 +1371,7 @@
    "id": "l3-hoat-dong-trai-nghiem-080",
    "semester": 2,
    "week": 27,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Chia sẻ khó khăn với người khuyết tật",
    "content": "",
    "periodLabel": "Tiết 80",
@@ -1857,20 +1380,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-081",
    "semester": 2,
    "week": 27,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Chia sẻ khó khăn với người khuyết tật",
    "content": "",
    "periodLabel": "Tiết 81",
@@ -1879,21 +1396,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-082",
    "semester": 2,
    "week": 28,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
-   "title": "Bài 29: Bảo vệ cảnh quan quê em — Sinh hoạt dưới cờ: - Tổng kết phong trào “ Thành lập Đoàn”.- Tham gia hát, đọc thơ về quê hương đất nước. Cảnh đẹp quê em",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
+   "title": "Bài 28: Cảnh đẹp quê em — Sinh hoạt dưới cờ: - Tổng kết phong trào “Thành lập Đoàn”.- Tham gia hát, đọc thơ về quê hương đất nước. Cảnh đẹp quê em",
    "content": "",
    "periodLabel": "Tiết 82 (3 tiết)",
    "periodFrom": 82,
@@ -1901,25 +1412,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-083",
    "semester": 2,
    "week": 28,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Cảnh đẹp quê em",
    "content": "",
    "periodLabel": "Tiết 83",
@@ -1928,20 +1428,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-084",
    "semester": 2,
    "week": 28,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Cảnh đẹp quê em",
    "content": "",
    "periodLabel": "Tiết 84",
@@ -1950,21 +1444,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-085",
    "semester": 2,
    "week": 29,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
-   "title": "Bài 30 : Giữ gìn vệ sinh môi trường — Sinh hoạt dưới cờ: Tham dự phát động phong trào “ Chung tay bảo vệ cảnh quan quê hương”. Ngày hội sách trường em",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
+   "title": "Bài 29: Bảo vệ cảnh quan quê em — Sinh hoạt dưới cờ: Tham dự phát động phong trào “Chung tay bảo vệ cảnh quan quê hương”. Ngày hội sách trường em",
    "content": "",
    "periodLabel": "Tiết 85 (3 tiết)",
    "periodFrom": 85,
@@ -1972,25 +1460,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-086",
    "semester": 2,
    "week": 29,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Bảo vệ cảnh quan quê em",
    "content": "",
    "periodLabel": "Tiết 86",
@@ -1999,20 +1476,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-087",
    "semester": 2,
    "week": 29,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Bảo vệ cảnh quan quê em",
    "content": "",
    "periodLabel": "Tiết 87",
@@ -2021,21 +1492,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-088",
    "semester": 2,
    "week": 30,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
-   "title": "Bài 31 : Lớp học xanh — Sinh hoạt dưới cờ: - Tham gia Ngày sách Việt Nam; - Các Sao Nhi đồng cam kết giữ gìn vệ sinh môi trường. Giữ gìn vệ sinh môi trường - Lớp học xanh",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
+   "title": "Bài 30: Giữ gìn vệ sinh môi trường — Sinh hoạt dưới cờ: - Tham gia Ngày sách Việt Nam; - Các Sao Nhi đồng cam kết giữ gìn vệ sinh môi trường. Giữ gìn vệ sinh môi trường - Lớp học xanh",
    "content": "",
    "periodLabel": "Tiết 88 (3 tiết)",
    "periodFrom": 88,
@@ -2043,25 +1508,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-089",
    "semester": 2,
    "week": 30,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Giữ gìn vệ sinh môi trường",
    "content": "",
    "periodLabel": "Tiết 89",
@@ -2070,20 +1524,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-090",
    "semester": 2,
    "week": 30,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Giữ gìn vệ sinh môi trường",
    "content": "",
    "periodLabel": "Tiết 90",
@@ -2092,21 +1540,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-091",
    "semester": 2,
    "week": 31,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
-   "title": "Bài 32: Nghề của mẹ, nghề của cha — Sinh hoạt dưới cờ: - Nghe tổng kết phong trào “Chung tay bảo vệ cảnh quan quê em”.- Hưởng ứng phong trào “Vì một hành tình xanh. Lao động an toàn",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
+   "title": "Bài 31: Lớp học xanh — Sinh hoạt dưới cờ: - Nghe tổng kết phong trào “Chung tay bảo vệ cảnh quan quê em”.- Hưởng ứng phong trào “Vì một hành tinh xanh. Lao động an toàn",
    "content": "",
    "periodLabel": "Tiết 91 (3 tiết)",
    "periodFrom": 91,
@@ -2114,25 +1556,14 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-092",
    "semester": 2,
    "week": 31,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Hoạt động giáo dục theo chủ đề: Lớp học xanh",
    "content": "",
    "periodLabel": "Tiết 92",
@@ -2141,20 +1572,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-093",
    "semester": 2,
    "week": 31,
-   "theme": "CHỦ ĐỀ 7 : Chia sẻ cộng đồng (21 tiết)",
+   "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng (21 tiết)",
    "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Lớp học xanh",
    "content": "",
    "periodLabel": "Tiết 93",
@@ -2163,13 +1588,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2177,7 +1596,7 @@
    "semester": 2,
    "week": 32,
    "theme": "CHỦ ĐỀ 8: Em tìm hiểu nghề nghiệp (12 tiết)",
-   "title": "Bài 33 : Nghề nào tính nấy — Sinh hoạt dưới cờ: Giao lưu với các cô bác phụ huynh về nghề nghiệp của họ. Chào mừng ngày Giải phóng miền Nam 30/4 và Quốc tế Lao động 1/5",
+   "title": "Bài 32: Nghề của mẹ, nghề của cha — Sinh hoạt dưới cờ: Giao lưu với các cô bác phụ huynh về nghề nghiệp của họ. Chào mừng ngày Giải phóng miền Nam 30/4 và Quốc tế Lao động 1/5",
    "content": "",
    "periodLabel": "Tiết 94 (3 tiết)",
    "periodFrom": 94,
@@ -2212,13 +1631,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2234,13 +1647,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2248,7 +1655,7 @@
    "semester": 2,
    "week": 33,
    "theme": "CHỦ ĐỀ 8: Em tìm hiểu nghề nghiệp (12 tiết)",
-   "title": "Bài 34 : Lao động an toàn — Sinh hoạt dưới cờ: Tham gia hoạt động chào mừng ngày thành lập Đội Thiếu niên Tiền phong Hồ Chí Minh 15/5. Tìm hiểu về nghề nghiệp",
+   "title": "Bài 33: Nghề nào tính nấy — Sinh hoạt dưới cờ: Tham gia hoạt động chào mừng ngày thành lập Đội Thiếu niên Tiền phong Hồ Chí Minh 15/5. Tìm hiểu về nghề nghiệp",
    "content": "",
    "periodLabel": "Tiết 97 (3 tiết)",
    "periodFrom": 97,
@@ -2257,11 +1664,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2283,13 +1685,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2305,13 +1701,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2319,7 +1709,7 @@
    "semester": 2,
    "week": 34,
    "theme": "CHỦ ĐỀ 8: Em tìm hiểu nghề nghiệp (12 tiết)",
-   "title": "Sinh hoạt dưới cờ: - Tham gia hoạt động kỉ niệm ngày sinh Bác Hồ 19 – 5.- Nghe kể chuyện về những công việc Bác Hồ đã trải qua trong thời gian đi tìm đường cứu nước. Tìm hiểu về Đội TNTP HCM - Kể chuyện về Bác Hồ",
+   "title": "Bài 34: Lao động an toàn — Sinh hoạt dưới cờ: - Tham gia hoạt động kỉ niệm ngày sinh Bác Hồ 19 – 5.- Nghe kể chuyện về những công việc Bác Hồ đã trải qua trong thời gian đi tìm đường cứu nước. Tìm hiểu về Đội TNTP HCM - Kể chuyện về Bác Hồ",
    "content": "",
    "periodLabel": "Tiết 100 (3 tiết)",
    "periodFrom": 100,
@@ -2328,11 +1718,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2354,13 +1739,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2376,13 +1755,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2399,11 +1772,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2425,13 +1793,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2447,13 +1809,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

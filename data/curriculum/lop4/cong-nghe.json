@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 4,
  "subjectId": "cong-nghe",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Công nghệ lớp 4 (2026-2027).docx",
+  "file": "Lớp 4/KHDH Công nghệ lớp 4 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 20
+  "integrations": 8
  },
  "lessons": [
   {
@@ -76,7 +76,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Bài 2: Một số loại hoa, cây cảnh phổ biến (tiết 1)",
+   "title": "Bài 2: Một số loài hoa, cây cảnh phổ biến (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 4 (3 tiết)",
    "periodFrom": 4,
@@ -98,7 +98,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Bài 2: Một số loại hoa, cây cảnh phổ biến (tiết 2)",
+   "title": "Bài 2: Một số loài hoa, cây cảnh phổ biến (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 5",
    "periodFrom": 5,
@@ -130,7 +130,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Bài 3: Vật liệu và dụng cụ tròng hoa, cây cảnh trong chậu (tiết 1)",
+   "title": "Bài 3: Vật liệu và dụng cụ trồng hoa, cây cảnh trong chậu (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (3 tiết)",
    "periodFrom": 7,
@@ -139,11 +139,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát hình ảnh/video kĩ thuật, khai thác thông tin an toàn lao động (có hướng dẫn)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -157,7 +152,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Bài 3: Vật liệu và dụng cụ tròng hoa, cây cảnh trong chậu (tiết 2)",
+   "title": "Bài 3: Vật liệu và dụng cụ trồng hoa, cây cảnh trong chậu (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
    "periodFrom": 8,
@@ -198,11 +193,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát hình ảnh/video kĩ thuật, khai thác thông tin an toàn lao động (có hướng dẫn)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -256,13 +246,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát hình ảnh/video kĩ thuật, khai thác thông tin an toàn lao động (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -302,26 +286,15 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Bài 6: Chăm sóc hoa, cây cảnh trong chậu (tiết 1)",
+   "title": "Thực hành, ôn tập chủ đề 1",
    "content": "",
-   "periodLabel": "Tiết 16 (3 tiết)",
+   "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát hình ảnh/video kĩ thuật, khai thác thông tin an toàn lao động (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "lessonPeriods": 1,
+   "adjustments": "Điều chỉnh: Bài 6 (3 tiết) chuyển học trọn tuần 19–21 sau kiểm tra cuối HKI; Bài 10 điều chỉnh 3 tiết còn 2 tiết; các bài chủ đề 2 dồn lên 1 tuần",
+   "integrations": [],
    "note": ""
   },
   {
@@ -329,7 +302,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Ôn tập học kỳ i",
+   "title": "Ôn tập học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -345,7 +318,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Kiểm tra cuối học kì I",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -361,13 +334,13 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Bài 6: Chăm sóc hoa, cây cảnh trong chậu (tiết 2)",
+   "title": "Bài 6: Chăm sóc hoa, cây cảnh trong chậu (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 19",
+   "periodLabel": "Tiết 19 (3 tiết)",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -377,7 +350,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Bài 6: Chăm sóc hoa, cây cảnh trong chậu",
+   "title": "Bài 6: Chăm sóc hoa, cây cảnh trong chậu (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 20",
    "periodFrom": 20,
@@ -392,27 +365,16 @@
    "id": "l4-cong-nghe-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 7: Giới thiệu bộ lắp ghép mô hình kĩ thuật (tiết 1)",
+   "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
+   "title": "Bài 6: Chăm sóc hoa, cây cảnh trong chậu (tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 21 (2 tiết)",
+   "periodLabel": "Tiết 21",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "GD STEM",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -420,15 +382,26 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 7: Giới thiệu bộ lắp ghép mô hình kĩ thuật (tiết 2)",
+   "title": "Bài 7: Giới thiệu bộ lắp ghép mô hình kĩ thuật (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 22",
+   "periodLabel": "Tiết 22 (2 tiết)",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "GD STEM"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "",
+     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
+    }
+   ],
    "note": ""
   },
   {
@@ -436,38 +409,11 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 8: Lắp ghép mô hình bập bênh (tiết 1)",
+   "title": "Bài 7: Giới thiệu bộ lắp ghép mô hình kĩ thuật (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 23 (2 tiết)",
+   "periodLabel": "Tiết 23",
    "periodFrom": 23,
    "periodTo": 23,
-   "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "GD STEM",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l4-cong-nghe-024",
-   "semester": 2,
-   "week": 24,
-   "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 8: Lắp ghép mô hình bập bênh (tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 24",
-   "periodFrom": 24,
-   "periodTo": 24,
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
@@ -475,30 +421,46 @@
    "note": ""
   },
   {
-   "id": "l4-cong-nghe-025",
+   "id": "l4-cong-nghe-024",
    "semester": 2,
-   "week": 25,
+   "week": 24,
    "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 9: Lắp ghép mô hình rô-bốt (tiết 1)",
+   "title": "Bài 8: Lắp ghép mô hình bập bênh (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 25 (3 tiết)",
-   "periodFrom": 25,
-   "periodTo": 25,
+   "periodLabel": "Tiết 24 (2 tiết)",
+   "periodFrom": 24,
+   "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "GD STEM",
+   "lessonPeriods": 2,
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "GD STEM"
+    },
     {
      "code": "NLS-ST",
      "level": "",
      "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
     }
    ],
+   "note": ""
+  },
+  {
+   "id": "l4-cong-nghe-025",
+   "semester": 2,
+   "week": 25,
+   "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
+   "title": "Bài 8: Lắp ghép mô hình bập bênh (tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 25",
+   "periodFrom": 25,
+   "periodTo": 25,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -506,13 +468,13 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 9: Lắp ghép mô hình rô-bốt (tiết 2)",
+   "title": "Bài 9: Lắp ghép mô hình rô-bốt (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 26",
+   "periodLabel": "Tiết 26 (3 tiết)",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -522,7 +484,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 9: Lắp ghép mô hình rô-bốt (tiết 3)",
+   "title": "Bài 9: Lắp ghép mô hình rô-bốt (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 27",
    "periodFrom": 27,
@@ -538,21 +500,15 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 10: Đồ chơi dân gian (tiết 1)",
+   "title": "Bài 9: Lắp ghép mô hình rô-bốt (tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 28 (3 tiết)",
+   "periodLabel": "Tiết 28",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "GD STEM",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
-    }
-   ],
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -560,14 +516,14 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 10: Đồ chơi dân gian (tiết 2)",
+   "title": "Bài 10: Đồ chơi dân gian (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 29",
+   "periodLabel": "Tiết 29 (2 tiết)",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
-   "adjustments": "",
+   "lessonPeriods": 2,
+   "adjustments": "Điều chỉnh: Bài 10 dạy trong 2 tiết",
    "integrations": [],
    "note": ""
   },
@@ -576,7 +532,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 2: THỦ CÔNG KĨ THUẬT",
-   "title": "Bài 10: Đồ chơi dân gian (tiết 3)",
+   "title": "Bài 10: Đồ chơi dân gian (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 30",
    "periodFrom": 30,
@@ -599,19 +555,8 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "GD STEM",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -626,19 +571,8 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "GD STEM",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {

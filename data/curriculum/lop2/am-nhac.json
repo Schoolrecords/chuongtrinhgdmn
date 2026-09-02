@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 2,
  "subjectId": "am-nhac",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Âm nhạc lớp 2 (2026-2027).docx",
+  "file": "Lớp 2/KHDH Âm nhạc lớp 2 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 43
+  "integrations": 31
  },
  "lessons": [
   {
@@ -52,13 +52,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -145,13 +139,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -243,13 +231,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -336,13 +318,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -390,11 +366,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -466,13 +437,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -520,11 +485,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -564,13 +524,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -618,11 +572,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -662,13 +611,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -684,13 +627,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -755,13 +692,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {

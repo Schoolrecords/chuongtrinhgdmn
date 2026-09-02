@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 1,
  "subjectId": "dao-duc",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH Đạo đức lớp 1 (2026-2027).docx",
+  "file": "Lớp 1/KHDH Đạo đức lớp 1 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 44
+  "integrations": 31
  },
  "lessons": [
   {
@@ -59,11 +59,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "rửa tay sạch trước khi chạm vào máy tính, ti vi của lớp; giữ gìn thiết bị chung."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
@@ -76,7 +71,7 @@
    "semester": 1,
    "week": 3,
    "theme": "CĐ 1: TỰ CHĂM SÓC",
-   "title": "Bài 3: Em tắm,gội sạch sẽ",
+   "title": "Bài 3: Em tắm, gội sạch sẽ",
    "content": "",
    "periodLabel": "Tiết 3 (1 tiết)",
    "periodFrom": 3,
@@ -84,13 +79,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "rửa tay sạch trước khi chạm vào máy tính, ti vi của lớp; giữ gìn thiết bị chung."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -107,11 +96,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "rửa tay sạch trước khi chạm vào máy tính, ti vi của lớp; giữ gìn thiết bị chung."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -132,8 +116,13 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -147,7 +136,7 @@
    "semester": 1,
    "week": 6,
    "theme": "CĐ 2: YÊU THƯƠNG",
-   "title": "Bài 5: Gia đình của em ( Tiết 2)",
+   "title": "Bài 5: Gia đình của em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 6 (1 tiết)",
    "periodFrom": 6,
@@ -174,7 +163,7 @@
    "semester": 1,
    "week": 7,
    "theme": "CĐ 3: QUAN TÂM CHĂM SÓC NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "Bài 6: Lẽ phép , vâng lời ông bà, cha mẹ, anh chị",
+   "title": "Bài 6: Lễ phép, vâng lời ông bà, cha mẹ, anh chị",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
    "periodFrom": 7,
@@ -204,13 +193,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "ảnh và chuyện riêng của gia đình chỉ chia sẻ khi người lớn đồng ý."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -226,13 +209,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "ảnh và chuyện riêng của gia đình chỉ chia sẻ khi người lớn đồng ý."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -240,7 +217,7 @@
    "semester": 1,
    "week": 10,
    "theme": "CĐ 3: QUAN TÂM CHĂM SÓC NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "Bài 9: Chăm sóc,giúp đỡ em nhỏ",
+   "title": "Bài 9: Chăm sóc, giúp đỡ em nhỏ",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -267,7 +244,7 @@
    "semester": 1,
    "week": 11,
    "theme": "CĐ 3: QUAN TÂM CHĂM SÓC NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "Thực hành kỹ năng giữa kỳ I",
+   "title": "Thực hành kĩ năng giữa kì I",
    "content": "",
    "periodLabel": "Tiết 11 (1 tiết)",
    "periodFrom": 11,
@@ -318,13 +295,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -339,12 +310,17 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Lồng ghép GDĐP - GDQP an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Lồng ghép GDĐP"
+    },
     {
      "code": "QPAN",
      "level": "",
-     "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
+     "text": "GDQP an ninh"
     }
    ],
    "note": ""
@@ -354,7 +330,7 @@
    "semester": 1,
    "week": 15,
    "theme": "CĐ4: THỰC HIỆN NỘI QUY TRƯỜNG LỚP",
-   "title": "Bài 13 : Giữ gìn tài sản của trường, lớp",
+   "title": "Bài 13: Giữ gìn tài sản của trường, lớp",
    "content": "",
    "periodLabel": "Tiết 15 (1 tiết)",
    "periodFrom": 15,
@@ -367,11 +343,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
     }
    ],
    "note": ""
@@ -381,7 +352,7 @@
    "semester": 1,
    "week": 16,
    "theme": "CĐ4: THỰC HIỆN NỘI QUY TRƯỜNG LỚP",
-   "title": "Bài 14 : Giữ vệ sinh trường, lớp",
+   "title": "Bài 14: Giữ vệ sinh trường, lớp",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -389,52 +360,19 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "rửa tay sạch trước khi chạm vào máy tính, ti vi của lớp; giữ gìn thiết bị chung."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-dao-duc-017",
    "semester": 1,
    "week": 17,
-   "theme": "CĐ4: THỰC HIỆN NỘI QUY TRƯỜNG LỚP",
-   "title": "Thực hành kỹ năng cuối kỳ I",
+   "theme": "CĐ 5: SINH HOẠT NỀN NẾP",
+   "title": "Bài 15: Gọn gàng, ngăn nắp",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l1-dao-duc-018",
-   "semester": 1,
-   "week": 18,
-   "theme": "CĐ 5: SINH HOẠT NỀ NẾP",
-   "title": "Bài 15: Gọn gàng,ngăn nắp",
-   "content": "",
-   "periodLabel": "Tiết 18 (1 tiết)",
-   "periodFrom": 18,
-   "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -450,14 +388,30 @@
      "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
     }
    ],
+   "note": "Điều chỉnh thứ tự: Bài 15 dạy tuần 17 để tiết thực hành cuối HKI nằm trong tuần 18."
+  },
+  {
+   "id": "l1-dao-duc-018",
+   "semester": 1,
+   "week": 18,
+   "theme": "CĐ 5: SINH HOẠT NỀN NẾP",
+   "title": "Thực hành kĩ năng cuối kì I",
+   "content": "",
+   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodFrom": 18,
+   "periodTo": 18,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-dao-duc-019",
    "semester": 2,
    "week": 19,
-   "theme": "CĐ 5: SINH HOẠT NỀ NẾP",
-   "title": "Bài 16: Học tập,sinh hoạt đúng giờ",
+   "theme": "CĐ 5: SINH HOẠT NỀN NẾP",
+   "title": "Bài 16: Học tập, sinh hoạt đúng giờ",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
@@ -508,8 +462,13 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -530,8 +489,13 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -552,8 +516,13 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -575,13 +544,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: dám nhận lỗi và sửa lỗi; chịu trách nhiệm về việc mình làm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -597,13 +560,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: dám nhận lỗi và sửa lỗi; chịu trách nhiệm về việc mình làm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -638,7 +595,7 @@
    "semester": 2,
    "week": 27,
    "theme": "CĐ 7: THẬT THÀ",
-   "title": "Thực hành kỹ năng giữa kỳ II",
+   "title": "Thực hành kĩ năng giữa kì II",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -646,20 +603,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: dám nhận lỗi và sửa lỗi; chịu trách nhiệm về việc mình làm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-dao-duc-028",
    "semester": 2,
    "week": 28,
-   "theme": "CĐ 8: PHÒNG TRÁNH TAI THƯƠNG TÍCH",
+   "theme": "CĐ 8: PHÒNG TRÁNH TAI NẠN, THƯƠNG TÍCH",
    "title": "Bài 24: Phòng, tránh tai nạn giao thông",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
@@ -667,8 +618,13 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -681,7 +637,7 @@
    "id": "l1-dao-duc-029",
    "semester": 2,
    "week": 29,
-   "theme": "CĐ 8: PHÒNG TRÁNH TAI THƯƠNG TÍCH",
+   "theme": "CĐ 8: PHÒNG TRÁNH TAI NẠN, THƯƠNG TÍCH",
    "title": "Bài 25: Phòng, tránh đuối nước",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
@@ -690,20 +646,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-dao-duc-030",
    "semester": 2,
    "week": 30,
-   "theme": "CĐ 8: PHÒNG TRÁNH TAI THƯƠNG TÍCH",
+   "theme": "CĐ 8: PHÒNG TRÁNH TAI NẠN, THƯƠNG TÍCH",
    "title": "Bài 26: Phòng, tránh bỏng",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
@@ -712,20 +662,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-dao-duc-031",
    "semester": 2,
    "week": 31,
-   "theme": "CĐ 8: PHÒNG TRÁNH TAI THƯƠNG TÍCH",
+   "theme": "CĐ 8: PHÒNG TRÁNH TAI NẠN, THƯƠNG TÍCH",
    "title": "Bài 27: Phòng, tránh thương tích do ngã",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
@@ -734,20 +678,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-dao-duc-032",
    "semester": 2,
    "week": 32,
-   "theme": "CĐ 8: PHÒNG TRÁNH TAI THƯƠNG TÍCH",
+   "theme": "CĐ 8: PHÒNG TRÁNH TAI NẠN, THƯƠNG TÍCH",
    "title": "Bài 28: Phòng, tránh điện giật",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
@@ -756,20 +694,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-dao-duc-033",
    "semester": 2,
    "week": 33,
-   "theme": "CĐ 8: PHÒNG TRÁNH TAI THƯƠNG TÍCH",
+   "theme": "CĐ 8: PHÒNG TRÁNH TAI NẠN, THƯƠNG TÍCH",
    "title": "Bài 29: Phòng, tránh ngộ độc thực phẩm",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
@@ -778,20 +710,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-dao-duc-034",
    "semester": 2,
    "week": 34,
-   "theme": "CĐ 8: PHÒNG TRÁNH TAI THƯƠNG TÍCH",
+   "theme": "CĐ 8: PHÒNG TRÁNH TAI NẠN, THƯƠNG TÍCH",
    "title": "Bài 30: Phòng, tránh xâm hại",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
@@ -813,8 +739,8 @@
    "id": "l1-dao-duc-035",
    "semester": 2,
    "week": 35,
-   "theme": "CĐ 8: PHÒNG TRÁNH TAI THƯƠNG TÍCH",
-   "title": "Bài 32: Kiểm tra, đánh giá",
+   "theme": "CĐ 8: PHÒNG TRÁNH TAI NẠN, THƯƠNG TÍCH",
+   "title": "Thực hành kĩ năng cuối năm",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -822,13 +748,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

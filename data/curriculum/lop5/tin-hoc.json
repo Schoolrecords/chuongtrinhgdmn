@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 5,
  "subjectId": "tin-hoc",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH Tin học lớp 5 (2026-2027).docx",
+  "file": "Lớp 5/KHDH Tin học lớp 5 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 39
+  "integrations": 26
  },
  "lessons": [
   {
@@ -22,7 +22,7 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ đề 1: Máy tính và em",
-   "title": "1: Bài 1. Em có thể làm gì với máy tính (T1)",
+   "title": "Bài 1: Em có thể làm gì với máy tính (T1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
    "periodFrom": 1,
@@ -44,7 +44,7 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ đề 1: Máy tính và em",
-   "title": "Bài 1. Em có thể làm gì với máy tính (T2)",
+   "title": "Bài 1: Em có thể làm gì với máy tính (T2)",
    "content": "",
    "periodLabel": "Tiết 2",
    "periodFrom": 2,
@@ -66,15 +66,20 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề 2: Mạng máy tính và Internet",
-   "title": "1: Bài 2. Tìm kiếm thông tin trên website (T1)",
+   "title": "Bài 2: Tìm kiếm thông tin trên website (T1)",
    "content": "",
    "periodLabel": "Tiết 3 (2 tiết)",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-KT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+    },
     {
      "code": "NLS-AT",
      "level": "",
@@ -88,15 +93,20 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 2: Mạng máy tính và Internet",
-   "title": "Bài 2. Tìm kiếm thông tin trên website (T2)",
+   "title": "Bài 2: Tìm kiếm thông tin trên website (T2)",
    "content": "",
    "periodLabel": "Tiết 4",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-KT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+    },
     {
      "code": "NLS-AT",
      "level": "",
@@ -110,15 +120,20 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
-   "title": "1: Bài 3. Tìm kiếm thông tin trong giải quyết vấn đề (T1)",
+   "title": "Bài 3: Tìm kiếm thông tin trong giải quyết vấn đề (T1)",
    "content": "",
    "periodLabel": "Tiết 5 (2 tiết)",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-KT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+    },
     {
      "code": "NLS-AT",
      "level": "",
@@ -137,15 +152,20 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
-   "title": "Bài 3. Tìm kiếm thông tin trong giải quyết vấn đề (T2)",
+   "title": "Bài 3: Tìm kiếm thông tin trong giải quyết vấn đề (T2)",
    "content": "",
    "periodLabel": "Tiết 6",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-KT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+    },
     {
      "code": "NLS-AT",
      "level": "",
@@ -164,21 +184,15 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
-   "title": "1: Bài 4. Cây thư mục (T1)",
+   "title": "Bài 4: Cây thư mục (T1)",
    "content": "",
    "periodLabel": "Tiết 7 (2 tiết)",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-KT,",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -186,21 +200,15 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
-   "title": "Bài 4. Cây thư mục (T2)",
+   "title": "Bài 4: Cây thư mục (T2)",
    "content": "",
    "periodLabel": "Tiết 8",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-KT,",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    }
-   ],
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -208,15 +216,20 @@
    "semester": 1,
    "week": 9,
    "theme": "CĐ 4: Đạo đức, pháp luật và văn hoá trong môi trường số",
-   "title": "1: Bài 5. Bản quyền nội dung thông tin (T1)",
+   "title": "Bài 5: Bản quyền nội dung thông tin (T1)",
    "content": "",
    "periodLabel": "Tiết 9 (2 tiết)",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "NLS-KT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+    },
     {
      "code": "NLS-AT",
      "level": "",
@@ -235,15 +248,20 @@
    "semester": 1,
    "week": 10,
    "theme": "CĐ 4: Đạo đức, pháp luật và văn hoá trong môi trường số",
-   "title": "1: Bài 5. Bản quyền nội dung thông tin (T2)",
+   "title": "Bài 5: Bản quyền nội dung thông tin (T2)",
    "content": "",
    "periodLabel": "Tiết 10",
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": null,
-   "adjustments": "NLS-KT,",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+    },
     {
      "code": "NLS-AT",
      "level": "",
@@ -262,7 +280,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 5: Ứng dụng tin học",
-   "title": "1: Bài 6. Định dạng kí tự và bố trí hình ảnh trong văn bản(T1)",
+   "title": "Bài 6: Định dạng kí tự và bố trí hình ảnh trong văn bản(T1)",
    "content": "",
    "periodLabel": "Tiết 11 (2 tiết)",
    "periodFrom": 11,
@@ -284,7 +302,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề 5: Ứng dụng tin học",
-   "title": "Bài 6. Định dạng kí tự và bố trí hình ảnh trong văn bản(T2)",
+   "title": "Bài 6: Định dạng kí tự và bố trí hình ảnh trong văn bản(T2)",
    "content": "",
    "periodLabel": "Tiết 12",
    "periodFrom": 12,
@@ -306,7 +324,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề 5: Ứng dụng tin học",
-   "title": "Bài 7. Thực hành soạn thảo văn bản(T1)",
+   "title": "Bài 7: Thực hành soạn thảo văn bản(T1)",
    "content": "",
    "periodLabel": "Tiết 13 (2 tiết)",
    "periodFrom": 13,
@@ -328,7 +346,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 5: Ứng dụng tin học",
-   "title": "Bài 7. Thực hành soạn thảo văn bản(T2)",
+   "title": "Bài 7: Thực hành soạn thảo văn bản(T2)",
    "content": "",
    "periodLabel": "Tiết 14",
    "periodFrom": 14,
@@ -350,7 +368,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 5: Ứng dụng tin học",
-   "title": "1: Bài 8A. Làm quen với phần mềm đồ hoạ (T1)",
+   "title": "Bài 8A: Làm quen với phần mềm đồ hoạ (T1)",
    "content": "",
    "periodLabel": "Tiết 15 (2 tiết)",
    "periodFrom": 15,
@@ -358,13 +376,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "HS tự tìm hiểu ở nhà bài 8B, tăng 1 tiết bài 8A",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -372,7 +384,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 5: Ứng dụng tin học",
-   "title": "Bài 8A. Làm quen với phần mềm đồ hoạ (T2)",
+   "title": "Bài 8A: Làm quen với phần mềm đồ hoạ (T2)",
    "content": "",
    "periodLabel": "Tiết 16",
    "periodFrom": 16,
@@ -380,13 +392,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -402,13 +408,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "phát triển kĩ năng sử dụng thiết bị và phần mềm học tập."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -416,7 +416,7 @@
    "semester": 1,
    "week": 18,
    "theme": "ÔN TẬP KIỂM TRA",
-   "title": "1: Kiểm tra học kỳ I",
+   "title": "Kiểm tra học kì I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -424,13 +424,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "phát triển kĩ năng sử dụng thiết bị và phần mềm học tập.; HS tự tìm hiểu ở nhà bài 9B"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -438,7 +432,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề 5: Ứng dụng tin học",
-   "title": "LT: Bài 9A. Sử dụng phần mềm đồ họa tạo sản phẩm số",
+   "title": "Bài 9A: Sử dụng phần mềm đồ họa tạo sản phẩm số",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
@@ -460,7 +454,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "1: Bài 10. Cấu trúc tuần tự(T1)",
+   "title": "Bài 10: Cấu trúc tuần tự(T1)",
    "content": "",
    "periodLabel": "Tiết 20 (2 tiết)",
    "periodFrom": 20,
@@ -482,7 +476,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 10. Cấu trúc tuần tự(T2)",
+   "title": "Bài 10: Cấu trúc tuần tự(T2)",
    "content": "",
    "periodLabel": "Tiết 21",
    "periodFrom": 21,
@@ -504,7 +498,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "1: Bài 11. Cấu trúc lặp(T1)",
+   "title": "Bài 11: Cấu trúc lặp(T1)",
    "content": "",
    "periodLabel": "Tiết 22 (2 tiết)",
    "periodFrom": 22,
@@ -512,13 +506,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -526,7 +514,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "1: Bài 11. Cấu trúc lặp(T2)",
+   "title": "Bài 11: Cấu trúc lặp(T2)",
    "content": "",
    "periodLabel": "Tiết 23",
    "periodFrom": 23,
@@ -534,13 +522,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -548,7 +530,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 12. Thực hành sử dụng lệnh lặp(T1)",
+   "title": "Bài 12: Thực hành sử dụng lệnh lặp(T1)",
    "content": "",
    "periodLabel": "Tiết 24 (2 tiết)",
    "periodFrom": 24,
@@ -556,13 +538,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -570,7 +546,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 12. Thực hành sử dụng lệnh lặp(T2)",
+   "title": "Bài 12: Thực hành sử dụng lệnh lặp(T2)",
    "content": "",
    "periodLabel": "Tiết 25",
    "periodFrom": 25,
@@ -578,13 +554,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -592,7 +562,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "1: Bài 13. Cấu trúc rẽ nhánh(T1)",
+   "title": "Bài 13: Cấu trúc rẽ nhánh(T1)",
    "content": "",
    "periodLabel": "Tiết 26 (2 tiết)",
    "periodFrom": 26,
@@ -600,13 +570,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -614,7 +578,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 13. Cấu trúc rẽ nhánh(T2)",
+   "title": "Bài 13: Cấu trúc rẽ nhánh(T2)",
    "content": "",
    "periodLabel": "Tiết 27",
    "periodFrom": 27,
@@ -622,13 +586,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -636,19 +594,19 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "1: Bài 14. Sử dụng biến trong chương trình(T1)",
+   "title": "Bài 14: Sử dụng biến trong chương trình(T1)",
    "content": "",
    "periodLabel": "Tiết 28 (2 tiết)",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Bài học Stems: Bài - Lập trình trò chơi",
+   "adjustments": "Lập trình trò chơi",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "STEM",
      "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
+     "text": "Bài học Stems: Bài"
     }
    ],
    "note": ""
@@ -658,7 +616,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 14. Sử dụng biến trong chương trình(T2)",
+   "title": "Bài 14: Sử dụng biến trong chương trình(T2)",
    "content": "",
    "periodLabel": "Tiết 29",
    "periodFrom": 29,
@@ -666,13 +624,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -680,7 +632,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "1: Bài 15. Sử dụng biểu thức trong chương trình(T1)",
+   "title": "Bài 15: Sử dụng biểu thức trong chương trình(T1)",
    "content": "",
    "periodLabel": "Tiết 30 (2 tiết)",
    "periodFrom": 30,
@@ -688,13 +640,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -702,7 +648,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 15. Sử dụng biểu thức trong chương trình(T2)",
+   "title": "Bài 15: Sử dụng biểu thức trong chương trình(T2)",
    "content": "",
    "periodLabel": "Tiết 31",
    "periodFrom": 31,
@@ -710,13 +656,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -724,7 +664,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "1: Bài 16. Từ kịch bản đến chương trình(T1)",
+   "title": "Bài 16: Từ kịch bản đến chương trình(T1)",
    "content": "",
    "periodLabel": "Tiết 32 (2 tiết)",
    "periodFrom": 32,
@@ -732,13 +672,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -746,7 +680,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 16. Từ kịch bản đến chương trình(T2)",
+   "title": "Bài 16: Từ kịch bản đến chương trình(T2)",
    "content": "",
    "periodLabel": "Tiết 33",
    "periodFrom": 33,
@@ -754,13 +688,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -768,7 +696,7 @@
    "semester": 2,
    "week": 34,
    "theme": "ÔN TẬP KIỂM TRA",
-   "title": "1: Ôn tập học kì II",
+   "title": "Ôn tập học kì II",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -776,13 +704,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "phát triển kĩ năng sử dụng thiết bị và phần mềm học tập."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -790,7 +712,7 @@
    "semester": 2,
    "week": 35,
    "theme": "ÔN TẬP KIỂM TRA",
-   "title": "1: Kiểm tra học kỳ II",
+   "title": "Kiểm tra học kì II",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -798,13 +720,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "phát triển kĩ năng sử dụng thiết bị và phần mềm học tập."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

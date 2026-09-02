@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 4,
  "subjectId": "lich-su-va-dia-li",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Lịch sử & Địa lí lớp 4 (2026-2027).docx",
+  "file": "Lớp 4/KHDH Lịch sử & Địa lí lớp 4 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 62
+  "integrations": 23
  },
  "lessons": [
   {
@@ -141,7 +141,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 4: Thiên nhiên vùng trung du và miền núi phía bắc (tiết 1)",
+   "title": "Bài 4: Thiên nhiên vùng trung du và miền núi phía Bắc (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (3 tiết)",
    "periodFrom": 7,
@@ -168,7 +168,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 4: Thiên nhiên vùng trung du và miền núi phía bắc (tiết 2)",
+   "title": "Bài 4: Thiên nhiên vùng trung du và miền núi phía Bắc (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
    "periodFrom": 8,
@@ -184,7 +184,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 4: Thiên nhiên vùng trung du và miền núi phía bắc (tiết 3)",
+   "title": "Bài 4: Thiên nhiên vùng trung du và miền núi phía Bắc (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 9",
    "periodFrom": 9,
@@ -200,24 +200,19 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía bắc (tiết 1)",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 10 (3 tiết)",
+   "periodLabel": "Tiết 10 (6 tiết)",
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": 3,
+   "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
     {
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -227,7 +222,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía bắc (tiết 2)",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 11",
    "periodFrom": 11,
@@ -243,7 +238,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía bắc (tiết 3)",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 12",
    "periodFrom": 12,
@@ -259,26 +254,15 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 6: Một số lễ hội của đồng bào dân tộc ít người ở tỉnh nghệ an (tiết 1)",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 13 (2 tiết)",
+   "periodLabel": "Tiết 13",
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -286,7 +270,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 6: Một số lễ hội của đồng bào dân tộc ít người ở tỉnh nghệ an (tiết 2)",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 5)",
    "content": "",
    "periodLabel": "Tiết 14",
    "periodFrom": 14,
@@ -302,149 +286,15 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 7: Giỗ tổ hùng vương – lễ hội đền cuông (tiết 1)",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 6)",
    "content": "",
-   "periodLabel": "Tiết 15 (2 tiết)",
+   "periodLabel": "Tiết 15",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-016",
-   "semester": 1,
-   "week": 8,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 7: Giỗ tổ hùng vương – lễ hội đền cuông (tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 16",
-   "periodFrom": 16,
-   "periodTo": 16,
-   "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-017",
-   "semester": 1,
-   "week": 9,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Ôn tập giữa học kì I",
-   "content": "",
-   "periodLabel": "Tiết 17 (1 tiết)",
-   "periodFrom": 17,
-   "periodTo": 17,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-018",
-   "semester": 1,
-   "week": 9,
-   "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 8: Thiên nhiên vùng đồng bằng bắc bộ (tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 18 (3 tiết)",
-   "periodFrom": 18,
-   "periodTo": 18,
-   "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-019",
-   "semester": 1,
-   "week": 10,
-   "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 8: Thiên nhiên vùng đồng bằng bắc bộ (tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 19",
-   "periodFrom": 19,
-   "periodTo": 19,
-   "periods": 1,
-   "lessonPeriods": null,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-020",
-   "semester": 1,
-   "week": 10,
-   "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 8: Thiên nhiên vùng đồng bằng bắc bộ (tiết 3)",
-   "content": "",
-   "periodLabel": "Tiết 20",
-   "periodFrom": 20,
-   "periodTo": 20,
-   "periods": 1,
-   "lessonPeriods": null,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-021",
-   "semester": 1,
-   "week": 11,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía bắc (tiết 4)",
-   "content": "",
-   "periodLabel": "Tiết 21 (3 tiết)",
-   "periodFrom": 21,
-   "periodTo": 21,
-   "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -454,15 +304,42 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-022",
+   "id": "l4-lich-su-va-dia-li-016",
    "semester": 1,
-   "week": 11,
+   "week": 8,
    "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía bắc (tiết 5)",
+   "title": "Bài 6: Một số lễ hội của đồng bào dân tộc ít người ở tỉnh Nghệ An (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 22",
-   "periodFrom": 22,
-   "periodTo": 22,
+   "periodLabel": "Tiết 16 (3 tiết)",
+   "periodFrom": 16,
+   "periodTo": 16,
+   "periods": 1,
+   "lessonPeriods": 3,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Nội dung giáo dục địa phương"
+    },
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Tổ CM đối chiếu tài liệu GDĐP tỉnh Nghệ An"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-017",
+   "semester": 1,
+   "week": 9,
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
+   "title": "Bài 6: Một số lễ hội của đồng bào dân tộc ít người ở tỉnh Nghệ An (tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 17",
+   "periodFrom": 17,
+   "periodTo": 17,
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
@@ -470,11 +347,103 @@
    "note": ""
   },
   {
+   "id": "l4-lich-su-va-dia-li-018",
+   "semester": 1,
+   "week": 9,
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
+   "title": "Bài 6: Một số lễ hội của đồng bào dân tộc ít người ở tỉnh Nghệ An (tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 18",
+   "periodFrom": 18,
+   "periodTo": 18,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-019",
+   "semester": 1,
+   "week": 10,
+   "theme": "Ôn tập",
+   "title": "Ôn tập giữa học kì I",
+   "content": "",
+   "periodLabel": "Tiết 19 (1 tiết)",
+   "periodFrom": 19,
+   "periodTo": 19,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "",
+     "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn)."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-020",
+   "semester": 1,
+   "week": 10,
+   "theme": "Ôn tập",
+   "title": "Bài 7: Giỗ Tổ Hùng Vương – lễ hội đền Cuông (tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 20 (2 tiết)",
+   "periodFrom": 20,
+   "periodTo": 20,
+   "periods": 1,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-021",
+   "semester": 1,
+   "week": 11,
+   "theme": "Ôn tập",
+   "title": "Bài 7: Giỗ Tổ Hùng Vương – lễ hội đền Cuông (tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 21",
+   "periodFrom": 21,
+   "periodTo": 21,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-022",
+   "semester": 1,
+   "week": 11,
+   "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
+   "title": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ (tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 22 (3 tiết)",
+   "periodFrom": 22,
+   "periodTo": 22,
+   "periods": 1,
+   "lessonPeriods": 3,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
+    }
+   ],
+   "note": ""
+  },
+  {
    "id": "l4-lich-su-va-dia-li-023",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía bắc (tiết 6)",
+   "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
+   "title": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 23",
    "periodFrom": 23,
@@ -489,27 +458,16 @@
    "id": "l4-lich-su-va-dia-li-024",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 6: Một số lễ hội của đồng bào dân tộc ít người ở tỉnh nghệ an (tiết 3)",
+   "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
+   "title": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ (tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 24 (1 tiết)",
+   "periodLabel": "Tiết 24",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -517,26 +475,15 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 10: Một số nét văn hóa ở vùng đồng bằng bắc bộ",
+   "title": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 25 (1 tiết)",
+   "periodLabel": "Tiết 25 (2 tiết)",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "lessonPeriods": 2,
+   "adjustments": "Bổ sung Bài 9 theo mục lục SGK (trước đây bị thiếu); Tổ CM đối chiếu SGK về tên bài, số tiết",
+   "integrations": [],
    "note": ""
   },
   {
@@ -544,26 +491,15 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 11: Sông hồng và văn minh sông hồng (tiết 1)",
+   "title": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 26 (2 tiết)",
+   "periodLabel": "Tiết 26",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -571,13 +507,13 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 11: Sông hồng và văn minh sông hồng (tiết 2)",
+   "title": "Bài 10: Một số nét văn hóa ở vùng Đồng bằng Bắc Bộ",
    "content": "",
-   "periodLabel": "Tiết 27",
+   "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -587,26 +523,15 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 12: Thăng long – hà nội (tiết 1)",
+   "title": "Bài 11: Sông Hồng và văn minh sông Hồng (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 28 (3 tiết)",
+   "periodLabel": "Tiết 28 (2 tiết)",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": 3,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -614,7 +539,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 12: Thăng long – hà nội (tiết 2)",
+   "title": "Bài 11: Sông Hồng và văn minh sông Hồng (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 29",
    "periodFrom": 29,
@@ -630,15 +555,21 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 12: Thăng long – hà nội (tiết 3)",
+   "title": "Bài 12: Thăng Long – Hà Nội (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 30",
+   "periodLabel": "Tiết 30 (3 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -646,26 +577,15 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 13: Văn miếu - quốc tử giám (tiết 1)",
+   "title": "Bài 12: Thăng Long – Hà Nội (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 31 (2 tiết)",
+   "periodLabel": "Tiết 31",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -673,7 +593,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 13: Văn miếu - quốc tử giám (tiết 2)",
+   "title": "Bài 12: Thăng Long – Hà Nội (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 32",
    "periodFrom": 32,
@@ -689,26 +609,15 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Ôn tập cuối học kì I",
+   "title": "Bài 13: Văn Miếu - Quốc Tử Giám (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 33 (1 tiết)",
+   "periodLabel": "Tiết 33 (2 tiết)",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -716,46 +625,35 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Kiểm tra định kì cuối học kì I",
+   "title": "Bài 13: Văn Miếu - Quốc Tử Giám (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 34 (1 tiết)",
+   "periodLabel": "Tiết 34",
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-035",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 15: Thiên nhiên bắc trung bộ và nam trung bộ (tiết 1)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Ôn tập cuối học kì I",
    "content": "",
-   "periodLabel": "Tiết 35 (6 tiết)",
+   "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
    "periodTo": 35,
    "periods": 1,
-   "lessonPeriods": 6,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GQVĐ",
      "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+     "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn). Điều chỉnh: sắp xếp lại trình tự Bài 5–13 học liền mạch, bổ sung Bài 9; ôn tập và kiểm tra định kì cuối HKI thực hiện trong tuần 18."
     }
    ],
    "note": ""
@@ -764,14 +662,14 @@
    "id": "l4-lich-su-va-dia-li-036",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 15: Thiên nhiên bắc trung bộ và nam trung bộ (tiết 2)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
-   "periodLabel": "Tiết 36",
+   "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
    "periodTo": 36,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -781,15 +679,21 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 15: Thiên nhiên bắc trung bộ và nam trung bộ (tiết 3)",
+   "title": "Bài 15: Thiên nhiên Bắc Trung Bộ và Nam Trung Bộ (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 37",
+   "periodLabel": "Tiết 37 (5 tiết)",
    "periodFrom": 37,
    "periodTo": 37,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn). Điều chỉnh: Bài 15 từ 6 tiết còn 5 tiết, học trọn trong HKII. Lưu ý: mục lục SGK có Bài 14 — Tổ CM đối chiếu SGK, bổ sung khi rà soát."
+    }
+   ],
    "note": ""
   },
   {
@@ -797,7 +701,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 15: Thiên nhiên bắc trung bộ và nam trung bộ (tiết 4)",
+   "title": "Bài 15: Thiên nhiên Bắc Trung Bộ và Nam Trung Bộ (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 38",
    "periodFrom": 38,
@@ -813,7 +717,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 15: Thiên nhiên bắc trung bộ và nam trung bộ (tiết 5)",
+   "title": "Bài 15: Thiên nhiên Bắc Trung Bộ và Nam Trung Bộ (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 39",
    "periodFrom": 39,
@@ -829,7 +733,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 15: Thiên nhiên bắc trung bộ và nam trung bộ (tiết 6)",
+   "title": "Bài 15: Thiên nhiên Bắc Trung Bộ và Nam Trung Bộ (tiết 4)",
    "content": "",
    "periodLabel": "Tiết 40",
    "periodFrom": 40,
@@ -845,26 +749,15 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 16: Dân cư và hoạt động sản xuất ở vùng bắc trung bộ và nam trung bộ (tiết 1)",
+   "title": "Bài 15: Thiên nhiên Bắc Trung Bộ và Nam Trung Bộ (tiết 5)",
    "content": "",
-   "periodLabel": "Tiết 41 (4 tiết)",
+   "periodLabel": "Tiết 41",
    "periodFrom": 41,
    "periodTo": 41,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -872,13 +765,13 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 16: Dân cư và hoạt động sản xuất ở vùng bắc trung bộ và nam trung bộ (tiết 2)",
+   "title": "Bài 16: Dân cư và hoạt động sản xuất ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 42",
+   "periodLabel": "Tiết 42 (4 tiết)",
    "periodFrom": 42,
    "periodTo": 42,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -888,7 +781,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 16: Dân cư và hoạt động sản xuất ở vùng bắc trung bộ và nam trung bộ (tiết 3)",
+   "title": "Bài 16: Dân cư và hoạt động sản xuất ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 43",
    "periodFrom": 43,
@@ -904,7 +797,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 16: Dân cư và hoạt động sản xuất ở vùng bắc trung bộ và nam trung bộ (tiết 4)",
+   "title": "Bài 16: Dân cư và hoạt động sản xuất ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 44",
    "periodFrom": 44,
@@ -920,20 +813,31 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 17: Một số nét văn hóa ở vùng bắc trung bộ và nam trung bộ (tiết 1)",
+   "title": "Bài 16: Dân cư và hoạt động sản xuất ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 45 (4 tiết)",
+   "periodLabel": "Tiết 45",
    "periodFrom": 45,
    "periodTo": 45,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-046",
+   "semester": 2,
+   "week": 23,
+   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
+   "title": "Bài 17: Một số nét văn hóa ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 46 (4 tiết)",
+   "periodFrom": 46,
+   "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -943,27 +847,11 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-046",
-   "semester": 2,
-   "week": 23,
-   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 17: Một số nét văn hóa ở vùng bắc trung bộ và nam trung bộ (tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 46",
-   "periodFrom": 46,
-   "periodTo": 46,
-   "periods": 1,
-   "lessonPeriods": null,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
    "id": "l4-lich-su-va-dia-li-047",
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 17: Một số nét văn hóa ở vùng bắc trung bộ và nam trung bộ (tiết 3)",
+   "title": "Bài 17: Một số nét văn hóa ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 47",
    "periodFrom": 47,
@@ -979,7 +867,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 17: Một số nét văn hóa ở vùng bắc trung bộ và nam trung bộ (tiết 4)",
+   "title": "Bài 17: Một số nét văn hóa ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 48",
    "periodFrom": 48,
@@ -995,11 +883,27 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 18: Truyền thống yêu nước, cách mạng của đồng bào bắc trung bộ và nam trung bộ",
+   "title": "Bài 17: Một số nét văn hóa ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 49 (1 tiết)",
+   "periodLabel": "Tiết 49",
    "periodFrom": 49,
    "periodTo": 49,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-050",
+   "semester": 2,
+   "week": 25,
+   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
+   "title": "Bài 18: Truyền thống yêu nước, cách mạng của đồng bào Bắc Trung Bộ và Nam Trung Bộ",
+   "content": "",
+   "periodLabel": "Tiết 50 (1 tiết)",
+   "periodFrom": 50,
+   "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -1018,44 +922,17 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-050",
-   "semester": 2,
-   "week": 25,
-   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 19: Cố đô huế (tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 50 (2 tiết)",
-   "periodFrom": 50,
-   "periodTo": 50,
-   "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
-   "note": ""
-  },
-  {
    "id": "l4-lich-su-va-dia-li-051",
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 19: Cố đô huế (tiết 2)",
+   "title": "Bài 19: Cố đô Huế (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 51",
+   "periodLabel": "Tiết 51 (2 tiết)",
    "periodFrom": 51,
    "periodTo": 51,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1065,38 +942,11 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 20: Phố cổ hội an (tiết 1)",
+   "title": "Bài 19: Cố đô Huế (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 52 (2 tiết)",
+   "periodLabel": "Tiết 52",
    "periodFrom": 52,
    "periodTo": 52,
-   "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-053",
-   "semester": 2,
-   "week": 27,
-   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 20: Phố cổ hội an (tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 53",
-   "periodFrom": 53,
-   "periodTo": 53,
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
@@ -1104,15 +954,15 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-054",
+   "id": "l4-lich-su-va-dia-li-053",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
+   "theme": "Ôn tập",
    "title": "Ôn tập giữa học kì II",
    "content": "",
-   "periodLabel": "Tiết 54 (1 tiết)",
-   "periodFrom": 54,
-   "periodTo": 54,
+   "periodLabel": "Tiết 53 (1 tiết)",
+   "periodFrom": 53,
+   "periodTo": 53,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -1121,52 +971,36 @@
      "code": "NLS-GQVĐ",
      "level": "",
      "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-054",
+   "semester": 2,
+   "week": 27,
+   "theme": "Ôn tập",
+   "title": "Bài 20: Phố cổ Hội An (tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 54 (2 tiết)",
+   "periodFrom": 54,
+   "periodTo": 54,
+   "periods": 1,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-055",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 21: Lễ hội cồng chiêng tây nguyên (tiết 1)",
+   "theme": "Ôn tập",
+   "title": "Bài 20: Phố cổ Hội An (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 55 (2 tiết)",
+   "periodLabel": "Tiết 55",
    "periodFrom": 55,
    "periodTo": 55,
-   "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-056",
-   "semester": 2,
-   "week": 28,
-   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 21: Lễ hội cồng chiêng tây nguyên (tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 56",
-   "periodFrom": 56,
-   "periodTo": 56,
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
@@ -1174,15 +1008,47 @@
    "note": ""
   },
   {
+   "id": "l4-lich-su-va-dia-li-056",
+   "semester": 2,
+   "week": 28,
+   "theme": "Chủ đề 5: TÂY NGUYÊN",
+   "title": "Bài 21: Lễ hội cồng chiêng Tây Nguyên (tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 56 (2 tiết)",
+   "periodFrom": 56,
+   "periodTo": 56,
+   "periods": 1,
+   "lessonPeriods": 2,
+   "adjustments": "Lưu ý: các bài khác của chủ đề Tây Nguyên theo mục lục SGK chưa được bố trí; Tổ CM đối chiếu SGK",
+   "integrations": [],
+   "note": ""
+  },
+  {
    "id": "l4-lich-su-va-dia-li-057",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 22: Thiên nhiên vùng nam bộ (tiết 1)",
+   "theme": "Chủ đề 5: TÂY NGUYÊN",
+   "title": "Bài 21: Lễ hội cồng chiêng Tây Nguyên (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 57 (4 tiết)",
+   "periodLabel": "Tiết 57",
    "periodFrom": 57,
    "periodTo": 57,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-058",
+   "semester": 2,
+   "week": 29,
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 22: Thiên nhiên vùng Nam Bộ (tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 58 (4 tiết)",
+   "periodFrom": 58,
+   "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
@@ -1191,37 +1057,16 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-058",
-   "semester": 2,
-   "week": 29,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 22: Thiên nhiên vùng nam bộ (tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 58",
-   "periodFrom": 58,
-   "periodTo": 58,
-   "periods": 1,
-   "lessonPeriods": null,
-   "adjustments": "",
-   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-059",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 22: Thiên nhiên vùng nam bộ (tiết 3)",
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 22: Thiên nhiên vùng Nam Bộ (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 59",
    "periodFrom": 59,
@@ -1236,8 +1081,8 @@
    "id": "l4-lich-su-va-dia-li-060",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 22: Thiên nhiên vùng nam bộ (tiết 4)",
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 22: Thiên nhiên vùng Nam Bộ (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 60",
    "periodFrom": 60,
@@ -1252,41 +1097,30 @@
    "id": "l4-lich-su-va-dia-li-061",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 23: Dân cư và hoạt động sản xuất ở vùng nam bộ (tiết 1)",
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 22: Thiên nhiên vùng Nam Bộ (tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 61 (2 tiết)",
+   "periodLabel": "Tiết 61",
    "periodFrom": 61,
    "periodTo": 61,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-062",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 23: Dân cư và hoạt động sản xuất ở vùng nam bộ (tiết 2)",
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 23: Dân cư và hoạt động sản xuất ở vùng Nam Bộ (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 62",
+   "periodLabel": "Tiết 62 (2 tiết)",
    "periodFrom": 62,
    "periodTo": 62,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1295,21 +1129,32 @@
    "id": "l4-lich-su-va-dia-li-063",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 24: Một số nét văn hóa và truyền thống yêu nước, cách mạng của đồng bào nam bộ (tiết 1)",
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 23: Dân cư và hoạt động sản xuất ở vùng Nam Bộ (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 63 (2 tiết)",
+   "periodLabel": "Tiết 63",
    "periodFrom": 63,
    "periodTo": 63,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-064",
+   "semester": 2,
+   "week": 32,
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 24: Một số nét văn hóa và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ (tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 64 (2 tiết)",
+   "periodFrom": 64,
+   "periodTo": 64,
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -1319,15 +1164,15 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-064",
+   "id": "l4-lich-su-va-dia-li-065",
    "semester": 2,
-   "week": 32,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 24: Một số nét văn hóa và truyền thống yêu nước, cách mạng của đồng bào nam bộ (tiết 2)",
+   "week": 33,
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 24: Một số nét văn hóa và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 64",
-   "periodFrom": 64,
-   "periodTo": 64,
+   "periodLabel": "Tiết 65",
+   "periodFrom": 65,
+   "periodTo": 65,
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
@@ -1335,44 +1180,17 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-065",
-   "semester": 2,
-   "week": 33,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 25: Thành phố hồ chí minh (tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 65 (2 tiết)",
-   "periodFrom": 65,
-   "periodTo": 65,
-   "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
-   "note": ""
-  },
-  {
    "id": "l4-lich-su-va-dia-li-066",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 25: Thành phố hồ chí minh (tiết 2)",
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 25: Thành phố Hồ Chí Minh (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 66",
+   "periodLabel": "Tiết 66 (2 tiết)",
    "periodFrom": 66,
    "periodTo": 66,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1381,35 +1199,24 @@
    "id": "l4-lich-su-va-dia-li-067",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Bài 26: Địa đạo củ chi",
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 25: Thành phố Hồ Chí Minh (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 67 (1 tiết)",
+   "periodLabel": "Tiết 67",
    "periodFrom": 67,
    "periodTo": 67,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-068",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề 5: NAM BỘ",
-   "title": "Ôn tập",
+   "theme": "Chủ đề 6: NAM BỘ",
+   "title": "Bài 26: Địa đạo Củ Chi",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
    "periodFrom": 68,
@@ -1419,14 +1226,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn)."
-    },
-    {
      "code": "QPAN",
      "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+     "text": "Giáo dục truyền thống đấu tranh cách mạng, lòng biết ơn các anh hùng, liệt sĩ."
     }
    ],
    "note": ""
@@ -1435,7 +1237,7 @@
    "id": "l4-lich-su-va-dia-li-069",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề 5: NAM BỘ",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Ôn tập cuối năm",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
@@ -1449,11 +1251,6 @@
      "code": "NLS-GQVĐ",
      "level": "",
      "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -1462,7 +1259,7 @@
    "id": "l4-lich-su-va-dia-li-070",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề 5: NAM BỘ",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Kiểm tra định kì cuối năm",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
@@ -1471,13 +1268,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

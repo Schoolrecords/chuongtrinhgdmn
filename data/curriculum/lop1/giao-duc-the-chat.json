@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 1,
  "subjectId": "giao-duc-the-chat",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH GDTC lớp 1 (2026-2027).docx",
+  "file": "Lớp 1/KHDH GDTC lớp 1 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 101
+  "integrations": 8
  },
  "lessons": [
   {
@@ -57,18 +57,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -84,18 +73,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -112,11 +90,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -138,18 +111,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -165,18 +127,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -192,18 +143,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -219,18 +159,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -246,18 +175,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -273,18 +191,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -300,18 +207,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -327,18 +223,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -354,18 +239,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -381,18 +255,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -430,13 +293,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -452,13 +309,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -474,13 +325,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -496,13 +341,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -518,13 +357,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -540,21 +373,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-022",
    "semester": 1,
    "week": 11,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập và kiểm tra giữa học kì I (Chủ đề 1 - 2)",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập giữa học kì I (Chủ đề 1 - 2)",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -569,8 +396,8 @@
    "id": "l1-giao-duc-the-chat-023",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 1: Vận động của đầu, cổ (Tiết 1)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 1: Vận động của đầu, cổ (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
    "periodFrom": 23,
@@ -596,8 +423,8 @@
    "id": "l1-giao-duc-the-chat-024",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 1: Vận động của đầu, cổ (Tiết 2)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 1: Vận động của đầu, cổ (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
    "periodFrom": 24,
@@ -605,26 +432,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-025",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 1: Vận động của đầu, cổ (Tiết 3)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 1: Vận động của đầu, cổ (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
    "periodFrom": 25,
@@ -632,26 +448,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-026",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 2: Vận động của tay (Tiết 1)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 2: Vận động của tay (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -659,26 +464,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-027",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 2: Vận động của tay (Tiết 2)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 2: Vận động của tay (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -686,26 +480,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-028",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 2: Vận động của tay (Tiết 3)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 2: Vận động của tay (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -713,26 +496,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-029",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 2: Vận động của tay (Tiết 4)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 2: Vận động của tay (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
    "periodFrom": 29,
@@ -740,26 +512,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-030",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 1)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
@@ -767,26 +528,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-031",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 2)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
    "periodFrom": 31,
@@ -794,26 +544,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-032",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 3)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
    "periodFrom": 32,
@@ -821,26 +560,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-033",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 4)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
    "periodFrom": 33,
@@ -848,26 +576,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-034",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 5)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 3: Vận động của chân (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -875,26 +592,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-035",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập và kiểm tra cuối học kì I (Tiết 1 - Ôn tập)",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập và đánh giá cuối học kì I (Tiết 1 - Ôn tập)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -909,8 +615,8 @@
    "id": "l1-giao-duc-the-chat-036",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập và kiểm tra cuối học kì I (Tiết 2 - Kiểm tra, đánh giá)",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập và đánh giá cuối học kì I (Tiết 2 - Đánh giá)",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
@@ -925,8 +631,8 @@
    "id": "l1-giao-duc-the-chat-037",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 1)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
    "periodFrom": 37,
@@ -934,26 +640,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-038",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 2)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 38 (1 tiết)",
    "periodFrom": 38,
@@ -961,26 +656,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-039",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 3)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 39 (1 tiết)",
    "periodFrom": 39,
@@ -988,26 +672,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-040",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 4)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 40 (1 tiết)",
    "periodFrom": 40,
@@ -1015,26 +688,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-041",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 5)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 41 (1 tiết)",
    "periodFrom": 41,
@@ -1042,26 +704,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-042",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 6)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 4: Vận động phối hợp của cơ thể (Tiết 6)",
    "content": "",
    "periodLabel": "Tiết 42 (1 tiết)",
    "periodFrom": 42,
@@ -1069,26 +720,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-043",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 1)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
    "periodFrom": 43,
@@ -1096,26 +736,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-044",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 2)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 44 (1 tiết)",
    "periodFrom": 44,
@@ -1123,26 +752,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-045",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 3)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 45 (1 tiết)",
    "periodFrom": 45,
@@ -1150,26 +768,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-046",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 4)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 46 (1 tiết)",
    "periodFrom": 46,
@@ -1177,26 +784,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-047",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 5)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 47 (1 tiết)",
    "periodFrom": 47,
@@ -1204,26 +800,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-048",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản",
-   "title": "Chủ đề 3: Tư thế và kỹ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 6)",
+   "theme": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản",
+   "title": "Chủ đề 3: Tư thế và kĩ năng vận động cơ bản — Bài 5: Vận động phối hợp của cơ thể (tiếp theo) (Tiết 6)",
    "content": "",
    "periodLabel": "Tiết 48 (1 tiết)",
    "periodFrom": 48,
@@ -1231,18 +816,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1280,13 +854,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1302,13 +870,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1324,13 +886,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1368,13 +924,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1390,13 +940,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1412,21 +956,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-057",
    "semester": 2,
    "week": 29,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập và kiểm tra giữa học kì II",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập giữa học kì II",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
    "periodFrom": 57,
@@ -1450,13 +988,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1472,13 +1004,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1494,13 +1020,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1516,13 +1036,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1538,13 +1052,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1560,13 +1068,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1582,13 +1084,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1604,13 +1100,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1626,13 +1116,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1648,21 +1132,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-giao-duc-the-chat-068",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập và kiểm tra cuối học kì II - Đánh giá cuối năm (Tiết 1 - Ôn tập, hệ thống hóa)",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập và đánh giá cuối năm học (Tiết 1 - Ôn tập, hệ thống hóa)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
    "periodFrom": 68,
@@ -1677,8 +1155,8 @@
    "id": "l1-giao-duc-the-chat-069",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập và kiểm tra cuối học kì II - Đánh giá cuối năm (Tiết 2 - Kiểm tra, đánh giá)",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập và đánh giá cuối năm học (Tiết 2 - Đánh giá)",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
    "periodFrom": 69,
@@ -1693,8 +1171,8 @@
    "id": "l1-giao-duc-the-chat-070",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập và kiểm tra cuối học kì II - Đánh giá cuối năm (Tiết 3 - Đánh giá, tổng kết năm học)",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập và đánh giá cuối năm học (Tiết 3 - Đánh giá, tổng kết năm học)",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,

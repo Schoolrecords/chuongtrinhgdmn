@@ -18,6 +18,7 @@
       return `<div class="notice detail-status">${icon('alert')}<div><b>Đang cập nhật.</b> Kế hoạch dạy học của môn này chưa được nhập vào hệ thống. Khi nhà trường bổ sung tệp KHDH, nội dung sẽ hiển thị tại đây.</div></div>`;
     }
     if (cur.status === 'official') return '';
+    if (cur.status === 'reviewed') return `<div class="notice notice-info detail-status">${icon('shield')}<div><b>Đã rà soát.</b> ${esc(cur.statusLabel || '')}${cur.source?.file ? ` Nguồn: <i>${esc(cur.source.file)}</i>.` : ''}</div></div>`;
     if (cur.status === 'sample') return `<div class="notice detail-status">${icon('alert')}<div><b>Dữ liệu minh họa.</b> Nội dung dưới đây chỉ để xem trước giao diện, chưa phải kế hoạch chính thức.</div></div>`;
     return `<div class="notice notice-info detail-status">${icon('info')}<div><b>Chờ xác nhận.</b> ${esc(cur.statusLabel || '')}${cur.source?.file ? ` Nguồn: <i>${esc(cur.source.file)}</i>${cur.source.importedAt ? ` (nhập ngày ${esc(cur.source.importedAt.split('-').reverse().join('/'))})` : ''}.` : ''} ${esc(s.dataNote || '')}</div></div>`;
   }

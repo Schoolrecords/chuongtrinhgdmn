@@ -52,19 +52,55 @@ SUBJECT_MAP = [
 
 # Mã nội dung tích hợp, lồng ghép xuất hiện trong cột "Nội dung điều chỉnh, bổ sung"
 INTEGRATION_CODES = [
-    "NLS-KT", "NLS-GT", "NLS-ST", "NLS-AT", "NLS-GQVĐ", "NLS-NB", "NLS",
+    "NLS-KT", "NLS-GT", "NLS-ST", "NLS-AT", "NLS-GQVĐ", "NLS-NB", "NLS-ƯD", "NLS",
     "AI-NB", "AI",
     "GDQPAN", "QPAN",
     "KNS", "STEM",
-    "GDĐP", "ATGT", "GDMT", "QTE", "ĐĐLS", "GDHN",
+    "GDĐP", "ATGT", "GDMT", "QTE", "ĐĐLS", "GDHN", "GDVL",
 ]
+
+# Cụm từ tự do (không có mã) trong cột điều chỉnh -> mã tích hợp. So khớp trên chuỗi đã bỏ dấu, chữ thường.
+PHRASE_CODES = [
+    ("quoc phong", "QPAN"), ("gdqp", "QPAN"), ("qpan", "QPAN"),
+    ("dia phuong", "GDĐP"), ("gddp", "GDĐP"),
+    ("viet lao", "GDVL"), ("viet - lao", "GDVL"), ("viet – lao", "GDVL"),
+    ("stem", "STEM"),
+    ("an toan giao thong", "ATGT"), ("atgt", "ATGT"),
+    ("moi truong", "GDMT"), ("quyen tre em", "QTE"), ("hoa nhap", "GDHN"),
+    ("dao duc, loi song", "ĐĐLS"), ("ki nang song", "KNS"), ("nang luc so", "NLS"),
+    ("tri tue nhan tao", "AI-NB"),
+]
+
+
+def _strip(text):
+    import unicodedata
+    text = unicodedata.normalize("NFD", text).replace("đ", "d").replace("Đ", "D")
+    return "".join(ch for ch in text if unicodedata.category(ch) != "Mn").lower()
+
+
+def phrases_to_integrations(text):
+    """Tách phần văn bản tự do thành (điều chỉnh còn lại, [tích hợp nhận diện theo cụm từ])."""
+    keep, items = [], []
+    for seg in re.split(r"\s*;\s*|\n|\s+[-–—]\s+", text or ""):
+        seg = seg.strip(" .,")
+        if not seg:
+            continue
+        n = _strip(seg)
+        code = next((c for k, c in PHRASE_CODES if k in n), None)
+        # Chỉ coi là tích hợp khi đoạn ngắn, mang tính nhãn (không phải câu điều chỉnh dài)
+        if code and len(seg) <= 90 and not n.startswith("dieu chinh"):
+            items.append({"code": code, "level": "", "text": seg})
+        else:
+            keep.append(seg)
+    return "; ".join(keep), items
+
 # "ĐÍNH CHÍNH" là điều chỉnh SGK, không phải tích hợp
 ADJUST_CODES = ["ĐÍNH CHÍNH", "ĐÍNH CHÍNH SGK", "ĐIỀU CHỈNH"]
 
 CODE_RE = re.compile(
     r"(?:^|(?<=[\.\;\)\s]))(?:Lồng ghép\s+)?(" +
     "|".join(re.escape(c) for c in sorted(INTEGRATION_CODES + ADJUST_CODES, key=len, reverse=True)) +
-    r")\s*(\([^)]*\))?\s*:",
+    r")\s*(\([^)]*\))?\s*([:,])",
     re.UNICODE,
 )
 PERIOD_RE = re.compile(r"Tiết\s*(\d+)\s*(?:[–\-+]\s*(\d+))?\s*(?:\((\d+)\s*tiết\))?", re.UNICODE)
@@ -84,20 +120,34 @@ def split_integrations(text):
         return "", []
     matches = list(CODE_RE.finditer(text))
     if not matches:
-        return text, []
+        return phrases_to_integrations(text)
     free = text[: matches[0].start()].strip(" ;.\n")
     items = []
-    adjust_parts = [free] if free else []
+    adjust_parts = []
+    if free:
+        rest, found = phrases_to_integrations(free)
+        items.extend(found)
+        if rest:
+            adjust_parts.append(rest)
+    pending = []  # các mã viết liền nhau "NLS-KT, KNS: nội dung" dùng chung nội dung phía sau
     for i, m in enumerate(matches):
         code = m.group(1)
         level = (m.group(2) or "").strip("() ")
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
         body = text[m.end():end].strip(" ;\n")
+        norm = {"GDQPAN": "QPAN", "AI": "AI-NB"}.get(code, code)
         if code in ADJUST_CODES:
             adjust_parts.append(body)
             continue
-        norm = {"GDQPAN": "QPAN", "AI": "AI-NB"}.get(code, code)
+        if m.group(3) == "," and not body:
+            pending.append((norm, level))
+            continue
+        for pc, pl in pending:
+            items.append({"code": pc, "level": pl or level, "text": body})
+        pending = []
         items.append({"code": norm, "level": level, "text": body})
+    for pc, pl in pending:
+        items.append({"code": pc, "level": pl, "text": ""})
     return "; ".join(p for p in adjust_parts if p), items
 
 
@@ -202,6 +252,8 @@ def main():
     files = [f for f in files if "cả khối" not in os.path.basename(f)]
     if not files:
         sys.exit(f"Không tìm thấy tệp KHDH trong {args.src}")
+    # Mỗi (lớp, môn) chỉ lấy một tệp: ưu tiên bản "(đã rà soát)" nếu có
+    chosen = {}
     for f in files:
         base = os.path.basename(f)
         g = re.search(r"lớp\s*(\d)", base, re.I)
@@ -209,12 +261,20 @@ def main():
         if not g or not sid:
             print("BỎ QUA (không nhận diện được):", base)
             continue
-        grade = int(g.group(1))
+        key = (int(g.group(1)), sid)
+        reviewed = "rà soát" in base.lower()
+        if key not in chosen or (reviewed and not chosen[key][1]):
+            chosen[key] = (f, reviewed)
+    for (grade, sid), (f, reviewed) in sorted(chosen.items()):
+        base = os.path.basename(f)
         try:
             data = parse_docx(f, grade, sid)
         except Exception as e:  # noqa
             print("LỖI", base, e)
             continue
+        if reviewed:
+            data["status"] = "reviewed"
+            data["statusLabel"] = "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt"
         out_dir = os.path.join(OUT_DIR, f"lop{grade}")
         os.makedirs(out_dir, exist_ok=True)
         out = os.path.join(out_dir, f"{sid}.json")
@@ -225,7 +285,7 @@ def main():
             "status": data["status"], "summary": data["summary"], "source": data["source"],
         })
         s = data["summary"]
-        print(f"OK lớp {grade} {sid:24s} bài={s['lessons']:3d} tiết={s['totalPeriods']:3d} tuần={s['weeks']:2d} tích hợp={s['integrations']}")
+        print(f"OK lớp {grade} {sid:24s} {'[rà soát]' if reviewed else '[gốc]':9s} bài={s['lessons']:3d} tiết={s['totalPeriods']:3d} tuần={s['weeks']:2d} tích hợp={s['integrations']}")
     index.sort(key=lambda x: (x["grade"], x["subjectId"]))
     with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8") as fh:
         json.dump({"schoolYear": SCHOOL_YEAR, "generatedAt": datetime.date.today().isoformat(), "items": index},

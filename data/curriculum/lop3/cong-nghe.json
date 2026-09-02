@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 3,
  "subjectId": "cong-nghe",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Công nghệ lớp 3 (2026-2027).docx",
+  "file": "Lớp 3/KHDH Công nghệ lớp 3 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,14 +14,14 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 42
+  "integrations": 15
  },
  "lessons": [
   {
    "id": "l3-cong-nghe-001",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 1. Tự nhiên và công nghệ (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
@@ -43,7 +43,7 @@
    "id": "l3-cong-nghe-002",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 1. Tự nhiên và công nghệ (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2",
@@ -52,20 +52,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-003",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề: SỬ DỤNG ĐÈN HỌC (4 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 2. Sử dụng đèn học (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (2 tiết)",
@@ -92,7 +86,7 @@
    "id": "l3-cong-nghe-004",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề: SỬ DỤNG ĐÈN HỌC (4 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 2. Sử dụng đèn học (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
@@ -101,20 +95,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-005",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề: SỬ DỤNG ĐÈN HỌC (4 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 3. Sử dụng quạt điện (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 5 (2 tiết)",
@@ -124,11 +112,6 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -141,7 +124,7 @@
    "id": "l3-cong-nghe-006",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề: SỬ DỤNG ĐÈN HỌC (4 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 3. Sử dụng quạt điện (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 6",
@@ -150,20 +133,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-007",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 4. Sử dụng máy thu thanh (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (4 tiết)",
@@ -173,11 +150,6 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -190,7 +162,7 @@
    "id": "l3-cong-nghe-008",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 4. Sử dụng máy thu thanh (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
@@ -199,20 +171,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-009",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 4. Sử dụng máy thu thanh (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 9",
@@ -221,20 +187,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-010",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 4. Sử dụng máy thu thanh (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 10",
@@ -243,20 +203,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-011",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề: SỬ DỤNG MÁY THU HÌNH (4 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 5. Sử dụng máy thu hình (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 11 (4 tiết)",
@@ -283,7 +237,7 @@
    "id": "l3-cong-nghe-012",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề: SỬ DỤNG MÁY THU HÌNH (4 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 5. Sử dụng máy thu hình (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 12",
@@ -292,20 +246,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-013",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: SỬ DỤNG MÁY THU HÌNH (4 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 5. Sử dụng máy thu hình (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 13",
@@ -314,20 +262,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-014",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: SỬ DỤNG MÁY THU HÌNH (4 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 5. Sử dụng máy thu hình (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 14",
@@ -336,34 +278,23 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-015",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 15 (4 tiết)",
+   "periodLabel": "Tiết 15 (2 tiết)",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -376,7 +307,7 @@
    "id": "l3-cong-nghe-016",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
    "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 16",
@@ -385,69 +316,19 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
-   "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 3)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "title": "Ôn tập cuối học kì I",
    "content": "",
-   "periodLabel": "Tiết 17",
+   "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
-   "periods": 1,
-   "lessonPeriods": null,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l3-cong-nghe-018",
-   "semester": 1,
-   "week": 18,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
-   "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 4)",
-   "content": "",
-   "periodLabel": "Tiết 18",
-   "periodFrom": 18,
-   "periodTo": 18,
-   "periods": 1,
-   "lessonPeriods": null,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l3-cong-nghe-019",
-   "semester": 2,
-   "week": 19,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
-   "title": "Ôn tập kiểm tra (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 19 (1 tiết)",
-   "periodFrom": 19,
-   "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -455,17 +336,49 @@
    "note": ""
   },
   {
+   "id": "l3-cong-nghe-018",
+   "semester": 1,
+   "week": 18,
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "title": "Kiểm tra định kì cuối học kì I",
+   "content": "",
+   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodFrom": 18,
+   "periodTo": 18,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l3-cong-nghe-019",
+   "semester": 2,
+   "week": 19,
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG",
+   "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 19 (2 tiết)",
+   "periodFrom": 19,
+   "periodTo": 19,
+   "periods": 1,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": "Bài 6 hoàn thành đầu HKII do bố trí ôn tập, kiểm tra cuối học kì I trong tuần 17–18."
+  },
+  {
    "id": "l3-cong-nghe-020",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: TỰ NHIÊN VÀ CÔNG NGHỆ (12 tiết)",
-   "title": "Kiểm tra cuối kì I (Tiết 1)",
+   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG",
+   "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 20 (1 tiết)",
+   "periodLabel": "Tiết 20",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -474,7 +387,7 @@
    "id": "l3-cong-nghe-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 7. Dụng cụ và vật liệu làm thủ công (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 21 (2 tiết)",
@@ -501,7 +414,7 @@
    "id": "l3-cong-nghe-022",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 7. Dụng cụ và vật liệu làm thủ công (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 22",
@@ -510,20 +423,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-023",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: LÀM ĐỒ DÙNG HỌC TẬP (3 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 8. Làm đồ dùng học tập (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 23 (3 tiết)",
@@ -550,7 +457,7 @@
    "id": "l3-cong-nghe-024",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: LÀM ĐỒ DÙNG HỌC TẬP (3 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 8. Làm đồ dùng học tập (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 24",
@@ -559,20 +466,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-025",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: LÀM ĐỒ DÙNG HỌC TẬP (3 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 8. Làm đồ dùng học tập (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 25",
@@ -581,20 +482,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 9. Làm biển báo giao thông (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 26 (4 tiết)",
@@ -604,11 +499,6 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -621,7 +511,7 @@
    "id": "l3-cong-nghe-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 9. Làm biển báo giao thông (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 27",
@@ -630,20 +520,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-028",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 9. Làm biển báo giao thông (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 28",
@@ -652,20 +536,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-029",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 9. Làm biển báo giao thông (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 29",
@@ -674,20 +552,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-030",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: LÀM ĐỒ CHƠI (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 10. Làm đồ chơi (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 30 (4 tiết)",
@@ -714,7 +586,7 @@
    "id": "l3-cong-nghe-031",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: LÀM ĐỒ CHƠI (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 10. Làm đồ chơi (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 31",
@@ -723,20 +595,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-032",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: LÀM ĐỒ CHƠI (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 10. Làm đồ chơi (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 32",
@@ -745,20 +611,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-033",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: LÀM ĐỒ CHƠI (6 tiết)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
    "title": "Bài 10. Làm đồ chơi (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 33",
@@ -767,21 +627,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-034",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: LÀM ĐỒ CHƠI (6 tiết)",
-   "title": "Ôn tập kiểm tra (Tiết 1)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "title": "Ôn tập cuối năm",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -789,21 +643,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-035",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: LÀM ĐỒ CHƠI (6 tiết)",
-   "title": "Kiểm tra cuối kì II (Tiết 1)",
+   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "title": "Kiểm tra định kì cuối năm học",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -811,13 +659,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

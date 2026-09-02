@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 5,
  "subjectId": "am-nhac",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH Âm nhạc lớp 5 (2026-2027).docx",
+  "file": "Lớp 5/KHDH Âm nhạc lớp 5 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,14 +14,14 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 36
+  "integrations": 17
  },
  "lessons": [
   {
    "id": "l5-am-nhac-001",
    "semester": 1,
    "week": 1,
-   "theme": "KHÚC CA NGÀY MỚI",
+   "theme": "CHỦ ĐỀ 1. KHÚC CA NGÀY MỚI",
    "title": "Tiết 1: Lí thuyết âm nhạc: Trọng âm, phách, vạch nhịp, ô nhịp; Đọc nhạc: Bài số 1",
    "content": "",
    "periodLabel": "Tiết 1 (4 tiết)",
@@ -43,7 +43,7 @@
    "id": "l5-am-nhac-002",
    "semester": 1,
    "week": 2,
-   "theme": "KHÚC CA NGÀY MỚI",
+   "theme": "CHỦ ĐỀ 1. KHÚC CA NGÀY MỚI",
    "title": "Tiết 2: - Ôn đọc nhạc: Bài số 1- Hát Chim sơn ca",
    "content": "",
    "periodLabel": "Tiết 2",
@@ -65,7 +65,7 @@
    "id": "l5-am-nhac-003",
    "semester": 1,
    "week": 3,
-   "theme": "KHÚC CA NGÀY MỚI",
+   "theme": "CHỦ ĐỀ 1. KHÚC CA NGÀY MỚI",
    "title": "Tiết 3: - Ôn bài hát: Chim sơn ca- Thường thức âm nhạc",
    "content": "",
    "periodLabel": "Tiết 3",
@@ -74,20 +74,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-am-nhac-004",
    "semester": 1,
    "week": 4,
-   "theme": "KHÚC CA NGÀY MỚI",
+   "theme": "CHỦ ĐỀ 1. KHÚC CA NGÀY MỚI",
    "title": "Tiết 4: Tổ chức hoạt động Vận dụng - Sáng tạo",
    "content": "",
    "periodLabel": "Tiết 4",
@@ -96,13 +90,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -167,13 +155,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -189,13 +171,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -255,13 +231,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -277,13 +247,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -313,7 +277,7 @@
    "semester": 1,
    "week": 14,
    "theme": "CHỦ ĐỀ 4. CHÀO MÙA XUÂN",
-   "title": "Tiết 2: Nhạc cụ: Nhạc cụ thể hiện tiết tấu và nhạc cụ thể",
+   "title": "Tiết 2: Nhạc cụ: Nhạc cụ thể hiện tiết tấu và nhạc cụ thể hiện giai điệu",
    "content": "",
    "periodLabel": "Tiết 14",
    "periodFrom": 14,
@@ -343,13 +307,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -365,13 +323,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -387,13 +339,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -409,13 +355,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -475,13 +415,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -497,13 +431,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -533,7 +461,7 @@
    "semester": 2,
    "week": 24,
    "theme": "CHỦ ĐỀ 6. ƯỚC MƠ TUỔI THƠ",
-   "title": "Tiết 2. - Ôn bài hắt: Tuổi hồng ơi- Nhạc cụ",
+   "title": "Tiết 2. - Ôn bài hát: Tuổi hồng ơi- Nhạc cụ",
    "content": "",
    "periodLabel": "Tiết 24",
    "periodFrom": 24,
@@ -563,13 +491,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -585,13 +507,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -651,13 +567,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -673,13 +583,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -739,13 +643,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -761,13 +659,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -775,7 +667,7 @@
    "semester": 2,
    "week": 35,
    "theme": "CHỦ ĐỀ 8. KHÚC CA HÈ VỀ",
-   "title": "Ôn tập cuối năm",
+   "title": "Ôn tập và đánh giá cuối năm",
    "content": "",
    "periodLabel": "Tiết 35",
    "periodFrom": 35,
@@ -783,13 +675,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

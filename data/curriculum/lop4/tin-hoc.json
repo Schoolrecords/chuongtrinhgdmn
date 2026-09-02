@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 4,
  "subjectId": "tin-hoc",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Tin học lớp 4 (2026-2027).docx",
+  "file": "Lớp 4/KHDH Tin học lớp 4 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 24
+  "integrations": 20
  },
  "lessons": [
   {
@@ -44,7 +44,7 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ đề A: Máy tính và em",
-   "title": "Bài 01: EM CÓ THỂ LÀM GÌ VỚI MÁY TÍNH? (Tiết 2)",
+   "title": "Bài 01: PHẦN CỨNG VÀ PHẦN MỀM MÁY TÍNH (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2 (1 tiết)",
    "periodFrom": 2,
@@ -349,8 +349,8 @@
    "id": "l4-tin-hoc-017",
    "semester": 1,
    "week": 17,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP CUỐI HỌC KỲ I",
+   "theme": "Chủ đề E: Ứng dụng tin học",
+   "title": "Bài 09: HIỆU ỨNG CHUYỂN TRANG (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -366,14 +366,14 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "KIỂM TRA CUỐI HỌC KỲ I",
+   "title": "ÔN TẬP VÀ KIỂM TRA CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Điều chỉnh: gộp ôn tập với kiểm tra cuối HKI để Bài 09 học liền mạch trong HKI; các bài HKII dồn lên 1 tuần, bổ sung 1 tiết ôn tập thực hành cuối năm",
    "integrations": [],
    "note": ""
   },
@@ -382,7 +382,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 09. HIỆU ỨNG CHUYỂN TRANG (Tiết 2)",
+   "title": "Bài 10: PHẦN MỀM SOẠN THẢO VĂN BẢN (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
@@ -390,7 +390,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền."
+    }
+   ],
    "note": ""
   },
   {
@@ -398,7 +404,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 10. PHẦN MỀM SOẠN THẢO VĂN BẢN (Tiết 1)",
+   "title": "Bài 10: PHẦN MỀM SOẠN THẢO VĂN BẢN (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
    "periodFrom": 20,
@@ -420,7 +426,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 10. PHẦN MỀM SOẠN THẢO VĂN BẢN (Tiết 2)",
+   "title": "Bài 11: CHỈNH SỬA VĂN BẢN (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
    "periodFrom": 21,
@@ -430,9 +436,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền."
+     "text": "tạo sản phẩm số của riêng em; ghi nguồn nếu dùng hình ảnh của người khác."
     }
    ],
    "note": ""
@@ -442,7 +448,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 11. CHỈNH SỬA VĂN BẢN (Tiết 1)",
+   "title": "Bài 11: CHỈNH SỬA VĂN BẢN (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -464,7 +470,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 11. CHỈNH SỬA VĂN BẢN (Tiết 2)",
+   "title": "Bài 12: PHẦN MỀM LUYỆN TẬP GÕ BÀN PHÍM (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
    "periodFrom": 23,
@@ -474,9 +480,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-AT",
      "level": "Cơ bản 2",
-     "text": "tạo sản phẩm số của riêng em; ghi nguồn nếu dùng hình ảnh của người khác."
+     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền. (Bài lựa chọn 12B theo SGK — Tổ CM đối chiếu.)"
     }
    ],
    "note": ""
@@ -486,7 +492,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 12B: PHẦN MỀM LUYỆN TẬP GÕ BÀN PHÍM (Tiết 1)",
+   "title": "Bài 12: PHẦN MỀM LUYỆN TẬP GÕ BÀN PHÍM (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
    "periodFrom": 24,
@@ -494,13 +500,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -508,7 +508,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 12B: PHẦN MỀM LUYỆN TẬP GÕ BÀN PHÍM (Tiết 2)",
+   "title": "Bài 13: CHƠI VỚI MÁY TÍNH (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
    "periodFrom": 25,
@@ -516,13 +516,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -530,7 +524,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 13: CHƠI VỚI MÁY TÍNH (Tiết 1)",
+   "title": "Bài 13: CHƠI VỚI MÁY TÍNH (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -545,28 +539,12 @@
    "id": "l4-tin-hoc-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 13: CHƠI VỚI MÁY TÍNH (Tiết 2)",
+   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
+   "title": "Bài 14: KHÁM PHÁ MÔI TRƯỜNG LẬP TRÌNH TRỰC QUAN (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
    "periodTo": 27,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-tin-hoc-028",
-   "semester": 2,
-   "week": 28,
-   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 14. KHÁM PHÁ MÔI TRƯỜNG LẬP TRÌNH TRỰC QUAN (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 28 (1 tiết)",
-   "periodFrom": 28,
-   "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -580,11 +558,27 @@
    "note": ""
   },
   {
+   "id": "l4-tin-hoc-028",
+   "semester": 2,
+   "week": 28,
+   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
+   "title": "Bài 14: KHÁM PHÁ MÔI TRƯỜNG LẬP TRÌNH TRỰC QUAN (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 28 (1 tiết)",
+   "periodFrom": 28,
+   "periodTo": 28,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
    "id": "l4-tin-hoc-029",
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 14. KHÁM PHÁ MÔI TRƯỜNG LẬP TRÌNH TRỰC QUAN (Tiết 2)",
+   "title": "Bài 15: TẠO CHƯƠNG TRÌNH MÁY TÍNH ĐỂ DIỄN TẢ Ý TƯỞNG (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
    "periodFrom": 29,
@@ -606,7 +600,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 15. TẠO CHƯƠNG TRÌNH MÁY TÍNH ĐỂ DIỄN TẢ Ý TƯỞNG (Tiết 1)",
+   "title": "Bài 15: TẠO CHƯƠNG TRÌNH MÁY TÍNH ĐỂ DIỄN TẢ Ý TƯỞNG (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
@@ -614,13 +608,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "chia nhỏ vấn đề, thử – sửa – thử lại khi chương trình chưa chạy đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -628,7 +616,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 15: TẠO CHƯƠNG TRÌNH MÁY TÍNH ĐỂ DIỄN TẢ Ý TƯỞNG (Tiết 2)",
+   "title": "Bài 16: CHƯƠNG TRÌNH CỦA EM (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
    "periodFrom": 31,
@@ -650,7 +638,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 16: CHƯƠNG TRÌNH CỦA EM (Tiết 1)",
+   "title": "Bài 16: CHƯƠNG TRÌNH CỦA EM (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
    "periodFrom": 32,
@@ -658,21 +646,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "chia nhỏ vấn đề, thử – sửa – thử lại khi chương trình chưa chạy đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-tin-hoc-033",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 16: CHƯƠNG TRÌNH CỦA EM",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "ÔN TẬP CUỐI HỌC KÌ II (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
    "periodFrom": 33,
@@ -680,13 +662,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "chia nhỏ vấn đề, thử – sửa – thử lại khi chương trình chưa chạy đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -694,7 +670,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP CUỐI HỌC KỲ II",
+   "title": "ÔN TẬP CUỐI HỌC KÌ II (Tiết 2): Thực hành tổng hợp",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -710,7 +686,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "KIỂM TRA CUỐI HỌC KỲ II",
+   "title": "KIỂM TRA CUỐI HỌC KÌ II",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,

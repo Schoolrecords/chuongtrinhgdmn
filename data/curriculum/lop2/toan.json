@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 2,
  "subjectId": "toan",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Toán lớp 2 (2026-2027).docx",
+  "file": "Lớp 2/KHDH Toán lớp 2 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 174,
-  "integrations": 88
+  "integrations": 27
  },
  "lessons": [
   {
@@ -30,13 +30,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -196,13 +190,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -556,13 +544,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -626,13 +608,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -702,13 +678,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -724,13 +694,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -746,13 +710,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -768,13 +726,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -790,13 +742,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -984,13 +930,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1150,13 +1090,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1172,13 +1106,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1216,13 +1144,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1238,13 +1160,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1260,13 +1176,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1282,13 +1192,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1304,13 +1208,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1375,18 +1273,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem đồng hồ và lịch điện tử trên máy tính/điện thoại của cô để đối chiếu với đồng hồ, lịch thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1402,18 +1289,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem đồng hồ và lịch điện tử trên máy tính/điện thoại của cô để đối chiếu với đồng hồ, lịch thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1430,11 +1306,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem đồng hồ và lịch điện tử trên máy tính/điện thoại của cô để đối chiếu với đồng hồ, lịch thật."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1456,18 +1327,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem đồng hồ và lịch điện tử trên máy tính/điện thoại của cô để đối chiếu với đồng hồ, lịch thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1483,18 +1343,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem đồng hồ và lịch điện tử trên máy tính/điện thoại của cô để đối chiếu với đồng hồ, lịch thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1515,11 +1364,6 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1537,13 +1381,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1559,13 +1397,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1581,13 +1413,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1603,13 +1429,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1625,13 +1445,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1647,13 +1461,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1669,13 +1477,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1691,13 +1493,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1713,13 +1509,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1727,7 +1517,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 7: Ôn tập học kì 1",
-   "title": "Bài 36. ÔN TẬP CHUNG TIẾT 2: LUYỆN TẬP",
+   "title": "KIỂM TRA ĐỊNH KÌ CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 90 (1 tiết)",
    "periodFrom": 90,
@@ -1735,13 +1525,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1835,7 +1619,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 39: BẢNG NHÂN 2",
+   "title": "Bài 39: BẢNG NHÂN 2 (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 96",
    "periodFrom": 96,
@@ -1859,13 +1643,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1873,7 +1651,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 40: BẢNG NHÂN 5",
+   "title": "Bài 40: BẢNG NHÂN 5 (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 98",
    "periodFrom": 98,
@@ -1905,7 +1683,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 41: PHÉP CHIA",
+   "title": "Bài 41: PHÉP CHIA (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 100",
    "periodFrom": 100,
@@ -1921,7 +1699,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 42: SỐ BỊ CHIA, SỐ CHIA, THƯƠNG SỐ BỊ CHIA, SỐ CHIA, THƯƠNG",
+   "title": "Bài 42: SỐ BỊ CHIA, SỐ CHIA, THƯƠNG",
    "content": "",
    "periodLabel": "Tiết 101 (1 tiết)",
    "periodFrom": 101,
@@ -1961,13 +1739,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1999,13 +1771,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2021,13 +1787,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2035,7 +1795,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 45: LUYỆN TẬP CHUNG – LUYỆN TẬP (Tiết 1)",
+   "title": "Bài 45: LUYỆN TẬP CHUNG (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 107 (4 tiết)",
    "periodFrom": 107,
@@ -2057,7 +1817,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 45: LUYỆN TẬP CHUNG – LUYỆN TẬP (Tiết 2)",
+   "title": "Bài 45: LUYỆN TẬP CHUNG (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 108",
    "periodFrom": 108,
@@ -2073,7 +1833,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 45: LUYỆN TẬP CHUNG – LUYỆN TẬP (Tiết 3)",
+   "title": "Bài 45: LUYỆN TẬP CHUNG (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 109",
    "periodFrom": 109,
@@ -2089,7 +1849,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 45: LUYỆN TẬP CHUNG – LUYỆN TẬP (Tiết 4)",
+   "title": "Bài 45: LUYỆN TẬP CHUNG (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 110",
    "periodFrom": 110,
@@ -2105,7 +1865,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 45: LUYỆN TẬP CHUNG LUYỆN TẬP (Tiết 5)",
+   "title": "Bài 45: LUYỆN TẬP CHUNG (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 111 (1 tiết)",
    "periodFrom": 111,
@@ -2113,13 +1873,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2127,7 +1881,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 9: Làm quen với hình khối",
-   "title": "Bài 46: KHỐI TRỤ, KHỐI CẦU KHỐI TRỤ, KHỐI CẦU",
+   "title": "Bài 46: KHỐI TRỤ, KHỐI CẦU",
    "content": "",
    "periodLabel": "Tiết 112 (1 tiết)",
    "periodFrom": 112,
@@ -2149,7 +1903,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 9: Làm quen với hình khối",
-   "title": "Bài 46: KHỐI TRỤ, KHỐI CẦU LUYỆN TẬP",
+   "title": "Bài 46: KHỐI TRỤ, KHỐI CẦU – LUYỆN TẬP",
    "content": "",
    "periodLabel": "Tiết 113 (1 tiết)",
    "periodFrom": 113,
@@ -2157,21 +1911,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-toan-114",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề 2: Phép cộng, phép trừ (qua 10) trong phạm vi 20",
-   "title": "Bài 9: TRẢI NGHIỆM THÀNH PHỐ HÌNH HỌC (2 TIẾT)",
+   "theme": "Chủ đề 9: Làm quen với hình khối",
+   "title": "Bài 47 – BÀI HỌC STEM: TRẢI NGHIỆM THÀNH PHỐ HÌNH HỌC (2 tiết)",
    "content": "",
    "periodLabel": "Tiết 114–115 (2 tiết)",
    "periodFrom": 114,
@@ -2183,7 +1931,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
+     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng. Thay bài SGK bằng bài học STEM theo KH giáo dục STEM của trường."
     }
    ],
    "note": ""
@@ -2474,18 +2222,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2501,18 +2238,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2533,11 +2259,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem hình tiền trên màn hình để nhận biết mệnh giá; nhắc HS không tự ý mua bán trên mạng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -2555,18 +2276,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2582,18 +2292,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2614,11 +2313,6 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -2756,7 +2450,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 12: Phép cộng, phép trừ trong phạm vi 1 000",
-   "title": "Bài 61. PHÉP TRỪ (KHÔNG NHỚ) TRONG PHẠM VI 1 000 TIẾT 146: LUYỆN TẬP (Tiết 3)",
+   "title": "Bài 61. PHÉP TRỪ (KHÔNG NHỚ) TRONG PHẠM VI 1 000 – LUYỆN TẬP (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 146 (1 tiết)",
    "periodFrom": 146,
@@ -2788,7 +2482,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 12: Phép cộng, phép trừ trong phạm vi 1 000",
-   "title": "Bài 62. PHÉP TRỪ (CÓ NHỚ) TRONG PHẠM VI 1 000 TIẾT 148: LUYỆN TẬP (Tiết 2)",
+   "title": "Bài 62. PHÉP TRỪ (CÓ NHỚ) TRONG PHẠM VI 1 000 – LUYỆN TẬP (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 148 (1 tiết)",
    "periodFrom": 148,
@@ -2804,7 +2498,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 12: Phép cộng, phép trừ trong phạm vi 1 000",
-   "title": "Bài 62. PHÉP TRỪ (CÓ NHỚ) TRONG PHẠM VI 1 000 TIẾT 149: LUYỆN TẬP (Tiết 3)",
+   "title": "Bài 62. PHÉP TRỪ (CÓ NHỚ) TRONG PHẠM VI 1 000 – LUYỆN TẬP (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 149 (1 tiết)",
    "periodFrom": 149,
@@ -2820,7 +2514,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 12: Phép cộng, phép trừ trong phạm vi 1 000",
-   "title": "Bài 62. PHÉP TRỪ (CÓ NHỚ) TRONG PHẠM VI 1 000 TIẾT 150: LUYỆN TẬP",
+   "title": "Bài 62. PHÉP TRỪ (CÓ NHỚ) TRONG PHẠM VI 1 000 – LUYỆN TẬP (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 150 (1 tiết)",
    "periodFrom": 150,
@@ -2918,7 +2612,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 13: Làm quen với yếu tố thống kê, xác suất",
-   "title": "Bài 65. BIỂU ĐỒ TRANH TIẾT 155: LUYỆN TẬP",
+   "title": "Bài 65: BIỂU ĐỒ TRANH – LUYỆN TẬP (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 155 (1 tiết)",
    "periodFrom": 155,
@@ -2961,8 +2655,8 @@
    "id": "l2-toan-156",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 3: Làm quen với khối lượng, dung tích",
-   "title": "Bài 16: VÒNG XOAY NGẪU NHIÊN",
+   "theme": "Chủ đề 13: Làm quen với yếu tố thống kê, xác suất",
+   "title": "Bài 67 – BÀI HỌC STEM: VÒNG XOAY NGẪU NHIÊN",
    "content": "",
    "periodLabel": "Tiết 157 (1 tiết)",
    "periodFrom": 157,
@@ -2974,7 +2668,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "dùng công cụ quay số/tung xúc xắc trên máy để HS quan sát khả năng xảy ra, rồi tự rút nhận xét."
+     "text": "dùng công cụ quay số/tung xúc xắc trên máy để HS quan sát khả năng xảy ra, rồi tự rút nhận xét. Thay bài SGK bằng bài học STEM theo KH giáo dục STEM của trường."
     }
    ],
    "note": ""
@@ -2984,7 +2678,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 14: Ôn tập cuối năm",
-   "title": "Bài 68: ÔN TẬP CÁC SỐ TRONG PHẠM VI 1000 LUYỆN TẬP (Tiết 1)",
+   "title": "Bài 68: ÔN TẬP CÁC SỐ TRONG PHẠM VI 1000 – LUYỆN TẬP (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 158 (2 tiết)",
    "periodFrom": 158,
@@ -2992,13 +2686,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3006,7 +2694,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 14: Ôn tập cuối năm",
-   "title": "Bài 68: ÔN TẬP CÁC SỐ TRONG PHẠM VI 1000 LUYỆN TẬP (Tiết 2)",
+   "title": "Bài 68: ÔN TẬP CÁC SỐ TRONG PHẠM VI 1000 – LUYỆN TẬP (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 159",
    "periodFrom": 159,
@@ -3030,13 +2718,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3084,13 +2766,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3138,13 +2814,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3192,13 +2862,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3230,13 +2894,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3268,13 +2926,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "cùng cô đọc bảng số liệu/biểu đồ tranh trên màn hình; HS ghi lại số đếm được và nói rõ lấy số từ đâu."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3290,13 +2942,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3304,7 +2950,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Chủ đề 14: Ôn tập cuối năm",
-   "title": "Bài 75: ÔN TẬP CHUNG",
+   "title": "KIỂM TRA ĐỊNH KÌ CUỐI NĂM HỌC",
    "content": "",
    "periodLabel": "Tiết 175",
    "periodFrom": 175,

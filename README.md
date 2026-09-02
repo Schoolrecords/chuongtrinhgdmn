@@ -47,14 +47,15 @@ Hoặc mở trực tiếp `index.html` bằng trình duyệt (dữ liệu đư�
 
 ## Cập nhật dữ liệu
 
-1. **Từ tệp Word KHDH** (thư mục `../Lớp 1` … `../Lớp 5`, mỗi môn một tệp):
+1. **Từ tệp Word KHDH** (thư mục `../Lớp 1` … `../Lớp 5`, mỗi môn một tệp; nếu có tệp cùng tên kèm
+   "(đã rà soát)" thì bản đó được ưu tiên và gắn nhãn *Đã rà soát*):
    ```bash
    python tools/docx-to-json.py      # cần: pip install python-docx
    node tools/build-data.mjs
    ```
 2. **Sửa tay / nhập từ Excel**: sửa các tệp `data/curriculum/lopN/<mã-môn>.json` (mỗi bài học một bản ghi:
    tuần, học kì, chủ đề, tên bài, nội dung, tiết, điều chỉnh, tích hợp, ghi chú) rồi chạy `node tools/build-data.mjs`.
-3. **Trạng thái dữ liệu** trong mỗi tệp KHDH: `"status": "draft"` (chờ xác nhận – mặc định), `"official"` (chính thức),
+3. **Trạng thái dữ liệu** trong mỗi tệp KHDH: `"status": "draft"` (chờ xác nhận – mặc định), `"reviewed"` (đã rà soát), `"official"` (chính thức),
    `"sample"` (dữ liệu minh họa). Website hiển thị nhãn tương ứng.
 4. Thêm `"team"` và `"teachers"` vào tệp KHDH để hiển thị tổ chuyên môn, giáo viên phụ trách.
 5. Đổi năm học: sửa `data/school.json` và `SCHOOL_YEAR` trong `tools/docx-to-json.py`.

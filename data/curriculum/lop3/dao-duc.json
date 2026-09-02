@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 3,
  "subjectId": "dao-duc",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Đạo đức lớp 3 (2026-2027).docx",
+  "file": "Lớp 3/KHDH Đạo đức lớp 3 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 25
+  "integrations": 10
  },
  "lessons": [
   {
@@ -42,7 +42,7 @@
      "text": "Giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng khi nói về Tổ quốc Việt Nam."
     }
    ],
-   "note": ""
+   "note": "Tổ CM đối chiếu tên bài với mục lục SGK KNTT."
   },
   {
    "id": "l3-dao-duc-002",
@@ -57,13 +57,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -71,7 +65,7 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề: EM YÊU TỔ QUỐC VIỆT NAM (5 tiết)",
-   "title": "Bài 2. Tự hào tổ quốc việt nam (Tiết 1)",
+   "title": "Bài 2. Tự hào Tổ quốc Việt Nam (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (3 tiết)",
    "periodFrom": 3,
@@ -81,24 +75,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng khi nói về Tổ quốc Việt Nam."
     }
    ],
-   "note": ""
+   "note": "Tổ CM đối chiếu tên bài với mục lục SGK KNTT."
   },
   {
    "id": "l3-dao-duc-004",
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề: EM YÊU TỔ QUỐC VIỆT NAM (5 tiết)",
-   "title": "Bài 2. Tự hào tổ quốc việt nam (Tiết 2)",
+   "title": "Bài 2. Tự hào Tổ quốc Việt Nam (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
    "periodFrom": 4,
@@ -106,13 +95,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -120,7 +103,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề: EM YÊU TỔ QUỐC VIỆT NAM (5 tiết)",
-   "title": "Bài 2. Tự hào tổ quốc việt nam (Tiết 3)",
+   "title": "Bài 2. Tự hào Tổ quốc Việt Nam (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 5",
    "periodFrom": 5,
@@ -128,13 +111,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -172,13 +149,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -194,13 +165,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -216,13 +181,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -230,7 +189,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề: QUAN TÂM HÀNG XÓM LÁNG GIỀNG (4 tiết)",
-   "title": "Ôn tập / Kiểm tra, đánh giá (theo phân phối chương trình)",
+   "title": "Ôn tập, thực hành kĩ năng giữa học kì I",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -324,13 +283,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -346,13 +299,7 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -360,7 +307,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề: GIỮ LỜI HỨA (3 tiết)",
-   "title": "Ôn tập / Kiểm tra, đánh giá (theo phân phối chương trình)",
+   "title": "Ôn tập, thực hành kĩ năng cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -385,7 +332,7 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [],
-   "note": ""
+   "note": "Bài 6 hoàn thành đầu HKII (tuần 19–20)."
   },
   {
    "id": "l3-dao-duc-019",
@@ -504,7 +451,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề: KHÁM PHÁ BẢN THÂN (5 tiết)",
-   "title": "Ôn tập / Kiểm tra, đánh giá (theo phân phối chương trình)",
+   "title": "Ôn tập, thực hành kĩ năng giữa học kì II",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -519,8 +466,8 @@
    "id": "l3-dao-duc-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: XỬ LÝ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
-   "title": "Bài 8. Xử lý bất hòa với bạn bè (Tiết 1)",
+   "theme": "Chủ đề: XỬ LÍ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
+   "title": "Bài 8. Xử lí bất hòa với bạn bè (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 27 (4 tiết)",
    "periodFrom": 27,
@@ -541,8 +488,8 @@
    "id": "l3-dao-duc-028",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: XỬ LÝ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
-   "title": "Bài 8. Xử lý bất hòa với bạn bè (Tiết 2)",
+   "theme": "Chủ đề: XỬ LÍ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
+   "title": "Bài 8. Xử lí bất hòa với bạn bè (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 28",
    "periodFrom": 28,
@@ -550,21 +497,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-dao-duc-029",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: XỬ LÝ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
-   "title": "Bài 8. Xử lý bất hòa với bạn bè (Tiết 3)",
+   "theme": "Chủ đề: XỬ LÍ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
+   "title": "Bài 8. Xử lí bất hòa với bạn bè (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 29",
    "periodFrom": 29,
@@ -572,21 +513,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-dao-duc-030",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: XỬ LÝ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
-   "title": "Bài 8. Xử lý bất hòa với bạn bè (Tiết 4)",
+   "theme": "Chủ đề: XỬ LÍ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
+   "title": "Bài 8. Xử lí bất hòa với bạn bè (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 30",
    "periodFrom": 30,
@@ -594,20 +529,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-dao-duc-031",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮT AN TOÀN GIAO THÔNG (2 tiết)",
+   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
    "title": "Bài 9. Đi bộ an toàn (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 31 (2 tiết)",
@@ -634,7 +563,7 @@
    "id": "l3-dao-duc-032",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮT AN TOÀN GIAO THÔNG (2 tiết)",
+   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
    "title": "Bài 9. Đi bộ an toàn (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 32",
@@ -643,20 +572,14 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-dao-duc-033",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (2 tiết)",
+   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
    "title": "Bài 10. An toàn khi tham gia các phương tiện giao thông (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 33 (2 tiết)",
@@ -683,7 +606,7 @@
    "id": "l3-dao-duc-034",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (2 tiết)",
+   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
    "title": "Bài 10. An toàn khi tham gia các phương tiện giao thông (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 34",
@@ -692,21 +615,15 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-dao-duc-035",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (2 tiết)",
-   "title": "Ôn tập / Kiểm tra, đánh giá (theo phân phối chương trình)",
+   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
+   "title": "Ôn tập, thực hành kĩ năng cuối năm học",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -714,13 +631,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]

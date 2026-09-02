@@ -2,10 +2,10 @@
  "schoolYear": "2026-2027",
  "grade": 1,
  "subjectId": "tu-nhien-va-xa-hoi",
- "status": "draft",
- "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "status": "reviewed",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH Tự nhiên và Xã hội lớp 1 (2026-2027).docx",
+  "file": "Lớp 1/KHDH Tự nhiên và Xã hội lớp 1 (2026-2027) (đã rà soát).docx",
   "importedAt": "2026-09-02"
  },
  "summary": {
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 83
+  "integrations": 30
  },
  "lessons": [
   {
@@ -29,8 +29,13 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Lồng ghép GD địa phương",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Lồng ghép GD địa phương"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -57,11 +62,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "ảnh và thông tin gia đình là dữ liệu riêng — chỉ chia sẻ khi bố mẹ đồng ý."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -79,13 +79,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -101,13 +95,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -115,7 +103,7 @@
    "semester": 1,
    "week": 3,
    "theme": "GIA ĐÌNH",
-   "title": "Bài 3: Đồ dùng trong nhà ( tiết 1)",
+   "title": "Bài 3: Đồ dùng trong nhà (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 5 (1 tiết)",
    "periodFrom": 5,
@@ -123,13 +111,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -137,7 +119,7 @@
    "semester": 1,
    "week": 3,
    "theme": "GIA ĐÌNH",
-   "title": "Bài 3: Đồ dùng trong nhà ( tiết 2)",
+   "title": "Bài 3: Đồ dùng trong nhà (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 6 (1 tiết)",
    "periodFrom": 6,
@@ -145,13 +127,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -159,7 +135,7 @@
    "semester": 1,
    "week": 4,
    "theme": "GIA ĐÌNH",
-   "title": "Bài 4: An toàn khi sử dụng đồ dùng trong nhà ( T1)",
+   "title": "Bài 4: An toàn khi sử dụng đồ dùng trong nhà (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
    "periodFrom": 7,
@@ -186,7 +162,7 @@
    "semester": 1,
    "week": 4,
    "theme": "GIA ĐÌNH",
-   "title": "Bài 4: An toàn khi sử dụng đồ dùng trong nhà (T2)",
+   "title": "Bài 4: An toàn khi sử dụng đồ dùng trong nhà (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8 (1 tiết)",
    "periodFrom": 8,
@@ -194,18 +170,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -226,11 +191,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "ảnh và thông tin gia đình là dữ liệu riêng — chỉ chia sẻ khi bố mẹ đồng ý."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -248,18 +208,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "ảnh và thông tin gia đình là dữ liệu riêng — chỉ chia sẻ khi bố mẹ đồng ý."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -275,18 +224,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "ảnh và thông tin gia đình là dữ liệu riêng — chỉ chia sẻ khi bố mẹ đồng ý."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -294,22 +232,27 @@
    "semester": 1,
    "week": 6,
    "theme": "GIA ĐÌNH",
-   "title": "Bài 6: Lớp học của em(tiết 1)",
+   "title": "Bài 6: Lớp học của em (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 12 (1 tiết)",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
-   "note": ""
+   "note": "Bài 6 thuộc chủ đề Trường học."
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-013",
@@ -324,18 +267,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -351,18 +283,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -370,7 +291,7 @@
    "semester": 1,
    "week": 8,
    "theme": "TRƯỜNG HỌC",
-   "title": "Bài 7: Cùng khám phá trường học(tiết 1)",
+   "title": "Bài 7: Cùng khám phá trường học (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 15 (1 tiết)",
    "periodFrom": 15,
@@ -378,18 +299,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -397,7 +307,7 @@
    "semester": 1,
    "week": 8,
    "theme": "TRƯỜNG HỌC",
-   "title": "Bài 7: Cùng khám phá trường học(tiết 2 )",
+   "title": "Bài 7: Cùng khám phá trường học (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -405,18 +315,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -432,18 +331,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -459,18 +347,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -486,18 +363,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -505,7 +371,7 @@
    "semester": 1,
    "week": 10,
    "theme": "TRƯỜNG HỌC",
-   "title": "Bài 9: Ôn tập chủ đề trường học (tiết 1 )",
+   "title": "Bài 9: Ôn tập chủ đề trường học (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
    "periodFrom": 20,
@@ -518,11 +384,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     }
    ],
    "note": ""
@@ -532,7 +393,7 @@
    "semester": 1,
    "week": 11,
    "theme": "TRƯỜNG HỌC",
-   "title": "Bài 9: Ôn tập chủ đề trường học (tiết 2 )",
+   "title": "Bài 9: Ôn tập chủ đề trường học (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
    "periodFrom": 21,
@@ -540,18 +401,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -559,7 +409,7 @@
    "semester": 1,
    "week": 11,
    "theme": "TRƯỜNG HỌC",
-   "title": "Bài 9: Ôn tập chủ đề trường học (tiết 3 )",
+   "title": "Bài 9: Ôn tập chủ đề trường học (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -567,18 +417,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -595,11 +434,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -621,18 +455,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -653,11 +476,6 @@
      "code": "QPAN",
      "level": "",
      "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -675,18 +493,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -694,19 +501,24 @@
    "semester": 1,
    "week": 14,
    "theme": "CỘNG ĐỒNG ĐỊA PHƯƠNG",
-   "title": "Bài 12: Vui đón tết ( tiết 1)",
+   "title": "Bài 12: Vui đón tết (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Lồng ghép GDĐP - Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Lồng ghép GDĐP"
+    },
     {
      "code": "QPAN",
      "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+     "text": "Tích hợp GD quốc phòng an ninh"
     }
    ],
    "note": ""
@@ -716,7 +528,7 @@
    "semester": 1,
    "week": 14,
    "theme": "CỘNG ĐỒNG ĐỊA PHƯƠNG",
-   "title": "Bài 12: Vui đón tết ( tiết 2)",
+   "title": "Bài 12: Vui đón tết (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -724,18 +536,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -770,7 +571,7 @@
    "semester": 1,
    "week": 15,
    "theme": "CỘNG ĐỒNG ĐỊA PHƯƠNG",
-   "title": "Bài 13: An toàn trên đường (tiết 1)",
+   "title": "Bài 13: An toàn trên đường (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
@@ -783,11 +584,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -804,8 +600,13 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -819,7 +620,7 @@
    "semester": 1,
    "week": 16,
    "theme": "CỘNG ĐỒNG ĐỊA PHƯƠNG",
-   "title": "Bài 14: Ôn tập chủ đề cộng đồng địa phương (tiết 1)",
+   "title": "Bài 14: Ôn tập chủ đề cộng đồng địa phương (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
    "periodFrom": 32,
@@ -832,11 +633,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     }
    ],
    "note": ""
@@ -845,7 +641,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-033",
    "semester": 1,
    "week": 17,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 14: Ôn tập chủ đề cộng đồng địa phương (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
@@ -854,25 +650,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
-   "note": ""
+   "integrations": [],
+   "note": "Tiết kết thúc chủ đề Cộng đồng địa phương; chủ đề Thực vật và động vật bắt đầu từ Bài 15."
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-034",
    "semester": 1,
    "week": 17,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 15: Cây xung quanh em (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
@@ -894,7 +679,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-035",
    "semester": 1,
    "week": 18,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 15: Cây xung quanh em (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -903,20 +688,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-036",
    "semester": 1,
    "week": 18,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 15: Cây xung quanh em (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
@@ -925,20 +704,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-037",
    "semester": 2,
    "week": 19,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 16: Chăm sóc và bảo vệ cây trồng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
@@ -946,8 +719,13 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -960,7 +738,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-038",
    "semester": 2,
    "week": 19,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 16: Chăm sóc và bảo vệ cây trồng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 38 (1 tiết)",
@@ -969,20 +747,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-039",
    "semester": 2,
    "week": 20,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 17: Con vật quanh em (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 39 (1 tiết)",
@@ -991,20 +763,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-040",
    "semester": 2,
    "week": 20,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 17: Con vật quanh em (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 40 (1 tiết)",
@@ -1013,20 +779,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-041",
    "semester": 2,
    "week": 21,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 17: Con vật quanh em (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 41 (1 tiết)",
@@ -1035,20 +795,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-042",
    "semester": 2,
    "week": 21,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 18: Chăm sóc và bảo vệ vật nuôi (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 42 (1 tiết)",
@@ -1064,7 +818,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-043",
    "semester": 2,
    "week": 22,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 18: Chăm sóc và bảo vệ vật nuôi (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
@@ -1080,8 +834,8 @@
    "id": "l1-tu-nhien-va-xa-hoi-044",
    "semester": 2,
    "week": 22,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
-   "title": "Bài 19: Ôn tập chủ đề thực vật và động vật ( tiết 1)",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
+   "title": "Bài 19: Ôn tập chủ đề thực vật và động vật (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 44 (1 tiết)",
    "periodFrom": 44,
@@ -1093,7 +847,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
+     "text": "quan sát tranh ảnh/clip do GV trình chiếu về đối tượng đang học."
     }
    ],
    "note": ""
@@ -1102,8 +856,8 @@
    "id": "l1-tu-nhien-va-xa-hoi-045",
    "semester": 2,
    "week": 23,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
-   "title": "Bài 19: Ôn tập chủ đề thực vật và động vật ( tiết 2)",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
+   "title": "Bài 19: Ôn tập chủ đề thực vật và động vật (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 45 (1 tiết)",
    "periodFrom": 45,
@@ -1111,21 +865,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-046",
    "semester": 2,
    "week": 23,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
-   "title": "Bài 19: Ôn tập chủ đề thực vật và động vật ( tiết 3)",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
+   "title": "Bài 19: Ôn tập chủ đề thực vật và động vật (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 46 (1 tiết)",
    "periodFrom": 46,
@@ -1133,29 +881,28 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-047",
    "semester": 2,
    "week": 24,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
-   "title": "Bài 20: Cơ thể em( tiết 1)",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
+   "title": "Bài 20: Cơ thể em (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 47 (1 tiết)",
    "periodFrom": 47,
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1168,8 +915,8 @@
    "id": "l1-tu-nhien-va-xa-hoi-048",
    "semester": 2,
    "week": 24,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
-   "title": "Bài 20: Cơ thể em( tiết 2)",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
+   "title": "Bài 20: Cơ thể em (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 48 (1 tiết)",
    "periodFrom": 48,
@@ -1177,21 +924,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-049",
    "semester": 2,
    "week": 25,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
-   "title": "Bài 20: Cơ thể em( tiết 3)",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
+   "title": "Bài 20: Cơ thể em (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 49 (1 tiết)",
    "periodFrom": 49,
@@ -1199,21 +940,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-050",
    "semester": 2,
    "week": 25,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
-   "title": "Bài 21: Các giác quan của cơ thể ( tiết 1)",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
+   "title": "Bài 21: Các giác quan của cơ thể (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 50 (1 tiết)",
    "periodFrom": 50,
@@ -1221,21 +956,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-051",
    "semester": 2,
    "week": 26,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
-   "title": "Bài 21: Các giác quan của cơ thể ( tiết 2)",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
+   "title": "Bài 21: Các giác quan của cơ thể (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 51 (1 tiết)",
    "periodFrom": 51,
@@ -1243,21 +972,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-052",
    "semester": 2,
    "week": 26,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
-   "title": "Bài 21: Các giác quan của cơ thể ( tiết 3)",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
+   "title": "Bài 21: Các giác quan của cơ thể (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 52 (1 tiết)",
    "periodFrom": 52,
@@ -1265,20 +988,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-053",
    "semester": 2,
    "week": 27,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 22: Ăn, uống hàng ngày (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 53 (1 tiết)",
@@ -1294,7 +1011,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-054",
    "semester": 2,
    "week": 27,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 22: Ăn, uống hàng ngày (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 54 (1 tiết)",
@@ -1310,7 +1027,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-055",
    "semester": 2,
    "week": 28,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 23: Vận động và nghỉ ngơi (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
@@ -1326,7 +1043,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-056",
    "semester": 2,
    "week": 28,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 23: Vận động và nghỉ ngơi (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
@@ -1342,7 +1059,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-057",
    "semester": 2,
    "week": 29,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 24: Tự bảo vệ mình (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
@@ -1358,7 +1075,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-058",
    "semester": 2,
    "week": 29,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 24: Tự bảo vệ mình (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
@@ -1374,7 +1091,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-059",
    "semester": 2,
    "week": 30,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 25: Ôn tập chủ đề con người và sức khỏe (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 59 (1 tiết)",
@@ -1396,7 +1113,7 @@
    "id": "l1-tu-nhien-va-xa-hoi-060",
    "semester": 2,
    "week": 30,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 25: Ôn tập chủ đề con người và sức khỏe (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 60 (1 tiết)",
@@ -1405,20 +1122,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tu-nhien-va-xa-hoi-061",
    "semester": 2,
    "week": 31,
-   "theme": "THỰC VÂT VÀ ĐỘNG VẬT",
+   "theme": "THỰC VẬT VÀ ĐỘNG VẬT",
    "title": "Bài 25: Ôn tập chủ đề con người và sức khỏe (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 61 (1 tiết)",
@@ -1427,13 +1138,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1448,8 +1153,14 @@
    "periodTo": 62,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp GD quốc phòng an ninh",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tích hợp GD quốc phòng an ninh"
+    }
+   ],
    "note": ""
   },
   {
@@ -1469,7 +1180,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
+     "text": "quan sát tranh ảnh/clip do GV trình chiếu về đối tượng đang học."
     }
    ],
    "note": ""
@@ -1487,13 +1198,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1508,8 +1213,14 @@
    "periodTo": 65,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "STEM Bài 16 : Thời tiết và trang phục",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "STEM Bài 16 : Thời tiết và trang phục"
+    }
+   ],
    "note": ""
   },
   {
@@ -1549,7 +1260,7 @@
    "semester": 2,
    "week": 34,
    "theme": "TRÁI ĐẤT VÀ BẦU TRỜI",
-   "title": "Bài 28: Ôn tập chủ đề và trái đất (tiết 1)",
+   "title": "Bài 28: Ôn tập chủ đề Trái Đất và bầu trời (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
    "periodFrom": 68,
@@ -1561,7 +1272,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
+     "text": "quan sát tranh ảnh/clip do GV trình chiếu về đối tượng đang học."
     }
    ],
    "note": ""
@@ -1571,7 +1282,7 @@
    "semester": 2,
    "week": 35,
    "theme": "TRÁI ĐẤT VÀ BẦU TRỜI",
-   "title": "Bài 28: Ôn tập chủ đề và trái đất (tiết 2)",
+   "title": "Bài 28: Ôn tập chủ đề Trái Đất và bầu trời (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
    "periodFrom": 69,
@@ -1579,13 +1290,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1593,7 +1298,7 @@
    "semester": 2,
    "week": 35,
    "theme": "TRÁI ĐẤT VÀ BẦU TRỜI",
-   "title": "Bài 28: Ôn tập chủ đề và trái đất (tiết 3)",
+   "title": "Bài 28: Ôn tập chủ đề Trái Đất và bầu trời (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,
@@ -1601,13 +1306,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ]
