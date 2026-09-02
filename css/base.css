@@ -1,0 +1,87 @@
+/* ==========================================================================
+   Nền tảng: reset nhẹ, chữ, bố cục chung, tiện ích
+   ========================================================================== */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition: none !important; animation: none !important; } }
+body {
+  margin: 0;
+  font-family: var(--font);
+  font-size: var(--fs-md);
+  line-height: var(--lh);
+  color: var(--ink-900);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+img, svg, picture { display: block; max-width: 100%; }
+img { height: auto; }
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; border: 0; background: none; padding: 0; }
+a { color: var(--navy-700); text-decoration: none; }
+a:hover { text-decoration: underline; }
+h1, h2, h3, h4 { margin: 0; line-height: 1.2; font-weight: 700; color: var(--navy-800); }
+p { margin: 0; }
+ul { margin: 0; padding: 0; list-style: none; }
+strong, b { font-weight: 700; }
+:focus-visible { outline: none; box-shadow: var(--ring); border-radius: 8px; }
+
+.container { width: min(100% - 2 * var(--gutter), var(--container)); margin-inline: auto; }
+.visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.icon { width: 1.25em; height: 1.25em; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.muted { color: var(--ink-500); }
+.section { padding-block: clamp(28px, 5vw, 56px); }
+.section-head { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px 24px; margin-bottom: clamp(16px, 3vw, 28px); }
+.section-head h2 { font-size: var(--fs-xl); }
+.section-head .eyebrow { display: inline-flex; align-items: center; gap: 8px; font-size: var(--fs-xs); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--teal-700); margin-bottom: 6px; }
+.section-head .eyebrow::before { content: ""; width: 22px; height: 3px; border-radius: 3px; background: var(--gold-500); }
+.section-head p { color: var(--ink-600); max-width: 60ch; }
+
+/* Nút bấm */
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 10px 18px; border-radius: 999px; font-weight: 700; font-size: var(--fs-sm); line-height: 1.2; border: 1.5px solid transparent; transition: background var(--t), color var(--t), border-color var(--t), box-shadow var(--t), transform var(--t); white-space: nowrap; }
+.btn:hover { text-decoration: none; transform: translateY(-1px); }
+.btn:active { transform: translateY(0); }
+.btn-primary { background: var(--navy-800); color: #fff; box-shadow: var(--shadow-sm); }
+.btn-primary:hover { background: var(--navy-700); }
+.btn-outline { background: var(--surface); color: var(--navy-800); border-color: var(--line-strong); }
+.btn-outline:hover { border-color: var(--navy-600); background: var(--navy-50); }
+.btn-ghost { background: transparent; color: var(--navy-800); }
+.btn-ghost:hover { background: var(--navy-50); }
+.btn-sm { min-height: 38px; padding: 6px 14px; font-size: var(--fs-xs); }
+.btn[aria-pressed="true"], .btn.is-active { background: var(--navy-800); color: #fff; border-color: var(--navy-800); }
+
+/* Nhãn, huy hiệu */
+.pill { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border-radius: 999px; font-size: var(--fs-xs); font-weight: 700; line-height: 1.4; white-space: nowrap; }
+.pill-info { background: var(--info-100); color: var(--info-700); }
+.pill-warn { background: var(--warn-100); color: var(--warn-700); }
+.pill-ok { background: var(--ok-100); color: var(--ok-600); }
+.pill-teal { background: var(--teal-100); color: var(--teal-700); }
+.pill-navy { background: var(--navy-100); color: var(--navy-800); }
+.pill-gold { background: var(--gold-100); color: var(--gold-600); }
+
+/* Thẻ chung */
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-sm); }
+
+/* Ô nhập */
+.input { width: 100%; min-height: 48px; padding: 10px 14px; border: 1.5px solid var(--line-strong); border-radius: 12px; background: var(--surface); color: var(--ink-900); transition: border-color var(--t), box-shadow var(--t); }
+.input::placeholder { color: var(--ink-400); }
+.input:focus { border-color: var(--sky-600); box-shadow: var(--ring); outline: none; }
+select.input { appearance: none; padding-right: 40px; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23465669' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; }
+
+/* Trạng thái rỗng / thông báo */
+.notice { display: flex; gap: 12px; align-items: flex-start; padding: 14px 16px; border-radius: var(--radius-sm); background: var(--gold-50); border: 1px solid #f5dfa0; color: var(--ink-700); font-size: var(--fs-sm); }
+.notice .icon { color: var(--gold-600); margin-top: 2px; }
+.notice-info { background: var(--sky-50); border-color: #bfdcf7; }
+.notice-info .icon { color: var(--sky-600); }
+.empty { text-align: center; padding: clamp(28px, 6vw, 56px) 16px; color: var(--ink-600); }
+.empty .icon { width: 44px; height: 44px; margin: 0 auto 12px; color: var(--ink-400); }
+.empty h3 { font-size: var(--fs-lg); margin-bottom: 6px; }
+
+/* Bộ khung trang */
+#app { display: flex; flex-direction: column; min-height: 100vh; }
+main { flex: 1; }
+.skip-link { position: absolute; left: 12px; top: -60px; z-index: 100; background: var(--navy-800); color: #fff; padding: 10px 14px; border-radius: 10px; }
+.skip-link:focus { top: 12px; }
+
+@keyframes fade-up { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.fade-up { animation: fade-up .35s var(--ease) both; }

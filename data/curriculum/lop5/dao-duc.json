@@ -1,0 +1,755 @@
+{
+ "schoolYear": "2026-2027",
+ "grade": 5,
+ "subjectId": "dao-duc",
+ "status": "draft",
+ "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
+ "source": {
+  "file": "Lớp 5/KHDH Đạo đức lớp 5 (2026-2027).docx",
+  "importedAt": "2026-09-02"
+ },
+ "summary": {
+  "totalPeriods": 35,
+  "weeks": 35,
+  "semester1Weeks": 18,
+  "semester2Weeks": 17,
+  "lessons": 35,
+  "integrations": 30
+ },
+ "lessons": [
+  {
+   "id": "l5-dao-duc-001",
+   "semester": 1,
+   "week": 1,
+   "theme": "CHỦ ĐỀ 1. BIẾT ƠN NHỮNG NGƯỜI CÓ CÔNG VỚI QUÊ HƯƠNG",
+   "title": "Bài 1. Biết ơn những người có công với quê hương, đất nước (tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 1 (4 tiết)",
+   "periodFrom": 1,
+   "periodTo": 1,
+   "periods": 1,
+   "lessonPeriods": 4,
+   "adjustments": "-Hoạt động: Kiến tạo tri thức mới. -Tượng đài Mẹ Việt Nam Anh hùng tại núi Cấm (xã Tam Phú, thành phố Tam Kỳ, tỉnh Quảng Nam). *Tượng đài Mẹ Việt Nam Anh hùng tại núi Cấm (Phường Quảng Phú, Thành phố Đà Nẵng) -(mới)",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ khi nói về Tổ quốc Việt Nam."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-002",
+   "semester": 1,
+   "week": 2,
+   "theme": "CHỦ ĐỀ 1. BIẾT ƠN NHỮNG NGƯỜI CÓ CÔNG VỚI QUÊ HƯƠNG",
+   "title": "Bài 1. Biết ơn những người có công với quê hương, đất nước (tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 2",
+   "periodFrom": 2,
+   "periodTo": 2,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-003",
+   "semester": 1,
+   "week": 3,
+   "theme": "CHỦ ĐỀ 1. BIẾT ƠN NHỮNG NGƯỜI CÓ CÔNG VỚI QUÊ HƯƠNG",
+   "title": "Bài 1. Biết ơn những người có công với quê hương, đất nước (tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 3",
+   "periodFrom": 3,
+   "periodTo": 3,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "GD địa phương",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-004",
+   "semester": 1,
+   "week": 4,
+   "theme": "CHỦ ĐỀ 1. BIẾT ƠN NHỮNG NGƯỜI CÓ CÔNG VỚI QUÊ HƯƠNG",
+   "title": "Bài 1. Biết ơn những người có công với quê hương, đất nước (tiết 4)",
+   "content": "",
+   "periodLabel": "Tiết 4",
+   "periodFrom": 4,
+   "periodTo": 4,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "GD địa phương",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-005",
+   "semester": 1,
+   "week": 5,
+   "theme": "CHỦ ĐỀ 2. TÔN TRỌNG SỰ KHÁC BIỆT CỦA NGƯỜI KHÁC",
+   "title": "Bài 2. Tôn trọng sự khác biệt của người khác. (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 5 (3 tiết)",
+   "periodFrom": 5,
+   "periodTo": 5,
+   "periods": 1,
+   "lessonPeriods": 3,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và chia sẻ: biết cảm thông, giúp đỡ bạn và làm việc cùng nhau."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-006",
+   "semester": 1,
+   "week": 6,
+   "theme": "CHỦ ĐỀ 2. TÔN TRỌNG SỰ KHÁC BIỆT CỦA NGƯỜI KHÁC",
+   "title": "Bài 2. Tôn trọng sự khác biệt của người khác. (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 6",
+   "periodFrom": 6,
+   "periodTo": 6,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-007",
+   "semester": 1,
+   "week": 7,
+   "theme": "CHỦ ĐỀ 2. TÔN TRỌNG SỰ KHÁC BIỆT CỦA NGƯỜI KHÁC",
+   "title": "Bài 2. Tôn trọng sự khác biệt của người khác. (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 7",
+   "periodFrom": 7,
+   "periodTo": 7,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "GD Việt Lào; NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-008",
+   "semester": 1,
+   "week": 8,
+   "theme": "CHỦ ĐỀ 2. TÔN TRỌNG SỰ KHÁC BIỆT CỦA NGƯỜI KHÁC",
+   "title": "Ôn tập giữa học kì I",
+   "content": "",
+   "periodLabel": "Tiết 8",
+   "periodFrom": 8,
+   "periodTo": 8,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-009",
+   "semester": 1,
+   "week": 9,
+   "theme": "CHỦ ĐỀ 3. VƯỢT QUA KHÓ KHĂN",
+   "title": "Bài 3. Vượt qua khó khăn (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 9 (5 tiết)",
+   "periodFrom": 9,
+   "periodTo": 9,
+   "periods": 1,
+   "lessonPeriods": 5,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-010",
+   "semester": 1,
+   "week": 10,
+   "theme": "CHỦ ĐỀ 3. VƯỢT QUA KHÓ KHĂN",
+   "title": "Bài 3. Vượt qua khó khăn (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 10",
+   "periodFrom": 10,
+   "periodTo": 10,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-011",
+   "semester": 1,
+   "week": 11,
+   "theme": "CHỦ ĐỀ 3. VƯỢT QUA KHÓ KHĂN",
+   "title": "Bài 3. Vượt qua khó khăn (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 11",
+   "periodFrom": 11,
+   "periodTo": 11,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-012",
+   "semester": 1,
+   "week": 12,
+   "theme": "CHỦ ĐỀ 3. VƯỢT QUA KHÓ KHĂN",
+   "title": "Bài 3. Vượt qua khó khăn (Tiết 4)",
+   "content": "",
+   "periodLabel": "Tiết 12",
+   "periodFrom": 12,
+   "periodTo": 12,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-013",
+   "semester": 1,
+   "week": 13,
+   "theme": "CHỦ ĐỀ 4. BẢO VỆ CÁI ĐÚNG, CÁI TỐT",
+   "title": "Bài 4. Bảo vệ cái đúng cái tốt (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 13 (3 tiết)",
+   "periodFrom": 13,
+   "periodTo": 13,
+   "periods": 1,
+   "lessonPeriods": 3,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-014",
+   "semester": 1,
+   "week": 14,
+   "theme": "CHỦ ĐỀ 4. BẢO VỆ CÁI ĐÚNG, CÁI TỐT",
+   "title": "Bài 4. Bảo vệ cái đúng cái tốt (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 14",
+   "periodFrom": 14,
+   "periodTo": 14,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-015",
+   "semester": 1,
+   "week": 15,
+   "theme": "CHỦ ĐỀ 4. BẢO VỆ CÁI ĐÚNG, CÁI TỐT",
+   "title": "Bài 4. Bảo vệ cái đúng cái tốt (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 15",
+   "periodFrom": 15,
+   "periodTo": 15,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "GD địa phương",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-016",
+   "semester": 1,
+   "week": 16,
+   "theme": "CHỦ ĐỀ 4. BẢO VỆ CÁI ĐÚNG, CÁI TỐT",
+   "title": "Ôn tập cuối học kì I",
+   "content": "",
+   "periodLabel": "Tiết 16 (1 tiết)",
+   "periodFrom": 16,
+   "periodTo": 16,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-017",
+   "semester": 1,
+   "week": 17,
+   "theme": "CHỦ ĐỀ 5. BẢO VỆ MÔI TRƯỜNG SỐNG",
+   "title": "Bài 5. Bảo vệ môi trường sống (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 17 (4 tiết)",
+   "periodFrom": 17,
+   "periodTo": 17,
+   "periods": 1,
+   "lessonPeriods": 4,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-018",
+   "semester": 1,
+   "week": 18,
+   "theme": "CHỦ ĐỀ 5. BẢO VỆ MÔI TRƯỜNG SỐNG",
+   "title": "Bài 5. Bảo vệ môi trường sống (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 18",
+   "periodFrom": 18,
+   "periodTo": 18,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-019",
+   "semester": 2,
+   "week": 19,
+   "theme": "CHỦ ĐỀ 5. BẢO VỆ MÔI TRƯỜNG SỐNG",
+   "title": "Bài 5. Bảo vệ môi trường sống (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 19",
+   "periodFrom": 19,
+   "periodTo": 19,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-020",
+   "semester": 2,
+   "week": 20,
+   "theme": "CHỦ ĐỀ 5. BẢO VỆ MÔI TRƯỜNG SỐNG",
+   "title": "Bài 5. Bảo vệ môi trường sống (Tiết 4)",
+   "content": "",
+   "periodLabel": "Tiết 20",
+   "periodFrom": 20,
+   "periodTo": 20,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-021",
+   "semester": 2,
+   "week": 21,
+   "theme": "CHỦ ĐỀ 6. LẬP KẾ HOẠCH CÁ NHÂN.",
+   "title": "Bài 6. Lập kế hoạch cá nhân (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 21 (4 tiết)",
+   "periodFrom": 21,
+   "periodTo": 21,
+   "periods": 1,
+   "lessonPeriods": 4,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-022",
+   "semester": 2,
+   "week": 22,
+   "theme": "CHỦ ĐỀ 6. LẬP KẾ HOẠCH CÁ NHÂN.",
+   "title": "Bài 6. Lập kế hoạch cá nhân (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 22",
+   "periodFrom": 22,
+   "periodTo": 22,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-023",
+   "semester": 2,
+   "week": 23,
+   "theme": "CHỦ ĐỀ 6. LẬP KẾ HOẠCH CÁ NHÂN.",
+   "title": "Bài 6. Lập kế hoạch cá nhân (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 23",
+   "periodFrom": 23,
+   "periodTo": 23,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-024",
+   "semester": 2,
+   "week": 24,
+   "theme": "CHỦ ĐỀ 6. LẬP KẾ HOẠCH CÁ NHÂN.",
+   "title": "Bài 6. Lập kế hoạch cá nhân (Tiết 4",
+   "content": "",
+   "periodLabel": "Tiết 24",
+   "periodFrom": 24,
+   "periodTo": 24,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-025",
+   "semester": 2,
+   "week": 25,
+   "theme": "CHỦ ĐỀ 6. LẬP KẾ HOẠCH CÁ NHÂN.",
+   "title": "Ôn tập tổng hợp giữa học kì II",
+   "content": "",
+   "periodLabel": "Tiết 25 (1 tiết)",
+   "periodFrom": 25,
+   "periodTo": 25,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-026",
+   "semester": 2,
+   "week": 26,
+   "theme": "CHỦ ĐỀ 7. PHÒNG, TRÁNH XÂM HẠI",
+   "title": "Bài 7. Phòng tránh xâm hại. (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 26 (5 tiết)",
+   "periodFrom": 26,
+   "periodTo": 26,
+   "periods": 1,
+   "lessonPeriods": 5,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-027",
+   "semester": 2,
+   "week": 27,
+   "theme": "CHỦ ĐỀ 7. PHÒNG, TRÁNH XÂM HẠI",
+   "title": "Bài 7. Phòng tránh xâm hại. (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 27",
+   "periodFrom": 27,
+   "periodTo": 27,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-028",
+   "semester": 2,
+   "week": 28,
+   "theme": "CHỦ ĐỀ 7. PHÒNG, TRÁNH XÂM HẠI",
+   "title": "Bài 7. Phòng tránh xâm hại. (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 28",
+   "periodFrom": 28,
+   "periodTo": 28,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-029",
+   "semester": 2,
+   "week": 29,
+   "theme": "CHỦ ĐỀ 7. PHÒNG, TRÁNH XÂM HẠI",
+   "title": "Bài 7. Phòng tránh xâm hại. (Tiết 4)",
+   "content": "",
+   "periodLabel": "Tiết 29",
+   "periodFrom": 29,
+   "periodTo": 29,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-030",
+   "semester": 2,
+   "week": 30,
+   "theme": "CHỦ ĐỀ 7. PHÒNG, TRÁNH XÂM HẠI",
+   "title": "Bài 7. Phòng tránh xâm hại. (Tiết 5)",
+   "content": "",
+   "periodLabel": "Tiết 30",
+   "periodFrom": 30,
+   "periodTo": 30,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-031",
+   "semester": 2,
+   "week": 31,
+   "theme": "CHỦ ĐỀ 8. SỬ DỤNG TIỀN HỢP LÍ.",
+   "title": "Bài 8. Sử dụng tiền hợp lí (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 31 (4 tiết)",
+   "periodFrom": 31,
+   "periodTo": 31,
+   "periods": 1,
+   "lessonPeriods": 4,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-032",
+   "semester": 2,
+   "week": 32,
+   "theme": "CHỦ ĐỀ 8. SỬ DỤNG TIỀN HỢP LÍ.",
+   "title": "Bài 8. Sử dụng tiền hợp lí (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 32",
+   "periodFrom": 32,
+   "periodTo": 32,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-033",
+   "semester": 2,
+   "week": 33,
+   "theme": "CHỦ ĐỀ 8. SỬ DỤNG TIỀN HỢP LÍ.",
+   "title": "Bài 8. Sử dụng tiền hợp lí (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 33",
+   "periodFrom": 33,
+   "periodTo": 33,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-034",
+   "semester": 2,
+   "week": 34,
+   "theme": "CHỦ ĐỀ 8. SỬ DỤNG TIỀN HỢP LÍ.",
+   "title": "Bài 8. Sử dụng tiền hợp lí (Tiết 4)",
+   "content": "",
+   "periodLabel": "Tiết 34",
+   "periodFrom": 34,
+   "periodTo": 34,
+   "periods": 1,
+   "lessonPeriods": null,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-dao-duc-035",
+   "semester": 2,
+   "week": 35,
+   "theme": "CHỦ ĐỀ 8. SỬ DỤNG TIỀN HỢP LÍ.",
+   "title": "Ôn tập tổng hợp cuối năm",
+   "content": "",
+   "periodLabel": "Tiết 35 (1 tiết)",
+   "periodFrom": 35,
+   "periodTo": 35,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "NLS-AT,",
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "",
+     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
+    }
+   ],
+   "note": ""
+  }
+ ]
+}

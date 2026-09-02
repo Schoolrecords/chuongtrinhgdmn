@@ -1,0 +1,94 @@
+/* ==========================================================================
+   Biến thiết kế (design tokens) – màu sắc, chữ, khoảng cách, bo góc, bóng đổ
+   Màu chủ đạo: xanh navy. Bổ trợ: xanh ngọc, xanh da trời nhạt, trắng, vàng ấm.
+   ========================================================================== */
+@font-face {
+  font-family: "UTM Avo";
+  src: url("../assets/fonts/UTM-Avo-Regular.woff2") format("woff2"),
+       url("../assets/fonts/UTM-Avo-Regular.ttf") format("truetype");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "UTM Avo";
+  src: url("../assets/fonts/UTM-Avo-Bold.woff2") format("woff2"),
+       url("../assets/fonts/UTM-Avo-Bold.ttf") format("truetype");
+  font-weight: 700; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "UTM Avo";
+  src: url("../assets/fonts/UTM-Avo-Italic.woff2") format("woff2"),
+       url("../assets/fonts/UTM-Avo-Italic.ttf") format("truetype");
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "UTM Avo";
+  src: url("../assets/fonts/UTM-Avo-BoldItalic.woff2") format("woff2"),
+       url("../assets/fonts/UTM-Avo-BoldItalic.ttf") format("truetype");
+  font-weight: 700; font-style: italic; font-display: swap;
+}
+
+:root {
+  --font: "UTM Avo", "Segoe UI", Arial, Helvetica, sans-serif;
+
+  /* Màu chủ đạo */
+  --navy-900: #071f3d;
+  --navy-800: #0b2f5b;
+  --navy-700: #123f75;
+  --navy-600: #1b508f;
+  --navy-100: #dbe7f6;
+  --navy-50:  #eef4fb;
+
+  /* Bổ trợ */
+  --teal-700: #0f766e;
+  --teal-600: #11918a;
+  --teal-500: #16a89a;
+  --teal-100: #d6f3ef;
+  --teal-50:  #ecfaf8;
+  --sky-600:  #1d7fd6;
+  --sky-100:  #dcefff;
+  --sky-50:   #eef7ff;
+  --gold-600: #c98a12;
+  --gold-500: #f2b632;
+  --gold-100: #fdf0cc;
+  --gold-50:  #fff8e6;
+
+  /* Trung tính */
+  --ink-900: #0f1c2e;
+  --ink-700: #2b3a4f;
+  --ink-600: #465669;
+  --ink-500: #64748b;
+  --ink-400: #8a97a8;
+  --line:    #dbe3ee;
+  --line-strong: #c3cfdf;
+  --surface: #ffffff;
+  --surface-2: #f6f9fd;
+  --bg:      #f2f6fb;
+
+  /* Trạng thái */
+  --ok-600: #15803d; --ok-100: #dcfce7;
+  --warn-700: #9a5b00; --warn-100: #fff1cc;
+  --info-700: #1e5aa8; --info-100: #e2eefc;
+
+  /* Khoảng cách, bo góc, bóng */
+  --container: 1240px;
+  --gutter: clamp(16px, 4vw, 40px);
+  --radius-sm: 10px;
+  --radius: 16px;
+  --radius-lg: 22px;
+  --shadow-sm: 0 1px 2px rgba(11, 47, 91, .06), 0 1px 3px rgba(11, 47, 91, .04);
+  --shadow: 0 10px 30px -18px rgba(11, 47, 91, .35), 0 2px 6px rgba(11, 47, 91, .05);
+  --shadow-lg: 0 24px 50px -28px rgba(11, 47, 91, .45), 0 4px 12px rgba(11, 47, 91, .06);
+  --ring: 0 0 0 4px rgba(29, 127, 214, .22);
+
+  /* Chữ */
+  --fs-xs: .8125rem;   /* 13px */
+  --fs-sm: .9375rem;   /* 15px */
+  --fs-md: 1.0625rem;  /* 17px */
+  --fs-lg: 1.25rem;
+  --fs-xl: 1.5rem;
+  --fs-2xl: clamp(1.75rem, 1.2rem + 2vw, 2.6rem);
+  --lh: 1.55;
+
+  --ease: cubic-bezier(.2, .7, .2, 1);
+  --t: 180ms var(--ease);
+}

@@ -1,0 +1,15 @@
+[
+  { "id": "tieng-viet", "name": "Tiếng Việt", "description": "Đọc · Viết · Nói và nghe", "icon": "book", "tone": "navy", "group": "Môn học bắt buộc" },
+  { "id": "toan", "name": "Toán", "description": "Số học · Hình học · Thực hành", "icon": "calculator", "tone": "teal", "group": "Môn học bắt buộc" },
+  { "id": "dao-duc", "name": "Đạo đức", "description": "Phẩm chất · Kĩ năng sống", "icon": "heart", "tone": "rose", "group": "Môn học bắt buộc" },
+  { "id": "tu-nhien-va-xa-hoi", "name": "Tự nhiên và Xã hội", "description": "Con người · Tự nhiên · Cộng đồng", "icon": "leaf", "tone": "green", "group": "Môn học bắt buộc" },
+  { "id": "khoa-hoc", "name": "Khoa học", "description": "Chất · Năng lượng · Sinh vật · Con người", "icon": "flask", "tone": "green", "group": "Môn học bắt buộc" },
+  { "id": "lich-su-va-dia-li", "name": "Lịch sử và Địa lí", "description": "Địa phương · Đất nước · Thế giới", "icon": "globe", "tone": "amber", "group": "Môn học bắt buộc" },
+  { "id": "ngoai-ngu-1", "name": "Ngoại ngữ 1", "subtitle": "Tiếng Anh", "description": "Nghe · Nói · Đọc · Viết", "icon": "languages", "tone": "sky", "group": "Môn học bắt buộc" },
+  { "id": "tin-hoc", "name": "Tin học", "description": "Máy tính · Thông tin · Ứng dụng", "icon": "monitor", "tone": "indigo", "group": "Môn học bắt buộc" },
+  { "id": "cong-nghe", "name": "Công nghệ", "description": "Công nghệ và đời sống · Thủ công kĩ thuật", "icon": "cog", "tone": "slate", "group": "Môn học bắt buộc" },
+  { "id": "am-nhac", "name": "Âm nhạc", "description": "Hát · Nghe nhạc · Sáng tạo", "icon": "music", "tone": "violet", "group": "Môn học bắt buộc" },
+  { "id": "mi-thuat", "name": "Mĩ thuật", "description": "Quan sát · Thể hiện · Cảm thụ", "icon": "palette", "tone": "pink", "group": "Môn học bắt buộc" },
+  { "id": "giao-duc-the-chat", "name": "Giáo dục thể chất", "description": "Vận động · Thể thao · Sức khoẻ", "icon": "activity", "tone": "orange", "group": "Môn học bắt buộc" },
+  { "id": "hoat-dong-trai-nghiem", "name": "Hoạt động trải nghiệm", "description": "Sinh hoạt · Trải nghiệm · Hướng nghiệp", "icon": "compass", "tone": "gold", "group": "Hoạt động giáo dục bắt buộc" }
+]
