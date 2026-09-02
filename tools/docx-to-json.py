@@ -237,6 +237,42 @@ def extract_document(d):
     }
 
 
+GDDP_RULES = os.path.join(WEBSITE, "data", "gddp-bo-sung.json")
+
+
+def load_gddp_rules():
+    """Luật gắn thêm mã GDĐP cho những bài mà tệp Word chưa ghi mã (tổ chuyên môn đã duyệt)."""
+    try:
+        with open(GDDP_RULES, encoding="utf-8") as fh:
+            return json.load(fh).get("quyTac", [])
+    except FileNotFoundError:
+        return []
+
+
+def apply_gddp_rules(data, rules, used):
+    """Chèn mã GDĐP ngay sau mục có cùng nội dung, để bảng gộp hai nhãn trên một dòng."""
+    texts = {r["text"] for r in rules
+             if r["grade"] == data["grade"] and r["subject"] == data["subjectId"]}
+    if not texts:
+        return 0
+    n = 0
+    for lesson in data["lessons"]:
+        if any(i["code"] == "GDĐP" for i in lesson["integrations"]):
+            continue
+        out, hit = [], False
+        for item in lesson["integrations"]:
+            out.append(item)
+            if not hit and item["text"] in texts:
+                out.append({"code": "GDĐP", "level": "", "text": item["text"]})
+                used.add(item["text"])
+                hit = True
+        if hit:
+            lesson["integrations"] = out
+            lesson["gddpBoSung"] = True
+            n += 1
+    return n
+
+
 def parse_docx(path, grade, subject_id):
     d = docx.Document(path)
     if not d.tables:
@@ -373,6 +409,8 @@ def main():
                 if fn.lower().endswith(".docx"):
                     os.remove(os.path.join(root, fn))
     index = []
+    gddp_rules = load_gddp_rules()
+    gddp_used, gddp_added = set(), 0
     files = sorted(glob.glob(os.path.join(args.src, "Lớp *", "KHDH *lớp * (*).docx")))
     grade_files = sorted(glob.glob(os.path.join(args.src, "Lớp *", "KHDH cả khối * (*).docx")))
     files = [f for f in files if "cả khối" not in os.path.basename(f)]
@@ -398,6 +436,7 @@ def main():
         except Exception as e:  # noqa
             print("LỖI", base, e)
             continue
+        gddp_added += apply_gddp_rules(data, gddp_rules, gddp_used)
         if reviewed:
             data["status"] = "reviewed"
             data["statusLabel"] = "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt"
@@ -414,6 +453,11 @@ def main():
         })
         s = data["summary"]
         print(f"OK lớp {grade} {sid:24s} {'[rà soát]' if reviewed else '[gốc]':9s} bài={s['lessons']:3d} tiết={s['totalPeriods']:3d} tuần={s['weeks']:2d} tích hợp={s['integrations']}")
+    if gddp_rules:
+        print(f"GDĐP bổ sung: {gddp_added} bài (theo {GDDP_RULES})")
+        for r in gddp_rules:
+            if r["text"] not in gddp_used:
+                print(f"  ! luật không khớp bài nào (câu trong tệp Word đã đổi?): lớp {r['grade']} {r['subject']} - {r['text'][:70]}")
     index.sort(key=lambda x: (x["grade"], x["subjectId"]))
     # Tệp KHDH gộp cả khối (Phụ lục 2): ưu tiên bản "(đã rà soát)"
     grade_docs = {}

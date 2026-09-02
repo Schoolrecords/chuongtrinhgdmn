@@ -66,7 +66,8 @@ fs.mkdirSync(OUT, { recursive: true });
 copy('css');
 copy('js', { filter: (p) => !p.endsWith('data.bundle.js') && !/\.bundle\.js$/.test(p) });
 copy('assets/fonts');
-copy('assets/covers');
+// Chỉ chép ảnh thẻ đang dùng; không đưa bìa SGK gốc lên bản dùng chung
+copy('assets/covers', { filter: (p) => !/\/tieng-viet-/.test(p) });
 // Chỉ lấy các tệp logo không có tên trường; og-image sinh riêng bằng tools/make-og-image.py
 for (const fn of ['logo-mark.png', 'favicon.png', 'apple-touch-icon.png']) copy(`assets/logo/${fn}`);
 copy('tools/build-data.mjs');

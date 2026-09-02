@@ -720,9 +720,15 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số của địa phương; ghi nhận xét bằng từ ngữ của HS."
+    },
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số của địa phương; ghi nhận xét bằng từ ngữ của HS."
     }
    ],
-   "note": ""
+   "note": "",
+   "gddpBoSung": true
   },
   {
    "id": "l5-tieng-viet-036",
@@ -2771,6 +2777,11 @@
      "text": "Đọc mở rộng chủ đề hương sắc trăm miền; ghi nguồn tư liệu địa phương."
     },
     {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Đọc mở rộng chủ đề hương sắc trăm miền; ghi nguồn tư liệu địa phương."
+    },
+    {
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng chủ đề hương sắc trăm miền; ghi nguồn tư liệu địa phương."
@@ -2781,7 +2792,8 @@
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
-   "note": ""
+   "note": "",
+   "gddpBoSung": true
   },
   {
    "id": "l5-tieng-viet-139",
@@ -3135,9 +3147,15 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác tư liệu về sản vật địa phương; khuyến khích liên hệ thực tế địa phương."
+    },
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Khai thác tư liệu về sản vật địa phương; khuyến khích liên hệ thực tế địa phương."
     }
    ],
-   "note": ""
+   "note": "",
+   "gddpBoSung": true
   },
   {
    "id": "l5-tieng-viet-157",

@@ -1,4 +1,4 @@
-/* GradeCard: một thẻ khối lớp – bìa SGK Tiếng Việt tập một, số lớp, tên, hướng dẫn, mũi tên */
+/* GradeCard: một thẻ khối lớp – ảnh thẻ KHDH (tools/make-covers.py), số lớp, tên, hướng dẫn, mũi tên */
 (function () {
   const CT = window.CT;
   const { esc } = CT.lib.dom;
@@ -7,7 +7,7 @@
   function cover(g) {
     const c = g.cover || {};
     if (!c.src) return `<div class="no-cover">${esc(g.name)}</div>`;
-    const img = `<img src="${esc(c.src)}" alt="${esc(c.alt || 'Bìa sách ' + g.name)}" width="480" height="640" loading="lazy" decoding="async"
+    const img = `<img src="${esc(c.src)}" alt="${esc(c.alt || g.name)}" width="480" height="620" loading="lazy" decoding="async"
       onerror="this.onerror=null;this.replaceWith(Object.assign(document.createElement('div'),{className:'no-cover',textContent:${JSON.stringify(g.name)}}))">`;
     return c.webp ? `<picture><source type="image/webp" srcset="${esc(c.webp)}">${img}</picture>` : img;
   }

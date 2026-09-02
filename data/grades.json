@@ -3,40 +3,121 @@
     "grade": 1,
     "name": "Kế hoạch lớp 1",
     "short": "Lớp 1",
-    "cover": { "src": "assets/covers/tieng-viet-1.jpg", "webp": "assets/covers/tieng-viet-1.webp", "alt": "Bìa sách giáo khoa Tiếng Việt 1, tập một, bộ Kết nối tri thức với cuộc sống", "caption": "Tiếng Việt 1, tập một" },
+    "cover": {
+      "src": "assets/covers/khdh-lop-1.jpg",
+      "webp": "assets/covers/khdh-lop-1.webp",
+      "alt": "Thẻ khối lớp 1: Kế hoạch dạy học các môn học, hoạt động giáo dục, năm học 2026–2027",
+      "caption": "Kế hoạch dạy học lớp 1"
+    },
     "accent": "#1d7fd6",
-    "subjects": ["tieng-viet", "toan", "dao-duc", "tu-nhien-va-xa-hoi", "am-nhac", "mi-thuat", "giao-duc-the-chat", "hoat-dong-trai-nghiem"]
+    "subjects": [
+      "tieng-viet",
+      "toan",
+      "dao-duc",
+      "tu-nhien-va-xa-hoi",
+      "am-nhac",
+      "mi-thuat",
+      "giao-duc-the-chat",
+      "hoat-dong-trai-nghiem"
+    ]
   },
   {
     "grade": 2,
     "name": "Kế hoạch lớp 2",
     "short": "Lớp 2",
-    "cover": { "src": "assets/covers/tieng-viet-2.jpg", "webp": "assets/covers/tieng-viet-2.webp", "alt": "Bìa sách giáo khoa Tiếng Việt 2, tập một, bộ Kết nối tri thức với cuộc sống", "caption": "Tiếng Việt 2, tập một" },
+    "cover": {
+      "src": "assets/covers/khdh-lop-2.jpg",
+      "webp": "assets/covers/khdh-lop-2.webp",
+      "alt": "Thẻ khối lớp 2: Kế hoạch dạy học các môn học, hoạt động giáo dục, năm học 2026–2027",
+      "caption": "Kế hoạch dạy học lớp 2"
+    },
     "accent": "#2a9bd8",
-    "subjects": ["tieng-viet", "toan", "dao-duc", "tu-nhien-va-xa-hoi", "am-nhac", "mi-thuat", "giao-duc-the-chat", "hoat-dong-trai-nghiem"]
+    "subjects": [
+      "tieng-viet",
+      "toan",
+      "dao-duc",
+      "tu-nhien-va-xa-hoi",
+      "am-nhac",
+      "mi-thuat",
+      "giao-duc-the-chat",
+      "hoat-dong-trai-nghiem"
+    ]
   },
   {
     "grade": 3,
     "name": "Kế hoạch lớp 3",
     "short": "Lớp 3",
-    "cover": { "src": "assets/covers/tieng-viet-3.jpg", "webp": "assets/covers/tieng-viet-3.webp", "alt": "Bìa sách giáo khoa Tiếng Việt 3, tập một, bộ Kết nối tri thức với cuộc sống", "caption": "Tiếng Việt 3, tập một" },
+    "cover": {
+      "src": "assets/covers/khdh-lop-3.jpg",
+      "webp": "assets/covers/khdh-lop-3.webp",
+      "alt": "Thẻ khối lớp 3: Kế hoạch dạy học các môn học, hoạt động giáo dục, năm học 2026–2027",
+      "caption": "Kế hoạch dạy học lớp 3"
+    },
     "accent": "#16a89a",
-    "subjects": ["tieng-viet", "toan", "dao-duc", "tu-nhien-va-xa-hoi", "ngoai-ngu-1", "tin-hoc", "cong-nghe", "am-nhac", "mi-thuat", "giao-duc-the-chat", "hoat-dong-trai-nghiem"]
+    "subjects": [
+      "tieng-viet",
+      "toan",
+      "dao-duc",
+      "tu-nhien-va-xa-hoi",
+      "ngoai-ngu-1",
+      "tin-hoc",
+      "cong-nghe",
+      "am-nhac",
+      "mi-thuat",
+      "giao-duc-the-chat",
+      "hoat-dong-trai-nghiem"
+    ]
   },
   {
     "grade": 4,
     "name": "Kế hoạch lớp 4",
     "short": "Lớp 4",
-    "cover": { "src": "assets/covers/tieng-viet-4.jpg", "webp": "assets/covers/tieng-viet-4.webp", "alt": "Bìa sách giáo khoa Tiếng Việt 4, tập một, bộ Kết nối tri thức với cuộc sống", "caption": "Tiếng Việt 4, tập một" },
+    "cover": {
+      "src": "assets/covers/khdh-lop-4.jpg",
+      "webp": "assets/covers/khdh-lop-4.webp",
+      "alt": "Thẻ khối lớp 4: Kế hoạch dạy học các môn học, hoạt động giáo dục, năm học 2026–2027",
+      "caption": "Kế hoạch dạy học lớp 4"
+    },
     "accent": "#d29a3a",
-    "subjects": ["tieng-viet", "toan", "dao-duc", "khoa-hoc", "lich-su-va-dia-li", "ngoai-ngu-1", "tin-hoc", "cong-nghe", "am-nhac", "mi-thuat", "giao-duc-the-chat", "hoat-dong-trai-nghiem"]
+    "subjects": [
+      "tieng-viet",
+      "toan",
+      "dao-duc",
+      "khoa-hoc",
+      "lich-su-va-dia-li",
+      "ngoai-ngu-1",
+      "tin-hoc",
+      "cong-nghe",
+      "am-nhac",
+      "mi-thuat",
+      "giao-duc-the-chat",
+      "hoat-dong-trai-nghiem"
+    ]
   },
   {
     "grade": 5,
     "name": "Kế hoạch lớp 5",
     "short": "Lớp 5",
-    "cover": { "src": "assets/covers/tieng-viet-5.jpg", "webp": "assets/covers/tieng-viet-5.webp", "alt": "Bìa sách giáo khoa Tiếng Việt 5, tập một, bộ Kết nối tri thức với cuộc sống", "caption": "Tiếng Việt 5, tập một" },
+    "cover": {
+      "src": "assets/covers/khdh-lop-5.jpg",
+      "webp": "assets/covers/khdh-lop-5.webp",
+      "alt": "Thẻ khối lớp 5: Kế hoạch dạy học các môn học, hoạt động giáo dục, năm học 2026–2027",
+      "caption": "Kế hoạch dạy học lớp 5"
+    },
     "accent": "#e07b2a",
-    "subjects": ["tieng-viet", "toan", "dao-duc", "khoa-hoc", "lich-su-va-dia-li", "ngoai-ngu-1", "tin-hoc", "cong-nghe", "am-nhac", "mi-thuat", "giao-duc-the-chat", "hoat-dong-trai-nghiem"]
+    "subjects": [
+      "tieng-viet",
+      "toan",
+      "dao-duc",
+      "khoa-hoc",
+      "lich-su-va-dia-li",
+      "ngoai-ngu-1",
+      "tin-hoc",
+      "cong-nghe",
+      "am-nhac",
+      "mi-thuat",
+      "giao-duc-the-chat",
+      "hoat-dong-trai-nghiem"
+    ]
   }
 ]

@@ -27,6 +27,7 @@ website/
 │   ├── grades.json            5 khối lớp, bìa sách, danh sách môn của từng khối
 │   ├── subjects.json          13 môn học/hoạt động giáo dục (tên, mô tả, biểu tượng, màu)
 │   ├── integrations.json      nhóm và mã nội dung tích hợp, lồng ghép
+│   ├── gddp-bo-sung.json      luật gắn thêm mã GDĐP cho bài mà tệp Word chưa ghi (tổ CM duyệt)
 │   ├── curriculum/lopN/*.json KHDH từng môn (nguồn sự thật, sinh từ tệp Word)
 │   ├── curriculum/lopN/*.js   (sinh tự động) bản đóng gói tải theo nhu cầu
 │   └── search-index.js        (sinh tự động) chỉ mục tìm kiếm toàn trường
@@ -35,6 +36,7 @@ website/
 └── tools/
     ├── docx-to-json.py        nhập KHDH từ tệp Word (Phụ lục 2 CV 2345) → data/curriculum/*.json
     ├── build-data.mjs         đóng gói JSON → js/data.bundle.js, data/**/*.js, search-index.js
+    ├── make-covers.py         dựng ảnh thẻ khối lớp từ tranh bìa SGK (assets/covers/khdh-lop-N.*)
     └── serve.mjs              máy chủ xem thử: http://localhost:8790/
 ```
 
@@ -63,6 +65,12 @@ Hoặc mở trực tiếp `index.html` bằng trình duyệt (dữ liệu đư�
 6. **Ngày nhập** ghi vào JSON lấy từ `IMPORT_DATE` trong `tools/docx-to-json.py` (không phải ngày hôm nay),
    để chạy lại bộ nhập liệu khi sửa lỗi phân tích không làm đổi ngày nhà trường bàn giao tệp Word.
    Nhập đợt dữ liệu mới thì đổi hằng số đó, hoặc chạy `python tools/docx-to-json.py --date 2026-09-15`.
+7. **Gắn thêm mã GDĐP**: nhiều bài có nội dung địa phương nhưng tệp Word ghi trong phần Quốc phòng –
+   an ninh, Kĩ năng sống hoặc Năng lực số, không ghi mã GDĐP. Thay vì sửa tệp Word của nhà trường,
+   các bài tổ chuyên môn đã duyệt được liệt kê trong `data/gddp-bo-sung.json` (khớp theo lớp + môn +
+   đúng nguyên văn câu tích hợp); bộ nhập liệu chèn thêm mã GDĐP ngay sau mục cùng nội dung nên bảng
+   hiện hai nhãn trên một dòng, chữ không lặp. Câu nào trong tệp Word đổi đi thì lệnh nhập in cảnh
+   báo `! luật không khớp bài nào` để rà lại. Bài được gắn có cờ `"gddpBoSung": true`.
 
 ## Bản dùng chung (không thuộc trường nào)
 
