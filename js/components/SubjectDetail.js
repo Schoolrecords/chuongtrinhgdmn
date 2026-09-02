@@ -71,9 +71,20 @@
     if (blocks.length >= 2 && /^UBND/i.test(blocks[0].text.trim())) {
       before = `<div class="org"><p class="org-1">${esc(blocks[0].text.trim())}</p><p class="org-2">${esc(blocks[1].text.trim())}</p></div>` + blocks.slice(2).map(para).join('');
     } else before = blocks.map(para).join('');
-    const legend = (d.legend || []).length ? `
+    // Mã xuất hiện trong bảng KHDH nhưng tệp Word chưa ghi quy ước -> bổ sung theo data/integrations.json
+    const inDoc = new Set((d.legend || []).map((r) => String(r[0]).trim()));
+    const extra = [];
+    for (const l of cur.lessons) {
+      for (const it of l.integrations) {
+        if (inDoc.has(it.code) || extra.some((r) => r[0] === it.code)) continue;
+        const info = CT.store.data.integrations.codes[it.code];
+        if (info && info.domain && info.meaning) extra.push([it.code, info.domain, info.meaning]);
+      }
+    }
+    const legendRows = (d.legend || []).concat(extra);
+    const legend = legendRows.length ? `
       <table class="legend-table"><colgroup><col class="c-code"><col class="c-domain"><col></colgroup><thead><tr><th>Mã</th><th>Miền năng lực / nội dung</th><th>Ý nghĩa khi đưa vào KHDH/KHBD</th></tr></thead>
-      <tbody>${d.legend.map((r) => `<tr><td>${CT.components.IntegrationBadge.render(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>` : '';
+      <tbody>${legendRows.map((r) => `<tr><td>${CT.components.IntegrationBadge.render(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>` : '';
     let foot = '';
     let legendDone = false;
     for (const b of (d.after || [])) {

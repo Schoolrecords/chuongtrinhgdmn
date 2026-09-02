@@ -30,6 +30,9 @@ DEFAULT_SRC = os.path.dirname(WEBSITE)          # thư mục "Chương trình GD
 OUT_DIR = os.path.join(WEBSITE, "data", "curriculum")
 DOCS_DIR = os.path.join(WEBSITE, "assets", "docs")   # tệp Word đính kèm để tải về
 SCHOOL_YEAR = "2026-2027"
+# Ngày nhập dữ liệu ghi vào JSON. Giữ nguyên ngày nhà trường bàn giao tệp Word,
+# để chạy lại bộ nhập liệu (sửa lỗi phân tích) không làm đổi ngày. Đổi bằng --date.
+IMPORT_DATE = "2026-09-02"
 
 # Tên môn trong tên tệp -> mã môn dùng trong website (khớp data/subjects.json)
 SUBJECT_MAP = [
@@ -88,10 +91,15 @@ def phrases_to_integrations(text):
         if not seg:
             continue
         n = _strip(seg)
-        code = next((c for k, c in PHRASE_CODES if k in n), None)
+        # Một đoạn có thể ghi nhiều nội dung: "GDQP, GD Việt Lào" -> lấy đủ mã, không dừng ở mã đầu tiên
+        codes = []
+        for k, c in PHRASE_CODES:
+            if k in n and c not in codes:
+                codes.append(c)
         # Chỉ coi là tích hợp khi đoạn ngắn, mang tính nhãn (không phải câu điều chỉnh dài)
-        if code and len(seg) <= 90 and not n.startswith("dieu chinh"):
-            items.append({"code": code, "level": "", "text": seg})
+        if codes and len(seg) <= 90 and not n.startswith("dieu chinh"):
+            for c in codes:
+                items.append({"code": c, "level": "", "text": seg})
         else:
             keep.append(seg)
     return "; ".join(keep), items
@@ -256,7 +264,18 @@ def parse_docx(path, grade, subject_id):
             if wk:
                 cur_week = int(wk.group(0))
         if theme:
-            cur_theme = theme
+            # Ô chủ đề bị gõ tách làm hai dòng trong Word ("CHỦ ĐỀ 4. CÁC NƯỚC LÁNG" / "GIỀNG"):
+            # mảnh chỉ có một từ thì nối vào chủ đề "CHỦ ĐỀ/CHỦ ĐIỂM ..." ngay trước đó.
+            if (len(theme.split()) == 1 and cur_theme
+                    and re.match(r"\s*CHỦ\s+(ĐỀ|ĐIỂM)", cur_theme, re.I)
+                    and not cur_theme.endswith(theme)):
+                old_theme, cur_theme = cur_theme, f"{cur_theme} {theme}"
+                for prev in reversed(lessons):   # vá lại các dòng đã ghi với tên chủ đề bị cắt
+                    if prev["theme"] != old_theme:
+                        break
+                    prev["theme"] = cur_theme
+            else:
+                cur_theme = theme
         if not title and not period_label:
             continue
         adjustments, integrations = split_integrations(adjust_txt)
@@ -288,7 +307,7 @@ def parse_docx(path, grade, subject_id):
         "statusLabel": "Bản nháp từ tệp KHDH, chờ tổ chuyên môn xác nhận",
         "source": {
             "file": os.path.relpath(path, DEFAULT_SRC).replace("\\", "/"),
-            "importedAt": datetime.date.today().isoformat(),
+            "importedAt": IMPORT_DATE,
         },
         "summary": {
             "totalPeriods": total,
@@ -341,9 +360,12 @@ def attach(src, grade, name):
 
 
 def main():
+    global IMPORT_DATE
     ap = argparse.ArgumentParser()
     ap.add_argument("--src", default=DEFAULT_SRC)
+    ap.add_argument("--date", default=IMPORT_DATE, help="Ngày nhập ghi vào JSON (mặc định %(default)s)")
     args = ap.parse_args()
+    IMPORT_DATE = args.date
     os.makedirs(OUT_DIR, exist_ok=True)
     if os.path.isdir(DOCS_DIR):   # xoá các tệp cũ để không còn tệp thừa (giữ thư mục vì Google Drive khoá thư mục)
         for root, _dirs, fnames in os.walk(DOCS_DIR):
@@ -406,7 +428,7 @@ def main():
             grade_docs[grade] = (f, reviewed)
     grade_attachments = {str(g): attach(f, g, "KHDH ca khoi") for g, (f, _) in sorted(grade_docs.items())}
     with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8") as fh:
-        json.dump({"schoolYear": SCHOOL_YEAR, "generatedAt": datetime.date.today().isoformat(), "items": index,
+        json.dump({"schoolYear": SCHOOL_YEAR, "generatedAt": IMPORT_DATE, "items": index,
                    "gradeAttachments": grade_attachments}, fh, ensure_ascii=False, indent=1)
     print(f"Đã chép {len(index) + len(grade_attachments)} tệp Word vào {DOCS_DIR}")
     print(f"Đã ghi {len(index)} tệp JSON vào {OUT_DIR}")

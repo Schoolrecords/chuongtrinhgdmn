@@ -1,6 +1,7 @@
-# Chương trình giáo dục môn học – Trường Tiểu học Quảng Châu 1
+# Kế hoạch dạy học các môn học, hoạt động giáo dục – Trường Tiểu học Quảng Châu 1
 
-Cổng tra cứu chương trình, kế hoạch dạy học (KHDH) và nội dung tích hợp theo từng lớp, từng môn học.
+Cổng tra cứu kế hoạch dạy học (KHDH) và nội dung tích hợp theo từng lớp, từng môn học.
+Tên gọi lấy đúng theo Phụ lục 2 Công văn 2345/BGDĐT-GDTH.
 Năm học 2026–2027. Website tĩnh, không cần bước build, chạy được khi mở trực tiếp `index.html`
 hoặc đưa lên GitHub Pages: <https://ctgd.quantrisotruonghoc.com/>.
 
@@ -59,6 +60,9 @@ Hoặc mở trực tiếp `index.html` bằng trình duyệt (dữ liệu đư�
    `"sample"` (dữ liệu minh họa). Website hiển thị nhãn tương ứng.
 4. Thêm `"team"` và `"teachers"` vào tệp KHDH để hiển thị tổ chuyên môn, giáo viên phụ trách.
 5. Đổi năm học: sửa `data/school.json` và `SCHOOL_YEAR` trong `tools/docx-to-json.py`.
+6. **Ngày nhập** ghi vào JSON lấy từ `IMPORT_DATE` trong `tools/docx-to-json.py` (không phải ngày hôm nay),
+   để chạy lại bộ nhập liệu khi sửa lỗi phân tích không làm đổi ngày nhà trường bàn giao tệp Word.
+   Nhập đợt dữ liệu mới thì đổi hằng số đó, hoặc chạy `python tools/docx-to-json.py --date 2026-09-15`.
 
 ## Bản dùng chung (không thuộc trường nào)
 
@@ -90,6 +94,21 @@ cd ..
 git subtree split --prefix=web-chung -b gh-chung-src
 git push -f chung gh-chung-src:main       # remote "chung" trỏ tới kho công khai
 ```
+
+## Ba nơi phải đồng bộ
+
+Nội dung kế hoạch dạy học các môn học, hoạt động giáo dục hiện ở **ba nơi**. Sửa một nơi là phải rà cả ba, nếu không
+giáo viên sẽ thấy ba bản khác nhau của cùng một kế hoạch:
+
+| Nơi | Đường dẫn | Cách cập nhật |
+| --- | --- | --- |
+| Bản nội bộ của trường | `website/` | sửa trực tiếp, rồi `python tools/docx-to-json.py` + `node tools/build-data.mjs` |
+| Bản dùng chung | `web-chung/` | **không sửa tay**, chạy `node tools/build-public.mjs` sau khi sửa `website/` |
+| Ứng dụng Bút Xanh | `../../web/index.html` | sửa tay; phần KHDH ở `buildKHGDPhuLuc2` (bảng QUY ƯỚC MÃ, mục I căn cứ) và dữ liệu ở `../../web/khgd-lop*.js` |
+
+Bút Xanh giữ dữ liệu KHDH riêng (`window.BX_KHGD_RAW` trong `khgd-lop1.js`…`khgd-lop5.js`) và tự sinh
+tệp Word Phụ lục 2, nên bảng quy ước mã, danh mục căn cứ và các nội dung tích hợp bật/tắt phải khớp
+với hai bản website. Trước khi sửa, sao lưu theo lệ của kho đó: `index.html.backup-pre-<việc>-<YYYYMMDD>.bak`.
 
 ## Đưa lên GitHub Pages
 

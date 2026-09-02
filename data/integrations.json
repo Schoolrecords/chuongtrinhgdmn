@@ -56,6 +56,11 @@
       "tone": "indigo"
     },
     {
+      "id": "gdvl",
+      "label": "Giáo dục truyền thống hữu nghị Việt Nam – Lào",
+      "tone": "maroon"
+    },
+    {
       "id": "khac",
       "label": "Nội dung khác theo kế hoạch nhà trường",
       "tone": "slate"
@@ -90,12 +95,16 @@
     "NLS-NB": {
       "group": "nls",
       "label": "Năng lực số · Nhận biết",
-      "short": "NLS · Nhận biết"
+      "short": "NLS · Nhận biết",
+      "domain": "Năng lực số – nhận biết ban đầu",
+      "meaning": "Làm quen, nhận biết thiết bị và sản phẩm số phù hợp lứa tuổi; chưa yêu cầu thao tác độc lập."
     },
     "NLS": {
       "group": "nls",
       "label": "Năng lực số",
-      "short": "Năng lực số"
+      "short": "Năng lực số",
+      "domain": "Năng lực số (ghi chung)",
+      "meaning": "Dùng khi hoạt động chạm tới nhiều miền năng lực số, chưa tách rõ theo từng miền."
     },
     "AI-NB": {
       "group": "ai",
@@ -115,7 +124,9 @@
     "STEM": {
       "group": "stem",
       "label": "Giáo dục STEM",
-      "short": "STEM"
+      "short": "STEM",
+      "domain": "Giáo dục STEM",
+      "meaning": "Bài học, hoạt động gắn khoa học – công nghệ – kĩ thuật – toán học với thực tiễn; ưu tiên sản phẩm học tập của học sinh."
     },
     "ĐĐLS": {
       "group": "ddls",
@@ -130,7 +141,9 @@
     "GDĐP": {
       "group": "gddp",
       "label": "Giáo dục địa phương",
-      "short": "Địa phương"
+      "short": "Địa phương",
+      "domain": "Nội dung giáo dục của địa phương",
+      "meaning": "Ở tiểu học không bố trí tiết riêng: lồng ghép vào Hoạt động trải nghiệm và các môn học qua tư liệu, di tích, lễ hội, sản vật, nghề truyền thống của địa phương."
     },
     "ATGT": {
       "group": "atgt",
@@ -150,12 +163,16 @@
     "NLS-ƯD": {
       "group": "nls",
       "label": "Năng lực số · Ứng dụng thiết bị, phần mềm",
-      "short": "NLS · Ứng dụng"
+      "short": "NLS · Ứng dụng",
+      "domain": "Năng lực số – ứng dụng thiết bị, phần mềm",
+      "meaning": "Sử dụng thiết bị và phần mềm học tập ở mức đơn giản, dưới hướng dẫn và kiểm soát của giáo viên."
     },
     "GDVL": {
-      "group": "khac",
-      "label": "Giáo dục quan hệ hữu nghị Việt Nam – Lào",
-      "short": "Việt – Lào"
+      "group": "gdvl",
+      "label": "Giáo dục truyền thống hữu nghị Việt Nam – Lào",
+      "short": "Việt – Lào",
+      "domain": "Giáo dục truyền thống hữu nghị Việt Nam – Lào",
+      "meaning": "Nội dung giáo dục địa phương theo kế hoạch giáo dục của nhà trường; lồng ghép ở những bài có chỗ bám tự nhiên."
     }
   }
 }

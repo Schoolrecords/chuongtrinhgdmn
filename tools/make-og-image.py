@@ -22,8 +22,9 @@ FONTS = os.path.join(WEBSITE, 'assets', 'fonts')
 SAFE = {'·': '-', '–': '-', '—': '-', ' ': ' '}
 
 LINES = [
-    ('UTM-Avo-Bold.ttf', 54, NAVY, 'CHƯƠNG TRÌNH GIÁO DỤC MÔN HỌC'),
-    ('UTM-Avo-Bold.ttf', 36, TEAL, 'CẤP TIỂU HỌC - NĂM HỌC 2026-2027'),
+    ('UTM-Avo-Bold.ttf', 52, NAVY, 'KẾ HOẠCH DẠY HỌC CÁC MÔN HỌC,'),
+    ('UTM-Avo-Bold.ttf', 52, NAVY, 'HOẠT ĐỘNG GIÁO DỤC'),
+    ('UTM-Avo-Bold.ttf', 34, TEAL, 'CẤP TIỂU HỌC - NĂM HỌC 2026-2027'),
     ('UTM-Avo-Regular.ttf', 30, INK, 'Tài liệu tham khảo dùng chung cho giáo viên tiểu học'),
 ]
 
@@ -68,7 +69,7 @@ def main():
         f, sz = fit(d, fn, sz, text)
         w = d.textbbox((0, 0), text, font=f)[2]
         d.text(((W - w) // 2, y), text, font=f, fill=color)
-        y += sz + (26 if i == 0 else 20)
+        y += sz + (6 if i == 0 else 26 if i == 1 else 20)   # dòng 0 và 1 là một câu, sát nhau
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     img.save(OUT, optimize=True)

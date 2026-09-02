@@ -30,7 +30,7 @@
 .hero::after { width: 360px; height: 360px; left: -140px; bottom: -200px; background: radial-gradient(circle, #dcefff 0%, transparent 70%); }
 .hero .container { position: relative; padding-block: clamp(24px, 4vw, 44px) clamp(18px, 3vw, 28px); }
 .hero-grid { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(280px, 1fr); gap: clamp(20px, 4vw, 48px); align-items: center; }
-.hero-title { font-size: clamp(1.6rem, 1.1rem + 1.8vw, 2.4rem); letter-spacing: .01em; text-transform: uppercase; color: var(--navy-800); line-height: 1.15; overflow-wrap: anywhere; text-wrap: balance; max-width: 24ch; }
+.hero-title { font-size: clamp(1.6rem, 1.1rem + 1.8vw, 2.4rem); letter-spacing: .01em; text-transform: uppercase; color: var(--navy-800); line-height: 1.15; overflow-wrap: anywhere; text-wrap: balance; max-width: 32ch; }
 .hero-title .year { display: block; color: var(--teal-600); font-size: .78em; margin-top: 6px; }
 .hero-intro { margin-top: 12px; max-width: 60ch; color: var(--ink-600); font-size: var(--fs-md); }
 .hero-search { margin-top: 20px; max-width: 680px; }
@@ -143,6 +143,7 @@ mark { background: var(--gold-100); color: inherit; padding: 0 2px; border-radiu
 .badge-orange { background: #fee5d3; color: #a5460f; }
 .badge-green { background: #dcf3e2; color: #1e6f38; }
 .badge-indigo { background: #e3e6fb; color: #35409c; }
+.badge-maroon { background: #f7e2df; color: #96322a; }
 .badge-slate { background: #e6ebf2; color: #3f4f63; }
 .integration-list { display: flex; flex-direction: column; gap: 6px; }
 .integration-item { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 6px 8px; font-size: var(--fs-xs); color: var(--ink-700); line-height: 1.45; }

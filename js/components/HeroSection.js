@@ -20,7 +20,7 @@
   <div class="container">
     <div class="hero-grid">
       <div>
-        <h1 class="hero-title" id="hero-title">${esc(s.siteTitleUpper)}<span class="year">${esc(s.schoolYearLabelUpper)}</span></h1>
+        <h1 class="hero-title" id="hero-title">${esc(s.siteTitleUpper).replace(/,\s+/g, ',<br>')}<span class="year">${esc(s.schoolYearLabelUpper)}</span></h1>
         <p class="hero-intro">${esc(s.intro)}</p>
         ${s.disclaimer ? `<p class="hero-note">${esc(s.disclaimer)}</p>` : ''}
         <div class="hero-search">${CT.components.SearchBox.render({ id: 'hero-search', placeholder: 'Tìm theo tên môn, tên bài học, chủ đề, tuần, nội dung tích hợp…', hints: true })}</div>

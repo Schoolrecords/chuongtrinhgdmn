@@ -50,8 +50,15 @@
   function adjustCell(l, q) {
     const parts = [];
     if (l.adjustments) parts.push(`<div class="adj-text">${txt(l.adjustments, q)}</div>`);
+    // Nhiều mã ghi chung một nội dung ("GDQP, GD Việt Lào") gộp một dòng để chữ không lặp lại
+    const groups = [];
     for (const it of l.integrations) {
-      parts.push(`<div class="adj-item">${Badge.render(it.code)} <span>${it.level ? `<i class="level">(${esc(it.level)})</i> ` : ''}${txt(it.text, q)}</span></div>`);
+      const last = groups[groups.length - 1];
+      if (last && last.text === it.text && last.level === (it.level || '')) last.codes.push(it.code);
+      else groups.push({ codes: [it.code], text: it.text, level: it.level || '' });
+    }
+    for (const g of groups) {
+      parts.push(`<div class="adj-item">${g.codes.map((c) => Badge.render(c)).join(' ')} <span>${g.level ? `<i class="level">(${esc(g.level)})</i> ` : ''}${txt(g.text, q)}</span></div>`);
     }
     return parts.join('');
   }

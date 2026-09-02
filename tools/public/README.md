@@ -1,4 +1,4 @@
-# Chương trình giáo dục môn học – Cấp Tiểu học
+# Kế hoạch dạy học các môn học, hoạt động giáo dục – Cấp Tiểu học
 
 Tài liệu tham khảo **dùng chung** cho giáo viên tiểu học: kế hoạch dạy học theo tuần và nội dung
 tích hợp của 13 môn học, hoạt động giáo dục từ lớp 1 đến lớp 5, lập theo Phụ lục 2 Công văn
