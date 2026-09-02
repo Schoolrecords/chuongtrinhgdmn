@@ -2,7 +2,7 @@
 
 Cổng tra cứu chương trình, kế hoạch dạy học (KHDH) và nội dung tích hợp theo từng lớp, từng môn học.
 Năm học 2026–2027. Website tĩnh, không cần bước build, chạy được khi mở trực tiếp `index.html`
-hoặc đưa lên GitHub Pages: <https://schoolrecords.github.io/chuongtrinhgdmn/>.
+hoặc đưa lên GitHub Pages: <https://ctgd.quantrisotruonghoc.com/>.
 
 ## Cấu trúc
 
