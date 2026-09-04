@@ -3,10 +3,10 @@
  "grade": 3,
  "subjectId": "tu-nhien-va-xa-hoi",
  "status": "reviewed",
- "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "Lớp 3/KHDH Tự nhiên và Xã hội lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "importedAt": "2026-09-04"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 13
+  "integrations": 21
  },
  "lessons": [
   {
@@ -121,6 +121,16 @@
      "code": "KNS",
      "level": "",
      "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
+    },
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "Có ý thức giữ gìn vệ sinh, bảo vệ môi trường xung quanh sạch đẹp\n- Biết làm một số việc vừa sức để giữ gìn môi trường xung quanh: vứt rác đúng nơi quy định, sắp xếp đồ dùng trong nhà gọn gàng, sạch sẽ."
+    },
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Em đã làm gì để cho đường làng ngõ xóm nơi em ở sạch sẽ."
     }
    ],
    "note": ""
@@ -277,6 +287,11 @@
      "code": "KNS",
      "level": "",
      "text": "KN ứng phó: nhận biết nguy cơ, xử lí bước đầu và báo ngay cho người lớn."
+    },
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS thực hiện giữ gìn trường, lớp sạch, đẹp và tham gia vào những hoạt động làm cho trường, lớp học xanh, sạch đẹp để góp phần BVMT sống xung quanh."
     }
    ],
    "note": ""
@@ -363,6 +378,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
+    },
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS thực hiện việc bảo vệ môi trường ở địa phương và tham gia các hoạt động BVMT."
     }
    ],
    "note": ""
@@ -412,7 +432,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS thực hiện việc bảo vệ môi trường ở địa phương và tham gia các hoạt động BVMT."
+    }
+   ],
    "note": ""
   },
   {
@@ -462,18 +488,27 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "STEM",
+     "level": "",
+     "text": "Di tích lịch sử - văn hóa và cảnh quan thiên nhiên. ( Tiết 25, 26)"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     },
     {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS thực hiện việc bảo vệ các di tích lịch sử cũng như cảnh quan thiên nhiên"
+    },
+    {
      "code": "GDĐP",
      "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+     "text": "Giữ gìn và tôn tạo các di tích lịch sử ở quê hương."
     }
    ],
-   "note": "",
-   "gddpBoSung": true
+   "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-026",
@@ -620,7 +655,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
-   "title": "Bài 15. Một số bộ phận của động vật và chức năng của chúng (Tiết 1)",
+   "title": "Ôn tập, đánh giá cuối học kì I (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -629,14 +664,14 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
-   "note": "Bài 15 hoàn thành đầu HKII do bố trí đánh giá cuối học kì I trong tuần 18."
+   "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-035",
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
-   "title": "Ôn tập, đánh giá cuối học kì I (Tiết 1)",
+   "title": "Ôn tập, đánh giá cuối học kì I (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -652,7 +687,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề: THỰC VẬT VÀ ĐỘNG VẬT (12 tiết)",
-   "title": "Ôn tập, đánh giá cuối học kì I (Tiết 2)",
+   "title": "Bài 15. Một số bộ phận của động vật và chức năng của chúng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
@@ -1499,7 +1534,7 @@
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.docx",
   "name": "Tu nhien va Xa hoi - Lop 3.docx",
   "original": "KHDH Tự nhiên và Xã hội lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 10685,
-  "updated": "2026-09-02"
+  "size": 23615,
+  "updated": "2026-09-04"
  }
 }

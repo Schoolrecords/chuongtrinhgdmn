@@ -3,10 +3,10 @@
  "grade": 3,
  "subjectId": "tin-hoc",
  "status": "reviewed",
- "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "Lớp 3/KHDH Tin học lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "importedAt": "2026-09-04"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,14 +14,14 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 7
+  "integrations": 53
  },
  "lessons": [
   {
    "id": "l3-tin-hoc-001",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 1: Thông tin và quyết định (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
@@ -32,9 +32,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-NB",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
     }
    ],
    "note": ""
@@ -43,7 +43,7 @@
    "id": "l3-tin-hoc-002",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 1: Thông tin và quyết định (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2",
@@ -52,14 +52,20 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-003",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 2: Xử lí thông tin (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (2 tiết)",
@@ -68,14 +74,20 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-004",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 2: Xử lí thông tin (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
@@ -84,14 +96,20 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-005",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 3: Máy tính và em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 5 (2 tiết)",
@@ -100,14 +118,20 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-006",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 3: Máy tính và em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 6",
@@ -116,14 +140,20 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-007",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 4: Làm việc với máy tính (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (3 tiết)",
@@ -132,14 +162,25 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-008",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 4: Làm việc với máy tính (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
@@ -148,14 +189,25 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-009",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 4: Làm việc với máy tính (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 9",
@@ -164,27 +216,48 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số.\nThêm 1 tiết thực hành"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-010",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 5: Sử dụng bàn phím (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 10 (2 tiết)",
+   "periodLabel": "Tiết 10 (3 tiết)",
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ƯD",
+     "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
     }
    ],
    "note": ""
@@ -193,7 +266,7 @@
    "id": "l3-tin-hoc-011",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề A: Máy tính và em (11 tiết)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
    "title": "Bài 5: Sử dụng bàn phím (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 11",
@@ -202,27 +275,53 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-012",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề B: Mạng máy tính và Internet (2 tiết)",
-   "title": "Bài 6: Khám phá thông tin trên Internet (Tiết 1)",
+   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
+   "title": "Bài 5: Sử dụng bàn phím (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 12 (2 tiết)",
+   "periodLabel": "Tiết 12",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ƯD",
+     "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
     }
    ],
    "note": ""
@@ -232,35 +331,41 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề B: Mạng máy tính và Internet (2 tiết)",
-   "title": "Bài 6: Khám phá thông tin trên Internet (Tiết 2)",
+   "title": "Bài 6: Khám phá thông tin trên Internet (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 13",
+   "periodLabel": "Tiết 13 (2 tiết)",
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-014",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (6 tiết)",
-   "title": "Bài 7: Sắp xếp để dễ tìm kiếm (Tiết 1)",
+   "theme": "Chủ đề B: Mạng máy tính và Internet (2 tiết)",
+   "title": "Bài 6: Khám phá thông tin trên Internet (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 14 (2 tiết)",
+   "periodLabel": "Tiết 14",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ƯD",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
     }
    ],
    "note": ""
@@ -269,23 +374,34 @@
    "id": "l3-tin-hoc-015",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (6 tiết)",
-   "title": "Bài 7: Sắp xếp để dễ tìm kiếm (Tiết 2)",
+   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
+   "title": "Bài 7: Sắp xếp để dễ tìm",
    "content": "",
-   "periodLabel": "Tiết 15",
+   "periodLabel": "Tiết 15 (1 tiết)",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-016",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (6 tiết)",
+   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
    "title": "Bài 8: Sơ đồ hình cây. Tổ chức thông tin trong máy tính (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 16 (2 tiết)",
@@ -294,15 +410,31 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (6 tiết)",
-   "title": "Bài 8: Sơ đồ hình cây. Tổ chức thông tin trong máy tính (Tiết 2)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Ôn tập học kì 1",
    "content": "",
    "periodLabel": "Tiết 17",
    "periodFrom": 17,
@@ -318,7 +450,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập và kiểm tra định kì cuối học kì I",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -333,52 +465,94 @@
    "id": "l3-tin-hoc-019",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (6 tiết)",
-   "title": "Bài 9: Thực hành với tệp và thư mục trong máy tính (Tiết 1)",
+   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
+   "title": "Bài 8: Sơ đồ hình cây. Tổ chức thông tin trong máy tính (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 19 (2 tiết)",
+   "periodLabel": "Tiết 19",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-020",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (6 tiết)",
-   "title": "Bài 9: Thực hành với tệp và thư mục trong máy tính (Tiết 2)",
+   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
+   "title": "Bài 9: Thực hành với tệp và thư mục trong máy tính (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 20",
+   "periodLabel": "Tiết 20 (2 tiết)",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành với tệp và thư mục trong máy tính."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề D: Đạo đức, pháp luật và văn hoá trong môi trường số (2 tiết)",
-   "title": "Bài 10: Bảo vệ thông tin khi dùng máy tính (Tiết 1)",
+   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
+   "title": "Bài 9: Thực hành với tệp và thư mục trong máy tính (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 21 (2 tiết)",
+   "periodLabel": "Tiết 21",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ƯD",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
     }
    ],
    "note": ""
@@ -388,35 +562,51 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề D: Đạo đức, pháp luật và văn hoá trong môi trường số (2 tiết)",
-   "title": "Bài 10: Bảo vệ thông tin khi dùng máy tính (Tiết 2)",
+   "title": "Bài 10: Bảo vệ thông tin khi dùng máy tính (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 22",
+   "periodLabel": "Tiết 22 (2 tiết)",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.2.CB1a: Lựa chọn được những cách thức đơn giản để bảo vệ dữ liệu cá nhân và quyền riêng tư trong môi trường số."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.2.CB1b: Nhận biết được các cách sử dụng và chia sẻ thông tin định danh cá nhân một cách an toàn, có khả năng bảo vệ bản thân và người khác."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-023",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề E: Ứng dụng tin học (4 tiết)",
-   "title": "Bài 11: Bài trình chiếu của em (Tiết 1)",
+   "theme": "Chủ đề D: Đạo đức, pháp luật và văn hoá trong môi trường số (2 tiết)",
+   "title": "Bài 10: Bảo vệ thông tin khi dùng máy tính (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 23 (2 tiết)",
+   "periodLabel": "Tiết 23",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ƯD",
+     "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "HS làm quen công cụ/phần mềm, thao tác máy tính rất đơn giản dưới sự hướng dẫn; có thể dùng AI hỗ trợ học tập ở mức làm quen, trung thực và an toàn."
+     "text": "4.2.CB1a: Lựa chọn được những cách thức đơn giản để bảo vệ dữ liệu cá nhân và quyền riêng tư trong môi trường số."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.2.CB1b: Nhận biết được các cách sử dụng và chia sẻ thông tin định danh cá nhân một cách an toàn, có khả năng bảo vệ bản thân và người khác."
     }
    ],
    "note": ""
@@ -426,15 +616,26 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề E: Ứng dụng tin học (4 tiết)",
-   "title": "Bài 11: Bài trình chiếu của em (Tiết 2)",
+   "title": "Bài 11: Bài trình chiếu của em (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 24",
+   "periodLabel": "Tiết 24 (2 tiết)",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "3.1.CB1a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -442,16 +643,27 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề E: Ứng dụng tin học (4 tiết)",
-   "title": "Bài 12: Tìm hiểu về giới tự nhiên (Tiết 1)",
+   "title": "Bài 11: Bài trình chiếu của em (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 25 (1 tiết)",
+   "periodLabel": "Tiết 25",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
-   "note": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3."
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "3.1.CB1a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
+   "note": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3"
   },
   {
    "id": "l3-tin-hoc-026",
@@ -460,29 +672,41 @@
    "theme": "Chủ đề E: Ứng dụng tin học (4 tiết)",
    "title": "Bài 13: Luyện tập sử dụng chuột (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 26 (1 tiết)",
+   "periodLabel": "Tiết 26 (2 tiết)",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
-   "note": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3."
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản.\nHS tự tìm hiểu ở nhà bài 12."
+    }
+   ],
+   "note": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3"
   },
   {
    "id": "l3-tin-hoc-027",
    "semester": 2,
    "week": 27,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập",
+   "theme": "Chủ đề E: Ứng dụng tin học (4 tiết)",
+   "title": "Bài 13: Luyện tập sử dụng chuột (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 27 (1 tiết)",
+   "periodLabel": "Tiết 27",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -500,9 +724,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-NB",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "HS làm quen khái niệm thông tin/máy tính ở mức rất đơn giản, có hướng dẫn của giáo viên."
+     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
     }
    ],
    "note": ""
@@ -520,7 +744,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -536,7 +766,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -552,7 +788,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -568,7 +810,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -584,7 +832,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -893,7 +1147,7 @@
   "file": "assets/docs/lop3/Tin hoc - Lop 3.docx",
   "name": "Tin hoc - Lop 3.docx",
   "original": "KHDH Tin học lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 7924,
-  "updated": "2026-09-02"
+  "size": 14547,
+  "updated": "2026-09-04"
  }
 }

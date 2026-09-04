@@ -3,10 +3,10 @@
  "grade": 3,
  "subjectId": "ngoai-ngu-1",
  "status": "reviewed",
- "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "Lớp 3/KHDH Tiếng Anh lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "importedAt": "2026-09-04"
  },
  "summary": {
   "totalPeriods": 140,
@@ -14,15 +14,15 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 23
+  "integrations": 144
  },
  "lessons": [
   {
    "id": "l3-ngoai-ngu-1-001",
    "semester": 1,
    "week": 1,
-   "theme": "Starter",
-   "title": "Starter — Làm quen SGK & hướng dẫn học Tiếng Anh 3",
+   "theme": "",
+   "title": "Làm quen SGK & hướng dẫn học Tiếng Anh 3",
    "content": "",
    "periodLabel": "Tiết 1 (1 tiết)",
    "periodFrom": 1,
@@ -30,15 +30,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-002",
    "semester": 1,
    "week": 1,
-   "theme": "Unit 1 — Hello",
-   "title": "Unit 1 — Hello — Lesson 1 (Greetings & introductions) – Tiết 1",
+   "theme": "Starter",
+   "title": "Starter — A. Numbers",
    "content": "",
    "periodLabel": "Tiết 2 (1 tiết)",
    "periodFrom": 2,
@@ -47,11 +53,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -64,8 +65,8 @@
    "id": "l3-ngoai-ngu-1-003",
    "semester": 1,
    "week": 1,
-   "theme": "Unit 1 — Hello",
-   "title": "Unit 1 — Hello — Lesson 1 (Greetings & introductions) – Tiết 2",
+   "theme": "Starter",
+   "title": "Starter — B. The Alphabet",
    "content": "",
    "periodLabel": "Tiết 3 (1 tiết)",
    "periodFrom": 3,
@@ -73,15 +74,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-004",
    "semester": 1,
    "week": 1,
-   "theme": "Unit 1 — Hello",
-   "title": "Unit 1 — Hello — Lesson 2 (Asking how someone is) – Tiết 1",
+   "theme": "Starter",
+   "title": "Starter — C. Fun Time",
    "content": "",
    "periodLabel": "Tiết 4 (1 tiết)",
    "periodFrom": 4,
@@ -89,7 +96,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -97,59 +110,11 @@
    "semester": 1,
    "week": 2,
    "theme": "Unit 1 — Hello",
-   "title": "Unit 1 — Hello — Lesson 2 (Asking how someone is) – Tiết 2",
+   "title": "Unit 1 — Hello — Lesson 1 (Greetings & introductions) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 5 (1 tiết)",
    "periodFrom": 5,
    "periodTo": 5,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-006",
-   "semester": 1,
-   "week": 2,
-   "theme": "Unit 1 — Hello",
-   "title": "Unit 1 — Hello — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
-   "content": "",
-   "periodLabel": "Tiết 6 (1 tiết)",
-   "periodFrom": 6,
-   "periodTo": 6,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-007",
-   "semester": 1,
-   "week": 2,
-   "theme": "Unit 1 — Hello",
-   "title": "Unit 1 — Hello — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
-   "content": "",
-   "periodLabel": "Tiết 7 (1 tiết)",
-   "periodFrom": 7,
-   "periodTo": 7,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-008",
-   "semester": 1,
-   "week": 2,
-   "theme": "Unit 2 — Our names",
-   "title": "Unit 2 — Our names — Lesson 1 (Asking & telling names) – Tiết 1",
-   "content": "",
-   "periodLabel": "Tiết 8 (1 tiết)",
-   "periodFrom": 8,
-   "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -159,6 +124,72 @@
      "level": "Cơ bản 1",
      "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-006",
+   "semester": 1,
+   "week": 2,
+   "theme": "Unit 1 — Hello",
+   "title": "Unit 1 — Hello — Lesson 1 (Greetings & introductions) – Tiết 2",
+   "content": "",
+   "periodLabel": "Tiết 6 (1 tiết)",
+   "periodFrom": 6,
+   "periodTo": 6,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-007",
+   "semester": 1,
+   "week": 2,
+   "theme": "Unit 1 — Hello",
+   "title": "Unit 1 — Hello — Lesson 2 (Asking how someone is) – Tiết 1",
+   "content": "",
+   "periodLabel": "Tiết 7 (1 tiết)",
+   "periodFrom": 7,
+   "periodTo": 7,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-008",
+   "semester": 1,
+   "week": 2,
+   "theme": "Unit 1 — Hello",
+   "title": "Unit 1 — Hello — Lesson 2 (Asking how someone is) – Tiết 2",
+   "content": "",
+   "periodLabel": "Tiết 8 (1 tiết)",
+   "periodFrom": 8,
+   "periodTo": 8,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
     {
      "code": "KNS",
      "level": "",
@@ -171,8 +202,8 @@
    "id": "l3-ngoai-ngu-1-009",
    "semester": 1,
    "week": 3,
-   "theme": "Unit 2 — Our names",
-   "title": "Unit 2 — Our names — Lesson 1 (Asking & telling names) – Tiết 2",
+   "theme": "Unit 1 — Hello",
+   "title": "Unit 1 — Hello — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 9 (1 tiết)",
    "periodFrom": 9,
@@ -180,15 +211,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-010",
    "semester": 1,
    "week": 3,
-   "theme": "Unit 2 — Our names",
-   "title": "Unit 2 — Our names — Lesson 2 (Spelling names) – Tiết 1",
+   "theme": "Unit 1 — Hello",
+   "title": "Unit 1 — Hello — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -196,7 +233,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -204,59 +247,11 @@
    "semester": 1,
    "week": 3,
    "theme": "Unit 2 — Our names",
-   "title": "Unit 2 — Our names — Lesson 2 (Spelling names) – Tiết 2",
+   "title": "Unit 2 — Our names — Lesson 1 (Asking & telling names) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 11 (1 tiết)",
    "periodFrom": 11,
    "periodTo": 11,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-012",
-   "semester": 1,
-   "week": 3,
-   "theme": "Unit 2 — Our names",
-   "title": "Unit 2 — Our names — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
-   "content": "",
-   "periodLabel": "Tiết 12 (1 tiết)",
-   "periodFrom": 12,
-   "periodTo": 12,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-013",
-   "semester": 1,
-   "week": 4,
-   "theme": "Unit 2 — Our names",
-   "title": "Unit 2 — Our names — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
-   "content": "",
-   "periodLabel": "Tiết 13 (1 tiết)",
-   "periodFrom": 13,
-   "periodTo": 13,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-014",
-   "semester": 1,
-   "week": 4,
-   "theme": "Unit 3 — Our friends",
-   "title": "Unit 3 — Our friends — Lesson 1 (Introducing a friend) – Tiết 1",
-   "content": "",
-   "periodLabel": "Tiết 14 (1 tiết)",
-   "periodFrom": 14,
-   "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -275,11 +270,77 @@
    "note": ""
   },
   {
+   "id": "l3-ngoai-ngu-1-012",
+   "semester": 1,
+   "week": 3,
+   "theme": "Unit 2 — Our names",
+   "title": "Unit 2 — Our names — Lesson 1 (Asking & telling names) – Tiết 2",
+   "content": "",
+   "periodLabel": "Tiết 12 (1 tiết)",
+   "periodFrom": 12,
+   "periodTo": 12,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-013",
+   "semester": 1,
+   "week": 4,
+   "theme": "Unit 2 — Our names",
+   "title": "Unit 2 — Our names — Lesson 2 (Spelling names) – Tiết 1",
+   "content": "",
+   "periodLabel": "Tiết 13 (1 tiết)",
+   "periodFrom": 13,
+   "periodTo": 13,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-014",
+   "semester": 1,
+   "week": 4,
+   "theme": "Unit 2 — Our names",
+   "title": "Unit 2 — Our names — Lesson 2 (Spelling names) – Tiết 2",
+   "content": "",
+   "periodLabel": "Tiết 14 (1 tiết)",
+   "periodFrom": 14,
+   "periodTo": 14,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
    "id": "l3-ngoai-ngu-1-015",
    "semester": 1,
    "week": 4,
-   "theme": "Unit 3 — Our friends",
-   "title": "Unit 3 — Our friends — Lesson 1 (Introducing a friend) – Tiết 2",
+   "theme": "Unit 2 — Our names",
+   "title": "Unit 2 — Our names — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 15 (1 tiết)",
    "periodFrom": 15,
@@ -287,15 +348,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-016",
    "semester": 1,
    "week": 4,
-   "theme": "Unit 3 — Our friends",
-   "title": "Unit 3 — Our friends — Lesson 2 (Talking about friends) – Tiết 1",
+   "theme": "Unit 2 — Our names",
+   "title": "Unit 2 — Our names — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -303,7 +370,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -311,7 +384,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Unit 3 — Our friends",
-   "title": "Unit 3 — Our friends — Lesson 2 (Talking about friends) – Tiết 2",
+   "title": "Unit 3 — Our friends — Lesson 1 (Introducing a friend) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -319,7 +392,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -327,7 +411,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Unit 3 — Our friends",
-   "title": "Unit 3 — Our friends — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 3 — Our friends — Lesson 1 (Introducing a friend) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -335,7 +419,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -343,7 +433,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Unit 3 — Our friends",
-   "title": "Unit 3 — Our friends — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 3 — Our friends — Lesson 2 (Talking about friends) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
@@ -351,15 +441,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-020",
    "semester": 1,
    "week": 5,
-   "theme": "Unit 4 — Our bodies",
-   "title": "Unit 4 — Our bodies — Lesson 1 (Parts of the body) – Tiết 1",
+   "theme": "Unit 3 — Our friends",
+   "title": "Unit 3 — Our friends — Lesson 2 (Talking about friends) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
    "periodFrom": 20,
@@ -369,9 +465,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -380,8 +476,8 @@
    "id": "l3-ngoai-ngu-1-021",
    "semester": 1,
    "week": 6,
-   "theme": "Unit 4 — Our bodies",
-   "title": "Unit 4 — Our bodies — Lesson 1 (Parts of the body) – Tiết 2",
+   "theme": "Unit 3 — Our friends",
+   "title": "Unit 3 — Our friends — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
    "periodFrom": 21,
@@ -389,15 +485,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-022",
    "semester": 1,
    "week": 6,
-   "theme": "Unit 4 — Our bodies",
-   "title": "Unit 4 — Our bodies — Lesson 2 (Describing bodies) – Tiết 1",
+   "theme": "Unit 3 — Our friends",
+   "title": "Unit 3 — Our friends — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -405,7 +507,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -413,7 +521,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Unit 4 — Our bodies",
-   "title": "Unit 4 — Our bodies — Lesson 2 (Describing bodies) – Tiết 2",
+   "title": "Unit 4 — Our bodies — Lesson 1 (Parts of the body) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
    "periodFrom": 23,
@@ -421,7 +529,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -429,7 +548,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Unit 4 — Our bodies",
-   "title": "Unit 4 — Our bodies — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 4 — Our bodies — Lesson 1 (Parts of the body) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
    "periodFrom": 24,
@@ -437,7 +556,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -445,7 +570,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Unit 4 — Our bodies",
-   "title": "Unit 4 — Our bodies — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 4 — Our bodies — Lesson 2 (Describing bodies) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
    "periodFrom": 25,
@@ -453,15 +578,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-026",
    "semester": 1,
    "week": 7,
-   "theme": "Unit 5 — My hobbies",
-   "title": "Unit 5 — My hobbies — Lesson 1 (Talking about hobbies) – Tiết 1",
+   "theme": "Unit 4 — Our bodies",
+   "title": "Unit 4 — Our bodies — Lesson 2 (Describing bodies) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -471,9 +602,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -482,8 +613,8 @@
    "id": "l3-ngoai-ngu-1-027",
    "semester": 1,
    "week": 7,
-   "theme": "Unit 5 — My hobbies",
-   "title": "Unit 5 — My hobbies — Lesson 1 (Talking about hobbies) – Tiết 2",
+   "theme": "Unit 4 — Our bodies",
+   "title": "Unit 4 — Our bodies — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -491,15 +622,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-028",
    "semester": 1,
    "week": 7,
-   "theme": "Unit 5 — My hobbies",
-   "title": "Unit 5 — My hobbies — Lesson 2 (Likes about hobbies) – Tiết 1",
+   "theme": "Unit 4 — Our bodies",
+   "title": "Unit 4 — Our bodies — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -507,7 +644,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -515,107 +658,11 @@
    "semester": 1,
    "week": 8,
    "theme": "Unit 5 — My hobbies",
-   "title": "Unit 5 — My hobbies — Lesson 2 (Likes about hobbies) – Tiết 2",
+   "title": "Unit 5 — My hobbies — Lesson 1 (Talking about hobbies) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
    "periodFrom": 29,
    "periodTo": 29,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-030",
-   "semester": 1,
-   "week": 8,
-   "theme": "Unit 5 — My hobbies",
-   "title": "Unit 5 — My hobbies — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
-   "content": "",
-   "periodLabel": "Tiết 30 (1 tiết)",
-   "periodFrom": 30,
-   "periodTo": 30,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-031",
-   "semester": 1,
-   "week": 8,
-   "theme": "Unit 5 — My hobbies",
-   "title": "Unit 5 — My hobbies — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
-   "content": "",
-   "periodLabel": "Tiết 31 (1 tiết)",
-   "periodFrom": 31,
-   "periodTo": 31,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-032",
-   "semester": 1,
-   "week": 8,
-   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 1 (Ôn tập – Nghe – Đọc)",
-   "content": "",
-   "periodLabel": "Tiết 32 (1 tiết)",
-   "periodFrom": 32,
-   "periodTo": 32,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-033",
-   "semester": 1,
-   "week": 9,
-   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 1 (Ôn tập – Nói – Viết)",
-   "content": "",
-   "periodLabel": "Tiết 33 (1 tiết)",
-   "periodFrom": 33,
-   "periodTo": 33,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-034",
-   "semester": 1,
-   "week": 9,
-   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 1 (Ôn tập – Fun time & Củng cố)",
-   "content": "",
-   "periodLabel": "Tiết 34 (1 tiết)",
-   "periodFrom": 34,
-   "periodTo": 34,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-035",
-   "semester": 1,
-   "week": 9,
-   "theme": "Unit 6 — Our school",
-   "title": "Unit 6 — Our school — Lesson 1 (School places) – Tiết 1",
-   "content": "",
-   "periodLabel": "Tiết 35 (1 tiết)",
-   "periodFrom": 35,
-   "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -624,16 +671,147 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-030",
+   "semester": 1,
+   "week": 8,
+   "theme": "Unit 5 — My hobbies",
+   "title": "Unit 5 — My hobbies — Lesson 1 (Talking about hobbies) – Tiết 2",
+   "content": "",
+   "periodLabel": "Tiết 30 (1 tiết)",
+   "periodFrom": 30,
+   "periodTo": 30,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-031",
+   "semester": 1,
+   "week": 8,
+   "theme": "Unit 5 — My hobbies",
+   "title": "Unit 5 — My hobbies — Lesson 2 (Likes about hobbies) – Tiết 1",
+   "content": "",
+   "periodLabel": "Tiết 31 (1 tiết)",
+   "periodFrom": 31,
+   "periodTo": 31,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-032",
+   "semester": 1,
+   "week": 8,
+   "theme": "Unit 5 — My hobbies",
+   "title": "Unit 5 — My hobbies — Lesson 2 (Likes about hobbies) – Tiết 2",
+   "content": "",
+   "periodLabel": "Tiết 32 (1 tiết)",
+   "periodFrom": 32,
+   "periodTo": 32,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-033",
+   "semester": 1,
+   "week": 9,
+   "theme": "Unit 5 — My hobbies",
+   "title": "Unit 5 — My hobbies — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "content": "",
+   "periodLabel": "Tiết 33 (1 tiết)",
+   "periodFrom": 33,
+   "periodTo": 33,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-034",
+   "semester": 1,
+   "week": 9,
+   "theme": "Unit 5 — My hobbies",
+   "title": "Unit 5 — My hobbies — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "content": "",
+   "periodLabel": "Tiết 34 (1 tiết)",
+   "periodFrom": 34,
+   "periodTo": 34,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-035",
+   "semester": 1,
+   "week": 9,
+   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
+   "title": "Review 1 (Ôn tập – Nghe – Đọc)",
+   "content": "",
+   "periodLabel": "Tiết 35 (1 tiết)",
+   "periodFrom": 35,
+   "periodTo": 35,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-036",
    "semester": 1,
    "week": 9,
-   "theme": "Unit 6 — Our school",
-   "title": "Unit 6 — Our school — Lesson 1 (School places) – Tiết 2",
+   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
+   "title": "Review 1 (Ôn tập – Nói – Viết)",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
@@ -648,8 +826,8 @@
    "id": "l3-ngoai-ngu-1-037",
    "semester": 1,
    "week": 10,
-   "theme": "Unit 6 — Our school",
-   "title": "Unit 6 — Our school — Lesson 2 (Describing school) – Tiết 1",
+   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
+   "title": "Fun Time (Ôn tập – Fun time & Củng cố)",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
    "periodFrom": 37,
@@ -665,7 +843,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Unit 6 — Our school",
-   "title": "Unit 6 — Our school — Lesson 2 (Describing school) – Tiết 2",
+   "title": "Unit 6 — Our school — Lesson 1 (School places) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 38 (1 tiết)",
    "periodFrom": 38,
@@ -673,7 +851,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -681,7 +870,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Unit 6 — Our school",
-   "title": "Unit 6 — Our school — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 6 — Our school — Lesson 1 (School places) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 39 (1 tiết)",
    "periodFrom": 39,
@@ -689,7 +878,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -697,7 +892,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Unit 6 — Our school",
-   "title": "Unit 6 — Our school — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 6 — Our school — Lesson 2 (Describing school) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 40 (1 tiết)",
    "periodFrom": 40,
@@ -705,15 +900,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-041",
    "semester": 1,
    "week": 11,
-   "theme": "Unit 7 — Classroom instructions",
-   "title": "Unit 7 — Classroom instructions — Lesson 1 (Classroom commands) – Tiết 1",
+   "theme": "Unit 6 — Our school",
+   "title": "Unit 6 — Our school — Lesson 2 (Describing school) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 41 (1 tiết)",
    "periodFrom": 41,
@@ -723,9 +924,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -734,8 +935,8 @@
    "id": "l3-ngoai-ngu-1-042",
    "semester": 1,
    "week": 11,
-   "theme": "Unit 7 — Classroom instructions",
-   "title": "Unit 7 — Classroom instructions — Lesson 1 (Classroom commands) – Tiết 2",
+   "theme": "Unit 6 — Our school",
+   "title": "Unit 6 — Our school — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 42 (1 tiết)",
    "periodFrom": 42,
@@ -743,15 +944,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-043",
    "semester": 1,
    "week": 11,
-   "theme": "Unit 7 — Classroom instructions",
-   "title": "Unit 7 — Classroom instructions — Lesson 2 (Making requests) – Tiết 1",
+   "theme": "Unit 6 — Our school",
+   "title": "Unit 6 — Our school — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
    "periodFrom": 43,
@@ -759,7 +966,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -767,7 +980,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Unit 7 — Classroom instructions",
-   "title": "Unit 7 — Classroom instructions — Lesson 2 (Making requests) – Tiết 2",
+   "title": "Unit 7 — Classroom instructions — Lesson 1 (Classroom commands) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 44 (1 tiết)",
    "periodFrom": 44,
@@ -775,7 +988,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -783,7 +1007,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Unit 7 — Classroom instructions",
-   "title": "Unit 7 — Classroom instructions — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 7 — Classroom instructions — Lesson 1 (Classroom commands) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 45 (1 tiết)",
    "periodFrom": 45,
@@ -791,7 +1015,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -799,7 +1029,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Unit 7 — Classroom instructions",
-   "title": "Unit 7 — Classroom instructions — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 7 — Classroom instructions — Lesson 2 (Making requests) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 46 (1 tiết)",
    "periodFrom": 46,
@@ -807,15 +1037,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-047",
    "semester": 1,
    "week": 12,
-   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập giữa học kì I",
+   "theme": "Unit 7 — Classroom instructions",
+   "title": "Unit 7 — Classroom instructions — Lesson 2 (Making requests) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 47 (1 tiết)",
    "periodFrom": 47,
@@ -823,15 +1059,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-048",
    "semester": 1,
    "week": 12,
-   "theme": "Unit 8 — My school things",
-   "title": "Unit 8 — My school things — Lesson 1 (School things) – Tiết 1",
+   "theme": "Unit 7 — Classroom instructions",
+   "title": "Unit 7 — Classroom instructions — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 48 (1 tiết)",
    "periodFrom": 48,
@@ -841,9 +1083,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -852,8 +1094,8 @@
    "id": "l3-ngoai-ngu-1-049",
    "semester": 1,
    "week": 13,
-   "theme": "Unit 8 — My school things",
-   "title": "Unit 8 — My school things — Lesson 1 (School things) – Tiết 2",
+   "theme": "Unit 7 — Classroom instructions",
+   "title": "Unit 7 — Classroom instructions — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 49 (1 tiết)",
    "periodFrom": 49,
@@ -861,7 +1103,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -869,7 +1117,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Unit 8 — My school things",
-   "title": "Unit 8 — My school things — Lesson 2 (How many things) – Tiết 1",
+   "title": "Unit 8 — My school things — Lesson 1 (School things) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 50 (1 tiết)",
    "periodFrom": 50,
@@ -877,7 +1125,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -885,7 +1144,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Unit 8 — My school things",
-   "title": "Unit 8 — My school things — Lesson 2 (How many things) – Tiết 2",
+   "title": "Unit 8 — My school things — Lesson 1 (School things) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 51 (1 tiết)",
    "periodFrom": 51,
@@ -893,7 +1152,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -901,7 +1166,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Unit 8 — My school things",
-   "title": "Unit 8 — My school things — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 8 — My school things — Lesson 2 (How many things) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 52 (1 tiết)",
    "periodFrom": 52,
@@ -909,7 +1174,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -917,7 +1188,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Unit 8 — My school things",
-   "title": "Unit 8 — My school things — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 8 — My school things — Lesson 2 (How many things) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 53 (1 tiết)",
    "periodFrom": 53,
@@ -925,15 +1196,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-054",
    "semester": 1,
    "week": 14,
-   "theme": "Unit 9 — Colours",
-   "title": "Unit 9 — Colours — Lesson 1 (Naming colours) – Tiết 1",
+   "theme": "Unit 8 — My school things",
+   "title": "Unit 8 — My school things — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 54 (1 tiết)",
    "periodFrom": 54,
@@ -943,9 +1220,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -954,8 +1231,8 @@
    "id": "l3-ngoai-ngu-1-055",
    "semester": 1,
    "week": 14,
-   "theme": "Unit 9 — Colours",
-   "title": "Unit 9 — Colours — Lesson 1 (Naming colours) – Tiết 2",
+   "theme": "Unit 8 — My school things",
+   "title": "Unit 8 — My school things — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
    "periodFrom": 55,
@@ -963,7 +1240,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -971,7 +1254,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Unit 9 — Colours",
-   "title": "Unit 9 — Colours — Lesson 2 (Colours of things) – Tiết 1",
+   "title": "Unit 9 — Colours — Lesson 1 (Naming colours) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
    "periodFrom": 56,
@@ -979,7 +1262,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -987,7 +1281,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Unit 9 — Colours",
-   "title": "Unit 9 — Colours — Lesson 2 (Colours of things) – Tiết 2",
+   "title": "Unit 9 — Colours — Lesson 1 (Naming colours) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
    "periodFrom": 57,
@@ -995,7 +1289,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1003,7 +1303,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Unit 9 — Colours",
-   "title": "Unit 9 — Colours — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 9 — Colours — Lesson 2 (Colours of things) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
    "periodFrom": 58,
@@ -1011,7 +1311,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1019,7 +1325,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Unit 9 — Colours",
-   "title": "Unit 9 — Colours — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 9 — Colours — Lesson 2 (Colours of things) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 59 (1 tiết)",
    "periodFrom": 59,
@@ -1027,15 +1333,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-060",
    "semester": 1,
    "week": 15,
-   "theme": "Unit 10 — Break time activities",
-   "title": "Unit 10 — Break time activities — Lesson 1 (Break time actions) – Tiết 1",
+   "theme": "Unit 9 — Colours",
+   "title": "Unit 9 — Colours — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 60 (1 tiết)",
    "periodFrom": 60,
@@ -1045,9 +1357,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1056,8 +1368,8 @@
    "id": "l3-ngoai-ngu-1-061",
    "semester": 1,
    "week": 16,
-   "theme": "Unit 10 — Break time activities",
-   "title": "Unit 10 — Break time activities — Lesson 1 (Break time actions) – Tiết 2",
+   "theme": "Unit 9 — Colours",
+   "title": "Unit 9 — Colours — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 61 (1 tiết)",
    "periodFrom": 61,
@@ -1065,7 +1377,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1073,7 +1391,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Unit 10 — Break time activities",
-   "title": "Unit 10 — Break time activities — Lesson 2 (Likes at break time) – Tiết 1",
+   "title": "Unit 10 — Break time activities — Lesson 1 (Break time actions) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 62 (1 tiết)",
    "periodFrom": 62,
@@ -1081,7 +1399,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1089,7 +1418,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Unit 10 — Break time activities",
-   "title": "Unit 10 — Break time activities — Lesson 2 (Likes at break time) – Tiết 2",
+   "title": "Unit 10 — Break time activities — Lesson 1 (Break time actions) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 63 (1 tiết)",
    "periodFrom": 63,
@@ -1097,7 +1426,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1105,7 +1440,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Unit 10 — Break time activities",
-   "title": "Unit 10 — Break time activities — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 10 — Break time activities — Lesson 2 (Likes at break time) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 64 (1 tiết)",
    "periodFrom": 64,
@@ -1113,7 +1448,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1121,7 +1462,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Unit 10 — Break time activities",
-   "title": "Unit 10 — Break time activities — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 10 — Break time activities — Lesson 2 (Likes at break time) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 65 (1 tiết)",
    "periodFrom": 65,
@@ -1129,15 +1470,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-066",
    "semester": 1,
    "week": 17,
-   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 2 (Ôn tập – Nghe – Đọc)",
+   "theme": "Unit 10 — Break time activities",
+   "title": "Unit 10 — Break time activities — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 66 (1 tiết)",
    "periodFrom": 66,
@@ -1145,15 +1492,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-067",
    "semester": 1,
    "week": 17,
-   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 2 (Ôn tập – Nói – Viết)",
+   "theme": "Unit 10 — Break time activities",
+   "title": "Unit 10 — Break time activities — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 67 (1 tiết)",
    "periodFrom": 67,
@@ -1161,7 +1514,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1169,7 +1528,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 2 (Ôn tập – Fun time & Củng cố)",
+   "title": "Review 2 (Ôn tập – Nghe – Đọc)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
    "periodFrom": 68,
@@ -1185,7 +1544,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập cuối học kì I",
+   "title": "Review 2 (Ôn tập – Nói – Viết)",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
    "periodFrom": 69,
@@ -1201,7 +1560,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì cuối học kì I",
+   "title": "Fun Time (Ôn tập – Fun time & Củng cố)",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,
@@ -1217,7 +1576,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Chữa bài & củng cố sau kiểm tra HK I",
+   "title": "Kiểm tra định kì cuối Học kì 1",
    "content": "",
    "periodLabel": "Tiết 71 (1 tiết)",
    "periodFrom": 71,
@@ -1232,12 +1591,28 @@
    "id": "l3-ngoai-ngu-1-072",
    "semester": 1,
    "week": 18,
-   "theme": "Unit 11 — My family",
-   "title": "Unit 11 — My family — Lesson 1 (Family members) – Tiết 1",
+   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
+   "title": "Chữa bài & củng cố sau kiểm tra Học kì 1",
    "content": "",
    "periodLabel": "Tiết 72 (1 tiết)",
    "periodFrom": 72,
    "periodTo": 72,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-073",
+   "semester": 2,
+   "week": 19,
+   "theme": "Unit 11 — My family",
+   "title": "Unit 11 — My family — Lesson 1 (Family members) – Tiết 1",
+   "content": "",
+   "periodLabel": "Tiết 73 (1 tiết)",
+   "periodFrom": 73,
+   "periodTo": 73,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -1246,24 +1621,13 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-073",
-   "semester": 2,
-   "week": 19,
-   "theme": "Unit 11 — My family",
-   "title": "Unit 11 — My family — Lesson 1 (Family members) – Tiết 2",
-   "content": "",
-   "periodLabel": "Tiết 73 (1 tiết)",
-   "periodFrom": 73,
-   "periodTo": 73,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
    "note": ""
   },
   {
@@ -1271,7 +1635,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Unit 11 — My family",
-   "title": "Unit 11 — My family — Lesson 2 (Who's this?) – Tiết 1",
+   "title": "Unit 11 — My family — Lesson 1 (Family members) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 74 (1 tiết)",
    "periodFrom": 74,
@@ -1279,7 +1643,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1287,7 +1657,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Unit 11 — My family",
-   "title": "Unit 11 — My family — Lesson 2 (Who's this?) – Tiết 2",
+   "title": "Unit 11 — My family — Lesson 2 (Who's this?) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 75 (1 tiết)",
    "periodFrom": 75,
@@ -1295,7 +1665,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1303,7 +1679,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Unit 11 — My family",
-   "title": "Unit 11 — My family — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 11 — My family — Lesson 2 (Who's this?) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 76 (1 tiết)",
    "periodFrom": 76,
@@ -1311,7 +1687,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1319,7 +1701,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Unit 11 — My family",
-   "title": "Unit 11 — My family — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 11 — My family — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 77 (1 tiết)",
    "periodFrom": 77,
@@ -1327,15 +1709,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-078",
    "semester": 2,
    "week": 20,
-   "theme": "Unit 12 — Jobs",
-   "title": "Unit 12 — Jobs — Lesson 1 (Naming jobs) – Tiết 1",
+   "theme": "Unit 11 — My family",
+   "title": "Unit 11 — My family — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 78 (1 tiết)",
    "periodFrom": 78,
@@ -1345,9 +1733,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1357,7 +1745,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Unit 12 — Jobs",
-   "title": "Unit 12 — Jobs — Lesson 1 (Naming jobs) – Tiết 2",
+   "title": "Unit 12 — Jobs — Lesson 1 (Naming jobs) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 79 (1 tiết)",
    "periodFrom": 79,
@@ -1365,7 +1753,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1373,7 +1772,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Unit 12 — Jobs",
-   "title": "Unit 12 — Jobs — Lesson 2 (Talking about jobs) – Tiết 1",
+   "title": "Unit 12 — Jobs — Lesson 1 (Naming jobs) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 80 (1 tiết)",
    "periodFrom": 80,
@@ -1381,7 +1780,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1389,7 +1794,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Unit 12 — Jobs",
-   "title": "Unit 12 — Jobs — Lesson 2 (Talking about jobs) – Tiết 2",
+   "title": "Unit 12 — Jobs — Lesson 2 (Talking about jobs) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 81 (1 tiết)",
    "periodFrom": 81,
@@ -1397,7 +1802,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1405,7 +1816,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Unit 12 — Jobs",
-   "title": "Unit 12 — Jobs — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 12 — Jobs — Lesson 2 (Talking about jobs) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 82 (1 tiết)",
    "periodFrom": 82,
@@ -1413,7 +1824,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1421,7 +1838,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Unit 12 — Jobs",
-   "title": "Unit 12 — Jobs — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 12 — Jobs — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 83 (1 tiết)",
    "periodFrom": 83,
@@ -1429,15 +1846,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-084",
    "semester": 2,
    "week": 21,
-   "theme": "Unit 13 — My house",
-   "title": "Unit 13 — My house — Lesson 1 (Rooms in a house) – Tiết 1",
+   "theme": "Unit 12 — Jobs",
+   "title": "Unit 12 — Jobs — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 84 (1 tiết)",
    "periodFrom": 84,
@@ -1447,9 +1870,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1459,7 +1882,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Unit 13 — My house",
-   "title": "Unit 13 — My house — Lesson 1 (Rooms in a house) – Tiết 2",
+   "title": "Unit 13 — My house — Lesson 1 (Rooms in a house) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 85 (1 tiết)",
    "periodFrom": 85,
@@ -1467,7 +1890,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1475,7 +1909,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Unit 13 — My house",
-   "title": "Unit 13 — My house — Lesson 2 (Where is it?) – Tiết 1",
+   "title": "Unit 13 — My house — Lesson 1 (Rooms in a house) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 86 (1 tiết)",
    "periodFrom": 86,
@@ -1483,7 +1917,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1491,7 +1931,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Unit 13 — My house",
-   "title": "Unit 13 — My house — Lesson 2 (Where is it?) – Tiết 2",
+   "title": "Unit 13 — My house — Lesson 2 (Where is it?) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 87 (1 tiết)",
    "periodFrom": 87,
@@ -1499,7 +1939,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1507,7 +1953,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Unit 13 — My house",
-   "title": "Unit 13 — My house — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 13 — My house — Lesson 2 (Where is it?) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 88 (1 tiết)",
    "periodFrom": 88,
@@ -1515,7 +1961,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1523,7 +1975,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Unit 13 — My house",
-   "title": "Unit 13 — My house — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 13 — My house — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 89 (1 tiết)",
    "periodFrom": 89,
@@ -1531,15 +1983,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-090",
    "semester": 2,
    "week": 23,
-   "theme": "Unit 14 — My bedroom",
-   "title": "Unit 14 — My bedroom — Lesson 1 (Bedroom furniture) – Tiết 1",
+   "theme": "Unit 13 — My house",
+   "title": "Unit 13 — My house — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 90 (1 tiết)",
    "periodFrom": 90,
@@ -1549,9 +2007,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1561,7 +2019,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Unit 14 — My bedroom",
-   "title": "Unit 14 — My bedroom — Lesson 1 (Bedroom furniture) – Tiết 2",
+   "title": "Unit 14 — My bedroom — Lesson 1 (Bedroom furniture) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 91 (1 tiết)",
    "periodFrom": 91,
@@ -1569,7 +2027,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1577,7 +2046,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Unit 14 — My bedroom",
-   "title": "Unit 14 — My bedroom — Lesson 2 (How many pieces) – Tiết 1",
+   "title": "Unit 14 — My bedroom — Lesson 1 (Bedroom furniture) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 92 (1 tiết)",
    "periodFrom": 92,
@@ -1585,7 +2054,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1593,7 +2068,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Unit 14 — My bedroom",
-   "title": "Unit 14 — My bedroom — Lesson 2 (How many pieces) – Tiết 2",
+   "title": "Unit 14 — My bedroom — Lesson 2 (How many pieces) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 93 (1 tiết)",
    "periodFrom": 93,
@@ -1601,7 +2076,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1609,7 +2090,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Unit 14 — My bedroom",
-   "title": "Unit 14 — My bedroom — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 14 — My bedroom — Lesson 2 (How many pieces) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 94 (1 tiết)",
    "periodFrom": 94,
@@ -1617,7 +2098,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1625,7 +2112,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Unit 14 — My bedroom",
-   "title": "Unit 14 — My bedroom — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 14 — My bedroom — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 95 (1 tiết)",
    "periodFrom": 95,
@@ -1633,15 +2120,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-096",
    "semester": 2,
    "week": 24,
-   "theme": "Unit 15 — At the dining table",
-   "title": "Unit 15 — At the dining table — Lesson 1 (Food & drinks) – Tiết 1",
+   "theme": "Unit 14 — My bedroom",
+   "title": "Unit 14 — My bedroom — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 96 (1 tiết)",
    "periodFrom": 96,
@@ -1651,9 +2144,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1663,7 +2156,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Unit 15 — At the dining table",
-   "title": "Unit 15 — At the dining table — Lesson 1 (Food & drinks) – Tiết 2",
+   "title": "Unit 15 — At the dining table — Lesson 1 (Food & drinks) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 97 (1 tiết)",
    "periodFrom": 97,
@@ -1671,7 +2164,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1679,7 +2183,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Unit 15 — At the dining table",
-   "title": "Unit 15 — At the dining table — Lesson 2 (Would you like…?) – Tiết 1",
+   "title": "Unit 15 — At the dining table — Lesson 1 (Food & drinks) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 98 (1 tiết)",
    "periodFrom": 98,
@@ -1687,7 +2191,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1695,7 +2205,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Unit 15 — At the dining table",
-   "title": "Unit 15 — At the dining table — Lesson 2 (Would you like…?) – Tiết 2",
+   "title": "Unit 15 — At the dining table — Lesson 2 (Would you like…?) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 99 (1 tiết)",
    "periodFrom": 99,
@@ -1703,7 +2213,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1711,7 +2227,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Unit 15 — At the dining table",
-   "title": "Unit 15 — At the dining table — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 15 — At the dining table — Lesson 2 (Would you like…?) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 100 (1 tiết)",
    "periodFrom": 100,
@@ -1719,7 +2235,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1727,7 +2249,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Unit 15 — At the dining table",
-   "title": "Unit 15 — At the dining table — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 15 — At the dining table — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 101 (1 tiết)",
    "periodFrom": 101,
@@ -1735,15 +2257,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-102",
    "semester": 2,
    "week": 26,
-   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 3 (Ôn tập – Nghe – Đọc)",
+   "theme": "Unit 15 — At the dining table",
+   "title": "Unit 15 — At the dining table — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 102 (1 tiết)",
    "periodFrom": 102,
@@ -1751,7 +2279,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1759,7 +2293,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 3 (Ôn tập – Nói – Viết)",
+   "title": "Review 3 (Ôn tập – Nghe – Đọc)",
    "content": "",
    "periodLabel": "Tiết 103 (1 tiết)",
    "periodFrom": 103,
@@ -1775,7 +2309,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 3 (Ôn tập – Fun time & Củng cố)",
+   "title": "Review 3 (Ôn tập – Nói – Viết)",
    "content": "",
    "periodLabel": "Tiết 104 (1 tiết)",
    "periodFrom": 104,
@@ -1790,12 +2324,28 @@
    "id": "l3-ngoai-ngu-1-105",
    "semester": 2,
    "week": 27,
-   "theme": "Unit 16 — My pets",
-   "title": "Unit 16 — My pets — Lesson 1 (Naming pets) – Tiết 1",
+   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
+   "title": "Fun Time (Ôn tập – Fun time & Củng cố)",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
    "periodFrom": 105,
    "periodTo": 105,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l3-ngoai-ngu-1-106",
+   "semester": 2,
+   "week": 27,
+   "theme": "Unit 16 — My pets",
+   "title": "Unit 16 — My pets — Lesson 1 (Naming pets) – Tiết 1",
+   "content": "",
+   "periodLabel": "Tiết 106 (1 tiết)",
+   "periodFrom": 106,
+   "periodTo": 106,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -1804,24 +2354,13 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
-   "note": ""
-  },
-  {
-   "id": "l3-ngoai-ngu-1-106",
-   "semester": 2,
-   "week": 27,
-   "theme": "Unit 16 — My pets",
-   "title": "Unit 16 — My pets — Lesson 1 (Naming pets) – Tiết 2",
-   "content": "",
-   "periodLabel": "Tiết 106 (1 tiết)",
-   "periodFrom": 106,
-   "periodTo": 106,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
    "note": ""
   },
   {
@@ -1829,7 +2368,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Unit 16 — My pets",
-   "title": "Unit 16 — My pets — Lesson 2 (How many pets) – Tiết 1",
+   "title": "Unit 16 — My pets — Lesson 1 (Naming pets) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 107 (1 tiết)",
    "periodFrom": 107,
@@ -1837,7 +2376,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1845,7 +2390,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Unit 16 — My pets",
-   "title": "Unit 16 — My pets — Lesson 2 (How many pets) – Tiết 2",
+   "title": "Unit 16 — My pets — Lesson 2 (How many pets) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 108 (1 tiết)",
    "periodFrom": 108,
@@ -1853,7 +2398,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1861,7 +2412,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Unit 16 — My pets",
-   "title": "Unit 16 — My pets — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 16 — My pets — Lesson 2 (How many pets) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 109 (1 tiết)",
    "periodFrom": 109,
@@ -1869,7 +2420,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1877,7 +2434,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Unit 16 — My pets",
-   "title": "Unit 16 — My pets — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 16 — My pets — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 110 (1 tiết)",
    "periodFrom": 110,
@@ -1885,15 +2442,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-111",
    "semester": 2,
    "week": 28,
-   "theme": "Unit 17 — Our toys",
-   "title": "Unit 17 — Our toys — Lesson 1 (Naming toys) – Tiết 1",
+   "theme": "Unit 16 — My pets",
+   "title": "Unit 16 — My pets — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 111 (1 tiết)",
    "periodFrom": 111,
@@ -1903,9 +2466,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1915,7 +2478,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Unit 17 — Our toys",
-   "title": "Unit 17 — Our toys — Lesson 1 (Naming toys) – Tiết 2",
+   "title": "Unit 17 — Our toys — Lesson 1 (Naming toys) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 112 (1 tiết)",
    "periodFrom": 112,
@@ -1923,7 +2486,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1931,7 +2505,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Unit 17 — Our toys",
-   "title": "Unit 17 — Our toys — Lesson 2 (Whose toy is it?) – Tiết 1",
+   "title": "Unit 17 — Our toys — Lesson 1 (Naming toys) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 113 (1 tiết)",
    "periodFrom": 113,
@@ -1939,7 +2513,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1947,7 +2527,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Unit 17 — Our toys",
-   "title": "Unit 17 — Our toys — Lesson 2 (Whose toy is it?) – Tiết 2",
+   "title": "Unit 17 — Our toys — Lesson 2 (Whose toy is it?) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 114 (1 tiết)",
    "periodFrom": 114,
@@ -1955,7 +2535,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1963,7 +2549,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Unit 17 — Our toys",
-   "title": "Unit 17 — Our toys — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 17 — Our toys — Lesson 2 (Whose toy is it?) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 115 (1 tiết)",
    "periodFrom": 115,
@@ -1971,7 +2557,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1979,7 +2571,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Unit 17 — Our toys",
-   "title": "Unit 17 — Our toys — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 17 — Our toys — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 116 (1 tiết)",
    "periodFrom": 116,
@@ -1987,15 +2579,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-117",
    "semester": 2,
    "week": 30,
-   "theme": "Unit 18 — Playing and doing",
-   "title": "Unit 18 — Playing and doing — Lesson 1 (Present continuous) – Tiết 1",
+   "theme": "Unit 17 — Our toys",
+   "title": "Unit 17 — Our toys — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 117 (1 tiết)",
    "periodFrom": 117,
@@ -2005,9 +2603,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2017,7 +2615,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Unit 18 — Playing and doing",
-   "title": "Unit 18 — Playing and doing — Lesson 1 (Present continuous) – Tiết 2",
+   "title": "Unit 18 — Playing and doing — Lesson 1 (Present continuous) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 118 (1 tiết)",
    "periodFrom": 118,
@@ -2025,7 +2623,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2033,7 +2642,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Unit 18 — Playing and doing",
-   "title": "Unit 18 — Playing and doing — Lesson 2 (What is he/she doing?) – Tiết 1",
+   "title": "Unit 18 — Playing and doing — Lesson 1 (Present continuous) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 119 (1 tiết)",
    "periodFrom": 119,
@@ -2041,7 +2650,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2049,7 +2664,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Unit 18 — Playing and doing",
-   "title": "Unit 18 — Playing and doing — Lesson 2 (What is he/she doing?) – Tiết 2",
+   "title": "Unit 18 — Playing and doing — Lesson 2 (What is he/she doing?) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 120 (1 tiết)",
    "periodFrom": 120,
@@ -2057,7 +2672,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2065,7 +2686,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Unit 18 — Playing and doing",
-   "title": "Unit 18 — Playing and doing — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 18 — Playing and doing — Lesson 2 (What is he/she doing?) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 121 (1 tiết)",
    "periodFrom": 121,
@@ -2073,7 +2694,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2081,7 +2708,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Unit 18 — Playing and doing",
-   "title": "Unit 18 — Playing and doing — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 18 — Playing and doing — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 122 (1 tiết)",
    "periodFrom": 122,
@@ -2089,15 +2716,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-123",
    "semester": 2,
    "week": 31,
-   "theme": "Unit 19 — Outdoor activities",
-   "title": "Unit 19 — Outdoor activities — Lesson 1 (Outdoor actions) – Tiết 1",
+   "theme": "Unit 18 — Playing and doing",
+   "title": "Unit 18 — Playing and doing — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 123 (1 tiết)",
    "periodFrom": 123,
@@ -2107,9 +2740,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2119,7 +2752,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Unit 19 — Outdoor activities",
-   "title": "Unit 19 — Outdoor activities — Lesson 1 (Outdoor actions) – Tiết 2",
+   "title": "Unit 19 — Outdoor activities — Lesson 1 (Outdoor actions) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 124 (1 tiết)",
    "periodFrom": 124,
@@ -2127,7 +2760,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2135,7 +2779,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Unit 19 — Outdoor activities",
-   "title": "Unit 19 — Outdoor activities — Lesson 2 (Let's…) – Tiết 1",
+   "title": "Unit 19 — Outdoor activities — Lesson 1 (Outdoor actions) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 125 (1 tiết)",
    "periodFrom": 125,
@@ -2143,7 +2787,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2151,7 +2801,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Unit 19 — Outdoor activities",
-   "title": "Unit 19 — Outdoor activities — Lesson 2 (Let's…) – Tiết 2",
+   "title": "Unit 19 — Outdoor activities — Lesson 2 (Let's…) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 126 (1 tiết)",
    "periodFrom": 126,
@@ -2159,7 +2809,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2167,7 +2823,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Unit 19 — Outdoor activities",
-   "title": "Unit 19 — Outdoor activities — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 19 — Outdoor activities — Lesson 2 (Let's…) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 127 (1 tiết)",
    "periodFrom": 127,
@@ -2175,7 +2831,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2183,7 +2845,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Unit 19 — Outdoor activities",
-   "title": "Unit 19 — Outdoor activities — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 19 — Outdoor activities — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 128 (1 tiết)",
    "periodFrom": 128,
@@ -2191,15 +2853,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-129",
    "semester": 2,
    "week": 33,
-   "theme": "Unit 20 — At the zoo",
-   "title": "Unit 20 — At the zoo — Lesson 1 (Zoo animals) – Tiết 1",
+   "theme": "Unit 19 — Outdoor activities",
+   "title": "Unit 19 — Outdoor activities — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 129 (1 tiết)",
    "periodFrom": 129,
@@ -2209,9 +2877,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2221,7 +2889,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Unit 20 — At the zoo",
-   "title": "Unit 20 — At the zoo — Lesson 1 (Zoo animals) – Tiết 2",
+   "title": "Unit 20 — At the zoo — Lesson 1 (Zoo animals) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 130 (1 tiết)",
    "periodFrom": 130,
@@ -2229,7 +2897,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2237,7 +2916,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Unit 20 — At the zoo",
-   "title": "Unit 20 — At the zoo — Lesson 2 (Describing animals) – Tiết 1",
+   "title": "Unit 20 — At the zoo — Lesson 1 (Zoo animals) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 131 (1 tiết)",
    "periodFrom": 131,
@@ -2245,7 +2924,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2253,7 +2938,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Unit 20 — At the zoo",
-   "title": "Unit 20 — At the zoo — Lesson 2 (Describing animals) – Tiết 2",
+   "title": "Unit 20 — At the zoo — Lesson 2 (Describing animals) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 132 (1 tiết)",
    "periodFrom": 132,
@@ -2261,7 +2946,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2269,7 +2960,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Unit 20 — At the zoo",
-   "title": "Unit 20 — At the zoo — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
+   "title": "Unit 20 — At the zoo — Lesson 2 (Describing animals) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 133 (1 tiết)",
    "periodFrom": 133,
@@ -2277,7 +2968,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2285,7 +2982,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Unit 20 — At the zoo",
-   "title": "Unit 20 — At the zoo — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
+   "title": "Unit 20 — At the zoo — Lesson 3 (Skills: Listen–Read–Write) – Tiết 1",
    "content": "",
    "periodLabel": "Tiết 134 (1 tiết)",
    "periodFrom": 134,
@@ -2293,15 +2990,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-ngoai-ngu-1-135",
    "semester": 2,
    "week": 34,
-   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 4 (Ôn tập – Nghe – Đọc)",
+   "theme": "Unit 20 — At the zoo",
+   "title": "Unit 20 — At the zoo — Lesson 3 (Skills: Listen–Read–Write) – Tiết 2",
    "content": "",
    "periodLabel": "Tiết 135 (1 tiết)",
    "periodFrom": 135,
@@ -2309,7 +3012,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2317,7 +3026,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 4 (Ôn tập – Nói – Viết)",
+   "title": "Review 4 (Ôn tập – Nghe – Đọc)",
    "content": "",
    "periodLabel": "Tiết 136 (1 tiết)",
    "periodFrom": 136,
@@ -2333,7 +3042,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Review 4 (Ôn tập – Fun time & Củng cố)",
+   "title": "Review 4 (Ôn tập – Nói – Viết)",
    "content": "",
    "periodLabel": "Tiết 137 (1 tiết)",
    "periodFrom": 137,
@@ -2349,7 +3058,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập cuối học kì II",
+   "title": "Fun Time (Ôn tập – Fun time & Củng cố)",
    "content": "",
    "periodLabel": "Tiết 138 (1 tiết)",
    "periodFrom": 138,
@@ -2365,7 +3074,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì cuối học kì II",
+   "title": "Kiểm tra định kì cuối Học kì 2",
    "content": "",
    "periodLabel": "Tiết 139 (1 tiết)",
    "periodFrom": 139,
@@ -2381,7 +3090,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Chữa bài & tổng kết năm học",
+   "title": "Chữa bài & củng cố sau kiểm tra Học kì 2",
    "content": "",
    "periodLabel": "Tiết 140 (1 tiết)",
    "periodFrom": 140,
@@ -2666,7 +3375,7 @@
   "file": "assets/docs/lop3/Tieng Anh - Lop 3.docx",
   "name": "Tieng Anh - Lop 3.docx",
   "original": "KHDH Tiếng Anh lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 13239,
-  "updated": "2026-09-02"
+  "size": 39654,
+  "updated": "2026-09-04"
  }
 }

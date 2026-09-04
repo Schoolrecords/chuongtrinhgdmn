@@ -3,10 +3,10 @@
  "grade": 3,
  "subjectId": "cong-nghe",
  "status": "reviewed",
- "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "Lớp 3/KHDH Công nghệ lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "importedAt": "2026-09-04"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 15
+  "integrations": 16
  },
  "lessons": [
   {
@@ -262,7 +262,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cẩm nang sử dụng máy thu hình ( Tiết 13, 14)"
+    }
+   ],
    "note": ""
   },
   {
@@ -365,7 +371,7 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
-   "note": "Bài 6 hoàn thành đầu HKII do bố trí ôn tập, kiểm tra cuối học kì I trong tuần 17–18."
+   "note": "Bài 6 hoàn thành đầu HKII do bố trí ôn tập, kiểm tra cuối học kì I trong tuần 17–18"
   },
   {
    "id": "l3-cong-nghe-020",
@@ -936,7 +942,7 @@
   "file": "assets/docs/lop3/Cong nghe - Lop 3.docx",
   "name": "Cong nghe - Lop 3.docx",
   "original": "KHDH Công nghệ lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 7699,
-  "updated": "2026-09-02"
+  "size": 14262,
+  "updated": "2026-09-04"
  }
 }

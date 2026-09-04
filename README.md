@@ -37,6 +37,7 @@ website/
     ├── docx-to-json.py        nhập KHDH từ tệp Word (Phụ lục 2 CV 2345) → data/curriculum/*.json
     ├── build-data.mjs         đóng gói JSON → js/data.bundle.js, data/**/*.js, search-index.js
     ├── make-covers.py         dựng ảnh thẻ khối lớp từ tranh bìa SGK (assets/covers/khdh-lop-N.*)
+    ├── sync-butxanh.py        đẩy KHDH đã duyệt sang dữ liệu app Bút Xanh (../../web/khgd-lopN.js)
     └── serve.mjs              máy chủ xem thử: http://localhost:8790/
 ```
 
@@ -112,11 +113,21 @@ giáo viên sẽ thấy ba bản khác nhau của cùng một kế hoạch:
 | --- | --- | --- |
 | Bản nội bộ của trường | `website/` | sửa trực tiếp, rồi `python tools/docx-to-json.py` + `node tools/build-data.mjs` |
 | Bản dùng chung | `web-chung/` | **không sửa tay**, chạy `node tools/build-public.mjs` sau khi sửa `website/` |
-| Ứng dụng Bút Xanh | `../../web/index.html` | sửa tay; phần KHDH ở `buildKHGDPhuLuc2` (bảng QUY ƯỚC MÃ, mục I căn cứ) và dữ liệu ở `../../web/khgd-lop*.js` |
+| Ứng dụng Bút Xanh | `../../web/khgd-lop*.js` | `python tools/sync-butxanh.py --lop N` (thêm `--thu` để xem trước) |
+| Ứng dụng Bút Xanh – giao diện | `../../web/index.html` | sửa tay; phần KHDH ở `buildKHGDPhuLuc2` (bảng QUY ƯỚC MÃ, mục I căn cứ) |
 
-Bút Xanh giữ dữ liệu KHDH riêng (`window.BX_KHGD_RAW` trong `khgd-lop1.js`…`khgd-lop5.js`) và tự sinh
-tệp Word Phụ lục 2, nên bảng quy ước mã, danh mục căn cứ và các nội dung tích hợp bật/tắt phải khớp
-với hai bản website. Trước khi sửa, sao lưu theo lệ của kho đó: `index.html.backup-pre-<việc>-<YYYYMMDD>.bak`.
+Bút Xanh giữ dữ liệu KHDH riêng (`window.BX_KHGD_L1`…`L4`, `window.BX_KHGD_RAW` + `window.TV5_KHGD`
+cho lớp 5) và tự sinh tệp Word Phụ lục 2, nên bảng quy ước mã, danh mục căn cứ và các nội dung tích
+hợp bật/tắt phải khớp với hai bản website. Trước khi sửa `index.html`, sao lưu theo lệ của kho đó:
+`index.html.backup-pre-<việc>-<YYYYMMDD>.bak` (lệnh `sync-butxanh.py` tự sao lưu tệp dữ liệu).
+
+Một dòng dữ liệu của Bút Xanh gồm 8 cột: `[tuần, chủ đề, nhóm bài, phân môn, tên bài, thời lượng,
+tiết, nội dung tích hợp]`. Cột 7 chỉ chứa **phần gốc** — app còn tự sinh thêm nội dung lồng ghép theo
+luật (QPAN, KNS, GDĐP, STEM…) khi dựng bảng và giới hạn tối đa 2 nội dung mỗi bài. Vì vậy
+`sync-butxanh.py` **giữ nguyên cột 7 đang có**, chỉ gắn thêm phần tổ chuyên môn viết riêng ghi ở
+`data/butxanh-bo-sung.json`; riêng môn Tin học (`NGUYEN_VAN` trong lệnh) lấy nguyên văn cột điều chỉnh
+của JSON vì đó là mã Khung năng lực số theo PPCT của tổ chuyên môn. Tên bài là chỗ app dò giáo án đã
+soạn nên chỉ đổi khi tổ chuyên môn thực sự đặt tên khác, không đổi vì khác dấu câu hay tiền tố chủ đề.
 
 ## Đưa lên GitHub Pages
 

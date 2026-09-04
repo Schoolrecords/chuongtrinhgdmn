@@ -64,6 +64,24 @@ INTEGRATION_CODES = [
     "GDĐP", "ATGT", "GDMT", "QTE", "ĐĐLS", "GDHN", "GDVL",
 ]
 
+# Cách ghi nhãn khác của tổ chuyên môn trong bản rà soát -> mã chuẩn.
+# Chỉ nhận khi nhãn đứng ngay trước dấu ":" (xem CODE_RE), nên không đụng câu chữ thường.
+CODE_ALIASES = {
+    "GDBVMT": "GDMT",
+    "BVMT": "GDMT",
+    "Tích hợp GD bảo vệ môi trường": "GDMT",
+    "Tích hợp giáo dục bảo vệ môi trường": "GDMT",
+    "Tích hợp GD kỹ năng sống": "KNS",
+    "Tích hợp GD kĩ năng sống": "KNS",
+    "Tích hợp giáo dục kĩ năng sống": "KNS",
+    "Tích hợp GD địa phương": "GDĐP",
+    "Tích hợp giáo dục địa phương": "GDĐP",
+    "Tích hợp địa phương": "GDĐP",
+    "Bài học STEM": "STEM",
+    "BH STEM": "STEM",
+}
+INTEGRATION_CODES += list(CODE_ALIASES)
+
 # Cụm từ tự do (không có mã) trong cột điều chỉnh -> mã tích hợp. So khớp trên chuỗi đã bỏ dấu, chữ thường.
 PHRASE_CODES = [
     ("quoc phong", "QPAN"), ("gdqp", "QPAN"), ("qpan", "QPAN"),
@@ -107,8 +125,16 @@ def phrases_to_integrations(text):
 # "ĐÍNH CHÍNH" là điều chỉnh SGK, không phải tích hợp
 ADJUST_CODES = ["ĐÍNH CHÍNH", "ĐÍNH CHÍNH SGK", "ĐIỀU CHỈNH"]
 
+# Dấu đánh mốc tổ chuyên môn ghi trong cột Ghi chú khi rà soát; giữ trong tệp Word,
+# không đưa lên website vì không phải nội dung dạy học.
+NOTE_DROP_RE = re.compile(r"\(?\s*Tổ\s*CM\s*đã\s*rà\s*soát\s*và\s*bổ\s*sung\s*\)?", re.I)
+
+
+def clean_note(text):
+    return " ".join(NOTE_DROP_RE.sub("", text or "").split()).strip(" ;.-")
+
 CODE_RE = re.compile(
-    r"(?:^|(?<=[\.\;\)\s]))(?:Lồng ghép\s+)?(" +
+    r"(?:^|(?<=[\.\;\)\s\-–—]))(?:Lồng ghép\s+)?(" +
     "|".join(re.escape(c) for c in sorted(INTEGRATION_CODES + ADJUST_CODES, key=len, reverse=True)) +
     r")\s*(\([^)]*\))?\s*([:,])",
     re.UNICODE,
@@ -131,7 +157,9 @@ def split_integrations(text):
     matches = list(CODE_RE.finditer(text))
     if not matches:
         return phrases_to_integrations(text)
-    free = text[: matches[0].start()].strip(" ;.\n")
+    # Nhãn kế tiếp hay được gõ kèm gạch đầu dòng ("- GDBVMT: …"); gạch đó thuộc về nhãn sau,
+    # nên cắt khỏi phần đứng trước để không còn dấu "-" lửng.
+    free = text[: matches[0].start()].strip(" ;.\n-–—")
     items = []
     adjust_parts = []
     if free:
@@ -144,8 +172,8 @@ def split_integrations(text):
         code = m.group(1)
         level = (m.group(2) or "").strip("() ")
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        body = text[m.end():end].strip(" ;\n")
-        norm = {"GDQPAN": "QPAN", "AI": "AI-NB"}.get(code, code)
+        body = text[m.end():end].strip(" ;\n").rstrip(" \n-–—")
+        norm = dict(CODE_ALIASES, GDQPAN="QPAN", AI="AI-NB").get(code, code)
         if code in ADJUST_CODES:
             adjust_parts.append(body)
             continue
@@ -158,7 +186,7 @@ def split_integrations(text):
         items.append({"code": norm, "level": level, "text": body})
     for pc, pl in pending:
         items.append({"code": pc, "level": pl, "text": ""})
-    return "; ".join(p for p in adjust_parts if p), items
+    return "; ".join(p for p in adjust_parts if any(c.isalnum() for c in p)), items
 
 
 def parse_period(label):
@@ -331,7 +359,7 @@ def parse_docx(path, grade, subject_id):
             "lessonPeriods": p_lesson,
             "adjustments": adjustments,
             "integrations": integrations,
-            "note": note,
+            "note": clean_note(note),
         })
     total = sum(l["periods"] or 0 for l in lessons)
     weeks = sorted({l["week"] for l in lessons if l["week"]})
@@ -438,8 +466,11 @@ def main():
             continue
         gddp_added += apply_gddp_rules(data, gddp_rules, gddp_used)
         if reviewed:
+            day = datetime.date.fromtimestamp(os.stat(f).st_mtime)
             data["status"] = "reviewed"
-            data["statusLabel"] = "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt"
+            data["statusLabel"] = (f"Đã rà soát (bản tổ chuyên môn rà soát ngày "
+                                   f"{day.day:02d}/{day.month}/{day.year}), chờ Hiệu trưởng phê duyệt")
+            data["source"]["importedAt"] = day.isoformat()
         data["attachment"] = attach(f, grade, ascii_name(subject_display_name(sid)))
         out_dir = os.path.join(OUT_DIR, f"lop{grade}")
         os.makedirs(out_dir, exist_ok=True)

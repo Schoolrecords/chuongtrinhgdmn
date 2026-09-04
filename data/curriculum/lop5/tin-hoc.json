@@ -3,10 +3,10 @@
  "grade": 5,
  "subjectId": "tin-hoc",
  "status": "reviewed",
- "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "Lớp 5/KHDH Tin học lớp 5 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "importedAt": "2026-09-04"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 26
+  "integrations": 59
  },
  "lessons": [
   {
@@ -32,9 +32,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "5.2.CB2a: Xác định được nhu cầu cá nhân."
     }
    ],
    "note": ""
@@ -54,9 +54,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "5.2.CB2b: Nhận ra được các công cụ số đơn giản và các giải pháp công nghệ có thể có để giải quyết những nhu cầu đó."
     }
    ],
    "note": ""
@@ -75,6 +75,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "CB2a: Xác định được nhu cầu thông tin."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "1.1.CB2c: Tìm được cách truy cập những dữ liệu, thông tin và nội dung này cũng như điều hướng giữa chúng."
+    },
     {
      "code": "NLS-KT",
      "level": "",
@@ -104,6 +119,31 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "CB2a: Phát hiện được độ tin cậy và độ chính xác của các nguồn chung của dữ liệu, thông tin và nội dung số."
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "2.1.CB2a: Lựa chọn được các công nghệ số đơn giản để tương tác."
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "2.1.CB2b: Xác định được các phương tiện giao tiếp đơn giản thích hợp cho một bối cảnh cụ thể."
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "2.2.CB2a: Nhận biết được các công nghệ số đơn giản, phù hợp để chia sẻ dữ liệu, thông tin và nội dung kỹ thuật số."
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "2.4.CB2a: Chọn được những công cụ và công nghệ số đơn giản cho các quá trình cộng tác."
+    },
+    {
+     "code": "NLS-KT",
      "level": "",
      "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
     },
@@ -129,6 +169,16 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "CB2a: Xác định được nhu cầu thông tin."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "1.1.CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
+    },
     {
      "code": "NLS-KT",
      "level": "",
@@ -163,6 +213,11 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "1.1.CB2c: Tìm được cách truy cập những dữ liệu, thông tin và nội dung này cũng như điều hướng giữa chúng."
+    },
+    {
+     "code": "NLS-KT",
      "level": "",
      "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
     },
@@ -192,7 +247,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "4.2.CB2a: Lựa chọn được những cách thức đơn giản để bảo vệ dữ liệu cá nhân và quyền riêng tư trong môi trường số."
+    }
+   ],
    "note": ""
   },
   {
@@ -208,7 +269,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "4.2.CB2b: Nhận biết được các cách sử dụng và chia sẻ thông tin định danh cá nhân một cách an toàn, có khả năng bảo vệ bản thân và người khác."
+    }
+   ],
    "note": ""
   },
   {
@@ -335,8 +402,13 @@
    "integrations": [
     {
      "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
+     "level": "Cơ bản 2",
+     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản"
     }
    ],
    "note": ""
@@ -357,8 +429,13 @@
    "integrations": [
     {
      "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
+     "level": "Cơ bản 2",
+     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản"
     }
    ],
    "note": ""
@@ -439,8 +516,18 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "HS tự tìm hiểu ở nhà bài 9B",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản.\nHS tự tìm hiểu ở nhà bài 9B"
+    },
     {
      "code": "NLS-ST",
      "level": "",
@@ -465,8 +552,8 @@
    "integrations": [
     {
      "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
     }
    ],
    "note": ""
@@ -487,8 +574,8 @@
    "integrations": [
     {
      "code": "NLS-ST",
-     "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
     }
    ],
    "note": ""
@@ -506,7 +593,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -522,7 +615,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -538,7 +637,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -554,7 +659,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -570,7 +681,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -586,7 +703,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -601,12 +724,12 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Lập trình trò chơi",
+   "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "Bài học Stems: Bài"
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản.\nBài học Stems: Bài - Lập trình trò chơi"
     }
    ],
    "note": ""
@@ -624,7 +747,18 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -640,7 +774,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -656,7 +801,18 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -672,7 +828,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -688,7 +855,18 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -997,7 +1175,7 @@
   "file": "assets/docs/lop5/Tin hoc - Lop 5.docx",
   "name": "Tin hoc - Lop 5.docx",
   "original": "KHDH Tin học lớp 5 (2026-2027) (đã rà soát).docx",
-  "size": 8007,
-  "updated": "2026-09-02"
+  "size": 8739,
+  "updated": "2026-09-04"
  }
 }

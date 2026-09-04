@@ -3,10 +3,10 @@
  "grade": 4,
  "subjectId": "tin-hoc",
  "status": "reviewed",
- "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "Lớp 4/KHDH Tin học lớp 4 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "importedAt": "2026-09-04"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 20
+  "integrations": 40
  },
  "lessons": [
   {
@@ -34,7 +34,12 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 2",
-     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền."
+     "text": "4.1.CB2a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản (Bảo quản phần cứng, phần mềm)."
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "5.1.CB2a: Xác định được các vấn đề kỹ thuật đơn giản khi vận hành thiết bị và sử dụng môi trường số."
     }
    ],
    "note": ""
@@ -52,7 +57,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "4.1.CB2a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản (Bảo quản phần cứng, phần mềm)."
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "5.1.CB2a: Xác định được các vấn đề kỹ thuật đơn giản khi vận hành thiết bị và sử dụng môi trường số."
+    }
+   ],
    "note": ""
   },
   {
@@ -68,7 +84,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "4.3.CB2a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số (Tư thế, thói quen gõ phím)."
+    }
+   ],
    "note": ""
   },
   {
@@ -84,7 +106,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "4.3.CB2a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số (Tư thế, thói quen gõ phím)."
+    }
+   ],
    "note": ""
   },
   {
@@ -104,7 +132,12 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "thực hành tìm và chọn lọc thông tin; kiểm tra nguồn trước khi dùng."
+     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "1.2.CB2a: Phát hiện được độ tin cậy và độ chính xác của các nguồn chung của dữ liệu, thông tin và nội dung số."
     }
    ],
    "note": ""
@@ -126,7 +159,12 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "thực hành tìm và chọn lọc thông tin; kiểm tra nguồn trước khi dùng."
+     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "1.2.CB2a: Phát hiện được độ tin cậy và độ chính xác của các nguồn chung của dữ liệu, thông tin và nội dung số."
     }
    ],
    "note": ""
@@ -148,7 +186,12 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "thực hành tìm và chọn lọc thông tin; kiểm tra nguồn trước khi dùng."
+     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "1.1.CB2d: Xác định được các chiến lược tìm kiếm đơn giản."
     }
    ],
    "note": ""
@@ -170,7 +213,12 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "thực hành tìm và chọn lọc thông tin; kiểm tra nguồn trước khi dùng."
+     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "1.1.CB2d: Xác định được các chiến lược tìm kiếm đơn giản."
     }
    ],
    "note": ""
@@ -192,7 +240,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "đặt tên tệp, sắp xếp thư mục khoa học để tìm lại được."
+     "text": "1.3.CB2a: Tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
     }
    ],
    "note": ""
@@ -214,7 +262,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "đặt tên tệp, sắp xếp thư mục khoa học để tìm lại được."
+     "text": "1.3.CB2a: Tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
     }
    ],
    "note": ""
@@ -236,7 +284,12 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 2",
-     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền."
+     "text": "4.1.CB2c: Tuân theo được các biện pháp an toàn và bảo mật đơn giản (Liên quan đến bản quyền và sử dụng hợp pháp)."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "4.4.CB2c: Nhận biết được bản quyền đối với các nội dung và dữ liệu số."
     }
    ],
    "note": ""
@@ -258,7 +311,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "tạo sản phẩm số của riêng em; ghi nguồn nếu dùng hình ảnh của người khác."
+     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
     }
    ],
    "note": ""
@@ -280,7 +333,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "tạo sản phẩm số của riêng em; ghi nguồn nếu dùng hình ảnh của người khác."
+     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
     }
    ],
    "note": ""
@@ -302,7 +355,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "tạo sản phẩm số của riêng em; ghi nguồn nếu dùng hình ảnh của người khác."
+     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
     }
    ],
    "note": ""
@@ -324,7 +377,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "tạo sản phẩm số của riêng em; ghi nguồn nếu dùng hình ảnh của người khác."
+     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
     }
    ],
    "note": ""
@@ -342,15 +395,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-tin-hoc-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 09: HIỆU ỨNG CHUYỂN TRANG (Tiết 2)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "ÔN TẬP CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -366,14 +425,14 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP VÀ KIỂM TRA CUỐI HỌC KÌ I",
+   "title": "KIỂM TRA CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Điều chỉnh: gộp ôn tập với kiểm tra cuối HKI để Bài 09 học liền mạch trong HKI; các bài HKII dồn lên 1 tuần, bổ sung 1 tiết ôn tập thực hành cuối năm",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -382,7 +441,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 10: PHẦN MỀM SOẠN THẢO VĂN BẢN (Tiết 1)",
+   "title": "Bài 09: HIỆU ỨNG CHUYỂN TRANG (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
@@ -392,9 +451,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền."
+     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản."
     }
    ],
    "note": ""
@@ -404,7 +463,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 10: PHẦN MỀM SOẠN THẢO VĂN BẢN (Tiết 2)",
+   "title": "Bài 10: PHẦN MỀM SOẠN THẢO VĂN BẢN (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
    "periodFrom": 20,
@@ -414,9 +473,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền."
+     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
     }
    ],
    "note": ""
@@ -426,7 +485,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 11: CHỈNH SỬA VĂN BẢN (Tiết 1)",
+   "title": "Bài 10: PHẦN MỀM SOẠN THẢO VĂN BẢN (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
    "periodFrom": 21,
@@ -438,7 +497,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "tạo sản phẩm số của riêng em; ghi nguồn nếu dùng hình ảnh của người khác."
+     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
     }
    ],
    "note": ""
@@ -448,7 +507,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 11: CHỈNH SỬA VĂN BẢN (Tiết 2)",
+   "title": "Bài 11: CHỈNH SỬA VĂN BẢN (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -460,7 +519,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "tạo sản phẩm số của riêng em; ghi nguồn nếu dùng hình ảnh của người khác."
+     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản."
     }
    ],
    "note": ""
@@ -470,7 +529,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 12: PHẦN MỀM LUYỆN TẬP GÕ BÀN PHÍM (Tiết 1)",
+   "title": "Bài 11: CHỈNH SỬA VĂN BẢN (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
    "periodFrom": 23,
@@ -480,9 +539,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "chỉ dùng phần mềm, tư liệu khi được phép; tôn trọng bản quyền. (Bài lựa chọn 12B theo SGK — Tổ CM đối chiếu.)"
+     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản."
     }
    ],
    "note": ""
@@ -492,7 +551,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 12: PHẦN MỀM LUYỆN TẬP GÕ BÀN PHÍM (Tiết 2)",
+   "title": "Bài 12B: PHẦN MỀM LUYỆN TẬP GÕ BÀN PHÍM (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
    "periodFrom": 24,
@@ -500,7 +559,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.2.CB2a: Chọn được các cách sửa đổi, tinh chỉnh, cải thiện và tích hợp các mục đơn giản có nội dung và thông tin mới để tạo ra những nội dung và thông tin mới và độc đáo."
+    }
+   ],
    "note": ""
   },
   {
@@ -508,7 +573,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 13: CHƠI VỚI MÁY TÍNH (Tiết 1)",
+   "title": "Bài 12B: PHẦN MỀM LUYỆN TẬP GÕ BÀN PHÍM (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
    "periodFrom": 25,
@@ -516,7 +581,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.2.CB2a: Chọn được các cách sửa đổi, tinh chỉnh, cải thiện và tích hợp các mục đơn giản có nội dung và thông tin mới để tạo ra những nội dung và thông tin mới và độc đáo."
+    }
+   ],
    "note": ""
   },
   {
@@ -524,7 +595,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 13: CHƠI VỚI MÁY TÍNH (Tiết 2)",
+   "title": "Bài 13: CHƠI VỚI MÁY TÍNH (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -532,15 +603,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "5.2.CB2b: Nhận ra được các công cụ số đơn giản và các giải pháp công nghệ có thể có để giải quyết những nhu cầu đó (giải trí lành mạnh)."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-tin-hoc-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 14: KHÁM PHÁ MÔI TRƯỜNG LẬP TRÌNH TRỰC QUAN (Tiết 1)",
+   "theme": "Chủ đề E: Ứng dụng tin học",
+   "title": "Bài 13: CHƠI VỚI MÁY TÍNH (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -552,7 +629,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "chia nhỏ vấn đề, thử – sửa – thử lại khi chương trình chưa chạy đúng."
+     "text": "5.2.CB2b: Nhận ra được các công cụ số đơn giản và các giải pháp công nghệ có thể có để giải quyết những nhu cầu đó (giải trí lành mạnh)."
     }
    ],
    "note": ""
@@ -562,7 +639,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 14: KHÁM PHÁ MÔI TRƯỜNG LẬP TRÌNH TRỰC QUAN (Tiết 2)",
+   "title": "Bài 14: KHÁM PHÁ MÔI TRƯỜNG LẬP TRÌNH TRỰC QUAN (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -570,7 +647,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -578,7 +661,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 15: TẠO CHƯƠNG TRÌNH MÁY TÍNH ĐỂ DIỄN TẢ Ý TƯỞNG (Tiết 1)",
+   "title": "Bài 14: KHÁM PHÁ MÔI TRƯỜNG LẬP TRÌNH TRỰC QUAN (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
    "periodFrom": 29,
@@ -588,9 +671,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "chia nhỏ vấn đề, thử – sửa – thử lại khi chương trình chưa chạy đúng."
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
     }
    ],
    "note": ""
@@ -600,7 +683,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 15: TẠO CHƯƠNG TRÌNH MÁY TÍNH ĐỂ DIỄN TẢ Ý TƯỞNG (Tiết 2)",
+   "title": "Bài 15: TẠO CHƯƠNG TRÌNH MÁY TÍNH ĐỂ DIỄN TẢ Ý TƯỞNG (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
@@ -608,7 +691,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -616,7 +705,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 16: CHƯƠNG TRÌNH CỦA EM (Tiết 1)",
+   "title": "Bài 15: TẠO CHƯƠNG TRÌNH MÁY TÍNH ĐỂ DIỄN TẢ Ý TƯỞNG (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
    "periodFrom": 31,
@@ -626,9 +715,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "chia nhỏ vấn đề, thử – sửa – thử lại khi chương trình chưa chạy đúng."
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
     }
    ],
    "note": ""
@@ -638,7 +727,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
-   "title": "Bài 16: CHƯƠNG TRÌNH CỦA EM (Tiết 2)",
+   "title": "Bài 16: CHƯƠNG TRÌNH CỦA EM (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
    "periodFrom": 32,
@@ -646,15 +735,26 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-tin-hoc-033",
    "semester": 2,
    "week": 33,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP CUỐI HỌC KÌ II (Tiết 1)",
+   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính",
+   "title": "Bài 16: CHƯƠNG TRÌNH CỦA EM (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
    "periodFrom": 33,
@@ -662,7 +762,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -670,7 +781,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP CUỐI HỌC KÌ II (Tiết 2): Thực hành tổng hợp",
+   "title": "ÔN TẬP CUỐI HỌC KÌ II",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -971,7 +1082,7 @@
   "file": "assets/docs/lop4/Tin hoc - Lop 4.docx",
   "name": "Tin hoc - Lop 4.docx",
   "original": "KHDH Tin học lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 8315,
-  "updated": "2026-09-02"
+  "size": 8672,
+  "updated": "2026-09-04"
  }
 }

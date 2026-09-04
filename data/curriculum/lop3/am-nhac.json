@@ -3,10 +3,10 @@
  "grade": 3,
  "subjectId": "am-nhac",
  "status": "reviewed",
- "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "Lớp 3/KHDH Âm nhạc lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "importedAt": "2026-09-04"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 9
+  "integrations": 10
  },
  "lessons": [
   {
@@ -385,7 +385,13 @@
    "periods": 1,
    "lessonPeriods": null,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "- Kể được tên một số nhạc cụ dân tộc ở Nghệ  An;\n- Mô tả được một số đặc điểm của ít nhất một nhạc cụ dân tộc ở Nghệ An (hình dáng, chất liệu, cách chơi, hoàn cảnh sử dụng);\n- Chơi hoặc chế tác mô phỏng lại được một nhạc cụ dân tộc ở Nghệ An ở mức độ đơn giản"
+    }
+   ],
    "note": ""
   },
   {
@@ -904,7 +910,7 @@
   "file": "assets/docs/lop3/Am nhac - Lop 3.docx",
   "name": "Am nhac - Lop 3.docx",
   "original": "KHDH Âm nhạc lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 7989,
-  "updated": "2026-09-02"
+  "size": 16119,
+  "updated": "2026-09-04"
  }
 }

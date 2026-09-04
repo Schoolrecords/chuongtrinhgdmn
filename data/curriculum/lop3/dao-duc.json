@@ -3,10 +3,10 @@
  "grade": 3,
  "subjectId": "dao-duc",
  "status": "reviewed",
- "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "Lớp 3/KHDH Đạo đức lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "importedAt": "2026-09-04"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 10
+  "integrations": 11
  },
  "lessons": [
   {
@@ -42,7 +42,7 @@
      "text": "Giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng khi nói về Tổ quốc Việt Nam."
     }
    ],
-   "note": "Tổ CM đối chiếu tên bài với mục lục SGK KNTT."
+   "note": "Tổ CM đối chiếu tên bài với mục lục SGK KNTT"
   },
   {
    "id": "l3-dao-duc-002",
@@ -80,7 +80,7 @@
      "text": "Giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng khi nói về Tổ quốc Việt Nam."
     }
    ],
-   "note": "Tổ CM đối chiếu tên bài với mục lục SGK KNTT."
+   "note": "Tổ CM đối chiếu tên bài với mục lục SGK KNTT"
   },
   {
    "id": "l3-dao-duc-004",
@@ -332,7 +332,7 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [],
-   "note": "Bài 6 hoàn thành đầu HKII (tuần 19–20)."
+   "note": "Bài 6 hoàn thành đầu HKII (tuần 19–20)"
   },
   {
    "id": "l3-dao-duc-019",
@@ -555,6 +555,11 @@
      "code": "KNS",
      "level": "",
      "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
+    },
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "HS nêu được các loại đường giao thông, kể tên được các phương tiện giao thông được sử dụng phổ biến."
     }
    ],
    "note": ""
@@ -908,7 +913,7 @@
   "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
   "name": "Dao duc - Lop 3.docx",
   "original": "KHDH Đạo đức lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 8156,
-  "updated": "2026-09-02"
+  "size": 15319,
+  "updated": "2026-09-04"
  }
 }

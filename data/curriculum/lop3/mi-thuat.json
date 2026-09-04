@@ -3,10 +3,10 @@
  "grade": 3,
  "subjectId": "mi-thuat",
  "status": "reviewed",
- "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
+ "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "Lớp 3/KHDH Mĩ thuật lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "importedAt": "2026-09-04"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 36
+  "integrations": 37
  },
  "lessons": [
   {
@@ -46,11 +46,11 @@
    "theme": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC",
    "title": "HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 2 (1 tiết)",
+   "periodLabel": "Tiết 2 (2 tiết)",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
     {
@@ -79,11 +79,11 @@
    "theme": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC",
    "title": "HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 3 (1 tiết)",
+   "periodLabel": "Tiết 3",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -112,11 +112,11 @@
    "theme": "Chủ đề 3: MÀU SẮC EM YÊU",
    "title": "MÀU SẮC EM YÊU (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 4 (1 tiết)",
+   "periodLabel": "Tiết 4 (3 tiết)",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
     {
@@ -134,11 +134,11 @@
    "theme": "Chủ đề 3: MÀU SẮC EM YÊU",
    "title": "MÀU SẮC EM YÊU (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 5 (1 tiết)",
+   "periodLabel": "Tiết 5",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -156,11 +156,11 @@
    "theme": "Chủ đề 3: MÀU SẮC EM YÊU",
    "title": "MÀU SẮC EM YÊU (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 6 (1 tiết)",
+   "periodLabel": "Tiết 6",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -178,11 +178,11 @@
    "theme": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI",
    "title": "VẺ ĐẸP CỦA KHỐI (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 7 (1 tiết)",
+   "periodLabel": "Tiết 7 (3 tiết)",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
     {
@@ -200,11 +200,11 @@
    "theme": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI",
    "title": "VẺ ĐẸP CỦA KHỐI (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 8 (1 tiết)",
+   "periodLabel": "Tiết 8",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -222,11 +222,11 @@
    "theme": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI",
    "title": "VẺ ĐẸP CỦA KHỐI (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 9 (1 tiết)",
+   "periodLabel": "Tiết 9",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -244,11 +244,11 @@
    "theme": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT",
    "title": "MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 10 (1 tiết)",
+   "periodLabel": "Tiết 10 (3 tiết)",
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
     {
@@ -266,11 +266,11 @@
    "theme": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT",
    "title": "MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 11 (1 tiết)",
+   "periodLabel": "Tiết 11",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -288,11 +288,11 @@
    "theme": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT",
    "title": "MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 12 (1 tiết)",
+   "periodLabel": "Tiết 12",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -310,11 +310,11 @@
    "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
    "title": "BIẾT ƠN THẦY CÔ (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 13 (1 tiết)",
+   "periodLabel": "Tiết 13 (4 tiết)",
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
     {
@@ -337,11 +337,11 @@
    "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
    "title": "BIẾT ƠN THẦY CÔ (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 14 (1 tiết)",
+   "periodLabel": "Tiết 14",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -364,11 +364,11 @@
    "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
    "title": "BIẾT ƠN THẦY CÔ (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 15 (1 tiết)",
+   "periodLabel": "Tiết 15",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -391,11 +391,11 @@
    "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
    "title": "BIẾT ƠN THẦY CÔ (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 16 (1 tiết)",
+   "periodLabel": "Tiết 16",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -425,7 +425,7 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
-   "note": "Tổ CM cân nhắc chuyển tiết đánh giá cuối HKI sang tuần 18."
+   "note": "Tổ CM cân nhắc chuyển tiết đánh giá cuối HKI sang tuần 18"
   },
   {
    "id": "l3-mi-thuat-018",
@@ -434,11 +434,11 @@
    "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
    "title": "CẢNH VẬT QUANH EM (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodLabel": "Tiết 18 (4 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
     {
@@ -456,11 +456,11 @@
    "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
    "title": "CẢNH VẬT QUANH EM (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 19 (1 tiết)",
+   "periodLabel": "Tiết 19",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -478,11 +478,11 @@
    "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
    "title": "CẢNH VẬT QUANH EM (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 20 (1 tiết)",
+   "periodLabel": "Tiết 20",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -500,11 +500,11 @@
    "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
    "title": "CẢNH VẬT QUANH EM (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 21 (1 tiết)",
+   "periodLabel": "Tiết 21",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -522,11 +522,11 @@
    "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
    "title": "CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 22 (1 tiết)",
+   "periodLabel": "Tiết 22 (4 tiết)",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
     {
@@ -549,11 +549,11 @@
    "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
    "title": "CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 23 (1 tiết)",
+   "periodLabel": "Tiết 23",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -576,11 +576,11 @@
    "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
    "title": "CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 24 (1 tiết)",
+   "periodLabel": "Tiết 24",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -603,11 +603,11 @@
    "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
    "title": "CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 25 (1 tiết)",
+   "periodLabel": "Tiết 25",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [
     {
@@ -630,11 +630,11 @@
    "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
    "title": "SINH HOẠT TRONG GIA ĐÌNH (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 26 (1 tiết)",
+   "periodLabel": "Tiết 26 (4 tiết)",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -646,11 +646,11 @@
    "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
    "title": "SINH HOẠT TRONG GIA ĐÌNH (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 27 (1 tiết)",
+   "periodLabel": "Tiết 27",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -662,11 +662,11 @@
    "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
    "title": "SINH HOẠT TRONG GIA ĐÌNH (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 28 (1 tiết)",
+   "periodLabel": "Tiết 28",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -678,11 +678,11 @@
    "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
    "title": "SINH HOẠT TRONG GIA ĐÌNH (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 29 (1 tiết)",
+   "periodLabel": "Tiết 29",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -694,11 +694,11 @@
    "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
    "title": "AN TOÀN GIAO THÔNG (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 30 (1 tiết)",
+   "periodLabel": "Tiết 30 (4 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -710,11 +710,11 @@
    "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
    "title": "AN TOÀN GIAO THÔNG (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 31 (1 tiết)",
+   "periodLabel": "Tiết 31",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -726,11 +726,11 @@
    "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
    "title": "AN TOÀN GIAO THÔNG (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 32 (1 tiết)",
+   "periodLabel": "Tiết 32",
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -742,11 +742,11 @@
    "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
    "title": "AN TOÀN GIAO THÔNG (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 33 (1 tiết)",
+   "periodLabel": "Tiết 33",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": null,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -781,6 +781,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Triển lãm sản phẩm STEM cuối học kì 2"
+    },
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
@@ -1068,7 +1073,7 @@
   "file": "assets/docs/lop3/Mi thuat - Lop 3.docx",
   "name": "Mi thuat - Lop 3.docx",
   "original": "KHDH Mĩ thuật lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 8095,
-  "updated": "2026-09-02"
+  "size": 16892,
+  "updated": "2026-09-04"
  }
 }
