@@ -277,6 +277,11 @@ mark { background: var(--gold-100); color: inherit; padding: 0 2px; border-radiu
 .footer-brand span { font-size: var(--fs-xs); color: var(--ink-500); }
 .footer-tagline { color: var(--teal-700); font-weight: 700; font-size: var(--fs-sm); }
 .footer-note { margin-top: 10px; font-size: var(--fs-xs); color: var(--ink-500); max-width: 60ch; }
+.footer-link { margin-top: 12px; font-size: var(--fs-sm); }
+.footer-link a { display: inline-flex; align-items: center; gap: 6px; color: var(--accent-700); font-weight: 700; }
+.footer-link a:hover { color: var(--teal-700); }
+.footer-link .link-url { font-weight: 400; color: var(--ink-500); }
+.footer-link .icon { width: 15px; height: 15px; }
 .footer-col h4 { font-size: var(--fs-xs); text-transform: uppercase; letter-spacing: .08em; color: var(--ink-500); margin-bottom: 8px; }
 .footer-col li { font-size: var(--fs-xs); color: var(--ink-600); padding: 3px 0; }
 .footer-bottom { border-top: 1px solid var(--line); }
