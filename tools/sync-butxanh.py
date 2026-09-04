@@ -185,14 +185,17 @@ def main():
         goc = {norm(r[6]): r[7] for r in cu if len(r) > 7 and r[7]}
 
         def cot7(lesson, t, sid=sid, goc=goc):
+            # Mỗi nội dung một dòng: app dựng bảng Word cũng nối bằng "\n", và bộ lọc STEM
+            # của app (BX_khgdCot7Goc) cắt đến hết dòng — ghép bằng " — " sẽ mất cả các
+            # nội dung đứng sau khi thầy cô tắt công tắc STEM.
             if sid in NGUYEN_VAN:
-                return " — ".join(intg_lines(lesson))
+                return "\n".join(intg_lines(lesson))
             parts = [goc.get(t, "")] if goc.get(t) else []
             co = norm(" ".join(parts)).lower()
             for them in bosung.get((args.lop, sid, t), []):
                 if norm(them)[:40].lower() not in co:
                     parts.append(them)
-            return " — ".join(p for p in parts if p)
+            return "\n".join(p for p in parts if p)
 
         ten_cu = {norm(r[6]): r[4] for r in cu if len(r) > 6 and r[4]}
         moi = rows_of(data, cot7, ten_cu)
