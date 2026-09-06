@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH HĐTN lớp 1 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 28
+  "integrations": 24
  },
  "lessons": [
   {
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Sau chào cờ, GV chiếu vài ảnh và đoạn clip ngắn về buổi lễ khai giảng vừa diễn ra của trường theo chủ điểm “LỄ KHAI GIẢNG”: cảnh"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
+     "text": "Ở phần cam kết, GV chiếu bảng biểu tượng cảm xúc (vui, hồi hộp, tự hào) lên tivi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh, clip của lớp chỉ gửi trong nhóm phụ huynh đã thống nhất"
     }
    ],
    "note": ""
@@ -54,9 +64,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh bài “Làm quen với bạn mới”, mở ghi âm lời chào, giới thiệu, hỏi thăm ứng với từng tranh; HS nhắc lại sau mỗi lời"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
+     "text": "GV quay bằng điện thoại một, hai cặp HS sắm vai làm quen, mở lại trên tivi; cả lớp nghe lời chào, xem nét mặt rồi góp ý"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đoạn quay chỉ xem lại rồi xoá ngay; hỏi ý HS trước khi quay."
     }
    ],
    "note": ""
@@ -74,7 +94,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần sơ kết tuần của tiết “SINH HOẠT LỚP: SƠ KẾT TUẦN 1 - PHƯƠNG HƯỚNG TUẦN 2”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Đánh giá, GV chiếu ba biểu tượng mặt cười ứng với ba mức Tốt - Đạt - Cần cố gắng cho nội dung Làm quen"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chụp hoạt động lớp chỉ dùng trong tiết sinh hoạt"
+    }
+   ],
    "note": ""
   },
   {
@@ -92,9 +128,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bản nội quy nhà trường có hình minh hoạ lên tivi theo chủ điểm “TÌM HIỂU NỘI QUY NHÀ TRƯỜNG”, chỉ từng điều và đọc to"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần cam kết, GV chiếu bài tập tương tác gồm các hình HS đi học đúng giờ, xả rác, xếp hàng, chạy nhảy trên cầu thang"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
+     "text": "HS chỉ xem thông tin trường trên mạng khi có cha mẹ ngồi cùng"
     }
    ],
    "note": ""
@@ -112,7 +158,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh bài “Những việc nên làm trong giờ học, giờ chơi” kèm ghi âm bài thơ; HS nghe, chỉ tranh bạn giơ tay, ngồi ngay ngắn"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chụp ảnh việc tốt HS làm trong lớp bằng điện thoại, chiếu lên tivi; HS nhận ra việc mình, nói “Em đã làm…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chỉ xem trong lớp rồi xoá; hỏi ý HS trước khi chụp."
+    }
+   ],
    "note": ""
   },
   {
@@ -128,7 +190,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần sinh hoạt theo chủ đề của tiết “SINH HOẠT SAO: SƠ KẾT TUẦN 2 - PHƯƠNG HƯỚNG TUẦN 3”, GV chiếu ảnh chụp giờ học"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần khởi động và đánh giá, GV mở nhạc bài hát Em yêu trường em trên máy để cả lớp hát, vận động"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh giờ học, giờ chơi chỉ chiếu trong lớp, không đăng lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -176,13 +254,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -262,13 +334,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -316,13 +382,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tích hợp GD quốc phòng an ninh"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -450,20 +510,8 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-026",
@@ -516,13 +564,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -538,25 +580,8 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tích hợp GD quốc phòng an ninh"
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-030",
@@ -705,13 +730,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -743,13 +762,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -813,13 +826,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -904,11 +911,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
     }
    ],
    "note": ""
@@ -926,13 +928,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1209,11 +1205,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -1333,13 +1324,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1435,25 +1420,8 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tích hợp GD quốc phòng an ninh"
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-081",
@@ -1484,13 +1452,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1530,7 +1492,7 @@
    "semester": 2,
    "week": 29,
    "theme": "CHỦ ĐỀ 8: QUÊ HƯƠNG TƯƠI ĐẸP",
-   "title": "Sinh hoạt dưới cờ: Chăm sóc vườn cây nhà trường",
+   "title": "Sinh hoạt dướ cờ: Chăm sóc vườn cây nhà trường",
    "content": "",
    "periodLabel": "Tiết 85 (1 tiết)",
    "periodFrom": 85,
@@ -1554,25 +1516,8 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tích hợp GD quốc phòng an ninh"
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l1-hoat-dong-trai-nghiem-087",
@@ -2157,8 +2102,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.docx",
   "name": "Hoat dong trai nghiem - Lop 1.docx",
-  "original": "KHDH HĐTN lớp 1 (2026-2027) (đã rà soát).docx",
-  "size": 13542,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45317,
+  "updated": "2026-09-07"
  }
 }

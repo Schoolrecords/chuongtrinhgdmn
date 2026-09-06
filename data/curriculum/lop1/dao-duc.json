@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH Đạo đức lớp 1 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 31
+  "integrations": 17
  },
  "lessons": [
   {
@@ -32,14 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "rửa tay sạch trước khi chạm vào máy tính, ti vi của lớp; giữ gìn thiết bị chung."
+     "text": "GV chiếu hình phóng to bàn tay bẩn và bàn tay sạch sau khi rửa xà phòng; HS nói vì sao cần giữ sạch tay"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở video các bước rửa tay trên tivi, dừng từng bước cho HS làm động tác rửa tay khô; HS giơ thẻ mặt cười"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
+     "text": "Ảnh, video do GV chọn trước; HS không tự tìm video vi khuẩn."
     }
    ],
    "note": ""
@@ -59,9 +64,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hình phóng to hàm răng sạch, răng sâu, bạn nhỏ cười tươi; HS nêu lợi ích giữ răng sạch"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở video chải răng đúng cách trên tivi, dừng từng bước; HS chải răng khô theo mô hình, chọn lời khuyên cho bạn"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
+     "text": "HS chỉ xem hình GV chọn sẵn, không tự tra hình bệnh trên mạng."
     }
    ],
    "note": ""
@@ -95,13 +110,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -117,18 +126,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tích hợp GD quốc phòng an ninh"
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục tinh thần đoàn kết, yêu hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -149,11 +147,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "ảnh và chuyện riêng của gia đình chỉ chia sẻ khi người lớn đồng ý."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục tinh thần đoàn kết, yêu hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
     }
    ],
    "note": ""
@@ -193,7 +186,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "ảnh và chuyện riêng của gia đình chỉ chia sẻ khi người lớn đồng ý."
+    }
+   ],
    "note": ""
   },
   {
@@ -209,7 +208,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "ảnh và chuyện riêng của gia đình chỉ chia sẻ khi người lớn đồng ý."
+    }
+   ],
    "note": ""
   },
   {
@@ -230,11 +235,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "trẻ em có quyền được bảo vệ trên môi trường số; biết lên tiếng nhờ người lớn khi thấy bạn bị trêu chọc trên mạng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục tinh thần đoàn kết, yêu hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
     }
    ],
    "note": ""
@@ -268,18 +268,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -360,7 +349,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "rửa tay sạch trước khi chạm vào máy tính, ti vi của lớp; giữ gìn thiết bị chung."
+    }
+   ],
    "note": ""
   },
   {
@@ -381,28 +376,23 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "rửa tay sạch trước khi chạm vào máy tính, ti vi của lớp; giữ gìn thiết bị chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
     }
    ],
-   "note": "Điều chỉnh thứ tự: Bài 15 dạy tuần 17 để tiết thực hành cuối HKI nằm trong tuần 18"
+   "note": ""
   },
   {
    "id": "l1-dao-duc-018",
    "semester": 1,
    "week": 18,
    "theme": "CĐ 5: SINH HOẠT NỀN NẾP",
-   "title": "Thực hành kĩ năng cuối kì I",
+   "title": "Thực hành kĩ năng cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Điều chỉnh: chuyển tiết thực hành cuối học kì I về tuần 18, Bài 15 dạy tuần 17 (đổi chỗ hai tiết)",
    "integrations": [],
    "note": ""
   },
@@ -419,13 +409,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -441,13 +425,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -463,18 +441,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tích hợp GD quốc phòng an ninh"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -490,18 +457,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tích hợp GD quốc phòng an ninh"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -517,18 +473,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tích hợp GD quốc phòng an ninh"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: dám nhận lỗi và sửa lỗi; chịu trách nhiệm về việc mình làm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -581,11 +526,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: dám nhận lỗi và sửa lỗi; chịu trách nhiệm về việc mình làm."
     }
    ],
    "note": ""
@@ -619,18 +559,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tích hợp GD quốc phòng an ninh"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -726,13 +655,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1024,8 +947,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Dao duc - Lop 1.docx",
   "name": "Dao duc - Lop 1.docx",
-  "original": "KHDH Đạo đức lớp 1 (2026-2027) (đã rà soát).docx",
-  "size": 8967,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 42707,
+  "updated": "2026-09-07"
  }
 }

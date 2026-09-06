@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH Toán lớp 1 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 20
+  "integrations": 51
  },
  "lessons": [
   {
@@ -30,7 +30,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh bài “Tiết học đầu tiên”: nhân vật đồng hành, que tính, thẻ số; HS gọi tên Rô-bốt, nói đồ dùng giúp gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác hiện ảnh một đồ dùng, HS giơ đúng đồ dùng của mình, GV bấm hiện tên; chờ lượt, không tranh bấm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu, máy tính do GV điều khiển; HS không chạm máy."
+    }
+   ],
    "note": ""
   },
   {
@@ -46,7 +62,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng trang trình chiếu đếm động bài “Các số 0, 1, 2, 3, 4, 5”: cá, khối lập phương hiện từng cái kèm số"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác hiện nhóm cá, chấm tròn; HS giơ thẻ số 0 đến 5, một HS lên chọn số, máy báo đúng sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi do GV bấm; HS chờ lượt, không tranh chạm máy."
+    }
+   ],
    "note": ""
   },
   {
@@ -60,9 +92,25 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở Bài 1, Bài 3 của tiết “CÁC SỐ 0, 1, 2, 3, 4, 5 - TIẾT 2: LUYỆN TẬP”"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở Bài 2, GV mở bài tập tương tác dãy số giảm dần từ 5 đến 0 còn thiếu vài ô"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS ngồi cách màn hình đủ xa, không nhìn quá lâu"
+    }
+   ],
    "note": ""
   },
   {
@@ -76,9 +124,25 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở Bài 1 và Bài 4 của tiết “CÁC SỐ 0, 1, 2, 3, 4, 5 - TIẾT 3 (LUYỆN TẬP)”, GV chiếu tranh SGK phóng to"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở Bài 3, GV chiếu hình động hai đoàn tàu chạy qua màn hình với các toa còn thiếu số; HS chỉ ra toa nào thiếu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ quan sát và nói, không tự ý chạm vào máy chiếu, máy tính; ngồi thẳng lưng"
+    }
+   ],
    "note": ""
   },
   {
@@ -94,7 +158,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng trang trình chiếu đếm động bài “Các số 6, 7, 8, 9, 10”: ong, chim, hoa hiện từng con kèm số; HS đếm to, đọc số"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác đếm bánh; HS đếm rồi giơ thẻ số 6 đến 10, GV thêm từng bánh, máy báo đúng sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi do GV bấm; HS chờ lượt, không tranh chạm máy."
+    }
+   ],
    "note": ""
   },
   {
@@ -108,9 +188,25 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở Bài 1 và Bài 3 của tiết “CÁC SỐ 6, 7, 8, 9, 10 - TIẾT 2: LUYỆN TẬP”"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở Bài 2, GV mở bài tập tương tác dãy số từ 0 đến 10 tăng dần và giảm dần còn trống một số ô"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS không nhìn tivi quá lâu, GV tắt hình khi chuyển sang làm vở"
+    }
+   ],
    "note": ""
   },
   {
@@ -124,7 +220,7 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -142,13 +238,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -162,7 +252,7 @@
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -188,15 +278,21 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 1: CÁC SỐ TỪ 0 ĐẾN 10",
-   "title": "Bài 4: So sánh số (Tiết 2)",
+   "title": "Bài 4: So sánh số (Tiết 2) – Bài học STEM: Dụng cụ so sánh số (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 11",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Dụng cụ so sánh số\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: dụng cụ so sánh số."
+    }
+   ],
    "note": ""
   },
   {
@@ -204,15 +300,21 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 1: CÁC SỐ TỪ 0 ĐẾN 10",
-   "title": "Bài 4: So sánh số (Tiết 3)",
+   "title": "Bài 4: So sánh số (Tiết 3) – Bài học STEM: Dụng cụ so sánh số (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 12",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Dụng cụ so sánh số\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: dụng cụ so sánh số."
+    }
+   ],
    "note": ""
   },
   {
@@ -226,7 +328,7 @@
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -258,7 +360,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -274,7 +376,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -312,7 +414,7 @@
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -322,15 +424,21 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 1: CÁC SỐ TỪ 0 ĐẾN 10",
-   "title": "Bài 6: Luyện tập chung (Tiết 3)",
+   "title": "Bài 6: Luyện tập chung (Tiết 3) – Bài học STEM: Thực hành cùng thẻ học Toán (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 19",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Thực hành cùng thẻ học Toán\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: thẻ học toán."
+    }
+   ],
    "note": ""
   },
   {
@@ -338,15 +446,21 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 1: CÁC SỐ TỪ 0 ĐẾN 10",
-   "title": "Bài 6: Luyện tập chung (Tiết 4)",
+   "title": "Bài 6: Luyện tập chung (Tiết 4) – Bài học STEM: Thực hành cùng thẻ học Toán (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 20",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Thực hành cùng thẻ học Toán\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: thẻ học toán."
+    }
+   ],
    "note": ""
   },
   {
@@ -366,7 +480,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học dưới sự hướng dẫn của GV."
+     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài dưới sự hướng dẫn của GV."
     }
    ],
    "note": ""
@@ -382,7 +496,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -392,7 +506,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 2: LÀM QUEN VỚI MỘT SỐ HÌNH PHẲNG",
-   "title": "Bài 8: Thực hành lắp ghép, xếp hình (Tiết 1)",
+   "title": "Bài 8: Thực hành lắp ghép, xếp hình (Tiết 1) – Bài học STEM: Thực hành trang trí lớp học bằng các hình hình học (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 23 (2 tiết)",
    "periodFrom": 23,
@@ -402,9 +516,14 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Thực hành trang trí lớp học bằng các hình hình học\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: lớp học bằng các hình hình học."
+    },
+    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học dưới sự hướng dẫn của GV."
+     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài dưới sự hướng dẫn của GV."
     }
    ],
    "note": ""
@@ -414,15 +533,21 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 2: LÀM QUEN VỚI MỘT SỐ HÌNH PHẲNG",
-   "title": "Bài 8: Thực hành lắp ghép, xếp hình (Tiết 2)",
+   "title": "Bài 8: Thực hành lắp ghép, xếp hình (Tiết 2) – Bài học STEM: Thực hành trang trí lớp học bằng các hình hình học (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 24",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Thực hành trang trí lớp học bằng các hình hình học\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: lớp học bằng các hình hình học."
+    }
+   ],
    "note": ""
   },
   {
@@ -438,7 +563,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+    }
+   ],
    "note": ""
   },
   {
@@ -468,7 +599,7 @@
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -484,7 +615,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -500,7 +631,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -516,7 +647,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -532,7 +663,7 @@
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -564,7 +695,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -580,7 +711,7 @@
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -596,7 +727,7 @@
    "periodFrom": 35,
    "periodTo": 35,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -612,7 +743,7 @@
    "periodFrom": 36,
    "periodTo": 36,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -628,7 +759,7 @@
    "periodFrom": 37,
    "periodTo": 37,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -646,13 +777,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -666,7 +791,7 @@
    "periodFrom": 39,
    "periodTo": 39,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -676,15 +801,21 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 3: PHÉP CỘNG, PHÉP TRỪ TRONG PHẠM VI 10",
-   "title": "Bài 12: Bảng cộng, bảng trừ trong phạm vi 10 (Tiết 3)",
+   "title": "Bài 12: Bảng cộng, bảng trừ trong phạm vi 10 (Tiết 3) – Bài học STEM: Dụng cụ tính cộng, tính trừ (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 40",
    "periodFrom": 40,
    "periodTo": 40,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Dụng cụ tính cộng, tính trừ\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: dụng cụ tính cộng, tính trừ."
+    }
+   ],
    "note": ""
   },
   {
@@ -692,7 +823,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 3: PHÉP CỘNG, PHÉP TRỪ TRONG PHẠM VI 10",
-   "title": "Bài 13: Luyện tập chung (Tiết 1)",
+   "title": "Bài 13: Luyện tập chung (Tiết 1) – Bài học STEM: Dụng cụ tính cộng, tính trừ (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 41 (3 tiết)",
    "periodFrom": 41,
@@ -700,7 +831,18 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Dụng cụ tính cộng, tính trừ\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: dụng cụ tính cộng, tính trừ."
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+    }
+   ],
    "note": ""
   },
   {
@@ -708,15 +850,21 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 3: PHÉP CỘNG, PHÉP TRỪ TRONG PHẠM VI 10",
-   "title": "Bài 13: Luyện tập chung (Tiết 2)",
+   "title": "Bài 13: Luyện tập chung (Tiết 2) – Bài học STEM: Thực hành tính nhẩm (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 42",
    "periodFrom": 42,
    "periodTo": 42,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Thực hành tính nhẩm\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: tính nhẩm."
+    }
+   ],
    "note": ""
   },
   {
@@ -724,15 +872,21 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 3: PHÉP CỘNG, PHÉP TRỪ TRONG PHẠM VI 10",
-   "title": "Bài 13: Luyện tập chung (Tiết 3)",
+   "title": "Bài 13: Luyện tập chung (Tiết 3) – Bài học STEM: Thực hành tính nhẩm (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 43",
    "periodFrom": 43,
    "periodTo": 43,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Thực hành tính nhẩm\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: tính nhẩm."
+    }
+   ],
    "note": ""
   },
   {
@@ -752,7 +906,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học dưới sự hướng dẫn của GV."
+     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài dưới sự hướng dẫn của GV."
     }
    ],
    "note": ""
@@ -768,7 +922,7 @@
    "periodFrom": 45,
    "periodTo": 45,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -800,7 +954,7 @@
    "periodFrom": 47,
    "periodTo": 47,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -818,7 +972,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+    }
+   ],
    "note": ""
   },
   {
@@ -834,13 +994,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -854,7 +1008,7 @@
    "periodFrom": 50,
    "periodTo": 50,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -886,7 +1040,7 @@
    "periodFrom": 52,
    "periodTo": 52,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -950,7 +1104,7 @@
    "periodFrom": 56,
    "periodTo": 56,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -966,7 +1120,7 @@
    "periodFrom": 57,
    "periodTo": 57,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -982,7 +1136,7 @@
    "periodFrom": 58,
    "periodTo": 58,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -998,7 +1152,7 @@
    "periodFrom": 59,
    "periodTo": 59,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1014,7 +1168,7 @@
    "periodFrom": 60,
    "periodTo": 60,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1046,7 +1200,7 @@
    "periodFrom": 62,
    "periodTo": 62,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1062,7 +1216,7 @@
    "periodFrom": 63,
    "periodTo": 63,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1072,7 +1226,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 6: CÁC SỐ ĐẾN 100",
-   "title": "Bài 23: Bảng các số từ 1 đến 100",
+   "title": "Bài 23: Bảng các số từ 1 đến 100 – Bài học STEM: Bảng các số từ 1 đến 100 (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 64 (1 tiết)",
    "periodFrom": 64,
@@ -1082,9 +1236,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "STEM",
      "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+     "text": "Bài học STEM \"Bảng các số từ 1 đến 100\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: bảng các số từ 1 đến 100."
     }
    ],
    "note": ""
@@ -1094,7 +1248,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 6: CÁC SỐ ĐẾN 100",
-   "title": "Bài 24: Luyện tập chung (Tiết 1)",
+   "title": "Bài 24: Luyện tập chung (Tiết 1) – Bài học STEM: Bảng các số từ 1 đến 100 (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 65 (2 tiết)",
    "periodFrom": 65,
@@ -1103,6 +1257,11 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Bảng các số từ 1 đến 100\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: bảng các số từ 1 đến 100."
+    },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
@@ -1122,7 +1281,7 @@
    "periodFrom": 66,
    "periodTo": 66,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1160,7 +1319,7 @@
    "periodFrom": 68,
    "periodTo": 68,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1198,7 +1357,7 @@
    "periodFrom": 70,
    "periodTo": 70,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1236,7 +1395,7 @@
    "periodFrom": 72,
    "periodTo": 72,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1254,7 +1413,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+    }
+   ],
    "note": ""
   },
   {
@@ -1268,7 +1433,7 @@
    "periodFrom": 74,
    "periodTo": 74,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1300,7 +1465,7 @@
    "periodFrom": 76,
    "periodTo": 76,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1332,7 +1497,7 @@
    "periodFrom": 78,
    "periodTo": 78,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1364,7 +1529,7 @@
    "periodFrom": 80,
    "periodTo": 80,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1380,7 +1545,7 @@
    "periodFrom": 81,
    "periodTo": 81,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1412,7 +1577,7 @@
    "periodFrom": 83,
    "periodTo": 83,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1428,7 +1593,7 @@
    "periodFrom": 84,
    "periodTo": 84,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1438,7 +1603,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 8: PHÉP CỘNG, PHÉP TRỪ (KHÔNG NHỚ) TRONG PHẠM VI 100",
-   "title": "Bài 33: Luyện tập chung (Tiết 1)",
+   "title": "Bài 33: Luyện tập chung (Tiết 1) – Bài học STEM: Mô hình tính hàng dọc (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 85 (4 tiết)",
    "periodFrom": 85,
@@ -1446,7 +1611,18 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Mô hình tính hàng dọc\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: mô hình tính hàng dọc."
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+    }
+   ],
    "note": ""
   },
   {
@@ -1454,15 +1630,21 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 8: PHÉP CỘNG, PHÉP TRỪ (KHÔNG NHỚ) TRONG PHẠM VI 100",
-   "title": "Bài 33: Luyện tập chung (Tiết 2)",
+   "title": "Bài 33: Luyện tập chung (Tiết 2) – Bài học STEM: Mô hình tính hàng dọc (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 86",
    "periodFrom": 86,
    "periodTo": 86,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Mô hình tính hàng dọc\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: mô hình tính hàng dọc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1476,7 +1658,7 @@
    "periodFrom": 87,
    "periodTo": 87,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1492,7 +1674,7 @@
    "periodFrom": 88,
    "periodTo": 88,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1502,7 +1684,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 9: THỜI GIAN. GIỜ VÀ LỊCH",
-   "title": "Bài 34: Xem giờ đúng trên đồng hồ (Tiết 1)",
+   "title": "Bài 34: Xem giờ đúng trên đồng hồ (Tiết 1) – Bài học STEM: Đồng hồ tiện ích (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 89 (2 tiết)",
    "periodFrom": 89,
@@ -1512,14 +1694,14 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Đồng hồ tiện ích\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: đồng hồ tiện ích."
+    },
+    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "Quan sát đồng hồ/lịch (vật thật hoặc hình ảnh số) để khai thác thông tin thời gian (GV hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1529,15 +1711,21 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 9: THỜI GIAN. GIỜ VÀ LỊCH",
-   "title": "Bài 34: Xem giờ đúng trên đồng hồ (Tiết 2)",
+   "title": "Bài 34: Xem giờ đúng trên đồng hồ (Tiết 2) – Bài học STEM: Đồng hồ tiện ích (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 90",
    "periodFrom": 90,
    "periodTo": 90,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM \"Đồng hồ tiện ích\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: đồng hồ tiện ích."
+    }
+   ],
    "note": ""
   },
   {
@@ -1558,11 +1746,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "Quan sát đồng hồ/lịch (vật thật hoặc hình ảnh số) để khai thác thông tin thời gian (GV hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1578,7 +1761,7 @@
    "periodFrom": 92,
    "periodTo": 92,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1601,11 +1784,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "Quan sát đồng hồ/lịch (vật thật hoặc hình ảnh số) để khai thác thông tin thời gian (GV hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1621,7 +1799,7 @@
    "periodFrom": 94,
    "periodTo": 94,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1641,9 +1819,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
     }
    ],
    "note": ""
@@ -1659,7 +1837,7 @@
    "periodFrom": 96,
    "periodTo": 96,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1677,13 +1855,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Hệ thống hoá kiến thức qua trò chơi/sơ đồ; có thể dùng phần mềm luyện tập đơn giản (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1697,7 +1869,7 @@
    "periodFrom": 98,
    "periodTo": 98,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1713,7 +1885,7 @@
    "periodFrom": 99,
    "periodTo": 99,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1745,7 +1917,7 @@
    "periodFrom": 101,
    "periodTo": 101,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1761,7 +1933,7 @@
    "periodFrom": 102,
    "periodTo": 102,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1793,7 +1965,7 @@
    "periodFrom": 104,
    "periodTo": 104,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2087,8 +2259,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Toan - Lop 1.docx",
   "name": "Toan - Lop 1.docx",
-  "original": "KHDH Toán lớp 1 (2026-2027) (đã rà soát).docx",
-  "size": 12490,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45132,
+  "updated": "2026-09-07"
  }
 }

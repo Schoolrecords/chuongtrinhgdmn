@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH Âm nhạc lớp 1 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 43
+  "integrations": 105
  },
  "lessons": [
   {
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản hát mẫu “Vào rừng hoa” từ học liệu số, chiếu tên bài, tác giả Việt Anh; HS nghe từng câu rồi hát nối tiếp"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm cả lớp hát kết hợp vỗ tay theo phách, mở lại qua loa; HS chỉ chỗ hát chưa rõ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu lấy từ học liệu bộ sách; nêu tên tác giả."
     }
    ],
    "note": ""
@@ -44,7 +54,7 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ đề 1: Âm thanh kì diệu",
-   "title": "Chủ đề 1: Âm thanh kì diệu — Ôn bài hát Vào rừng hoa; Đọc nhạc: Đô — Rê — Mi",
+   "title": "Chủ đề 1: Âm thanh kì diệu — Ôn bài hát Vào rừng hoa; Thường thức âm nhạc: Câu chuyện \"Âm thanh kì diệu\"",
    "content": "",
    "periodLabel": "Tiết 2 (1 tiết)",
    "periodFrom": 2,
@@ -54,9 +64,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV mở các đoạn âm thanh tự nhiên và nhạc cụ từ học liệu số; HS nghe, nói tên âm thanh, chỉ tranh tương ứng"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm \"cơn mưa rừng\" của lớp, mở lại qua loa; HS nhận xét to – nhỏ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Âm thanh lấy từ học liệu có nguồn; mở loa vừa đủ nghe."
     }
    ],
    "note": ""
@@ -66,7 +86,7 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề 1: Âm thanh kì diệu",
-   "title": "Chủ đề 1: Âm thanh kì diệu — Thường thức âm nhạc: Âm thanh tự nhiên và âm thanh của nhạc cụ (sáo trúc)",
+   "title": "Chủ đề 1: Âm thanh kì diệu — Ôn bài hát Vào rừng hoa; Đọc nhạc: Bậc thang Đô – Rê – Mi",
    "content": "",
    "periodLabel": "Tiết 3 (1 tiết)",
    "periodFrom": 3,
@@ -78,7 +98,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV chiếu bậc thang Đô – Rê – Mi, ô nốt sáng lên khi đàn; HS nhìn – nghe, nói tên nốt, nốt cao – thấp"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay đoạn lớp đọc nhạc kèm kí hiệu tay, mở lại để HS tự sửa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu từ bộ sách; đoạn quay chỉ dùng tại lớp, không đăng mạng."
     }
    ],
    "note": ""
@@ -88,7 +118,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 1: Âm thanh kì diệu",
-   "title": "Chủ đề 1: Âm thanh kì diệu — Vận dụng — Sáng tạo: To — nhỏ, dài — ngắn; Ôn tập chủ đề 1",
+   "title": "Chủ đề 1: Âm thanh kì diệu — Vận dụng – Sáng tạo: To – Nhỏ",
    "content": "",
    "periodLabel": "Tiết 4 (1 tiết)",
    "periodFrom": 4,
@@ -100,12 +130,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+     "text": "GV ghi âm lớp đọc Đô – Rê – Mi to – nhỏ, mở lại qua loa; HS nói đoạn nào to, nhỏ và làm lại"
     },
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở đoạn nhạc có chỗ to – nhỏ kèm hình loa; HS giơ tay cao – thấp theo nhạc"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+     "text": "Âm lượng loa vừa phải; bản thu chỉ dùng tại lớp."
     }
    ],
    "note": ""
@@ -115,7 +150,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề 2: Việt Nam yêu thương",
-   "title": "Chủ đề 2: Việt Nam yêu thương — Học hát: Lá cờ Việt Nam (Lý Trọng — Đỗ Mạnh Thường)",
+   "title": "Chủ đề 2: Việt Nam yêu thương — Học hát: Tổ quốc ta (Mộng Lân)",
    "content": "",
    "periodLabel": "Tiết 5 (1 tiết)",
    "periodFrom": 5,
@@ -125,14 +160,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản hát mẫu “Tổ quốc ta” từ học liệu số, chiếu tên bài, tác giả Mộng Lân; HS nghe từng câu rồi hát nối tiếp"
     },
     {
-     "code": "QPAN",
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm cả lớp hát kết hợp gõ phách, mở lại qua loa; HS chỉ chỗ hát chưa rõ"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
+     "text": "Bản thu lấy từ học liệu bộ sách; nêu tên tác giả."
     }
    ],
    "note": ""
@@ -142,7 +182,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề 2: Việt Nam yêu thương",
-   "title": "Chủ đề 2: Việt Nam yêu thương — Ôn bài hát Lá cờ Việt Nam; Nghe nhạc: Quốc ca Việt Nam (Văn Cao)",
+   "title": "Chủ đề 2: Việt Nam yêu thương — Ôn bài hát Tổ quốc ta; Nhạc cụ: Trống con",
    "content": "",
    "periodLabel": "Tiết 6 (1 tiết)",
    "periodFrom": 6,
@@ -154,12 +194,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV mở phim ngắn về đội trống thiếu nhi và phát tiếng trống mẫu theo tiết tấu đen – đen – trắng; HS nói cách cầm dùi, gõ theo"
     },
     {
-     "code": "QPAN",
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm nhóm gõ trống, mở lại; HS nhận xét tiếng gõ đều chưa"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Cho HS nghe/hát bài hát về chú bộ đội, về Đội; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+     "text": "Phim từ học liệu bộ sách, GV xem trước; loa vừa đủ nghe."
     }
    ],
    "note": ""
@@ -169,7 +214,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 2: Việt Nam yêu thương",
-   "title": "Chủ đề 2: Việt Nam yêu thương — Nhạc cụ: Thanh phách; Gõ đệm theo bài hát",
+   "title": "Chủ đề 2: Việt Nam yêu thương — Nhạc cụ: Gõ đệm trống con cho bài Tổ quốc ta; Nghe nhạc: Quốc ca (Văn Cao)",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
    "periodFrom": 7,
@@ -179,14 +224,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV mở Quốc ca từ học liệu chính thức, chiếu lá cờ và tên nhạc sĩ Văn Cao; HS nói tên bài, tác giả, chỉ tư thế chào cờ đúng"
     },
     {
-     "code": "QPAN",
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm nhóm hát Tổ quốc ta có trống con đệm, mở lại; HS nhận xét tiếng trống"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
+     "text": "Quốc ca từ nguồn chính thức; đứng nghiêm khi nghe."
     }
    ],
    "note": ""
@@ -196,7 +246,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 2: Việt Nam yêu thương",
-   "title": "Chủ đề 2: Việt Nam yêu thương — Vận dụng — Sáng tạo; Ôn tập chủ đề 2",
+   "title": "Chủ đề 2: Việt Nam yêu thương — Vận dụng – Sáng tạo: Cao – Thấp",
    "content": "",
    "periodLabel": "Tiết 8 (1 tiết)",
    "periodFrom": 8,
@@ -206,14 +256,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+     "text": "GV mở các đoạn âm thanh cao – thấp và tiếng đàn kèm mũi tên lên – xuống; HS nghe – nhìn, nói âm cao – thấp, giơ tay theo"
     },
     {
-     "code": "QPAN",
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lớp hát \"la\" nhắc lại mẫu, mở lại; HS nhận xét đúng cao độ chưa"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
+     "text": "Âm thanh từ học liệu có nguồn; loa vừa đủ, tránh âm chói tai."
     }
    ],
    "note": ""
@@ -222,8 +277,8 @@
    "id": "l1-am-nhac-009",
    "semester": 1,
    "week": 9,
-   "theme": "Ôn tập, đánh giá",
-   "title": "Ôn tập giữa học kì I — Ôn các bài hát và nội dung chủ đề 1, 2",
+   "theme": "Chủ đề 3: Mái trường thân yêu",
+   "title": "Chủ đề 3: Mái trường thân yêu — Học hát: Lớp Một thân yêu (Bùi Anh Tôn)",
    "content": "",
    "periodLabel": "Tiết 9 (1 tiết)",
    "periodFrom": 9,
@@ -231,7 +286,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản hát mẫu “Lớp Một thân yêu” từ học liệu số, chiếu tên bài, tác giả Bùi Anh Tôn; HS nghe từng câu rồi hát nối tiếp"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm cả lớp hát kết hợp vỗ tay theo phách, mở lại qua loa; HS chỉ chỗ hát chưa rõ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu lấy từ học liệu bộ sách; nêu tên tác giả."
+    }
+   ],
    "note": ""
   },
   {
@@ -239,7 +310,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề 3: Mái trường thân yêu",
-   "title": "Chủ đề 3: Mái trường thân yêu — Học hát: Lớp Một thân yêu (Bùi Anh Tôn)",
+   "title": "Chủ đề 3: Mái trường thân yêu — Ôn bài hát Lớp Một thân yêu; Đọc nhạc: Ban nhạc Đô – Rê – Mi",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -249,9 +320,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV chiếu hình kí hiệu bàn tay Đô – Rê – Mi, bật âm mẫu từng nốt; HS nhìn hình, nghe và đọc đúng tên nốt"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay ngắn phần “ban nhạc” của một nhóm, mở lại; HS xem và sửa kí hiệu bàn tay"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu lấy từ bộ sách; đoạn quay chỉ dùng tại lớp."
     }
    ],
    "note": ""
@@ -261,7 +342,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 3: Mái trường thân yêu",
-   "title": "Chủ đề 3: Mái trường thân yêu — Ôn bài hát Lớp Một thân yêu; Nghe nhạc: Những bông hoa những bài ca (Hoàng Long)",
+   "title": "Chủ đề 3: Mái trường thân yêu — Ôn đọc nhạc Ban nhạc Đô – Rê – Mi; Nghe nhạc: Những bông hoa những bài ca (Hoàng Long)",
    "content": "",
    "periodLabel": "Tiết 11 (1 tiết)",
    "periodFrom": 11,
@@ -273,7 +354,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV mở bản thu “Những bông hoa những bài ca”, chiếu tên bài, tác giả Hoàng Long; HS nghe, nêu cảm nhận vui hay buồn; NLS"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV bật từng nốt trên phần mềm đàn phím, máy hiện tên nốt; HS đọc và đối chiếu kí hiệu bàn tay"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu từ học liệu bộ sách; loa vừa đủ nghe."
     }
    ],
    "note": ""
@@ -283,7 +374,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề 3: Mái trường thân yêu",
-   "title": "Chủ đề 3: Mái trường thân yêu — Đọc nhạc: Ban nhạc Đô — Rê — Mi",
+   "title": "Chủ đề 3: Mái trường thân yêu — Vận dụng – Sáng tạo: To – Nhỏ, Cao – Thấp",
    "content": "",
    "periodLabel": "Tiết 12 (1 tiết)",
    "periodFrom": 12,
@@ -293,9 +384,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV mở ứng dụng ghi âm có sóng âm, HS đọc “la” to – nhỏ rồi nhìn sóng lớn – nhỏ; nghe âm mẫu cao – thấp"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm nhóm đọc Đô – Rê – Mi to – nhỏ, mở lại; HS nhận xét"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không hét vào micro, loa vừa đủ, bản ghi chỉ dùng trong lớp."
     }
    ],
    "note": ""
@@ -304,8 +405,8 @@
    "id": "l1-am-nhac-013",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 3: Mái trường thân yêu",
-   "title": "Chủ đề 3: Mái trường thân yêu — Vận dụng — Sáng tạo: To — nhỏ, cao — thấp; Ôn tập chủ đề 3",
+   "theme": "Chủ đề 4: Vòng tay bè bạn",
+   "title": "Chủ đề 4: Vòng tay bè bạn — Học hát: Chào người bạn mới đến (Lương Bằng Vinh)",
    "content": "",
    "periodLabel": "Tiết 13 (1 tiết)",
    "periodFrom": 13,
@@ -315,14 +416,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+     "text": "GV mở bản hát mẫu “Chào người bạn mới đến”, chiếu tên bài, tác giả; HS nghe từng câu rồi hát nối tiếp"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV quay lớp hát kết hợp động tác chào, mở lại, gửi nhóm lớp khi được đồng ý; HS nói lời chào gửi cha mẹ"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+     "text": "Học liệu bộ sách; không đăng công khai."
     }
    ],
    "note": ""
@@ -331,8 +437,8 @@
    "id": "l1-am-nhac-014",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 4: Vòng tay bạn bè",
-   "title": "Chủ đề 4: Vòng tay bạn bè — Học hát: Chào người bạn mới đến (Lương Bằng Vinh)",
+   "theme": "Chủ đề 4: Vòng tay bè bạn",
+   "title": "Chủ đề 4: Vòng tay bè bạn — Ôn bài hát Chào người bạn mới đến; Nhạc cụ: Trống con gõ đệm",
    "content": "",
    "periodLabel": "Tiết 14 (1 tiết)",
    "periodFrom": 14,
@@ -342,9 +448,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở video cách cầm, gõ trống con, dừng hình tư thế cầm dùi; HS nhìn, làm theo, nhận ra tiếng trống"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lớp hát kết hợp gõ trống đệm, mở lại; HS nhận xét tiếng trống đều phách chưa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu bộ sách; không gõ sát tai bạn; bản ghi chỉ dùng trong lớp."
     }
    ],
    "note": ""
@@ -353,8 +469,8 @@
    "id": "l1-am-nhac-015",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 4: Vòng tay bạn bè",
-   "title": "Chủ đề 4: Vòng tay bạn bè — Ôn bài hát Chào người bạn mới đến; Nhạc cụ: Trống con",
+   "theme": "Chủ đề 4: Vòng tay bè bạn",
+   "title": "Chủ đề 4: Vòng tay bè bạn — Thường thức âm nhạc: Trống cái; Nghe nhạc: Vũ khúc thiên nga (Trai-cốp-xki)",
    "content": "",
    "periodLabel": "Tiết 15 (1 tiết)",
    "periodFrom": 15,
@@ -364,9 +480,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV chiếu hình, video trống cái, bật tiếng trống cái – trống con; HS nghe, chỉ đúng hình; chiếu tên “Vũ khúc thiên nga”, Trai-cốp-xki; NLS"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV mở đoạn giới thiệu ngắn do AI đọc về Hồ thiên nga (đã kiểm tra); HS nghe, trả lời"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu bộ sách; GV duyệt nội dung AI."
     }
    ],
    "note": ""
@@ -375,8 +501,8 @@
    "id": "l1-am-nhac-016",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 4: Vòng tay bạn bè",
-   "title": "Chủ đề 4: Vòng tay bạn bè — Thường thức âm nhạc: Trống cái; Nghe nhạc: Vũ khúc thiên nga (Trai-cốp-xki)",
+   "theme": "Chủ đề 4: Vòng tay bè bạn",
+   "title": "Chủ đề 4: Vòng tay bè bạn — Ôn tập cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -388,7 +514,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV chiếu tranh 4 bài hát kèm nhạc dạo, hình 2 mẫu tiết tấu; HS nhìn, nghe, nói tên bài, gõ theo"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay phần tốp ca, song ca, mở lại; HS xem, nói điều cần sửa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu bộ sách; đoạn quay chỉ dùng trong lớp."
     }
    ],
    "note": ""
@@ -397,8 +533,8 @@
    "id": "l1-am-nhac-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 4: Vòng tay bạn bè",
-   "title": "Chủ đề 4: Vòng tay bạn bè — Vận dụng — Sáng tạo; Ôn tập chủ đề 4",
+   "theme": "Chủ đề 4: Vòng tay bè bạn",
+   "title": "Chủ đề 4: Vòng tay bè bạn — Đánh giá cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -410,12 +546,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+     "text": "GV quay phần trình bày từng nhóm, mở lại đoạn tiêu biểu; HS xem, tự nói mình đạt mức Biết, Hiểu hay Vận dụng"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Đoạn quay gửi nhóm lớp cho cha mẹ khi được đồng ý; HS nói lời nhắn"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+     "text": "HS không cầm thiết bị; không đăng công khai."
     }
    ],
    "note": ""
@@ -424,8 +565,8 @@
    "id": "l1-am-nhac-018",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, đánh giá",
-   "title": "Ôn tập và đánh giá cuối học kì I",
+   "theme": "Chủ đề 5: Nhịp điệu mùa xuân",
+   "title": "Chủ đề 5: Nhịp điệu mùa xuân — Học hát: Xúc xắc xúc xẻ (Nhạc: Nguyễn Ngọc Thiện, lời: phỏng theo đồng dao)",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -433,7 +574,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản hát mẫu “Xúc xắc xúc xẻ” từ học liệu số, chiếu tên bài, tên tác giả; HS nghe từng câu rồi hát nối tiếp"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm cả lớp hát kết hợp gõ đệm, mở lại qua loa; HS chỉ chỗ hát chưa đều"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu lấy từ học liệu bộ sách; nêu tên tác giả."
+    }
+   ],
    "note": ""
   },
   {
@@ -441,7 +598,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề 5: Nhịp điệu mùa xuân",
-   "title": "Chủ đề 5: Nhịp điệu mùa xuân — Học hát: Xúc xắc xúc xẻ (Dân gian Việt Nam)",
+   "title": "Chủ đề 5: Nhịp điệu mùa xuân — Ôn bài hát Xúc xắc xúc xẻ; Đọc nhạc: Những người bạn của Đô – Rê – Mi",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
@@ -451,14 +608,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV chiếu hình 5 nốt kèm kí hiệu bàn tay, bấm phát cao độ; HS nhìn, nói tên nốt Pha, Son và làm kí hiệu"
     },
     {
-     "code": "QPAN",
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay video lớp đọc nhạc kết hợp kí hiệu bàn tay, mở lại để HS tự sửa"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
+     "text": "Video chỉ xem tại lớp, không đăng mạng khi chưa được phép."
     }
    ],
    "note": ""
@@ -468,7 +630,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 5: Nhịp điệu mùa xuân",
-   "title": "Chủ đề 5: Nhịp điệu mùa xuân — Ôn bài hát Xúc xắc xúc xẻ; Nghe nhạc: Khát vọng mùa xuân (Nhạc: Mô-da; phỏng dịch lời: Tô Hải)",
+   "title": "Chủ đề 5: Nhịp điệu mùa xuân — Thường thức âm nhạc: Nhạc sĩ Mô-da (Câu chuyện \"Thần đồng âm nhạc Mô-da\"); Nghe nhạc: Khát vọng mùa xuân",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
    "periodFrom": 20,
@@ -480,7 +642,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV chiếu chân dung Mô-da, mở bản Khát vọng mùa xuân từ học liệu số, chiếu tên bản nhạc, nhạc sĩ; HS nghe, nói tên; NLS"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV cho AI đọc to đoạn kể về tuổi thơ Mô-da; HS nhận ra giọng máy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu từ bộ sách, GV kiểm tra thông tin trước khi kể."
     }
    ],
    "note": ""
@@ -490,7 +662,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 5: Nhịp điệu mùa xuân",
-   "title": "Chủ đề 5: Nhịp điệu mùa xuân — Đọc nhạc: Những người bạn của Đô — Rê — Mi",
+   "title": "Chủ đề 5: Nhịp điệu mùa xuân — Vận dụng – Sáng tạo: Dài – Ngắn",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
    "periodFrom": 21,
@@ -500,9 +672,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV mở các đoạn âm thanh dài – ngắn từ học liệu số kèm hình nét dài – ngắn; HS nghe, chỉ đúng hình"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm trò chơi Ai hót dài hơn?, mở lại và chiếu vạch sóng âm; HS nói bạn nào ngân dài hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản ghi chỉ dùng tại lớp, loa vừa đủ nghe."
     }
    ],
    "note": ""
@@ -511,8 +693,8 @@
    "id": "l1-am-nhac-022",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề 5: Nhịp điệu mùa xuân",
-   "title": "Chủ đề 5: Nhịp điệu mùa xuân — Vận dụng — Sáng tạo; Ôn tập chủ đề 5",
+   "theme": "Chủ đề 6: Về miền dân ca",
+   "title": "Chủ đề 6: Về miền dân ca — Học hát: Gà gáy (Dân ca Cống Khao, lời mới: Huy Trân)",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -522,14 +704,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+     "text": "GV mở bản hát mẫu “Gà gáy” từ học liệu số, chiếu tên bài, dân ca Cống Khao, lời mới Huy Trân; HS nghe từng câu rồi hát nối tiếp"
     },
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lớp hát kết hợp gõ đệm, mở lại; HS chỉ chỗ ngân chưa đủ"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+     "text": "Bản thu từ học liệu bộ sách; nêu rõ nguồn dân ca."
     }
    ],
    "note": ""
@@ -539,7 +726,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 6: Về miền dân ca",
-   "title": "Chủ đề 6: Về miền dân ca — Học hát: Gà gáy (Dân ca Cống Khao, lời mới: Huy Trân)",
+   "title": "Chủ đề 6: Về miền dân ca — Ôn bài hát Gà gáy; Thường thức âm nhạc: \"Câu chuyện về thanh phách\"",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
    "periodFrom": 23,
@@ -549,9 +736,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV chiếu tranh câu chuyện thanh phách, mở tiếng phách và đoạn dân ca có phách đệm; HS nói tên nhạc cụ, vật liệu tre; NLS"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV cho AI vẽ hình thanh phách, HS so với thanh phách thật, nêu điểm giống – khác"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình máy vẽ chỉ để so sánh, học liệu từ bộ sách."
     }
    ],
    "note": ""
@@ -561,7 +758,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 6: Về miền dân ca",
-   "title": "Chủ đề 6: Về miền dân ca — Ôn bài hát Gà gáy; Nghe nhạc: Một làn điệu dân ca (Lí cây bông)",
+   "title": "Chủ đề 6: Về miền dân ca — Nhạc cụ: Thanh phách; Nghe nhạc: Lí cây bông (Dân ca Nam Bộ)",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
    "periodFrom": 24,
@@ -573,7 +770,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV chiếu hình tiết tấu, phát tiếng phách mẫu; mở bài Lí cây bông từ học liệu số, chiếu tên bài, dân ca Nam Bộ; HS nghe, gõ theo"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lớp hát Gà gáy gõ thanh phách, mở lại; HS nhận xét tiếng phách"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ngồi xa màn hình, loa vừa đủ, học liệu bộ sách."
     }
    ],
    "note": ""
@@ -583,7 +790,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề 6: Về miền dân ca",
-   "title": "Chủ đề 6: Về miền dân ca — Nhạc cụ: Ôn gõ đệm; Trò chơi tiết tấu dân gian",
+   "title": "Chủ đề 6: Về miền dân ca — Vận dụng – Sáng tạo: Dài – Ngắn",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
    "periodFrom": 25,
@@ -593,9 +800,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV mở tiếng gà gáy dài – ngắn từ học liệu số kèm hình nét dài – ngắn; HS nghe, chỉ đúng hình, gáy đáp"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lớp gáy và chào buổi sáng làm lời nhắn gửi lớp bên qua Zalo của GV; HS nghe lại trước khi gửi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không nêu tên riêng, GV là người gửi."
     }
    ],
    "note": ""
@@ -604,8 +821,8 @@
    "id": "l1-am-nhac-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 6: Về miền dân ca",
-   "title": "Chủ đề 6: Về miền dân ca — Vận dụng — Sáng tạo; Ôn tập chủ đề 6",
+   "theme": "Chủ đề 7: Gia đình",
+   "title": "Chủ đề 7: Gia đình — Học hát: Cây gia đình (Nhạc: Quỳnh Hợp, lời thơ: Nguyễn Thị Mai)",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -615,14 +832,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+     "text": "GV mở bản hát mẫu “Cây gia đình” từ học liệu số, chiếu tên bài, tác giả nhạc và lời thơ; HS nghe từng câu rồi hát nối tiếp"
     },
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lớp hát kết hợp gõ đệm, mở lại; HS chỉ chỗ hát chưa rõ"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+     "text": "Bản thu từ học liệu bộ sách; bản ghi lớp do GV gửi nhóm lớp."
     }
    ],
    "note": ""
@@ -631,8 +853,8 @@
    "id": "l1-am-nhac-027",
    "semester": 2,
    "week": 27,
-   "theme": "Ôn tập, đánh giá",
-   "title": "Ôn tập giữa học kì II — Ôn các bài hát và nội dung chủ đề 5, 6",
+   "theme": "Chủ đề 7: Gia đình",
+   "title": "Chủ đề 7: Gia đình — Ôn bài hát Cây gia đình; Đọc nhạc: Hát cùng Đô – Rê – Mi – Pha – Son",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -640,7 +862,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc nhạc mẫu Hát cùng Đô – Rê – Mi – Pha – Son, chiếu bậc thang 5 nốt; HS nghe từng câu, nói tên nốt rồi đọc theo"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay lớp đọc nhạc kết hợp kí hiệu tay, mở lại; HS chỉ chỗ làm tay chưa đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu bộ sách; đoạn quay chỉ xem tại lớp."
+    }
+   ],
    "note": ""
   },
   {
@@ -648,7 +886,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề 7: Gia đình",
-   "title": "Chủ đề 7: Gia đình — Học hát: Cây gia đình (Nhạc: Quỳnh Hợp, lời thơ: Nguyễn Thị Mai)",
+   "title": "Chủ đề 7: Gia đình — Ôn đọc nhạc; Nghe nhạc: Con chim vành khuyên (Hoàng Vân)",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -658,9 +896,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu Con chim vành khuyên, chiếu tranh, tên bài và nhạc sĩ Hoàng Vân; HS nghe, trả lời chú chim chào ai"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV gửi bản thu lên nhóm lớp để HS nghe lại cùng cha mẹ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu bộ sách; HS không tự dùng điện thoại, nghe cùng người lớn."
     }
    ],
    "note": ""
@@ -670,7 +918,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 7: Gia đình",
-   "title": "Chủ đề 7: Gia đình — Ôn bài hát Cây gia đình; Nghe nhạc: Con chim vành khuyên (Hoàng Vân)",
+   "title": "Chủ đề 7: Gia đình — Vận dụng – Sáng tạo: Góc âm nhạc",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
    "periodFrom": 29,
@@ -680,9 +928,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay trò chơi Ban nhạc “Những người bạn”, mở lại; HS chỉ bạn đọc đúng nốt, chỗ cần sửa"
+    },
+    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV mở bản thu Cây gia đình, Con chim vành khuyên; HS nghe đoạn đầu, nói tên bài"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đoạn quay chỉ xem tại lớp; học liệu bộ sách."
     }
    ],
    "note": ""
@@ -691,8 +949,8 @@
    "id": "l1-am-nhac-030",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 7: Gia đình",
-   "title": "Chủ đề 7: Gia đình — Nhạc cụ: Gõ đệm theo bài hát; Vận động theo cặp",
+   "theme": "Chủ đề 8: Vui đón hè",
+   "title": "Chủ đề 8: Vui đón hè — Học hát: Ngôi sao lấp lánh (Nhạc nước ngoài, lời Việt: Thanh Vân sưu tầm và biên soạn)",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
@@ -702,9 +960,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV mở bản hát mẫu Ngôi sao lấp lánh, chiếu tên bài, người biên soạn lời Việt; HS nghe từng câu, hát nối tiếp"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lớp hát, mở lại; HS chỉ chỗ hát chưa rõ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu từ học liệu bộ sách, nói rõ nguồn bài hát."
     }
    ],
    "note": ""
@@ -713,8 +981,8 @@
    "id": "l1-am-nhac-031",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 7: Gia đình",
-   "title": "Chủ đề 7: Gia đình — Vận dụng — Sáng tạo; Ôn tập chủ đề 7",
+   "theme": "Chủ đề 8: Vui đón hè",
+   "title": "Chủ đề 8: Vui đón hè — Ôn bài hát Ngôi sao lấp lánh; Nhạc cụ: Trai-en-gô",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
    "periodFrom": 31,
@@ -724,14 +992,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+     "text": "GV chiếu video/ảnh trai-en-gô từ học liệu số, mở âm mẫu; HS chỉ thân, dây treo, dùi và so tiếng gõ"
     },
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm nhóm gõ đệm, mở lại; HS nhận xét đều phách chưa"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+     "text": "Không gõ nhạc cụ lên thiết bị, không chạm dây điện."
     }
    ],
    "note": ""
@@ -741,7 +1014,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 8: Vui đón hè",
-   "title": "Chủ đề 8: Vui đón hè — Học hát: Ngôi sao lấp lánh (Nhạc nước ngoài; sưu tầm, biên soạn: Thanh Vân)",
+   "title": "Chủ đề 8: Vui đón hè — Ôn tập cuối năm (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
    "periodFrom": 32,
@@ -751,9 +1024,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở âm mẫu trống con, thanh phách, trai-en-gô, chiếu bảng tiết tấu; HS nói tên nhạc cụ, gõ theo con trỏ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay “Dàn nhạc lớp 1”, mở lại; HS nhận xét nhóm gõ đều"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu bộ sách; đoạn quay chỉ xem tại lớp."
     }
    ],
    "note": ""
@@ -763,7 +1046,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 8: Vui đón hè",
-   "title": "Chủ đề 8: Vui đón hè — Ôn bài hát Ngôi sao lấp lánh; Nhạc cụ: Trai-en-gô (Triangle)",
+   "title": "Chủ đề 8: Vui đón hè — Ôn tập cuối năm (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
    "periodFrom": 33,
@@ -773,9 +1056,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV chiếu tranh và nhạc dạo các bài hát từ học liệu số; HS nói tên bài, tác giả rồi đối chiếu màn hình"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV gửi danh sách nhóm và nhạc đệm lên nhóm lớp để HS tập cùng cha mẹ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Học liệu bộ sách; HS không tự dùng điện thoại."
     }
    ],
    "note": ""
@@ -785,7 +1078,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề 8: Vui đón hè",
-   "title": "Chủ đề 8: Vui đón hè — Đọc nhạc: Hát cùng Đô — Rê — Mi — Pha — Son; Vận dụng — Sáng tạo",
+   "title": "Chủ đề 8: Vui đón hè — Đánh giá cuối năm (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -795,14 +1088,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV quay phần trình bày từng nhóm, mở lại; HS tự nhận xét một điều tốt, một điều cần sửa"
     },
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở nhạc đệm, chiếu tên bài, tác giả để HS đọc khi giới thiệu"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+     "text": "Đoạn quay chỉ xem tại lớp, lưu máy GV; học liệu bộ sách."
     }
    ],
    "note": ""
@@ -811,8 +1109,8 @@
    "id": "l1-am-nhac-035",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, đánh giá",
-   "title": "Ôn tập và đánh giá cuối năm học",
+   "theme": "Chủ đề 8: Vui đón hè",
+   "title": "Chủ đề 8: Vui đón hè — Đánh giá cuối năm (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -820,7 +1118,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay, ghép các phần trình bày thành video buổi biểu diễn cuối năm, mở lại; HS nói mình trình bày bài gì"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV gửi video lên nhóm lớp để HS xem cùng cha mẹ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video lưu máy GV, chia sẻ khi cha mẹ đồng ý; HS không tự dùng điện thoại."
+    }
+   ],
    "note": ""
   }
  ],
@@ -1096,8 +1410,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Am nhac - Lop 1.docx",
   "name": "Am nhac - Lop 1.docx",
-  "original": "KHDH Âm nhạc lớp 1 (2026-2027) (đã rà soát).docx",
-  "size": 8888,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45355,
+  "updated": "2026-09-07"
  }
 }

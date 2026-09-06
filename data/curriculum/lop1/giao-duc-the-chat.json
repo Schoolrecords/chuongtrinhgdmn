@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH GDTC lớp 1 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 8
+  "integrations": 17
  },
  "lessons": [
   {
@@ -34,12 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
+     "text": "GV chiếu video mẫu “Tư thế đứng nghiêm, đứng nghỉ” trên tivi, chạy chậm, dừng từng tư thế; HS nhìn rõ gót chân, tay, mắt"
     },
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở hình hai tư thế cạnh nhau, hô “Nghiêm!”, “Nghỉ!”; HS chỉ hình đúng khẩu lệnh rồi ra sân tập"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+     "text": "Clip chỉ xem 1-2 phút rồi tắt; HS đứng cách màn hình 2 m."
     }
    ],
    "note": ""
@@ -57,7 +62,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video động tác mẫu tư thế đứng nghiêm, đứng nghỉ trong bài “Tư thế đứng nghiêm, đứng nghỉ”, dừng hình ở gót chân"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ quay hình HS khi các em đã được báo trước, không đăng clip lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -73,7 +89,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở video động tác mẫu đứng nghiêm, đứng nghỉ và khẩu lệnh Nghiêm, Nghỉ của bài “Tư thế đứng nghiêm, đứng nghỉ”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Clip quay HS chỉ dùng trong giờ học rồi xoá, không chia sẻ lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -91,9 +118,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu sơ đồ nhìn từ trên xuống “Tập hợp hàng dọc, dóng hàng, điểm số” có mũi tên, chỉ trên sơ đồ khi nêu khẩu lệnh"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở video ngắn một lớp điểm số hàng dọc, dừng ở mỗi bạn hô số; HS chỉ vị trí tổ mình trên sơ đồ"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+     "text": "Xem sơ đồ xong cất thiết bị; di chuyển không ngoái nhìn màn hình."
     }
    ],
    "note": ""
@@ -410,11 +447,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
     }
    ],
    "note": ""
@@ -854,7 +886,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
+    }
+   ],
    "note": ""
   },
   {
@@ -870,7 +908,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
+    }
+   ],
    "note": ""
   },
   {
@@ -886,7 +930,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
+    }
+   ],
    "note": ""
   },
   {
@@ -1140,7 +1190,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Ôn tập, đánh giá",
-   "title": "Ôn tập và đánh giá cuối năm học (Tiết 1 - Ôn tập, hệ thống hóa)",
+   "title": "Ôn tập và đánh giá cuối năm (Tiết 1 - Ôn tập, hệ thống hóa)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
    "periodFrom": 68,
@@ -1156,7 +1206,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, đánh giá",
-   "title": "Ôn tập và đánh giá cuối năm học (Tiết 2 - Đánh giá)",
+   "title": "Ôn tập và đánh giá cuối năm (Tiết 2 - Đánh giá)",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
    "periodFrom": 69,
@@ -1172,7 +1222,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, đánh giá",
-   "title": "Ôn tập và đánh giá cuối năm học (Tiết 3 - Đánh giá, tổng kết năm học)",
+   "title": "Ôn tập và đánh giá cuối năm (Tiết 3 - Đánh giá, tổng kết năm học)",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,
@@ -1456,8 +1506,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Giao duc the chat - Lop 1.docx",
   "name": "Giao duc the chat - Lop 1.docx",
-  "original": "KHDH GDTC lớp 1 (2026-2027) (đã rà soát).docx",
-  "size": 9940,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 43400,
+  "updated": "2026-09-07"
  }
 }

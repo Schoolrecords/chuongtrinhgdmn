@@ -111,9 +111,11 @@ giáo viên sẽ thấy ba bản khác nhau của cùng một kế hoạch:
 
 | Nơi | Đường dẫn | Cách cập nhật |
 | --- | --- | --- |
-| Bản nội bộ của trường | `website/` | sửa trực tiếp, rồi `python tools/docx-to-json.py` + `node tools/build-data.mjs` |
-| Bản dùng chung | `web-chung/` | **không sửa tay**, chạy `node tools/build-public.mjs` sau khi sửa `website/` |
-| Ứng dụng Bút Xanh | `../../web/khgd-lop*.js` | `python tools/sync-butxanh.py --lop N` (thêm `--thu` để xem trước) |
+| Ứng dụng Bút Xanh (**NGUỒN GỐC DUY NHẤT** từ 7/9/2026) | `../../web/khgd-lop*.js` | sửa trong app / nhập Excel; mọi khối đã chuyển thì KHÔNG dùng `sync-butxanh.py` nữa |
+| Bản nội bộ của trường | `website/` | **sinh từ app**: `python ../../_khgd-app-to-web.py --lop N` (JSON + Word đính kèm + build cả hai website); `docx-to-json.py` chỉ còn dùng để nhập lần đầu kế hoạch riêng của trường khác |
+| Bản dùng chung | `web-chung/` | **không sửa tay**, `_khgd-app-to-web.py` đã chạy `node tools/build-public.mjs` |
+
+Khối đã chuyển sang chiều app → web: **lớp 1 (7/9/2026)**. Các khối còn lại chuyển dần khi rà theo mục lục SGV.
 | Ứng dụng Bút Xanh – giao diện | `../../web/index.html` | sửa tay; phần KHDH ở `buildKHGDPhuLuc2` (bảng QUY ƯỚC MÃ, mục I căn cứ) |
 
 Bút Xanh giữ dữ liệu KHDH riêng (`window.BX_KHGD_L1`…`L4`, `window.BX_KHGD_RAW` + `window.TV5_KHGD`

@@ -5,16 +5,16 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 1/KHDH Tiếng Việt lớp 1 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 420,
   "weeks": 35,
   "semester1Weeks": 18,
   "semester2Weeks": 17,
-  "lessons": 122,
-  "integrations": 17
+  "lessons": 178,
+  "integrations": 42
  },
  "lessons": [
   {
@@ -32,9 +32,34 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá của bài “LÀM QUEN VỚI TRƯỜNG LỚP, BẠN BÈ; LÀM QUEN VỚI ĐỒ DÙNG HỌC TẬP”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Vận dụng, GV mở đoạn âm thanh hoặc clip mẫu hai bạn nhỏ chào hỏi, giới thiệu tên khi gặp nhau; HS nghe"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN ứng xử: thể hiện sự quan tâm, lễ phép, biết nói lời cảm ơn và xin lỗi đúng lúc."
+     "text": "Clip quay HS chỉ dùng trong lớp rồi xoá, không đăng lên mạng"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh SGK trang 9–11 và cặp ảnh tư thế ngồi đọc, viết đúng, sai; HS chỉ bạn ngồi đúng"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài tập tương tác hình các bạn ngồi học, HS giơ thẻ mặt cười, mặt buồn; GV chụp ảnh tư thế vài HS chiếu lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nhìn màn hình quá gần, quá lâu gây cong lưng, mỏi mắt; nghỉ mắt định kì."
     }
    ],
    "note": ""
@@ -56,12 +81,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
+     "text": "Ở hoạt động Khám phá của bài “LÀM QUEN VỚI CÁC NÉT CƠ BẢN, CÁC CHỮ SỐ, BẢNG CHỮ CÁI VÀ DẤU THANH”"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác trên máy chiếu: các nét, chữ số và dấu thanh lẫn lộn"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+     "text": "HS xem hình động vừa đủ, GV tắt máy chiếu khi HS tô, viết để bảo vệ mắt"
     }
    ],
    "note": ""
@@ -99,7 +129,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
+     "text": "Ở hoạt động Khám phá của bài “ÔN LUYỆN VIẾT CÁC NÉT CƠ BẢN VÀ ĐỌC ÂM”, GV chiếu lại hình động các nét cơ bản"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Luyện tập, GV dùng điện thoại chụp bài viết nét của hai, ba HS, chiếu lên máy chiếu cạnh mẫu chuẩn; HS so sánh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ chụp trang vở, không chụp mặt và không nêu tên HS viết chưa đẹp để tránh làm"
     }
    ],
    "note": ""
@@ -117,7 +157,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá của bài “A, a”, GV chiếu tranh nhận biết phóng to"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đọc tiếng, GV mở bài tập tương tác trên máy chiếu: câu nhận biết với các tiếng rời; HS lên chỉ tiếng có chứa a"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bật âm thanh vừa đủ nghe; HS ngồi cách màn hình đủ xa, không nhìn quá lâu"
+    }
+   ],
    "note": ""
   },
   {
@@ -133,7 +189,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá của bài “B, b, DẤU HUYỀN”, GV chiếu tranh nhận biết phóng to"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đọc tiếng, GV mở bài tập tương tác: tiếng ba trên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Âm thanh mở vừa đủ; HS không tự ý chạm vào máy tính, máy chiếu"
+    }
+   ],
    "note": ""
   },
   {
@@ -149,7 +221,38 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần ôn đọc của tiết “LUYỆN TẬP: LUYỆN ĐỌC, VIẾT BÀI 1, 2”, GV chiếu bảng các chữ a, b, tiếng ba"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Sau khi HS viết vào vở ô li, GV dùng điện thoại chụp hai, ba bài viết, chiếu lên máy chiếu bên cạnh chữ mẫu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ chụp trang vở, không chụp mặt HS"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá của bài “C, c, DẤU SẮC”, GV chiếu tranh nhận biết phóng to"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần luyện nói, GV mở clip ngắn cảnh HS chào cô giáo, chào bạn khi vào lớp và khi ra về; HS xem"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Clip quay HS chỉ chiếu trong lớp rồi xoá, không đăng lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -165,7 +268,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá của bài “E, e, Ê, ê”, GV chiếu tranh nhận biết phóng to"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đọc tiếng, GV mở bài tập tương tác: chữ e trên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Âm thanh mở vừa đủ nghe; HS chỉ quan sát, nói và chỉ khi GV mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -183,14 +302,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
+     "text": "Ở phần ôn đọc của tiết “LUYỆN TẬP: LUYỆN ĐỌC, VIẾT BÀI 3, 4”, GV chiếu bảng các chữ c, e, ê, tiếng ca, cá, bé"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Vận dụng, GV mở bài tập tương tác: mỗi tranh (con cá, quả cà, em bé, con bê) đi kèm hai thẻ tiếng"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+     "text": "HS ngồi cách màn hình đủ xa, không nhìn quá lâu"
     }
    ],
    "note": ""
@@ -208,7 +332,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng ôn chữ a, b, c, e, ê và dấu thanh cho HS ghép, đọc; chiếu tranh “Búp bê và dế mèn” kèm ghi âm"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV quay bằng điện thoại một, hai HS kể một đoạn theo tranh, mở lại cho cả lớp nghe, nhận ra chỗ nói nhỏ, nói vấp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đoạn quay chỉ xem lại rồi xoá ngay; hỏi ý HS trước khi quay."
+    }
+   ],
    "note": ""
   },
   {
@@ -774,18 +914,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Nghe – kể lại câu chuyện, chia sẻ trước nhóm/lớp (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1713,13 +1842,7 @@
    "periods": 3,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Hệ thống hoá âm – vần đã học qua trò chơi/sơ đồ (GV hỗ trợ)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1743,24 +1866,19 @@
    "semester": 2,
    "week": 19,
    "theme": "HỌC KÌ II · Chủ điểm 1: TÔI VÀ CÁC BẠN",
-   "title": "Đọc các văn bản: Tôi là học sinh lớp 1; Đôi tai xấu xí; Bạn của gió. Đọc – Viết – Nói và nghe theo chủ điểm.",
+   "title": "Bài 1: Tôi là học sinh lớp 1",
    "content": "",
-   "periodLabel": "Tiết 217–228 (12 tiết)",
+   "periodLabel": "Tiết 217–220 (4 tiết)",
    "periodFrom": 217,
-   "periodTo": 228,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodTo": 220,
+   "periods": 4,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
     }
    ],
    "note": ""
@@ -1768,42 +1886,31 @@
   {
    "id": "l1-tieng-viet-106",
    "semester": 2,
-   "week": 20,
+   "week": 19,
    "theme": "HỌC KÌ II · Chủ điểm 1: TÔI VÀ CÁC BẠN",
-   "title": "Đọc các văn bản: Giải thưởng tình bạn; Sinh nhật của voi con. Đọc mở rộng – Luyện tập – Ôn tập, đánh giá chủ điểm.",
+   "title": "Bài 2: Đôi tai xấu xí",
    "content": "",
-   "periodLabel": "Tiết 229–240 (12 tiết)",
-   "periodFrom": 229,
-   "periodTo": 240,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 221–224 (4 tiết)",
+   "periodFrom": 221,
+   "periodTo": 224,
+   "periods": 4,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Trao đổi, chia sẻ cảm nhận về bài đọc; kể lại theo tranh (GV hỗ trợ)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tieng-viet-107",
    "semester": 2,
-   "week": 21,
-   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
-   "title": "Đọc các văn bản: Nụ hôn trên bàn tay; Làm anh; Cả nhà đi chơi núi. Đọc – Viết – Nói và nghe theo chủ điểm.",
+   "week": 19,
+   "theme": "HỌC KÌ II · Chủ điểm 1: TÔI VÀ CÁC BẠN",
+   "title": "Bài 3: Bạn của gió",
    "content": "",
-   "periodLabel": "Tiết 241–252 (12 tiết)",
-   "periodFrom": 241,
-   "periodTo": 252,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 225–226 (2 tiết)",
+   "periodFrom": 225,
+   "periodTo": 226,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1811,15 +1918,15 @@
   {
    "id": "l1-tieng-viet-108",
    "semester": 2,
-   "week": 22,
-   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
-   "title": "Đọc các văn bản: Quạt cho bà ngủ; Bữa cơm gia đình. Đọc mở rộng – Luyện tập – Ôn tập, đánh giá chủ điểm.",
+   "week": 19,
+   "theme": "HỌC KÌ II · Chủ điểm 1: TÔI VÀ CÁC BẠN",
+   "title": "Ôn luyện (tăng cường)",
    "content": "",
-   "periodLabel": "Tiết 253–264 (12 tiết)",
-   "periodFrom": 253,
-   "periodTo": 264,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 227–228 (2 tiết)",
+   "periodFrom": 227,
+   "periodTo": 228,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1827,15 +1934,15 @@
   {
    "id": "l1-tieng-viet-109",
    "semester": 2,
-   "week": 23,
-   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
-   "title": "Đọc các văn bản: Tôi đi học; Đi học; Hoa yêu thương. Đọc – Viết – Nói và nghe theo chủ điểm.",
+   "week": 20,
+   "theme": "HỌC KÌ II · Chủ điểm 1: TÔI VÀ CÁC BẠN",
+   "title": "Bài 4: Giải thưởng tình bạn",
    "content": "",
-   "periodLabel": "Tiết 265–276 (12 tiết)",
-   "periodFrom": 265,
-   "periodTo": 276,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 229–232 (4 tiết)",
+   "periodFrom": 229,
+   "periodTo": 232,
+   "periods": 4,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1843,15 +1950,15 @@
   {
    "id": "l1-tieng-viet-110",
    "semester": 2,
-   "week": 24,
-   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
-   "title": "Đọc các văn bản: Cây bàng và lớp học; Bác trống trường; Giờ ra chơi. Đọc mở rộng – Luyện tập – Ôn tập, đánh giá chủ điểm.",
+   "week": 20,
+   "theme": "HỌC KÌ II · Chủ điểm 1: TÔI VÀ CÁC BẠN",
+   "title": "Bài 5: Sinh nhật của voi con",
    "content": "",
-   "periodLabel": "Tiết 277–288 (12 tiết)",
-   "periodFrom": 277,
-   "periodTo": 288,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 233–236 (4 tiết)",
+   "periodFrom": 233,
+   "periodTo": 236,
+   "periods": 4,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1859,15 +1966,15 @@
   {
    "id": "l1-tieng-viet-111",
    "semester": 2,
-   "week": 25,
-   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
-   "title": "Đọc các văn bản: Rửa tay trước khi ăn; Lời chào; Khi mẹ vắng nhà. Đọc – Viết – Nói và nghe theo chủ điểm.",
+   "week": 20,
+   "theme": "HỌC KÌ II · Chủ điểm 1: TÔI VÀ CÁC BẠN",
+   "title": "Ôn tập chủ đề 1: Tôi và các bạn",
    "content": "",
-   "periodLabel": "Tiết 289–300 (12 tiết)",
-   "periodFrom": 289,
-   "periodTo": 300,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 237–238 (2 tiết)",
+   "periodFrom": 237,
+   "periodTo": 238,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1875,15 +1982,15 @@
   {
    "id": "l1-tieng-viet-112",
    "semester": 2,
-   "week": 26,
-   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
-   "title": "Đọc các văn bản: Nếu không may bị lạc; Đèn giao thông. Đọc mở rộng – Luyện tập – Ôn tập, đánh giá chủ điểm.",
+   "week": 20,
+   "theme": "HỌC KÌ II · Chủ điểm 1: TÔI VÀ CÁC BẠN",
+   "title": "Ôn luyện (tăng cường)",
    "content": "",
-   "periodLabel": "Tiết 301–312 (12 tiết)",
-   "periodFrom": 301,
-   "periodTo": 312,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 239–240 (2 tiết)",
+   "periodFrom": 239,
+   "periodTo": 240,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1891,31 +1998,37 @@
   {
    "id": "l1-tieng-viet-113",
    "semester": 2,
-   "week": 27,
-   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
-   "title": "Đọc các văn bản: Kiến và chim bồ câu; Câu chuyện của rễ; Câu hỏi của sói. Đọc – Viết – Nói và nghe theo chủ điểm.",
+   "week": 21,
+   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
+   "title": "Bài 1: Nụ hôn trên bàn tay",
    "content": "",
-   "periodLabel": "Tiết 313–324 (12 tiết)",
-   "periodFrom": 313,
-   "periodTo": 324,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 241–244 (4 tiết)",
+   "periodFrom": 241,
+   "periodTo": 244,
+   "periods": 4,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l1-tieng-viet-114",
    "semester": 2,
-   "week": 28,
-   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
-   "title": "Đọc các văn bản: Chú bé chăn cừu; Tiếng vọng của núi. Đọc mở rộng – Luyện tập – Ôn tập, đánh giá chủ điểm.",
+   "week": 21,
+   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
+   "title": "Bài 2: Làm anh",
    "content": "",
-   "periodLabel": "Tiết 325–336 (12 tiết)",
-   "periodFrom": 325,
-   "periodTo": 336,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 245–246 (2 tiết)",
+   "periodFrom": 245,
+   "periodTo": 246,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1923,37 +2036,31 @@
   {
    "id": "l1-tieng-viet-115",
    "semester": 2,
-   "week": 29,
-   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
-   "title": "Đọc các văn bản: Loài chim của biển cả; Bảy sắc cầu vồng; Chúa tể rừng xanh. Đọc – Viết – Nói và nghe theo chủ điểm.",
+   "week": 21,
+   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
+   "title": "Bài 3: Cả nhà đi chơi núi",
    "content": "",
-   "periodLabel": "Tiết 337–348 (12 tiết)",
-   "periodFrom": 337,
-   "periodTo": 348,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 247–250 (4 tiết)",
+   "periodFrom": 247,
+   "periodTo": 250,
+   "periods": 4,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tieng-viet-116",
    "semester": 2,
-   "week": 30,
-   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
-   "title": "Đọc các văn bản: Cuộc thi tài năng của rừng xanh; Cây liễu dẻo dai. Đọc mở rộng – Luyện tập – Ôn tập, đánh giá chủ điểm.",
+   "week": 21,
+   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
+   "title": "Ôn luyện (tăng cường)",
    "content": "",
-   "periodLabel": "Tiết 349–360 (12 tiết)",
-   "periodFrom": 349,
-   "periodTo": 360,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 251–252 (2 tiết)",
+   "periodFrom": 251,
+   "periodTo": 252,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1961,15 +2068,15 @@
   {
    "id": "l1-tieng-viet-117",
    "semester": 2,
-   "week": 31,
-   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
-   "title": "Đọc các văn bản: Tia nắng đi đâu; Trong giấc mơ buổi sáng; Ngày mới bắt đầu. Đọc – Viết – Nói và nghe theo chủ điểm.",
+   "week": 22,
+   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
+   "title": "Bài 4: Quạt cho bà ngủ",
    "content": "",
-   "periodLabel": "Tiết 361–372 (12 tiết)",
-   "periodFrom": 361,
-   "periodTo": 372,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 253–254 (2 tiết)",
+   "periodFrom": 253,
+   "periodTo": 254,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1977,15 +2084,15 @@
   {
    "id": "l1-tieng-viet-118",
    "semester": 2,
-   "week": 32,
-   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
-   "title": "Đọc các văn bản: Hỏi mẹ; Những cánh cò; Hoa phượng. Đọc mở rộng – Luyện tập – Ôn tập, đánh giá chủ điểm.",
+   "week": 22,
+   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
+   "title": "Bài 5: Bữa cơm gia đình",
    "content": "",
-   "periodLabel": "Tiết 373–384 (12 tiết)",
-   "periodFrom": 373,
-   "periodTo": 384,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 255–258 (4 tiết)",
+   "periodFrom": 255,
+   "periodTo": 258,
+   "periods": 4,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1993,59 +2100,47 @@
   {
    "id": "l1-tieng-viet-119",
    "semester": 2,
-   "week": 33,
-   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
-   "title": "Đọc các văn bản: Cậu bé thông minh; Lính cứu hoả; Ruộng bậc thang ở Sa Pa. Đọc – Viết – Nói và nghe theo chủ điểm.",
+   "week": 22,
+   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
+   "title": "Bài 6: Ngôi nhà",
    "content": "",
-   "periodLabel": "Tiết 385–396 (12 tiết)",
-   "periodFrom": 385,
-   "periodTo": 396,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 259–260 (2 tiết)",
+   "periodFrom": 259,
+   "periodTo": 260,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tieng-viet-120",
    "semester": 2,
-   "week": 34,
-   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
-   "title": "Đọc các văn bản: Nhớ ơn; Du lịch biển Việt Nam. Đọc mở rộng – Luyện tập – Ôn tập, đánh giá chủ điểm.",
+   "week": 22,
+   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
+   "title": "Ôn tập chủ đề 2: Mái ấm gia đình",
    "content": "",
-   "periodLabel": "Tiết 397–408 (12 tiết)",
-   "periodFrom": 397,
-   "periodTo": 408,
-   "periods": 12,
-   "lessonPeriods": 12,
+   "periodLabel": "Tiết 261–262 (2 tiết)",
+   "periodFrom": 261,
+   "periodTo": 262,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-tieng-viet-121",
    "semester": 2,
-   "week": 35,
-   "theme": "ÔN TẬP CUỐI NĂM",
-   "title": "Ôn tập, củng cố các kĩ năng đọc – viết – nói và nghe.",
+   "week": 22,
+   "theme": "HỌC KÌ II · Chủ điểm 2: MÁI ẤM GIA ĐÌNH",
+   "title": "Ôn luyện (tăng cường)",
    "content": "",
-   "periodLabel": "Tiết 409–414 (6 tiết)",
-   "periodFrom": 409,
-   "periodTo": 414,
-   "periods": 6,
-   "lessonPeriods": 6,
+   "periodLabel": "Tiết 263–264 (2 tiết)",
+   "periodFrom": 263,
+   "periodTo": 264,
+   "periods": 2,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2053,15 +2148,947 @@
   {
    "id": "l1-tieng-viet-122",
    "semester": 2,
+   "week": 23,
+   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
+   "title": "Bài 1: Tôi đi học",
+   "content": "",
+   "periodLabel": "Tiết 265–268 (4 tiết)",
+   "periodFrom": 265,
+   "periodTo": 268,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-123",
+   "semester": 2,
+   "week": 23,
+   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
+   "title": "Bài 2: Đi học",
+   "content": "",
+   "periodLabel": "Tiết 269–270 (2 tiết)",
+   "periodFrom": 269,
+   "periodTo": 270,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-124",
+   "semester": 2,
+   "week": 23,
+   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
+   "title": "Bài 3: Hoa yêu thương",
+   "content": "",
+   "periodLabel": "Tiết 271–274 (4 tiết)",
+   "periodFrom": 271,
+   "periodTo": 274,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-125",
+   "semester": 2,
+   "week": 23,
+   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 275–276 (2 tiết)",
+   "periodFrom": 275,
+   "periodTo": 276,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-126",
+   "semester": 2,
+   "week": 24,
+   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
+   "title": "Bài 4: Cây bàng và lớp học",
+   "content": "",
+   "periodLabel": "Tiết 277–278 (2 tiết)",
+   "periodFrom": 277,
+   "periodTo": 278,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-127",
+   "semester": 2,
+   "week": 24,
+   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
+   "title": "Bài 5: Bác trống trường",
+   "content": "",
+   "periodLabel": "Tiết 279–282 (4 tiết)",
+   "periodFrom": 279,
+   "periodTo": 282,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-128",
+   "semester": 2,
+   "week": 24,
+   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
+   "title": "Bài 6: Giờ ra chơi",
+   "content": "",
+   "periodLabel": "Tiết 283–284 (2 tiết)",
+   "periodFrom": 283,
+   "periodTo": 284,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-129",
+   "semester": 2,
+   "week": 24,
+   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
+   "title": "Ôn tập chủ đề 3: Mái trường mến yêu",
+   "content": "",
+   "periodLabel": "Tiết 285–286 (2 tiết)",
+   "periodFrom": 285,
+   "periodTo": 286,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-130",
+   "semester": 2,
+   "week": 24,
+   "theme": "HỌC KÌ II · Chủ điểm 3: MÁI TRƯỜNG MẾN YÊU",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 287–288 (2 tiết)",
+   "periodFrom": 287,
+   "periodTo": 288,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-131",
+   "semester": 2,
+   "week": 25,
+   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
+   "title": "Bài 1: Rửa tay trước khi ăn",
+   "content": "",
+   "periodLabel": "Tiết 289–292 (4 tiết)",
+   "periodFrom": 289,
+   "periodTo": 292,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-132",
+   "semester": 2,
+   "week": 25,
+   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
+   "title": "Bài 2: Lời chào",
+   "content": "",
+   "periodLabel": "Tiết 293–294 (2 tiết)",
+   "periodFrom": 293,
+   "periodTo": 294,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-133",
+   "semester": 2,
+   "week": 25,
+   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
+   "title": "Bài 3: Khi mẹ vắng nhà",
+   "content": "",
+   "periodLabel": "Tiết 295–298 (4 tiết)",
+   "periodFrom": 295,
+   "periodTo": 298,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-134",
+   "semester": 2,
+   "week": 25,
+   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 299–300 (2 tiết)",
+   "periodFrom": 299,
+   "periodTo": 300,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-135",
+   "semester": 2,
+   "week": 26,
+   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
+   "title": "Bài 4: Nếu không may bị lạc",
+   "content": "",
+   "periodLabel": "Tiết 301–304 (4 tiết)",
+   "periodFrom": 301,
+   "periodTo": 304,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-136",
+   "semester": 2,
+   "week": 26,
+   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
+   "title": "Bài 5: Đèn giao thông",
+   "content": "",
+   "periodLabel": "Tiết 305–308 (4 tiết)",
+   "periodFrom": 305,
+   "periodTo": 308,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-137",
+   "semester": 2,
+   "week": 26,
+   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
+   "title": "Ôn tập chủ đề 4: Điều em cần biết",
+   "content": "",
+   "periodLabel": "Tiết 309–310 (2 tiết)",
+   "periodFrom": 309,
+   "periodTo": 310,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-138",
+   "semester": 2,
+   "week": 26,
+   "theme": "HỌC KÌ II · Chủ điểm 4: ĐIỀU EM CẦN BIẾT",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 311–312 (2 tiết)",
+   "periodFrom": 311,
+   "periodTo": 312,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-139",
+   "semester": 2,
+   "week": 27,
+   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
+   "title": "Bài 1: Kiến và chim bồ câu",
+   "content": "",
+   "periodLabel": "Tiết 313–316 (4 tiết)",
+   "periodFrom": 313,
+   "periodTo": 316,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-140",
+   "semester": 2,
+   "week": 27,
+   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
+   "title": "Bài 2: Câu chuyện của rễ",
+   "content": "",
+   "periodLabel": "Tiết 317–318 (2 tiết)",
+   "periodFrom": 317,
+   "periodTo": 318,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-141",
+   "semester": 2,
+   "week": 27,
+   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
+   "title": "Bài 3: Câu hỏi của sói",
+   "content": "",
+   "periodLabel": "Tiết 319–322 (4 tiết)",
+   "periodFrom": 319,
+   "periodTo": 322,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-142",
+   "semester": 2,
+   "week": 27,
+   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 323–324 (2 tiết)",
+   "periodFrom": 323,
+   "periodTo": 324,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-143",
+   "semester": 2,
+   "week": 28,
+   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
+   "title": "Bài 4: Chú bé chăn cừu",
+   "content": "",
+   "periodLabel": "Tiết 325–328 (4 tiết)",
+   "periodFrom": 325,
+   "periodTo": 328,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-144",
+   "semester": 2,
+   "week": 28,
+   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
+   "title": "Bài 5: Tiếng vọng của núi",
+   "content": "",
+   "periodLabel": "Tiết 329–332 (4 tiết)",
+   "periodFrom": 329,
+   "periodTo": 332,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-145",
+   "semester": 2,
+   "week": 28,
+   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
+   "title": "Ôn tập chủ đề 5: Bài học từ cuộc sống",
+   "content": "",
+   "periodLabel": "Tiết 333–334 (2 tiết)",
+   "periodFrom": 333,
+   "periodTo": 334,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-146",
+   "semester": 2,
+   "week": 28,
+   "theme": "HỌC KÌ II · Chủ điểm 5: BÀI HỌC TỪ CUỘC SỐNG",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 335–336 (2 tiết)",
+   "periodFrom": 335,
+   "periodTo": 336,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-147",
+   "semester": 2,
+   "week": 29,
+   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
+   "title": "Bài 1: Loài chim của biển cả",
+   "content": "",
+   "periodLabel": "Tiết 337–340 (4 tiết)",
+   "periodFrom": 337,
+   "periodTo": 340,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-148",
+   "semester": 2,
+   "week": 29,
+   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
+   "title": "Bài 2: Bảy sắc cầu vồng",
+   "content": "",
+   "periodLabel": "Tiết 341–342 (2 tiết)",
+   "periodFrom": 341,
+   "periodTo": 342,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-149",
+   "semester": 2,
+   "week": 29,
+   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
+   "title": "Bài 3: Chúa tể rừng xanh",
+   "content": "",
+   "periodLabel": "Tiết 343–346 (4 tiết)",
+   "periodFrom": 343,
+   "periodTo": 346,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-150",
+   "semester": 2,
+   "week": 29,
+   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 347–348 (2 tiết)",
+   "periodFrom": 347,
+   "periodTo": 348,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-151",
+   "semester": 2,
+   "week": 30,
+   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
+   "title": "Bài 4: Cuộc thi tài năng rừng xanh",
+   "content": "",
+   "periodLabel": "Tiết 349–352 (4 tiết)",
+   "periodFrom": 349,
+   "periodTo": 352,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-152",
+   "semester": 2,
+   "week": 30,
+   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
+   "title": "Bài 5: Cây liễu dẻo dai",
+   "content": "",
+   "periodLabel": "Tiết 353–356 (4 tiết)",
+   "periodFrom": 353,
+   "periodTo": 356,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-153",
+   "semester": 2,
+   "week": 30,
+   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
+   "title": "Ôn tập chủ đề 6: Thiên nhiên kì thú",
+   "content": "",
+   "periodLabel": "Tiết 357–358 (2 tiết)",
+   "periodFrom": 357,
+   "periodTo": 358,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-154",
+   "semester": 2,
+   "week": 30,
+   "theme": "HỌC KÌ II · Chủ điểm 6: THIÊN NHIÊN KÌ THÚ",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 359–360 (2 tiết)",
+   "periodFrom": 359,
+   "periodTo": 360,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-155",
+   "semester": 2,
+   "week": 31,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Bài 1: Tia nắng đi đâu?",
+   "content": "",
+   "periodLabel": "Tiết 361–362 (2 tiết)",
+   "periodFrom": 361,
+   "periodTo": 362,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-156",
+   "semester": 2,
+   "week": 31,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Bài 2: Trong giấc mơ buổi sáng",
+   "content": "",
+   "periodLabel": "Tiết 363–364 (2 tiết)",
+   "periodFrom": 363,
+   "periodTo": 364,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-157",
+   "semester": 2,
+   "week": 31,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Bài 3: Ngày mới bắt đầu",
+   "content": "",
+   "periodLabel": "Tiết 365–368 (4 tiết)",
+   "periodFrom": 365,
+   "periodTo": 368,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-158",
+   "semester": 2,
+   "week": 31,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Bài 4: Hỏi mẹ",
+   "content": "",
+   "periodLabel": "Tiết 369–370 (2 tiết)",
+   "periodFrom": 369,
+   "periodTo": 370,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-159",
+   "semester": 2,
+   "week": 31,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 371–372 (2 tiết)",
+   "periodFrom": 371,
+   "periodTo": 372,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-160",
+   "semester": 2,
+   "week": 32,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Bài 5: Những cánh cò",
+   "content": "",
+   "periodLabel": "Tiết 373–376 (4 tiết)",
+   "periodFrom": 373,
+   "periodTo": 376,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-161",
+   "semester": 2,
+   "week": 32,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Bài 6: Buổi trưa hè",
+   "content": "",
+   "periodLabel": "Tiết 377–378 (2 tiết)",
+   "periodFrom": 377,
+   "periodTo": 378,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-162",
+   "semester": 2,
+   "week": 32,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Bài 7: Hoa phượng",
+   "content": "",
+   "periodLabel": "Tiết 379–380 (2 tiết)",
+   "periodFrom": 379,
+   "periodTo": 380,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-163",
+   "semester": 2,
+   "week": 32,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Ôn tập chủ đề 7: Thế giới trong mắt em",
+   "content": "",
+   "periodLabel": "Tiết 381–382 (2 tiết)",
+   "periodFrom": 381,
+   "periodTo": 382,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-164",
+   "semester": 2,
+   "week": 32,
+   "theme": "HỌC KÌ II · Chủ điểm 7: THẾ GIỚI TRONG MẮT EM",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 383–384 (2 tiết)",
+   "periodFrom": 383,
+   "periodTo": 384,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-165",
+   "semester": 2,
+   "week": 33,
+   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
+   "title": "Bài 1: Cậu bé thông minh",
+   "content": "",
+   "periodLabel": "Tiết 385–388 (4 tiết)",
+   "periodFrom": 385,
+   "periodTo": 388,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-166",
+   "semester": 2,
+   "week": 33,
+   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
+   "title": "Bài 2: Lính cứu hoả",
+   "content": "",
+   "periodLabel": "Tiết 389–392 (4 tiết)",
+   "periodFrom": 389,
+   "periodTo": 392,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-167",
+   "semester": 2,
+   "week": 33,
+   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
+   "title": "Bài 3: Lớn lên bạn làm gì?",
+   "content": "",
+   "periodLabel": "Tiết 393–394 (2 tiết)",
+   "periodFrom": 393,
+   "periodTo": 394,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-168",
+   "semester": 2,
+   "week": 33,
+   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 395–396 (2 tiết)",
+   "periodFrom": 395,
+   "periodTo": 396,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-169",
+   "semester": 2,
+   "week": 34,
+   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
+   "title": "Bài 4: Ruộng bậc thang ở Sa Pa",
+   "content": "",
+   "periodLabel": "Tiết 397–398 (2 tiết)",
+   "periodFrom": 397,
+   "periodTo": 398,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-170",
+   "semester": 2,
+   "week": 34,
+   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
+   "title": "Bài 5: Nhớ ơn",
+   "content": "",
+   "periodLabel": "Tiết 399–400 (2 tiết)",
+   "periodFrom": 399,
+   "periodTo": 400,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-171",
+   "semester": 2,
+   "week": 34,
+   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
+   "title": "Bài 6: Du lịch biển Việt Nam",
+   "content": "",
+   "periodLabel": "Tiết 401–404 (4 tiết)",
+   "periodFrom": 401,
+   "periodTo": 404,
+   "periods": 4,
+   "lessonPeriods": 4,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-172",
+   "semester": 2,
+   "week": 34,
+   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
+   "title": "Ôn tập chủ đề 8: Đất nước và con người",
+   "content": "",
+   "periodLabel": "Tiết 405–406 (2 tiết)",
+   "periodFrom": 405,
+   "periodTo": 406,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-173",
+   "semester": 2,
+   "week": 34,
+   "theme": "HỌC KÌ II · Chủ điểm 8: ĐẤT NƯỚC VÀ CON NGƯỜI",
+   "title": "Ôn luyện (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 407–408 (2 tiết)",
+   "periodFrom": 407,
+   "periodTo": 408,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-174",
+   "semester": 2,
    "week": 35,
    "theme": "ÔN TẬP CUỐI NĂM",
-   "title": "Đánh giá cuối năm học (đọc thành tiếng, đọc hiểu, viết câu).",
+   "title": "Ôn tập cuối năm: Bài 1",
    "content": "",
-   "periodLabel": "Tiết 415–420 (6 tiết)",
+   "periodLabel": "Tiết 409–410 (2 tiết)",
+   "periodFrom": 409,
+   "periodTo": 410,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-175",
+   "semester": 2,
+   "week": 35,
+   "theme": "ÔN TẬP CUỐI NĂM",
+   "title": "Ôn tập cuối năm: Bài 2",
+   "content": "",
+   "periodLabel": "Tiết 411–412 (2 tiết)",
+   "periodFrom": 411,
+   "periodTo": 412,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-176",
+   "semester": 2,
+   "week": 35,
+   "theme": "ÔN TẬP CUỐI NĂM",
+   "title": "Ôn tập cuối năm: Bài 3",
+   "content": "",
+   "periodLabel": "Tiết 413–414 (2 tiết)",
+   "periodFrom": 413,
+   "periodTo": 414,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-177",
+   "semester": 2,
+   "week": 35,
+   "theme": "ÔN TẬP CUỐI NĂM",
+   "title": "Luyện tập (tăng cường)",
+   "content": "",
+   "periodLabel": "Tiết 415–416 (2 tiết)",
    "periodFrom": 415,
+   "periodTo": 416,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l1-tieng-viet-178",
+   "semester": 2,
+   "week": 35,
+   "theme": "ÔN TẬP CUỐI NĂM",
+   "title": "Đánh giá cuối năm học (đọc thành tiếng, đọc hiểu, viết câu)",
+   "content": "",
+   "periodLabel": "Tiết 417–420 (4 tiết)",
+   "periodFrom": 417,
    "periodTo": 420,
-   "periods": 6,
-   "lessonPeriods": 6,
+   "periods": 4,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2339,8 +3366,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Tieng Viet - Lop 1.docx",
   "name": "Tieng Viet - Lop 1.docx",
-  "original": "KHDH Tiếng Việt lớp 1 (2026-2027) (đã rà soát).docx",
-  "size": 13956,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 47776,
+  "updated": "2026-09-07"
  }
 }
