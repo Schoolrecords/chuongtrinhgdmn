@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 257,
-  "integrations": 50
+  "integrations": 56
  },
  "lessons": [
   {
@@ -254,7 +254,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh bìa vài cuốn sách, bài thơ viết về trẻ em cho HS chọn bài đọc mở rộng; HS nói tên sách, tên tác giả mình chọn"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "HS chia sẻ trước lớp điều thú vị vừa đọc, GV chiếu trang sách bạn giới thiệu để cả lớp cùng xem"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ đọc sách, báo dành cho thiếu nhi do thầy cô, cha mẹ chọn; giới thiệu sách phải nói rõ tên sách và tên tác giả."
+    }
+   ],
    "note": ""
   },
   {
@@ -494,7 +510,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở sẵn vài bài viết ngắn về hoạt động của thiếu nhi trên báo Nhi đồng bản điện tử; HS chọn một bài, đọc và nói việc bạn nhỏ trong bài đã làm"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "HS kể lại trước lớp, GV chiếu ảnh minh hoạ của bài viết để cả lớp cùng theo dõi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ đọc trang báo thiếu nhi thầy cô mở sẵn, không tự tìm trên mạng; nói rõ bài viết lấy từ đâu."
+    }
+   ],
    "note": ""
   },
   {
@@ -4675,7 +4707,7 @@
   "file": "assets/docs/lop2/Tieng Viet - Lop 2.docx",
   "name": "Tieng Viet - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 51911,
+  "size": 52256,
   "updated": "2026-09-07"
  }
 }

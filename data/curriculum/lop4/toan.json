@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 47
+  "integrations": 50
  },
  "lessons": [
   {
@@ -318,7 +318,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV vẽ sơ đồ đoạn thẳng trên máy rồi kéo thay đổi số liệu, sơ đồ dài ngắn theo nhưng cách giải không đổi; HS nêu lại các bước giải bằng lời của mình"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS nhập một dãy số liệu thật của lớp (số sách đã đọc, số phút tập thể dục) vào bảng tính, tính tổng và trung bình cộng rồi đối chiếu với kết quả tính tay"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tự trình bày bài giải trước, chỉ dùng máy để kiểm tra lại; không chụp đề nhờ máy giải hộ; số liệu về bạn chỉ dùng trong lớp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3355,7 +3371,7 @@
   "file": "assets/docs/lop4/Toan - Lop 4.docx",
   "name": "Toan - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47165,
+  "size": 47369,
   "updated": "2026-09-07"
  }
 }
