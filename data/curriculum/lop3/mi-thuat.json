@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Mĩ thuật lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-04"
+  "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 37
+  "integrations": 14
  },
  "lessons": [
   {
@@ -22,7 +22,7 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ đề 1: EM YÊU MĨ THUẬT",
-   "title": "EM YÊU MĨ THUẬT",
+   "title": "Chủ đề 1: EM YÊU MĨ THUẬT",
    "content": "",
    "periodLabel": "Tiết 1 (1 tiết)",
    "periodFrom": 1,
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+     "text": "GV chiếu ảnh, video ngắn về hoạt động mĩ thuật trong và ngoài trường: vẽ, xé dán, nặn, trưng bày; HS kể hoạt động đã tham gia"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh tranh vẽ, tranh xé dán, tượng nặn; HS xếp ảnh trên màn hình thành hai nhóm 2D và 3D, nói căn cứ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV mở tập ảnh chuẩn bị sẵn; HS xem mười phút thì nghỉ mắt."
     }
    ],
    "note": ""
@@ -44,7 +54,7 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC",
-   "title": "HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC (Tiết 1)",
+   "title": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 2 (2 tiết)",
    "periodFrom": 2,
@@ -56,61 +66,43 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
+     "text": "GV chiếu video lễ hội rồi phóng to ảnh trang phục dân tộc Mông, Chăm đến mức rõ nét thêu; HS nhận ra hoa văn hình gì"
     },
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV đặt hai ảnh hoa văn hai dân tộc cạnh nhau; HS đối chiếu điểm khác về hình, màu, cách sắp xếp rồi chọn mẫu chép"
     },
     {
-     "code": "GDĐP",
+     "code": "NLS-AT",
      "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
+     "text": "Gọi đúng tên dân tộc, không chê bai trang phục dân tộc khác."
     }
    ],
-   "note": "",
-   "gddpBoSung": true
+   "note": ""
   },
   {
    "id": "l3-mi-thuat-003",
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC",
-   "title": "HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC (Tiết 2)",
+   "title": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 3",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l3-mi-thuat-004",
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 3: MÀU SẮC EM YÊU",
-   "title": "MÀU SẮC EM YÊU (Tiết 1)",
+   "title": "Chủ đề 3: MÀU SẮC EM YÊU (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 4 (3 tiết)",
    "periodFrom": 4,
@@ -132,21 +124,15 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề 3: MÀU SẮC EM YÊU",
-   "title": "MÀU SẮC EM YÊU (Tiết 2)",
+   "title": "Chủ đề 3: MÀU SẮC EM YÊU (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 5",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -154,21 +140,15 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề 3: MÀU SẮC EM YÊU",
-   "title": "MÀU SẮC EM YÊU (Tiết 3)",
+   "title": "Chủ đề 3: MÀU SẮC EM YÊU (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 6",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -176,7 +156,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI",
-   "title": "VẺ ĐẸP CỦA KHỐI (Tiết 1)",
+   "title": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (3 tiết)",
    "periodFrom": 7,
@@ -198,21 +178,15 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI",
-   "title": "VẺ ĐẸP CỦA KHỐI (Tiết 2)",
+   "title": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -220,21 +194,15 @@
    "semester": 1,
    "week": 9,
    "theme": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI",
-   "title": "VẺ ĐẸP CỦA KHỐI (Tiết 3)",
+   "title": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 9",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -242,7 +210,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT",
-   "title": "MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 1)",
+   "title": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 10 (3 tiết)",
    "periodFrom": 10,
@@ -264,21 +232,15 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT",
-   "title": "MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 2)",
+   "title": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 11",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -286,21 +248,15 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT",
-   "title": "MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 3)",
+   "title": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 12",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -308,7 +264,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
-   "title": "BIẾT ƠN THẦY CÔ (Tiết 1)",
+   "title": "Chủ đề 6: BIẾT ƠN THẦY CÔ (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 13 (4 tiết)",
    "periodFrom": 13,
@@ -321,11 +277,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -335,26 +286,15 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
-   "title": "BIẾT ƠN THẦY CÔ (Tiết 2)",
+   "title": "Chủ đề 6: BIẾT ƠN THẦY CÔ (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 14",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -362,26 +302,15 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
-   "title": "BIẾT ƠN THẦY CÔ (Tiết 3)",
+   "title": "Chủ đề 6: BIẾT ƠN THẦY CÔ (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 15",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -389,26 +318,15 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
-   "title": "BIẾT ƠN THẦY CÔ (Tiết 4)",
+   "title": "Chủ đề 6: BIẾT ƠN THẦY CÔ (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 16",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -416,7 +334,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập, đánh giá cuối học kì I",
+   "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -425,14 +343,14 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
-   "note": "Tổ CM cân nhắc chuyển tiết đánh giá cuối HKI sang tuần 18"
+   "note": ""
   },
   {
    "id": "l3-mi-thuat-018",
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
-   "title": "CẢNH VẬT QUANH EM (Tiết 1)",
+   "title": "Chủ đề 7: CẢNH VẬT QUANH EM (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 18 (4 tiết)",
    "periodFrom": 18,
@@ -454,21 +372,15 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
-   "title": "CẢNH VẬT QUANH EM (Tiết 2)",
+   "title": "Chủ đề 7: CẢNH VẬT QUANH EM (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 19",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -476,21 +388,15 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
-   "title": "CẢNH VẬT QUANH EM (Tiết 3)",
+   "title": "Chủ đề 7: CẢNH VẬT QUANH EM (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 20",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -498,21 +404,15 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
-   "title": "CẢNH VẬT QUANH EM (Tiết 4)",
+   "title": "Chủ đề 7: CẢNH VẬT QUANH EM (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 21",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -520,7 +420,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 1)",
+   "title": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 22 (4 tiết)",
    "periodFrom": 22,
@@ -533,11 +433,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -547,26 +442,15 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 2)",
+   "title": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 23",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -574,26 +458,15 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 3)",
+   "title": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 24",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -601,26 +474,15 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 4)",
+   "title": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 25",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -628,7 +490,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
-   "title": "SINH HOẠT TRONG GIA ĐÌNH (Tiết 1)",
+   "title": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 26 (4 tiết)",
    "periodFrom": 26,
@@ -644,13 +506,13 @@
    "semester": 2,
    "week": 27,
    "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
-   "title": "SINH HOẠT TRONG GIA ĐÌNH (Tiết 2)",
+   "title": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 27",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -660,13 +522,13 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
-   "title": "SINH HOẠT TRONG GIA ĐÌNH (Tiết 3)",
+   "title": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 28",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -676,13 +538,13 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
-   "title": "SINH HOẠT TRONG GIA ĐÌNH (Tiết 4)",
+   "title": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 29",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -692,7 +554,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
-   "title": "AN TOÀN GIAO THÔNG (Tiết 1)",
+   "title": "Chủ đề 10: AN TOÀN GIAO THÔNG (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 30 (4 tiết)",
    "periodFrom": 30,
@@ -708,13 +570,13 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
-   "title": "AN TOÀN GIAO THÔNG (Tiết 2)",
+   "title": "Chủ đề 10: AN TOÀN GIAO THÔNG (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 31",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -724,13 +586,13 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
-   "title": "AN TOÀN GIAO THÔNG (Tiết 3)",
+   "title": "Chủ đề 10: AN TOÀN GIAO THÔNG (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 32",
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -740,13 +602,13 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
-   "title": "AN TOÀN GIAO THÔNG (Tiết 4)",
+   "title": "Chủ đề 10: AN TOÀN GIAO THÔNG (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 33",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -782,19 +644,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "Triển lãm sản phẩm STEM cuối học kì 2"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
     },
     {
-     "code": "KNS",
+     "code": "STEM",
      "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
+     "text": "Triển lãm sản phẩm STEM cuối học kì 2"
     }
    ],
    "note": ""
@@ -1072,8 +929,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Mi thuat - Lop 3.docx",
   "name": "Mi thuat - Lop 3.docx",
-  "original": "KHDH Mĩ thuật lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 16892,
-  "updated": "2026-09-04"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 42419,
+  "updated": "2026-09-07"
  }
 }

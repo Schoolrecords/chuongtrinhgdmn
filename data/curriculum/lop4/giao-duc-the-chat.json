@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH GDTC lớp 4 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 12
+  "integrations": 16
  },
  "lessons": [
   {
@@ -34,12 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
+     "text": "GV chiếu video đi đều vòng bên phải, tua chậm đoạn người đầu hàng bước ngắn làm trụ; kèm hình về vệ sinh sân tập, dinh dưỡng"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV quay một tổ đi đều bằng điện thoại, mở cạnh video mẫu; HS tự tìm lỗi hàng bị cắt, tay sai nhịp, nêu điểm cần sửa"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+     "text": "Xem clip xong cất thiết bị; không nhìn màn hình quá 5 phút."
     }
    ],
    "note": ""
@@ -61,12 +66,12 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
+     "text": "GV chiếu video kĩ thuật đi đều vòng bên phải trên tivi ở phần hình thành kiến thức của bài “Đi đều vòng bên phải (Tiết 2)”"
     },
     {
-     "code": "KNS",
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+     "text": "Xem video theo hàng, đứng cách tivi đủ xa, không chen lấn vào dây điện, ổ cắm"
     }
    ],
    "note": ""
@@ -84,7 +89,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu sơ đồ nhìn từ trên xuống có mũi tên khi đi đều vòng bên trái; HS đọc sơ đồ, dự đoán tổ mình đi qua đâu"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi tổ vẽ lại sơ đồ đường đi của tổ trên bảng con, đánh dấu chỗ chồng lấn; GV chụp chiếu lên tivi để so sánh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thiết bị đặt ngoài đường di chuyển; không vừa đi vừa xem màn hình."
+    }
+   ],
    "note": ""
   },
   {
@@ -100,7 +121,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Trong phần luyện tập bài “Đi đều vòng bên trái (Tiết 2)”, GV dùng điện thoại quay một lượt tổ đi đều vòng bên trái rồi chiếu lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ quay để lớp xem lại tại chỗ rồi xoá, không đăng lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -180,7 +212,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
+    }
+   ],
    "note": ""
   },
   {
@@ -299,7 +337,7 @@
    "id": "l4-giao-duc-the-chat-017",
    "semester": 1,
    "week": 9,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập, vận dụng: Đội hình đội ngũ và bài thể dục với vòng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
@@ -315,7 +353,7 @@
    "id": "l4-giao-duc-the-chat-018",
    "semester": 1,
    "week": 9,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập, vận dụng: Đội hình đội ngũ và bài thể dục với vòng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
@@ -331,7 +369,7 @@
    "id": "l4-giao-duc-the-chat-019",
    "semester": 1,
    "week": 10,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "ÔN TẬP GIỮA HỌC KÌ I: Đội hình đội ngũ và bài thể dục với vòng",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
@@ -347,7 +385,7 @@
    "id": "l4-giao-duc-the-chat-020",
    "semester": 1,
    "week": 10,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "ÔN TẬP, ĐÁNH GIÁ GIỮA HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
@@ -372,7 +410,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
+    }
+   ],
    "note": ""
   },
   {
@@ -490,13 +534,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -511,7 +549,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Điều chỉnh: chuyển Bài 3 bóng rổ lên tuần 15–16; ôn tập và đánh giá cuối HKI thực hiện trong tuần 17–18",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -568,7 +606,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Thể thao tự chọn: Bóng rổ",
-   "title": "Thể thao tự chọn: Bóng rổ — Ôn tập Bài 1–3 (điều khiển, dẫn, chuyền bắt bóng)",
+   "title": "Thể thao tự chọn: Bóng rổ — Ôn tập Bài 1–2 (điều khiển và dẫn bóng) (Tiết ôn)",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
    "periodFrom": 33,
@@ -583,7 +621,7 @@
    "id": "l4-giao-duc-the-chat-034",
    "semester": 1,
    "week": 17,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "ÔN TẬP CUỐI HỌC KÌ I: Hệ thống đội hình đội ngũ, bài thể dục với vòng và bóng rổ",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
@@ -599,8 +637,8 @@
    "id": "l4-giao-duc-the-chat-035",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP CUỐI HỌC KÌ I: Hoàn thiện, chuẩn bị đánh giá (Tiết ôn)",
+   "theme": "Ôn tập, đánh giá",
+   "title": "ÔN TẬP CUỐI HỌC KÌ I: Hoàn thiện, chuẩn bị kiểm tra (Tiết ôn)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -615,7 +653,7 @@
    "id": "l4-giao-duc-the-chat-036",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
@@ -741,11 +779,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 2",
      "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
     }
    ],
    "note": ""
@@ -763,18 +796,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -845,7 +867,7 @@
    "id": "l4-giao-duc-the-chat-049",
    "semester": 2,
    "week": 25,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "ÔN TẬP GIỮA HỌC KÌ II: Bóng rổ, thăng bằng và bật xa",
    "content": "",
    "periodLabel": "Tiết 49 (1 tiết)",
@@ -861,7 +883,7 @@
    "id": "l4-giao-duc-the-chat-050",
    "semester": 2,
    "week": 25,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "ÔN TẬP, ĐÁNH GIÁ GIỮA HỌC KÌ II",
    "content": "",
    "periodLabel": "Tiết 50 (1 tiết)",
@@ -1014,7 +1036,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
+    }
+   ],
    "note": ""
   },
   {
@@ -1032,9 +1060,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN phòng tránh đuối nước — kĩ năng sống thiết yếu với học sinh tiểu học."
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
     }
    ],
    "note": ""
@@ -1052,13 +1080,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN phòng tránh đuối nước — kĩ năng sống thiết yếu với học sinh tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1145,7 +1167,7 @@
    "id": "l4-giao-duc-the-chat-067",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "ÔN TẬP CUỐI NĂM: Hệ thống các chủ đề đã học",
    "content": "",
    "periodLabel": "Tiết 67 (1 tiết)",
@@ -1161,7 +1183,7 @@
    "id": "l4-giao-duc-the-chat-068",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "ÔN TẬP CUỐI NĂM: Hoàn thiện, chuẩn bị kiểm tra (Tiết ôn)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
@@ -1177,7 +1199,7 @@
    "id": "l4-giao-duc-the-chat-069",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI NĂM HỌC",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
@@ -1193,7 +1215,7 @@
    "id": "l4-giao-duc-the-chat-070",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "TỔNG KẾT NĂM HỌC: Đánh giá, định hướng rèn luyện hè",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
@@ -1478,8 +1500,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Giao duc the chat - Lop 4.docx",
   "name": "Giao duc the chat - Lop 4.docx",
-  "original": "KHDH GDTC lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 10699,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 44101,
+  "updated": "2026-09-07"
  }
 }

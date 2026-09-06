@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH HĐTN lớp 4 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 64
+  "integrations": 27
  },
  "lessons": [
   {
@@ -32,9 +32,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Sau nghi lễ chào cờ theo chủ điểm “Chào năm học mới”, GVCN chiếu lên tivi lớp vài ảnh"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+     "text": "Ảnh, video của trường chỉ chiếu trong lớp; HS không tự chụp, đăng ảnh bạn lên mạng"
     }
    ],
    "note": ""
@@ -54,14 +59,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
+     "text": "HS làm bông hoa năm cánh bằng bìa ghi đặc điểm đáng yêu; GV chụp hoa từng em, ghép thành vườn hoa chiếu lên tivi"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Nhóm 4 xem ảnh hoa của bạn, nói một lời khen cụ thể; GV dạy cách khen, góp ý tôn trọng trong nhóm lớp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+     "text": "Sản phẩm không đưa địa chỉ, số điện thoại; xin phép khi dùng ảnh gia đình."
     }
    ],
    "note": ""
@@ -81,14 +91,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
+     "text": "Đánh giá tuần trên bảng theo dõi thi đua mở trên máy tính lớp: tổ trưởng đọc kết quả để GV nhập, máy vẽ biểu đồ"
     },
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS thể hiện khả năng hát, kể chuyện, võ thuật trước lớp; GV quay bằng điện thoại, chiếu lên tivi, mỗi bạn nói một lời ghi nhận"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+     "text": "Nhận xét bạn tế nhị, dựa trên việc cụ thể; xin phép trước khi chụp ảnh bạn."
     }
    ],
    "note": ""
@@ -108,9 +123,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Sau phần sinh hoạt dưới cờ chủ điểm “Câu lạc bộ của em”, GVCN chiếu lên tivi hình ảnh"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+     "text": "Chỉ xem hình, video câu lạc bộ do GV, nhà trường cung cấp"
     }
    ],
    "note": ""
@@ -130,14 +150,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
+     "text": "HS ghi việc làm đáng tự hào vào bảng theo mẫu SGK trang 8; GV chụp bảng của vài HS chiếu lên tivi, HS giới thiệu"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS nghe bạn giới thiệu qua màn hình rồi hỏi thêm một câu, nói lời động viên; GV nhắc cách góp ý tôn trọng khi nhắn nhóm lớp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+     "text": "Sản phẩm không đưa địa chỉ, số điện thoại; xin phép khi dùng ảnh gia đình."
     }
    ],
    "note": ""
@@ -157,14 +182,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
+     "text": "GV mở bảng theo dõi thi đua trên máy tính; tổ trưởng báo kết quả để nhập, máy vẽ biểu đồ so sánh các tổ"
     },
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS chia sẻ theo cặp việc làm đáng tự hào; GV chiếu ảnh HS gửi về việc đã làm ở nhà, HS nói cảm xúc"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+     "text": "Nhận xét bạn tế nhị, dựa trên việc cụ thể; xin phép trước khi chụp ảnh bạn."
     }
    ],
    "note": ""
@@ -174,7 +204,7 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề: NHẬN DIỆN BẢN THÂN",
-   "title": "Sinh hoạt dưới cờ: GIAO LƯU TÀI NĂNG HỌC TRÒ VỚI CHỦ ĐỀ “NỤ CƯỜI LAN TỎA NIỀM VUI”",
+   "title": "Sinh hoạt dưới cờ: GIAO LƯU TÀI NĂNG HỌC TRÒ VỚI CHỦ ĐỀ :”NỤ CƯỜI LAN TỎA NIỀM VUI”",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
    "periodFrom": 7,
@@ -187,11 +217,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
     }
    ],
    "note": ""
@@ -209,18 +234,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -236,13 +250,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -250,7 +258,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề: NHẬN DIỆN BẢN THÂN",
-   "title": "Sinh hoạt dưới cờ: NGÀY HỘI “CÙNG LÀM CÙNG VUI”",
+   "title": "Sinh hoạt dưới cờ: NGÀY HỘI :”CÙNG LÀM CÙNG VUI”",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -258,13 +266,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -280,18 +282,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -307,13 +298,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -321,7 +306,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề: NHẬN DIỆN BẢN THÂN",
-   "title": "Sinh hoạt dưới cờ: “TRUNG THU CỦA EM”",
+   "title": "Sinh hoạt dưới cờ: \"TRUNG THU CỦA EM\"",
    "content": "",
    "periodLabel": "Tiết 13 (1 tiết)",
    "periodFrom": 13,
@@ -329,13 +314,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -375,7 +354,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề: NẾP SỐNG VÀ TƯ DUY KHOA HỌC",
-   "title": "Sinh hoạt dưới cờ: “CUỘC PHIÊU LƯU CỦA SÁCH BÚT”",
+   "title": "Sinh hoạt dưới cờ: \"CUỘC PHIÊU LƯU CỦA SÁCH BÚT\"",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -423,7 +402,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề: NẾP SỐNG VÀ TƯ DUY KHOA HỌC",
-   "title": "Sinh hoạt dưới cờ: “HỘI CHỢ ĐỒ TÁI CHẾ”",
+   "title": "Sinh hoạt dưới cờ: \"HỘI CHỢ ĐỒ TÁI CHẾ\"",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
@@ -471,7 +450,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề: NẾP SỐNG VÀ TƯ DUY KHOA HỌC",
-   "title": "Sinh hoạt dưới cờ: “NGÀY HỘI STEM”",
+   "title": "Sinh hoạt dưới cờ: \"NGÀY HỘI STEM\"",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -519,7 +498,7 @@
    "semester": 1,
    "week": 9,
    "theme": "Chủ đề: NẾP SỐNG VÀ TƯ DUY KHOA HỌC",
-   "title": "Sinh hoạt dưới cờ: “GÓC ĐỌC XANH”",
+   "title": "Sinh hoạt dưới cờ: \"GÓC ĐỌC XANH\"",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
    "periodFrom": 25,
@@ -567,7 +546,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề: YÊU TRƯỜNG, MẾN LỚP",
-   "title": "Sinh hoạt dưới cờ: “MÁI TRƯỜNG THÂN YÊU”",
+   "title": "Sinh hoạt dưới cờ: \"MÁI TRƯỜNG THÂN YÊU\"",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -615,7 +594,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề: YÊU TRƯỜNG, MẾN LỚP",
-   "title": "Sinh hoạt dưới cờ: “ĐỘI VIÊN CÙNG TIẾN”",
+   "title": "Sinh hoạt dưới cờ: \"ĐỘI VIÊN CÙNG TIẾN\"",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
    "periodFrom": 31,
@@ -623,13 +602,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -675,7 +648,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề: YÊU TRƯỜNG, MẾN LỚP",
-   "title": "Sinh hoạt dưới cờ: “CHÀO MỪNG NGÀY NHÀ GIÁO VIỆT NAM 20-11”",
+   "title": "Sinh hoạt dưới cờ: \"CHÀO MỪNG NGÀY NHÀ GIÁO VIỆT NAM 20-11\"",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -723,7 +696,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề: YÊU TRƯỜNG, MẾN LỚP",
-   "title": "Sinh hoạt dưới cờ: “TỰ HỌC TỰ LÀM”",
+   "title": "Sinh hoạt dưới cờ: \"TỰ HỌC TỰ LÀM\"",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
    "periodFrom": 37,
@@ -771,7 +744,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề: TỰ LỰC THỰC HIỆN NHIỆM VỤ",
-   "title": "Sinh hoạt dưới cờ: “KẾ HOẠCH HOẠT ĐỘNG TẠI THƯ VIỆN”",
+   "title": "Sinh hoạt dưới cờ: \"KẾ HOẠCH HOẠT ĐỘNG TẠI THƯ VIỆN\"",
    "content": "",
    "periodLabel": "Tiết 40 (1 tiết)",
    "periodFrom": 40,
@@ -779,13 +752,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -817,13 +784,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -831,7 +792,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề: TỰ LỰC THỰC HIỆN NHIỆM VỤ",
-   "title": "Sinh hoạt dưới cờ: “CHÀO MỪNG NGÀY THÀNH LẬP QUÂN ĐỘI NHÂN DÂN 22-12”",
+   "title": "Sinh hoạt dưới cờ: \"CHÀO MỪNG NGÀY THÀNH LẬP QUÂN ĐỘI NHÂN DÂN 22-12\"",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
    "periodFrom": 43,
@@ -839,13 +800,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -989,13 +944,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1067,7 +1016,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề: MÁI ẤM GIA ĐÌNH",
-   "title": "SHL: LỰA CHỌN CHI TIÊU “CẦN, MUỐN VÀ CÓ THỂ”",
+   "title": "SHL: LỰA CHỌN CHI TIÊU \"CẦN, MUỐN VÀ CÓ THỂ\"",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
    "periodFrom": 57,
@@ -1075,13 +1024,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1161,13 +1104,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1183,13 +1120,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1205,13 +1136,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1227,13 +1152,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1249,13 +1168,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1271,13 +1184,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1293,13 +1200,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1359,13 +1260,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1381,13 +1276,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1403,13 +1292,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1447,13 +1330,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1469,18 +1346,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1496,13 +1362,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1518,13 +1378,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1540,13 +1394,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1562,13 +1410,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1584,13 +1426,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1606,13 +1442,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1644,20 +1474,8 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l4-hoat-dong-trai-nghiem-085",
@@ -1800,13 +1618,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1866,13 +1678,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1888,13 +1694,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1910,13 +1710,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1932,13 +1726,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1954,13 +1742,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1976,13 +1758,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2025,11 +1801,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
     }
    ],
    "note": ""
@@ -2039,7 +1810,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Chủ đề: THEO DẤU NGHỆ NHÂN",
-   "title": "HĐGD chủ đề: THEO DẤU NGHỆ NHÂN",
+   "title": "HĐGD chủ đề: TRẢI NGHIỆM NGHỀ TRUYỀN THỐNG",
    "content": "",
    "periodLabel": "Tiết 104 (1 tiết)",
    "periodFrom": 104,
@@ -2060,7 +1831,7 @@
    "id": "l4-hoat-dong-trai-nghiem-105",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: THEO DẤU NGHỆ NHÂN",
+   "theme": "Chủ đề: TRẢI NGHIỆM NGHỀ TRUYỀN THỐNG",
    "title": "SHL: CHIA SẺ YÊU THƯƠNG",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
@@ -2351,8 +2122,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Hoat dong trai nghiem - Lop 4.docx",
   "name": "Hoat dong trai nghiem - Lop 4.docx",
-  "original": "KHDH HĐTN lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 14015,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45675,
+  "updated": "2026-09-07"
  }
 }

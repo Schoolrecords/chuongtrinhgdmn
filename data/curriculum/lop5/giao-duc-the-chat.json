@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH GDTC lớp 5 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 42
+  "integrations": 12
  },
  "lessons": [
   {
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở video mẫu tập hợp hàng, dóng hàng, quay các hướng, dừng ở từng khẩu lệnh; HS quan sát tư thế, nói tổ mình sẽ làm gì"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV quay đoạn ngắn lúc tổ tập bằng điện thoại; tổ xem lại trên màn hình, đánh dấu chỗ hàng chưa thẳng, nêu cách sửa"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+     "text": "Thiết bị đặt ngoài đường di chuyển; không vừa đi vừa xem màn hình."
     }
    ],
    "note": ""
@@ -54,9 +64,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu video kĩ thuật của bài “Phối hợp các động tác đội hình đội ngũ đã học”, cho HS xem chậm để nhận ra khẩu lệnh"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+     "text": "Chỉ quay clip khi HS đồng ý, không đăng lên mạng xã hội, xoá sau khi dùng"
     }
    ],
    "note": ""
@@ -76,9 +91,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu sơ đồ: chấm đánh số 1, 2, 3 và mũi tên khi biến đổi đội hình; HS đọc sơ đồ, nói mình bước sang đâu"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi tổ vẽ lại sơ đồ biến đổi đội hình của tổ trên bảng con hoặc ứng dụng vẽ trên máy GV, đánh dấu chỗ bước chưa đều"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+     "text": "Thiết bị đặt ngoài đường di chuyển; không vừa đi vừa xem màn hình."
     }
    ],
    "note": ""
@@ -98,9 +123,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Với bài “Bài tập phối hợp biến đổi đội hình”, GV chiếu sơ đồ động trên tivi mô tả cách một hàng ngang tách thành hai"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+     "text": "Chỉ xem sơ đồ, video ở khu vực GV bố trí, không mang điện thoại ra sân tập"
     }
    ],
    "note": ""
@@ -118,13 +148,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -140,13 +164,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -162,13 +180,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -184,13 +196,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -206,13 +212,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -228,13 +228,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -250,13 +244,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -272,13 +260,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -294,13 +276,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -316,13 +292,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -376,13 +346,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -398,13 +362,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -420,13 +378,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -442,13 +394,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -464,13 +410,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -486,13 +426,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -540,13 +474,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -562,13 +490,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -727,9 +649,9 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Điều chỉnh: chuyển tiết đánh giá cuối học kì I về tuần 18 (đổi chỗ với Bài 2; Tiết 6)",
    "integrations": [],
-   "note": "Điều chỉnh: chuyển tiết đánh giá cuối HKI về tuần 18"
+   "note": ""
   },
   {
    "id": "l5-giao-duc-the-chat-037",
@@ -743,15 +665,9 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
-   "note": "Bài 2 (Tiết 6) chuyển sang tuần 19"
+   "adjustments": "Điều chỉnh: Bài 2 (Tiết 6) chuyển sang tuần 19",
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l5-giao-duc-the-chat-038",
@@ -766,13 +682,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1018,13 +928,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1040,13 +944,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1062,13 +960,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1084,13 +976,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1106,13 +992,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1128,13 +1008,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1150,13 +1024,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1172,13 +1040,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1194,13 +1056,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1216,13 +1072,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1238,13 +1088,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1260,13 +1104,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1282,13 +1120,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1304,13 +1136,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1326,13 +1152,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1348,13 +1168,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "xem video mẫu động tác; lưu ý an toàn, không quay/chia sẻ hình ảnh cá nhân khi chưa được phép."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1662,8 +1476,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Giao duc the chat - Lop 5.docx",
   "name": "Giao duc the chat - Lop 5.docx",
-  "original": "KHDH GDTC lớp 5 (2026-2027) (đã rà soát).docx",
-  "size": 9727,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 43463,
+  "updated": "2026-09-07"
  }
 }

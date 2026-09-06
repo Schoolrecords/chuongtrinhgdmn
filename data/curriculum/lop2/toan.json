@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Toán lớp 2 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 175,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 174,
-  "integrations": 27
+  "integrations": 54
  },
  "lessons": [
   {
@@ -30,7 +30,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng các số đến 100 tương tác, bấm ô 34, 51, 70 để HS đọc số, nêu chục, đơn vị; tô màu cột tròn chục"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài 1 dạng bảng ô trống: que tính – chục – đơn vị; HS nêu số cần điền, GV gõ, máy báo đúng sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chỉ giúp thấy quy luật, HS vẫn tự đọc, viết số."
+    }
+   ],
    "note": ""
   },
   {
@@ -44,9 +60,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng các số đến 100 tương tác, bấm ô 67, 59, 55; HS đọc số, nói mấy chục, mấy đơn vị; tô màu hàng cùng chục"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu sơ đồ tách số bài 1: ô 35 tách xuống 30 và 5; HS nêu cách tách, GV gõ, máy báo đúng sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chỉ giúp thấy quy luật, HS vẫn tự đọc, viết số."
+    }
+   ],
    "note": ""
   },
   {
@@ -60,9 +92,25 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh bài 1: rổ cà chua, viên bi; HS ước lượng mấy chục, GV khoanh trên ảnh từng nhóm 10 để đếm kiểm tra"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng các số đến 100 có ô trống; HS nêu số cần điền, máy báo đúng sai; HS tìm vị trí số đã đếm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chỉ giúp thấy quy luật, HS vẫn tự đọc, viết số."
+    }
+   ],
    "note": ""
   },
   {
@@ -78,7 +126,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh rô-bốt xếp táo ghi số 0 đến 10, rồi tia số; HS đọc số từng vạch, chỉ số ngay trước, sau số 4"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tia số tương tác, kéo con trỏ tới vạch nào số đó hiện, dịch trái, phải thấy số liền trước, liền sau"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chỉ giúp thấy quy luật, HS vẫn tự đọc, viết số."
+    }
+   ],
    "note": ""
   },
   {
@@ -92,9 +156,25 @@
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu mẫu tia số và ảnh tia số làm bằng bìa trước bài STEM; HS nêu tiêu chí: đúng thứ tự, vạch đều, có mũi tên"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chụp tia số từng nhóm bằng điện thoại chiếu lên; GV chỉ một số, HS nêu số liền trước, liền sau; nhóm sai tự chỉnh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chỉ giúp thấy quy luật, HS vẫn tự đọc, viết số."
+    }
+   ],
    "note": ""
   },
   {
@@ -110,7 +190,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động khám phá bài “Số hạng, tổng”, GV chiếu tranh bể cá trên tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở bài 1, sau khi HS làm phiếu, GV mở bảng số tương tác trên tivi, mời HS lên chạm chọn số điền vào ô tổng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Mỗi lần chỉ một HS lên thao tác, chạm nhẹ màn hình, không kéo dây điện"
+    }
+   ],
    "note": ""
   },
   {
@@ -124,9 +220,25 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động khám phá bài “Số bị trừ, số trừ, hiệu”, GV chiếu tranh đàn chim trên tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở bài 1, GV mở bài tập tương tác trên tivi: mỗi phép trừ có ba thẻ tên gọi, HS lên kéo thẻ số bị trừ, số trừ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS lên bảng chạm nhẹ, không giành nhau thao tác"
+    }
+   ],
    "note": ""
   },
   {
@@ -140,9 +252,25 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu trò chơi Con số may mắn: HS chọn số, phép tính hiện ra, gọi tên số hạng, tổng, số bị trừ, số trừ, hiệu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài 1 dạng tương tác viết 75, 64 thành tổng chục và đơn vị; HS làm vở trước, nêu kết quả, máy báo đúng sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS tự đặt tính, tự kiểm chứng; công cụ số chỉ để đối chiếu."
+    }
+   ],
    "note": ""
   },
   {
@@ -158,7 +286,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh khám phá: gà, vịt; kéo hình thành hai hàng thẳng, phần gà nhiều hơn tô màu; HS nhận ra lấy số gà trừ số vịt"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài 1 hình chim hai cành, hỏi đâu là cái đã biết, đâu là câu hỏi; máy đếm giúp nhưng HS tự chọn phép trừ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Sơ đồ chỉ giúp hiểu đề, lời giải tự viết; không tìm bài giải sẵn."
+    }
+   ],
    "note": ""
   },
   {
@@ -172,9 +316,25 @@
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài 1: băng giấy ghi số đo xăng-ti-mét, kéo băng ngắn đặt dưới băng dài, phần dài hơn tô màu; HS nói dài hơn bao nhiêu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu trò chơi Bí mật biển xanh: HS chọn ô số, câu hỏi hơn kém hiện ra, HS nêu phép trừ, máy báo đúng sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Sơ đồ chỉ giúp hiểu đề, lời giải tự viết; không tìm bài giải sẵn."
+    }
+   ],
    "note": ""
   },
   {
@@ -204,7 +364,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -220,7 +380,7 @@
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -238,13 +398,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -258,7 +412,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -290,7 +444,7 @@
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -306,7 +460,7 @@
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -322,7 +476,7 @@
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -338,7 +492,7 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -356,13 +510,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -376,7 +524,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -408,7 +556,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -446,7 +594,7 @@
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -478,7 +626,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -494,7 +642,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -510,7 +658,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -558,7 +706,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -590,7 +738,7 @@
    "periodFrom": 35,
    "periodTo": 35,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -622,7 +770,7 @@
    "periodFrom": 37,
    "periodTo": 37,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -638,7 +786,7 @@
    "periodFrom": 38,
    "periodTo": 38,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -756,7 +904,7 @@
    "periodFrom": 45,
    "periodTo": 45,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1251,11 +1399,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "xem đồng hồ và lịch điện tử trên máy tính/điện thoại của cô để đối chiếu với đồng hồ, lịch thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1305,13 +1448,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1381,7 +1518,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+    }
+   ],
    "note": ""
   },
   {
@@ -1445,7 +1588,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
+    }
+   ],
    "note": ""
   },
   {
@@ -1477,7 +1626,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
+    }
+   ],
    "note": ""
   },
   {
@@ -1517,7 +1672,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 7: Ôn tập học kì 1",
-   "title": "KIỂM TRA ĐỊNH KÌ CUỐI HỌC KÌ I",
+   "title": "Bài 36. ÔN TẬP CHUNG — KIỂM TRA ĐỊNH KÌ CUỐI HỌC KÌ I",
    "content": "",
    "periodLabel": "Tiết 90 (1 tiết)",
    "periodFrom": 90,
@@ -1555,7 +1710,7 @@
    "periodFrom": 92,
    "periodTo": 92,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1587,7 +1742,7 @@
    "periodFrom": 94,
    "periodTo": 94,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1605,13 +1760,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1625,7 +1774,7 @@
    "periodFrom": 96,
    "periodTo": 96,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1657,7 +1806,7 @@
    "periodFrom": 98,
    "periodTo": 98,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1689,7 +1838,7 @@
    "periodFrom": 100,
    "periodTo": 100,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1753,7 +1902,7 @@
    "periodFrom": 104,
    "periodTo": 104,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1823,7 +1972,7 @@
    "periodFrom": 108,
    "periodTo": 108,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1839,7 +1988,7 @@
    "periodFrom": 109,
    "periodTo": 109,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1855,7 +2004,7 @@
    "periodFrom": 110,
    "periodTo": 110,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1865,7 +2014,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 8: Phép nhân, phép chia",
-   "title": "Bài 45: LUYỆN TẬP CHUNG (Tiết 5)",
+   "title": "Bài 45: LUYỆN TẬP CHUNG LUYỆN TẬP (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 111 (1 tiết)",
    "periodFrom": 111,
@@ -1919,7 +2068,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 9: Làm quen với hình khối",
-   "title": "Bài 47 – BÀI HỌC STEM: TRẢI NGHIỆM THÀNH PHỐ HÌNH HỌC (2 tiết)",
+   "title": "Bài 47 – BÀI HỌC STEM: TRẢI NGHIỆM THÀNH PHỐ HÌNH HỌC",
    "content": "",
    "periodLabel": "Tiết 114–115 (2 tiết)",
    "periodFrom": 114,
@@ -1931,7 +2080,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng. Thay bài SGK bằng bài học STEM theo KH giáo dục STEM của trường."
+     "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng. Điều chỉnh: thay bài SGK bằng bài học STEM theo KH giáo dục STEM của trường."
     }
    ],
    "note": ""
@@ -1963,7 +2112,7 @@
    "periodFrom": 117,
    "periodTo": 117,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1995,7 +2144,7 @@
    "periodFrom": 119,
    "periodTo": 119,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2059,7 +2208,7 @@
    "periodFrom": 123,
    "periodTo": 123,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2075,7 +2224,7 @@
    "periodFrom": 124,
    "periodTo": 124,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2177,7 +2326,7 @@
    "periodFrom": 130,
    "periodTo": 130,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2200,11 +2349,6 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -2328,7 +2472,7 @@
    "periodFrom": 138,
    "periodTo": 138,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2514,7 +2658,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 12: Phép cộng, phép trừ trong phạm vi 1 000",
-   "title": "Bài 62. PHÉP TRỪ (CÓ NHỚ) TRONG PHẠM VI 1 000 – LUYỆN TẬP (Tiết 4)",
+   "title": "Bài 62. PHÉP TRỪ (CÓ NHỚ) TRONG PHẠM VI 1 000 – LUYỆN TẬP",
    "content": "",
    "periodLabel": "Tiết 150 (1 tiết)",
    "periodFrom": 150,
@@ -2558,7 +2702,7 @@
    "periodFrom": 152,
    "periodTo": 152,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2612,7 +2756,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 13: Làm quen với yếu tố thống kê, xác suất",
-   "title": "Bài 65: BIỂU ĐỒ TRANH – LUYỆN TẬP (Tiết 2)",
+   "title": "Bài 65. BIỂU ĐỒ TRANH – LUYỆN TẬP",
    "content": "",
    "periodLabel": "Tiết 155 (1 tiết)",
    "periodFrom": 155,
@@ -2668,7 +2812,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "dùng công cụ quay số/tung xúc xắc trên máy để HS quan sát khả năng xảy ra, rồi tự rút nhận xét. Thay bài SGK bằng bài học STEM theo KH giáo dục STEM của trường."
+     "text": "dùng công cụ quay số/tung xúc xắc trên máy để HS quan sát khả năng xảy ra, rồi tự rút nhận xét. Điều chỉnh: thay bài SGK bằng bài học STEM theo KH giáo dục STEM của trường."
     }
    ],
    "note": ""
@@ -2700,7 +2844,7 @@
    "periodFrom": 159,
    "periodTo": 159,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2732,7 +2876,7 @@
    "periodFrom": 161,
    "periodTo": 161,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2748,7 +2892,7 @@
    "periodFrom": 162,
    "periodTo": 162,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2780,7 +2924,7 @@
    "periodFrom": 164,
    "periodTo": 164,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2796,7 +2940,7 @@
    "periodFrom": 165,
    "periodTo": 165,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2828,7 +2972,7 @@
    "periodFrom": 167,
    "periodTo": 167,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2844,7 +2988,7 @@
    "periodFrom": 168,
    "periodTo": 168,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2876,7 +3020,7 @@
    "periodFrom": 170,
    "periodTo": 170,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2908,7 +3052,7 @@
    "periodFrom": 172,
    "periodTo": 172,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2950,13 +3094,13 @@
    "semester": 2,
    "week": 35,
    "theme": "Chủ đề 14: Ôn tập cuối năm",
-   "title": "KIỂM TRA ĐỊNH KÌ CUỐI NĂM HỌC",
+   "title": "Bài 75: ÔN TẬP CHUNG — KIỂM TRA ĐỊNH KÌ CUỐI NĂM HỌC",
    "content": "",
    "periodLabel": "Tiết 175",
    "periodFrom": 175,
    "periodTo": 175,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -3234,8 +3378,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Toan - Lop 2.docx",
   "name": "Toan - Lop 2.docx",
-  "original": "KHDH Toán lớp 2 (2026-2027) (đã rà soát).docx",
-  "size": 17031,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 48197,
+  "updated": "2026-09-07"
  }
 }

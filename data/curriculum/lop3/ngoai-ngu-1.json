@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Tiếng Anh lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-04"
+  "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 140,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 144
+  "integrations": 42
  },
  "lessons": [
   {
@@ -22,7 +22,7 @@
    "semester": 1,
    "week": 1,
    "theme": "",
-   "title": "Làm quen SGK & hướng dẫn học Tiếng Anh 3",
+   "title": "Starter — Làm quen SGK & hướng dẫn học Tiếng Anh 3",
    "content": "",
    "periodLabel": "Tiết 1 (1 tiết)",
    "periodFrom": 1,
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần giới thiệu bài “Introduction of the English 3 programe and textbook”, GV chiếu sách điện tử và trang trình chiếu giới thiệu cấu trúc sách: các"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu yêu cầu tìm kiếm đơn giản như ‘Find Unit 2, Lesson 1’ hoặc ‘Where is the Review?’"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Sách điện tử và trang trình chiếu do GV mở sẵn trên máy chiếu"
     }
    ],
    "note": ""
@@ -54,9 +64,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Mở đầu bài “Starter — A. Numbers”, GV chiếu video bài hát Hello song và đoạn video đếm số, yêu cầu HS quan sát"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần luyện tập, GV tổ chức trò chơi nghe–chọn tranh trên máy chiếu: máy đọc một số"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "GV mở video bài hát từ nguồn đã tải sẵn"
     }
    ],
    "note": ""
@@ -76,9 +96,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần trình bày bài “Starter — B. The Alphabet”, GV chiếu video bài hát bảng chữ cái và bản ghi âm người bản ngữ đọc từng chữ"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần luyện tập đánh vần tên, GV dùng điện thoại ghi âm một vài HS đánh vần tên mình (M-A-I)"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Bản ghi âm giọng HS chỉ dùng trong tiết học rồi xoá, không gửi lên nhóm mạng"
     }
    ],
    "note": ""
@@ -98,9 +128,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Khởi động bài “Starter — C. Fun Time”, GV chiếu video bài hát đếm số Let’s count 1-10"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần thực hành, GV tổ chức trò chơi Bingo bằng bài tập tương tác trên máy chiếu: máy đọc ngẫu nhiên số hoặc chữ cái"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Trò chơi số chỉ chơi trên máy chiếu do GV điều khiển"
     }
    ],
    "note": ""
@@ -122,12 +162,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "text": "Ở phần trình bày bài “Unit 1 — Hello — Lesson 1 (Greetings & introductions) – Tiết 1”, GV chiếu tranh các nhân vật Ben, Mai, Minh"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần thực hành, HS làm việc theo cặp chào và tự giới thiệu bằng Hello/Hi. I’m ….; GV dùng điện thoại ghi âm một vài cặp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Bản ghi âm lời chào của HS chỉ phát trong lớp rồi xoá"
     }
    ],
    "note": ""
@@ -147,9 +192,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần luyện tập bài “Unit 1 — Hello — Lesson 1 (Greetings & introductions) – Tiết 2”, GV chiếu video bài hát chào hỏi"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở phần vận dụng, mỗi HS vẽ và viết thẻ tên có câu Hello, I’m ….; GV chụp ảnh một số thẻ đẹp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Khi dùng video bài hát, GV nêu nguồn và không cắt bỏ tên tác giả"
     }
    ],
    "note": ""
@@ -169,9 +224,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần trình bày bài “Unit 1 — Hello — Lesson 2 (Asking how someone is) – Tiết 1”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hỏi HS có thể hỏi thăm bạn bằng cách nào (gặp trực tiếp, gọi điện, nhắn tin) và chiếu hình minh hoạ từng cách"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Nhắc HS chỉ gọi điện, nhắn tin hỏi thăm với người thân"
     }
    ],
    "note": ""
@@ -191,9 +256,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần luyện tập bài “Unit 1 — Hello — Lesson 2 (Asking how someone is) – Tiết 2”"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV tổ chức trò chơi nghe–chọn tranh trên máy chiếu: máy đọc một câu chào hoặc tạm biệt, HS chọn tranh phù hợp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Nhắc HS không phải điều gì nghe, thấy trên mạng cũng đúng"
     }
    ],
    "note": ""
@@ -211,13 +286,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -233,13 +302,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -255,18 +318,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -282,13 +334,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -304,13 +350,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -328,9 +368,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -348,13 +388,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -370,13 +404,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -392,18 +420,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -419,13 +436,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -441,13 +452,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -465,9 +470,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -485,13 +490,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -507,13 +506,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -529,18 +522,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -556,13 +538,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -578,13 +554,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -602,9 +572,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -622,13 +592,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -644,13 +608,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -666,18 +624,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -693,13 +640,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -715,13 +656,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -737,13 +672,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -759,13 +688,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -781,13 +704,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -803,7 +720,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    }
+   ],
    "note": ""
   },
   {
@@ -851,18 +774,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -878,13 +790,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -900,13 +806,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -924,9 +824,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -944,13 +844,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -966,13 +860,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -988,18 +876,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1015,13 +892,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1037,13 +908,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1059,13 +924,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1083,9 +942,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -1103,13 +962,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1125,18 +978,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1152,13 +994,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1174,13 +1010,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1196,13 +1026,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1220,9 +1044,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -1240,13 +1064,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1262,18 +1080,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1289,13 +1096,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1311,13 +1112,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1333,13 +1128,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1357,9 +1146,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -1377,13 +1166,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1399,18 +1182,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1426,13 +1198,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1448,13 +1214,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1470,13 +1230,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1492,13 +1246,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1514,13 +1262,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1600,7 +1342,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1616,18 +1364,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1643,13 +1380,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1665,13 +1396,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1687,13 +1412,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1709,13 +1428,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1733,9 +1446,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -1753,18 +1466,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1780,13 +1482,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1802,13 +1498,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1824,13 +1514,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1846,13 +1530,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1870,9 +1548,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -1890,18 +1568,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1917,13 +1584,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1939,13 +1600,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1961,13 +1616,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1983,13 +1632,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2007,9 +1650,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -2027,18 +1670,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2054,13 +1686,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2076,13 +1702,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2098,13 +1718,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2120,13 +1734,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2144,9 +1752,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -2164,18 +1772,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2191,13 +1788,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2213,13 +1804,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2235,13 +1820,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2257,13 +1836,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2279,13 +1852,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2333,7 +1900,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2349,18 +1922,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2376,13 +1938,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2398,13 +1954,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2420,13 +1970,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2442,13 +1986,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2466,9 +2004,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -2486,18 +2024,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2513,13 +2040,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2535,13 +2056,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2557,13 +2072,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2579,13 +2088,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2603,9 +2106,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -2623,18 +2126,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2650,13 +2142,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2672,13 +2158,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2694,13 +2174,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2716,13 +2190,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2740,9 +2208,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -2760,18 +2228,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2787,13 +2244,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2809,13 +2260,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2831,13 +2276,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2853,13 +2292,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2877,9 +2310,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
     }
    ],
    "note": ""
@@ -2897,18 +2330,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2924,13 +2346,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2946,13 +2362,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2968,13 +2378,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2990,13 +2394,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3012,13 +2410,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3374,8 +2766,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Tieng Anh - Lop 3.docx",
   "name": "Tieng Anh - Lop 3.docx",
-  "original": "KHDH Tiếng Anh lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 39654,
-  "updated": "2026-09-04"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45694,
+  "updated": "2026-09-07"
  }
 }

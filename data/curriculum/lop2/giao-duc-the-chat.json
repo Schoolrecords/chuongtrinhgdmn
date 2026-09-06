@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH GDTC lớp 2 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 9
+  "integrations": 14
  },
  "lessons": [
   {
@@ -34,12 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
+     "text": "GV chiếu sơ đồ nhìn từ trên xuống có mũi tên chỉ đường khi chuyển hàng dọc thành vòng tròn; HS nhìn rõ đường đi cả lớp"
     },
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Sau lượt tập đầu, GV chiếu lại sơ đồ, HS chỉ vị trí tổ mình, chỗ vòng còn méo; GV hô khẩu lệnh theo mũi tên"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+     "text": "Xem sơ đồ xong cất thiết bị; di chuyển không ngoái nhìn màn hình."
     }
    ],
    "note": ""
@@ -57,7 +62,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần hình thành kiến thức bài “Chuyển đội hình hàng dọc thành đội hình vòng tròn và ngược lại” (tiết 2)"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ chiếu video đã xem trước, tắt tự phát video khác"
+    }
+   ],
    "note": ""
   },
   {
@@ -73,7 +89,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay 5–10 giây một tổ chuyển hàng dọc thành vòng tròn bằng điện thoại, mở lại trên tivi chạy chậm; cả lớp nhìn chỗ hàng lệch"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV dừng hình chỗ hàng lệch, hỏi vì sao, cần sửa gì; HS khen một điểm rồi góp ý một điểm, tổ tập lại ngay"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ GV cầm máy quay; quay HS đã đồng ý, xem xong xoá."
+    }
+   ],
    "note": ""
   },
   {
@@ -89,7 +121,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần luyện tập bài “Chuyển đội hình hàng dọc thành đội hình vòng tròn và ngược lại” (tiết 4)"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ quay khi HS đồng ý, quay cả tổ chứ không cận mặt từng em"
+    }
+   ],
    "note": ""
   },
   {
@@ -319,13 +362,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -394,11 +431,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
     }
    ],
    "note": ""
@@ -924,13 +956,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1462,8 +1488,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Giao duc the chat - Lop 2.docx",
   "name": "Giao duc the chat - Lop 2.docx",
-  "original": "KHDH GDTC lớp 2 (2026-2027) (đã rà soát).docx",
-  "size": 9994,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 43392,
+  "updated": "2026-09-07"
  }
 }

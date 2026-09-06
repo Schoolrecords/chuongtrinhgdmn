@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH HĐTN lớp 2 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 52
+  "integrations": 38
  },
  "lessons": [
   {
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Sau nghi lễ chào cờ, khi sinh hoạt với lớp về chủ điểm “Tham gia lễ khai giảng năm học mới”"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở phần cam kết, GV gợi ý HS chọn một cách giới thiệu hình ảnh của em trong ngày khai giảng bằng phương tiện số đơn giản: nhờ"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+     "text": "Ảnh HS chỉ dùng trong lớp; chụp bạn phải hỏi bạn trước; không tự đăng ảnh lên mạng"
     }
    ],
    "note": ""
@@ -54,9 +64,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
+     "text": "Sau trò chơi Máy ảnh thân thiện, GV chụp từng HS lúc tươi cười, chiếu bộ ảnh lớp; HS nói mình vui vẻ hay cau có"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu vài kiểu ảnh đại diện, tên người dùng trên mạng; HS chọn giúp bạn ảnh đại diện thân thiện, nói vì sao"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chân dung chỉ chụp khi HS đồng ý, chiếu xong xoá; không tự đưa lên mạng."
     }
    ],
    "note": ""
@@ -76,9 +96,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
+     "text": "GV chiếu bảng sơ kết tuần 1, số hoa điểm tốt từng tổ, bấm nút đổi thành biểu đồ cột; HS nói tổ nào tiến bộ"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Chụp ảnh theo tổ: GV chụp từng tổ sau khi các bạn xin phép nhau, chiếu lên; HS nhắc quy tắc chia sẻ đúng phạm vi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trang lời khen chỉ ghi lời tốt; không nêu tên HS bị nhắc."
     }
    ],
    "note": ""
@@ -96,7 +126,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Với chủ điểm “Xem trích đoạn hề chèo hoặc một tiết mục hài”, nếu sân trường không diễn trực tiếp"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Khi HS chia sẻ cảm xúc sau tiết mục, GV hướng dẫn cách nói lời khen bạn diễn, khen nghệ sĩ ngắn gọn, lịch sự"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chọn trích đoạn phù hợp lứa tuổi, xem trước và tắt quảng cáo"
+    }
+   ],
    "note": ""
   },
   {
@@ -112,7 +158,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay trước nụ cười của HS bằng điện thoại, ghép thành clip mở khi khởi động; HS nhận ra bạn, nói cảm giác"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu biểu tượng mặt cười, mặt buồn, hỏi HS chọn biểu tượng nào gửi lời chúc vui cho bạn bằng lời nhắn tử tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chân dung chỉ chụp khi HS đồng ý, chiếu xong xoá; không tự đưa lên mạng."
+    }
+   ],
    "note": ""
   },
   {
@@ -130,9 +192,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
+     "text": "GV chiếu bảng sơ kết tuần 2 dạng biểu đồ cột; chiếu ảnh nụ cười kèm nhãn cảm xúc máy gán để HS thấy máy có thể sai"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chụp sản phẩm “Em làm ra nụ cười thân thiện” chiếu lên; mỗi HS nói một lời khen bạn, GV gõ lên trang lời khen"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trang lời khen chỉ ghi lời tốt; không nêu tên HS bị nhắc."
     }
    ],
    "note": ""
@@ -203,20 +275,9 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
     }
    ],
-   "note": "",
-   "gddpBoSung": true
+   "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-011",
@@ -348,11 +409,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
     }
    ],
    "note": ""
@@ -423,11 +479,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -445,13 +496,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -467,13 +512,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -527,13 +566,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -549,13 +582,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -641,13 +668,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -679,13 +700,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -722,11 +737,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
     }
    ],
    "note": ""
@@ -836,13 +846,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -938,13 +942,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -992,13 +990,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1035,11 +1027,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
     }
    ],
    "note": ""
@@ -1057,13 +1044,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1095,18 +1076,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1159,11 +1129,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -1181,13 +1146,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1252,11 +1211,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
     }
    ],
    "note": ""
@@ -1370,13 +1324,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1408,25 +1356,8 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-074",
@@ -1587,20 +1518,8 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-083",
@@ -1802,11 +1721,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -1829,11 +1743,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
     }
    ],
    "note": ""
@@ -1931,13 +1840,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1953,13 +1856,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2289,8 +2186,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.docx",
   "name": "Hoat dong trai nghiem - Lop 2.docx",
-  "original": "KHDH HĐTN lớp 2 (2026-2027) (đã rà soát).docx",
-  "size": 16288,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 46752,
+  "updated": "2026-09-07"
  }
 }

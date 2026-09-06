@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Tự nhiên và Xã hội lớp 2 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -32,14 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "ảnh và thông tin gia đình là dữ liệu riêng — chỉ chia sẻ khi bố mẹ đồng ý."
+     "text": "GV chiếu sơ đồ thế hệ dựng sẵn; HS đọc tên ông bà, bố mẹ để GV gõ vào ô, chèn ảnh gia đình HS mang tới"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hình 1 trang 6, kéo thêm, bớt một tầng sơ đồ để phân biệt hai, ba thế hệ; HS chọn kiểu sơ đồ hợp nhà mình"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+     "text": "Ảnh gia đình chỉ chụp khi được đồng ý, chiếu xong xoá."
     }
    ],
    "note": ""
@@ -55,9 +60,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chụp bằng điện thoại phần đóng vai tình huống mẹ về muộn, ông nhờ đọc báo, chiếu lên; HS nói việc thể hiện quan tâm người thân"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài tập chọn đáp án tình huống “Mẹ ơi, con đói!”; HS chọn lời nói, việc làm, máy báo đúng sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh gia đình chỉ chụp khi được đồng ý, chiếu xong xoá."
+    }
+   ],
    "note": ""
   },
   {
@@ -75,14 +96,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ảnh và thông tin gia đình là dữ liệu riêng — chỉ chia sẻ khi bố mẹ đồng ý."
+     "text": "GV chiếu ảnh, phim ngắn về các nghề: ngư dân, hải quân, công nhân may, nông dân; HS nói mỗi nghề làm ra gì"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mời phụ huynh trò chuyện qua cuộc gọi có hình hoặc chiếu đoạn ghi hình; HS hỏi “Bác làm công việc gì?”"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+     "text": "Xin phép phụ huynh trước, không ghi lại cuộc gọi."
     }
    ],
    "note": ""
@@ -98,9 +124,25 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ba hình SGK về công việc tình nguyện và ảnh nghề cho trò chơi Đoán nghề; HS nói việc đó có nhận lương không"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chụp trang sổ tay nghề nghiệp của từng nhóm bằng điện thoại, chiếu lên; nhóm bạn góp ý lịch sự, nhóm làm bổ sung ngay"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép phụ huynh trước khi chiếu ghi hình; không so bì nghề bố mẹ."
+    }
+   ],
    "note": ""
   },
   {
@@ -121,11 +163,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -141,7 +178,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -159,13 +196,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -179,7 +210,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -197,7 +228,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "ảnh và thông tin gia đình là dữ liệu riêng — chỉ chia sẻ khi bố mẹ đồng ý."
+    }
+   ],
    "note": ""
   },
   {
@@ -211,7 +248,7 @@
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -227,7 +264,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -245,18 +282,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -270,7 +296,7 @@
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -288,13 +314,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -308,7 +328,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -331,11 +351,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -351,7 +366,7 @@
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -369,13 +384,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -391,13 +400,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -413,7 +416,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
+    }
+   ],
    "note": ""
   },
   {
@@ -427,7 +436,7 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -443,7 +452,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -466,11 +475,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     }
    ],
    "note": ""
@@ -486,7 +490,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -525,11 +529,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -545,7 +544,7 @@
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -577,7 +576,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -595,7 +594,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
+    }
+   ],
    "note": ""
   },
   {
@@ -611,7 +616,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
+    }
+   ],
    "note": ""
   },
   {
@@ -625,7 +636,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -663,7 +674,7 @@
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -685,12 +696,12 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng. Tích hợp bài học"
+     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng. BÀI HỌC"
     },
     {
      "code": "STEM",
      "level": "",
-     "text": "Nơi sống của động vật."
+     "text": "Nơi sống của động vật (theo KH giáo dục STEM của trường)."
     }
    ],
    "note": ""
@@ -706,9 +717,15 @@
    "periodFrom": 36,
    "periodTo": 36,
    "periods": 1,
-   "lessonPeriods": null,
-   "adjustments": "",
-   "integrations": [],
+   "lessonPeriods": 1,
+   "adjustments": "BÀI HỌC",
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Nơi sống của động vật (theo KH giáo dục STEM của trường)."
+    }
+   ],
    "note": ""
   },
   {
@@ -724,18 +741,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -749,7 +755,7 @@
    "periodFrom": 38,
    "periodTo": 38,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -765,7 +771,7 @@
    "periodFrom": 39,
    "periodTo": 39,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -797,7 +803,7 @@
    "periodFrom": 41,
    "periodTo": 41,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -813,7 +819,7 @@
    "periodFrom": 42,
    "periodTo": 42,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -845,7 +851,7 @@
    "periodFrom": 44,
    "periodTo": 44,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -861,7 +867,7 @@
    "periodFrom": 45,
    "periodTo": 45,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -879,13 +885,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -899,7 +899,7 @@
    "periodFrom": 47,
    "periodTo": 47,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -931,7 +931,7 @@
    "periodFrom": 49,
    "periodTo": 49,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -963,7 +963,7 @@
    "periodFrom": 51,
    "periodTo": 51,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -995,7 +995,7 @@
    "periodFrom": 53,
    "periodTo": 53,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1027,7 +1027,7 @@
    "periodFrom": 55,
    "periodTo": 55,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1077,7 +1077,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "HS làm sơ đồ/bảng tổng kết chủ đề trên máy hoặc trên giấy rồi chụp lưu vào thư mục lớp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1091,7 +1097,7 @@
    "periodFrom": 59,
    "periodTo": 59,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1107,7 +1113,7 @@
    "periodFrom": 60,
    "periodTo": 60,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1145,7 +1151,7 @@
    "periodFrom": 62,
    "periodTo": 62,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1168,11 +1174,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -1188,7 +1189,7 @@
    "periodFrom": 64,
    "periodTo": 64,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1220,7 +1221,7 @@
    "periodFrom": 66,
    "periodTo": 66,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1236,7 +1237,7 @@
    "periodFrom": 67,
    "periodTo": 67,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1268,7 +1269,7 @@
    "periodFrom": 69,
    "periodTo": 69,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1284,7 +1285,7 @@
    "periodFrom": 70,
    "periodTo": 70,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1562,8 +1563,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Tu nhien va Xa hoi - Lop 2.docx",
   "name": "Tu nhien va Xa hoi - Lop 2.docx",
-  "original": "KHDH Tự nhiên và Xã hội lớp 2 (2026-2027) (đã rà soát).docx",
-  "size": 10749,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 44167,
+  "updated": "2026-09-07"
  }
 }

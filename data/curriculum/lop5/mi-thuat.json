@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH Mĩ thuật lớp 5 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu hình SGK và ảnh tác phẩm, để HS chỉ chấm, nét, hình, khối, màu; HS gõ từ khoá tìm trong kho ảnh GV chỉ định"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS lập phiếu tư liệu trên máy hoặc giấy gồm ba hình đã chọn, ghi yếu tố tạo hình, nguồn ảnh; GV chiếu vài phiếu"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "quan sát tranh/ảnh số; lưu ảnh sản phẩm mĩ thuật để chia sẻ trong lớp."
+     "text": "Chỉ tìm trong trang GV chỉ định, không tải tệp không rõ nguồn."
     }
    ],
    "note": ""
@@ -50,13 +60,23 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
      "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu các bước làm sản phẩm, HS dùng ứng dụng vẽ trên máy tính phác nhanh hai, ba phương án bố cục"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS chiếu các phương án bố cục lên màn hình, chọn một và nói vì sao bỏ phương án còn lại dựa vào hình, khối, màu"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "quan sát tranh/ảnh số; lưu ảnh sản phẩm mĩ thuật để chia sẻ trong lớp."
+     "text": "Lưu bản phác vào thư mục tên mình, không sửa bài bạn."
     }
    ],
    "note": ""
@@ -72,15 +92,9 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "quan sát tranh/ảnh số; lưu ảnh sản phẩm mĩ thuật để chia sẻ trong lớp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -94,15 +108,9 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "quan sát tranh/ảnh số; lưu ảnh sản phẩm mĩ thuật để chia sẻ trong lớp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -118,20 +126,8 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l5-mi-thuat-006",
@@ -144,7 +140,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -160,7 +156,7 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -176,7 +172,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -208,7 +204,7 @@
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -224,7 +220,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -240,7 +236,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -272,7 +268,7 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -288,7 +284,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -304,7 +300,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -352,7 +348,7 @@
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -368,7 +364,7 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -384,7 +380,7 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -402,20 +398,8 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l5-mi-thuat-023",
@@ -428,7 +412,7 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -444,7 +428,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -460,7 +444,7 @@
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -478,20 +462,8 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l5-mi-thuat-027",
@@ -504,7 +476,7 @@
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -520,7 +492,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -536,7 +508,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -568,7 +540,7 @@
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -584,7 +556,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -600,7 +572,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -634,7 +606,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "",
+     "text": "quan sát tranh/ảnh số; lưu ảnh sản phẩm mĩ thuật để chia sẻ trong lớp."
+    }
+   ],
    "note": ""
   }
  ],
@@ -910,8 +888,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Mi thuat - Lop 5.docx",
   "name": "Mi thuat - Lop 5.docx",
-  "original": "KHDH Mĩ thuật lớp 5 (2026-2027) (đã rà soát).docx",
-  "size": 7784,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 42105,
+  "updated": "2026-09-07"
  }
 }

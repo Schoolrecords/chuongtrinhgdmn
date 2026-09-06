@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Âm nhạc lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-04"
+  "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 10
+  "integrations": 14
  },
  "lessons": [
   {
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ƯD",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+     "text": "Mở đầu bài “Học bài hát Múa lân (Tiết 1)”, GV chiếu đoạn video múa lân đêm Trung thu và bản hát mẫu bài Múa lân của Y"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở phần luyện tập, GV dùng điện thoại quay tốp 12 HS biểu diễn hát kết hợp vỗ tay theo nhịp, gõ đệm theo phách"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video múa lân và bản hát mẫu do GV chọn sẵn từ nguồn tin cậy, tắt quảng cáo"
     }
    ],
    "note": ""
@@ -50,9 +60,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở nhạc đệm, bản đọc mẫu Bài số 1 trên máy tính, bấm từng nốt trên đàn phím điện tử; HS nghe rồi đọc theo"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV thu phần ôn bài Múa lân kết hợp gõ đệm bằng điện thoại, mở lại ngay; HS nhận xét chỗ hát chưa đều, gõ phách chưa khớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu giọng hát chỉ nghe trong tiết rồi xoá, không đưa lên mạng."
+    }
+   ],
    "note": ""
   },
   {
@@ -66,7 +92,7 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -82,7 +108,7 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -105,11 +131,6 @@
      "code": "NLS-ƯD",
      "level": "Cơ bản 1",
      "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Cho HS nghe/hát bài hát về chú bộ đội, về Đội; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
     }
    ],
    "note": ""
@@ -125,7 +146,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -141,7 +162,7 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -157,7 +178,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -195,7 +216,7 @@
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -211,7 +232,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -227,7 +248,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -265,7 +286,7 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -281,7 +302,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -297,7 +318,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -367,7 +388,7 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -383,13 +404,13 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
      "code": "GDĐP",
      "level": "",
-     "text": "- Kể được tên một số nhạc cụ dân tộc ở Nghệ  An;\n- Mô tả được một số đặc điểm của ít nhất một nhạc cụ dân tộc ở Nghệ An (hình dáng, chất liệu, cách chơi, hoàn cảnh sử dụng);\n- Chơi hoặc chế tác mô phỏng lại được một nhạc cụ dân tộc ở Nghệ An ở mức độ đơn giản"
+     "text": "- Kể được tên một số nhạc cụ dân tộc ở Nghệ An; - Mô tả được một số đặc điểm của ít nhất một nhạc cụ dân tộc ở Nghệ An (hình dáng, chất liệu, cách chơi, hoàn cảnh sử dụng); - Chơi hoặc chế tác mô phỏng lại được một nhạc cụ dân tộc ở Nghệ An ở mức độ đơn giản"
     }
    ],
    "note": ""
@@ -405,7 +426,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -443,7 +464,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -459,7 +480,7 @@
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -475,7 +496,7 @@
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -513,7 +534,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -529,7 +550,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -545,7 +566,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -583,7 +604,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -599,7 +620,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -909,8 +930,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Am nhac - Lop 3.docx",
   "name": "Am nhac - Lop 3.docx",
-  "original": "KHDH Âm nhạc lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 16119,
-  "updated": "2026-09-04"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 42663,
+  "updated": "2026-09-07"
  }
 }

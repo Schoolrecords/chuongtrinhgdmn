@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH Âm nhạc lớp 5 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 17
+  "integrations": 13
  },
  "lessons": [
   {
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản thu mẫu “Chim sơn ca” trên tivi, HS nghe trọn bài rồi nghe từng câu và hát theo, xin mở lại câu còn chênh"
+    },
+    {
      "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi tổ dùng điện thoại GV thu âm một lượt hát vỗ tay theo phách, nghe lại trên loa, tự sửa rồi thu lần hai"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
+     "text": "Bản thu lấy từ học liệu bộ sách; bản thu của tổ chỉ dùng trong giờ."
     }
    ],
    "note": ""
@@ -50,13 +60,23 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bản nhạc “Chim sơn ca”, tô sáng vạch nhịp, ô nhịp, phách mạnh, nhẹ khi bản thu phát; HS tự chỉ vạch nhịp trên SGK"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS làm bài tương tác trên máy GV: nghe tiết tấu rồi chọn phách mạnh, nhẹ; kéo vạch nhịp chia câu nhạc; máy báo sai thì làm lại"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
+     "text": "Chỉ mở học liệu GV chuẩn bị; làm hết bài mới xem đáp án."
     }
    ],
    "note": ""
@@ -72,7 +92,7 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -88,7 +108,7 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -111,11 +131,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -131,15 +146,9 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -153,7 +162,7 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -169,7 +178,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -207,15 +216,9 @@
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -229,7 +232,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -245,7 +248,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -283,15 +286,9 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -305,7 +302,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -321,7 +318,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -391,15 +388,9 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -413,7 +404,7 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -429,7 +420,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -467,15 +458,9 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -489,7 +474,7 @@
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -505,7 +490,7 @@
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -523,13 +508,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -543,7 +522,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -565,7 +544,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -581,7 +560,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -619,15 +598,9 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -641,7 +614,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -673,7 +646,7 @@
    "periodFrom": 35,
    "periodTo": 35,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -951,8 +924,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Am nhac - Lop 5.docx",
   "name": "Am nhac - Lop 5.docx",
-  "original": "KHDH Âm nhạc lớp 5 (2026-2027) (đã rà soát).docx",
-  "size": 8060,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 42559,
+  "updated": "2026-09-07"
  }
 }

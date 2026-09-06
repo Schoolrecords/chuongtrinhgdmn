@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH Lịch sử & Địa lí lớp 5 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 47
+  "integrations": 33
  },
  "lessons": [
   {
@@ -47,9 +47,19 @@
      "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin.; mới - Hình 1: Cột cờ Lũng Cú (Tuyên Quang) - Trang 6 Hình 3: Bản đồ hành chính Việt Nam năm 2025 (Tên các tỉnh mới sau khi hợp nhất) - Việt Nam có 34 tỉnh thành: 28 tỉnh và 6 thành phố trực thuộc trung ương."
     },
     {
-     "code": "QPAN",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản đồ số do Nhà nước ban hành; HS phóng to, chỉ 6 thành phố trực thuộc Trung ương, Hoàng Sa, Trường Sa"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.A1.2",
+     "text": "GV chiếu bản đồ do AI vẽ, HS so với SGK tìm chỗ thiếu Hoàng Sa, Trường Sa; kiểm tra với nguồn chính thống"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Sử dụng bản đồ hành chính Việt Nam để HS chỉ ra lãnh thổ, vùng biển, quần đảo Hoàng Sa và Trường Sa của Việt Nam."
+     "text": "Kiểm tra kĩ nguồn trước khi chia sẻ; không lan truyền bản đồ sai chủ quyền."
     }
    ],
    "note": ""
@@ -65,7 +75,7 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -80,8 +90,18 @@
     },
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu hình 5 Quốc kì, Quốc huy, mở Quốc ca để HS nêu ý nghĩa; HS chỉ Hoàng Sa, Trường Sa trên bản đồ số"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.A3.2",
+     "text": "GV chiếu hình Quốc kì, Quốc huy do AI tạo, HS đối chiếu SGK tìm chỗ sai số cánh sao, dòng chữ"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
+     "text": "Kiểm tra kĩ nguồn trước khi chia sẻ; không lan truyền bản đồ sai chủ quyền."
     }
    ],
    "note": ""
@@ -98,8 +118,24 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "- Hình 2: Giàn khoan dầu khí ở mỏ Bạch Hổ (TPHCM); Hình 3: Rau vụ đông ở tỉnh Hưng Yên; Hồ Ba Bể (Thái Nguyên); Hình 7: Vườn vải thiều ở vùng đồi núi phía Bắc (Bắc Ninh)",
-   "integrations": [],
+   "adjustments": "Hình 2: Giàn khoan dầu khí ở mỏ Bạch Hổ (TPHCM); Hình 3: Rau vụ đông ở tỉnh Hưng Yên; Hồ Ba Bể (Thái Nguyên); Hình 7: Vườn vải thiều ở vùng đồi núi phía Bắc (Bắc Ninh)",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng bản đồ số địa hình do Nhà nước công bố; HS phóng to, chỉ đồi núi, đồng bằng, kí hiệu khoáng sản, đối chiếu SGK"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.B2.1",
+     "text": "GV nhờ AI mô tả địa hình, khoáng sản Tây Nguyên, chiếu lên; HS đối chiếu SGK tìm chỗ máy nói chung chung, lẫn vùng khác, sửa lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Dùng bản đồ, số liệu do Nhà nước công bố; không nói lời kì thị vùng miền."
+    }
+   ],
    "note": ""
   },
   {
@@ -113,9 +149,25 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng nhiệt độ SGK trang 12, nhập vào bảng tính hiện biểu đồ cột; HS đọc biểu đồ nêu khí hậu, chỉ sông lớn"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.D2.1",
+     "text": "GV nhờ AI mô tả khí hậu, sông ngòi miền Bắc hoặc miền Nam, chiếu lên; HS tìm chỗ máy lẫn miền, sai mùa, sửa lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Dùng bản đồ, số liệu do Nhà nước công bố; không nói lời kì thị vùng miền."
+    }
+   ],
    "note": ""
   },
   {
@@ -129,7 +181,7 @@
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -145,7 +197,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -162,17 +214,12 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Cập nhật tên các tỉnh, thành phố ven biển là: Quảng Ninh, Hải Phòng, Hưng Yên, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị, Huế, Đà Nẵng, Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hòa, Lâm Đồng, Thành phố HCM, Đồng Tháp, Vĩnh Long, Cần Thơ, An Giang, Cà Mau; SGK tr.5 — sửa thành: \"Vùng biển nước ta bao gồm một phần Biển Đông, Vịnh Bắc Bộ, Vịnh Thái Lan, tiếp giáp với vùng biển của nhiều quốc gia.\"; SGK tr.17 — sửa thành: \"Thế kỉ XVII, các chúa Nguyễn… đồng thời thực thi chủ quyền đối với quần đảo Hoàng Sa và quần đảo Trường Sa một cách liên tục, lâu dài và hiệu quả.\"; SGK tr.18 — bổ sung: \"Từ năm 1954 đến năm 1975, chính quyền Sài Gòn tiếp tục quản lí, thực thi chủ quyền đối với hai quần đảo như: cử quân đồn trú, dựng bia chủ quyền và ban hành các sắc lệnh hành chính sáp nhập quần đảo Hoàng Sa vào tỉnh Quảng Nam (nay thuộc thành phố Đà Nẵng) và quần đảo Trường Sa vào tỉnh Phước Tuy (nay thuộc Thành phố Hồ Chí Minh).\"",
+   "adjustments": "Cập nhật tên các tỉnh, thành phố ven biển là: Quảng Ninh, Hải Phòng, Hưng Yên, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị, Huế, Đà Nẵng, Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hòa, Lâm Đồng, Thành phố HCM, Đồng Tháp, Vĩnh Long, Cần Thơ, An Giang, Cà Mau",
    "integrations": [
     {
      "code": "QPAN",
      "level": "",
      "text": "GDQP"
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Khẳng định chủ quyền, quyền chủ quyền của Việt Nam đối với biển, đảo; liên hệ việc khai thác thuỷ, hải sản gắn với nhiệm vụ quốc phòng, an ninh."
     }
    ],
    "note": ""
@@ -188,7 +235,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "- Côn Sơn (TPHCM); Phú Quốc (An Giang); Hình 4 trang 17: Một góc đảo Phú Quốc (An Giang)",
    "integrations": [],
    "note": ""
@@ -206,13 +253,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "*Thay đổi dữ liệu dân số của các vùng phù hợp với bản đồ mới",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -226,7 +267,7 @@
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -248,7 +289,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -277,11 +318,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Sử dụng bản đồ hành chính Việt Nam để HS chỉ ra lãnh thổ, vùng biển, quần đảo Hoàng Sa và Trường Sa của Việt Nam."
     }
    ],
    "note": ""
@@ -297,15 +333,9 @@
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -319,7 +349,7 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -337,13 +367,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "+Hình 1 nhắc đến tỉnh An Giang. *Cập nhật tỉnh mới theo bản đồ hành chính mới; Hình 3 trang 30: Dấu tích cọc gỗ nhà sàn của cư dân Phù Nam ở di tích Nền Chùa (An Giang); Hình 7 trang 31: Tượng phật Bình Hòa (Tây Ninh)",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Sử dụng bản đồ hành chính Việt Nam để HS chỉ ra lãnh thổ, vùng biển, quần đảo Hoàng Sa và Trường Sa của Việt Nam."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -359,13 +383,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "Vị trí một số đền tháp Chăm-Pa: bản đồ cũ; Kiến trúc của đền tháp Chăm -Pa: Hình 2 nhắc đến tỉnh Quảng Nam. Một số câu chuyện về đền tháp Chăm-pa nhắc: Hình 4 nhắc đến Ninh Thuận; Hình 1 trang; 32: Tháp Nhạn (Đắk Lắk); Hình 3 trang 33: Khu di tích Thánh địa Mỹ Sơn (Đà Nẵng); Hình 4 trang 34: Tháp Bánh Ít (Gia Lai); Hình 5: Tháp Pô Klong Ga; rai (Khánh Hòa); Phần Luyện tập bài 1 trang 35 địa điểm Đà Nẵng *Cập nhật tỉnh mới theo bản đồ hành chính mới: Ninh Thuận sáp nhập Khánh Hòa lấy tên là Khánh Hòa, Quảng Nam sáp nhập thành Đà Nẵng",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Sử dụng bản đồ hành chính Việt Nam để HS chỉ ra lãnh thổ, vùng biển, quần đảo Hoàng Sa và Trường Sa của Việt Nam."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -379,7 +397,7 @@
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -402,11 +420,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
     }
    ],
    "note": ""
@@ -422,15 +435,9 @@
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -446,13 +453,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -466,7 +467,7 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -482,7 +483,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -499,14 +500,8 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Nội dung 1, câu chuyện lịch sử: địa điểm Ninh Bình; Trang 46, câu chuyện lịch sử: Địa điểm Chí Linh (Hải Phòng)",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    }
-   ],
+   "adjustments": "- Nội dung 1, câu chuyện lịch sử: địa điểm Ninh Bình; Trang 46, câu chuyện lịch sử: Địa điểm Chí Linh (Hải Phòng)",
+   "integrations": [],
    "note": ""
   },
   {
@@ -520,7 +515,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -536,7 +531,7 @@
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -552,7 +547,7 @@
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -570,13 +565,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -590,7 +579,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -607,14 +596,8 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Mục 2, câu chuyện lịch sử Vụ Bản (Ninh Bình)",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    }
-   ],
+   "adjustments": "- Mục 2, câu chuyện lịch sử Vụ Bản (Ninh Bình)",
+   "integrations": [],
    "note": ""
   },
   {
@@ -628,7 +611,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -644,7 +627,7 @@
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -661,14 +644,8 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Mục 1 a, trang 58 câu chuyện lịch sử: Tiền Hải (Hưng Yên)",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    }
-   ],
+   "adjustments": "- Mục 1 a, trang 58 câu chuyện lịch sử: Tiền Hải (Hưng Yên)",
+   "integrations": [],
    "note": ""
   },
   {
@@ -682,7 +659,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -698,7 +675,7 @@
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -748,18 +725,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -773,18 +739,13 @@
    "periodFrom": 38,
    "periodTo": 38,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
      "code": "GDĐP",
      "level": "",
      "text": "GD địa phương"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
     }
    ],
    "note": ""
@@ -807,11 +768,6 @@
      "code": "QPAN",
      "level": "",
      "text": "GDQP"
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
     }
    ],
    "note": ""
@@ -827,7 +783,7 @@
    "periodFrom": 40,
    "periodTo": 40,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -856,11 +812,6 @@
      "code": "QPAN",
      "level": "",
      "text": "GDQP-"
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
     }
    ],
    "note": ""
@@ -876,7 +827,7 @@
    "periodFrom": 42,
    "periodTo": 42,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -892,7 +843,7 @@
    "semester": 2,
    "week": 22,
    "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 17: Đất nước đổi mới (Tiết 1)",
+   "title": "Bài 17: Đất nước đổi mới (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 43 (2 tiết)",
    "periodFrom": 43,
@@ -900,13 +851,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -914,13 +859,13 @@
    "semester": 2,
    "week": 22,
    "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 17: Đất nước đổi mới (Tiết 2)",
+   "title": "Bài 17: Đất nước đổi mới (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 44",
    "periodFrom": 44,
    "periodTo": 44,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -958,15 +903,9 @@
    "periodFrom": 46,
    "periodTo": 46,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -987,11 +926,6 @@
      "code": "GDVL",
      "level": "",
      "text": "GD Việt Lào"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
     }
    ],
    "note": ""
@@ -1007,7 +941,7 @@
    "periodFrom": 48,
    "periodTo": 48,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -1045,7 +979,7 @@
    "periodFrom": 50,
    "periodTo": 50,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1077,7 +1011,7 @@
    "periodFrom": 52,
    "periodTo": 52,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1100,11 +1034,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
     }
    ],
    "note": ""
@@ -1120,15 +1049,9 @@
    "periodFrom": 54,
    "periodTo": 54,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1142,7 +1065,7 @@
    "periodFrom": 55,
    "periodTo": 55,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1158,7 +1081,7 @@
    "periodFrom": 56,
    "periodTo": 56,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1174,7 +1097,7 @@
    "periodFrom": 57,
    "periodTo": 57,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1206,7 +1129,7 @@
    "periodFrom": 59,
    "periodTo": 59,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1238,7 +1161,7 @@
    "periodFrom": 61,
    "periodTo": 61,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1270,7 +1193,7 @@
    "periodFrom": 63,
    "periodTo": 63,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1308,15 +1231,9 @@
    "periodFrom": 65,
    "periodTo": 65,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1352,7 +1269,7 @@
    "periodFrom": 67,
    "periodTo": 67,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1362,7 +1279,7 @@
    "semester": 2,
    "week": 34,
    "theme": "CHỦ ĐỀ 6. CHUNG TAY XÂY DỰNG THẾ GIỚI",
-   "title": "Bài 28: Ôn tập (Tiết 1)",
+   "title": "Bài 28: Ôn tập (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 68 (2 tiết)",
    "periodFrom": 68,
@@ -1378,13 +1295,13 @@
    "semester": 2,
    "week": 35,
    "theme": "CHỦ ĐỀ 6. CHUNG TAY XÂY DỰNG THẾ GIỚI",
-   "title": "Bài 28: Ôn tập (Tiết 2)",
+   "title": "Bài 28: Ôn tập (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 69",
    "periodFrom": 69,
    "periodTo": 69,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1678,8 +1595,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Lich su va Dia li - Lop 5.docx",
   "name": "Lich su va Dia li - Lop 5.docx",
-  "original": "KHDH Lịch sử & Địa lí lớp 5 (2026-2027) (đã rà soát).docx",
-  "size": 12536,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45242,
+  "updated": "2026-09-07"
  }
 }

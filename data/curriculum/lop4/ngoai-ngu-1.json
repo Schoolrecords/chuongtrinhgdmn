@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Tiếng Anh lớp 4 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 140,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 32
+  "integrations": 42
  },
  "lessons": [
   {
@@ -30,7 +30,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trong tiết “Introduction English 4”, GV chiếu sách giáo khoa điện tử lên tivi, cùng HS lật mục lục, chỉ các phần Starter, Unit 1, Lesson 1"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV cùng lớp thống nhất ngôn ngữ lớp học khi dùng thiết bị: Look at the screen, Listen, Repeat, Open your book, Be quiet, please"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở sách điện tử trên tivi do GV điều khiển"
+    }
+   ],
    "note": ""
   },
   {
@@ -48,14 +64,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "text": "Mở đầu bài “Hello again”, GV chỉ vào máy chiếu và hỏi What should we do when we use the big screen?"
     },
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV bật bản ghi âm bản ngữ đoạn Ms Hoa chào và giới thiệu các bạn trong lớp, cho nghe hai lần"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "HS ngồi đúng tư thế, nhìn màn hình vừa tầm, không tự chạm vào máy chiếu, máy tính"
     }
    ],
    "note": ""
@@ -75,9 +96,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trong bài “Classroom activities”, GV bật ghi âm bản ngữ bốn câu tả các bạn đang làm gì trong lớp giờ ra chơi như reading a book"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Sau khi tập chant, GV dùng điện thoại quay nhóm HS diễn chant kèm động tác read a book, draw a picture rồi chiếu ngay lên tivi"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Trước khi dùng thiết bị, HS nhắc lại quy tắc: mắt nhìn màn hình, ngồi thẳng"
     }
    ],
    "note": ""
@@ -97,9 +128,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu flashcard số các hoạt động ngoài trời trong bài “Outdoor activities”: skipping, playing football, playing badminton, flying a kite, riding a bike; HS nhìn tranh"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV tổ chức trò chơi nghe–chọn tranh trên màn hình: bật ghi âm I like flying a kite. / She likes skipping., HS chọn tranh đúng"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Chỉ chơi trò chơi trên màn hình khi GV mở; khi diễn động tác skipping"
     }
    ],
    "note": ""
@@ -119,9 +160,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trong bài “My friends — Lesson 1 (1-3)”, GV chiếu lần lượt quốc kì và tên nước Viet Nam, England, America, Australia, Japan trên tivi; HS nhìn cờ"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu flashcard số quốc kì lên màn hình, HS làm việc theo cặp: một bạn chỉ cờ trên màn hình và hỏi Where are you from?"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Khi hỏi đáp về quê hương, HS chỉ nói tên nước, tên tỉnh, không nói địa chỉ nhà"
     }
    ],
    "note": ""
@@ -141,9 +192,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trong bài “My friends — Lesson 1 (4-6)”, GV chiếu bốn tranh của phần Listen and number lên tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS nhận biết nút play, pause, replay trên học liệu số; HS dùng nút dừng, nghe lại câu mẫu I’m from America"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "HS chỉ bấm nút nghe, dừng khi GV cho phép và bấm nhẹ nhàng"
     }
    ],
    "note": ""
@@ -163,9 +224,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Trong bài “My friends — Lesson 2 (1-3)”, GV chiếu tranh các cách làm quen với bạn ở xa: gặp trực tiếp"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV bật ghi âm bản ngữ hai tình huống hỏi đáp Where’s he / she from?, dừng sau từng câu để HS nhắc lại"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Chỉ gọi video, nhắn tin với bạn khi bố mẹ cho phép và ngồi cạnh"
     }
    ],
    "note": ""
@@ -187,12 +258,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe bản phát âm mẫu trên máy; tra từ bằng từ điển điện tử và ghi lại nguồn."
+     "text": "Trong bài “My friends — Lesson 2 (4-6)”, GV chiếu tranh của phần Listen and tick kèm cờ nước"
     },
     {
-     "code": "KNS",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV cố ý chiếu một cặp cờ và tên nước sai nhau, cờ England ghi America; HS nghe ghi âm"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+     "text": "Nghe kĩ rồi mới tin thông tin trên màn hình"
     }
    ],
    "note": ""
@@ -210,13 +286,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -232,13 +302,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -254,13 +318,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -276,13 +334,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -298,13 +350,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -870,7 +916,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Review – Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập giữa học kì I (Consolidation)",
+   "title": "Ôn tập giữa học kì I",
    "content": "",
    "periodLabel": "Tiết 47 (1 tiết)",
    "periodFrom": 47,
@@ -1287,7 +1333,7 @@
    "id": "l4-ngoai-ngu-1-072",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, củng cố",
+   "theme": "Review – Ôn tập, kiểm tra, đánh giá",
    "title": "Ôn luyện, củng cố tổng hợp học kì I",
    "content": "",
    "periodLabel": "Tiết 72 (1 tiết)",
@@ -1295,7 +1341,7 @@
    "periodTo": 72,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Điều chỉnh: Unit 11 chuyển học trọn trong HKII (tuần 19–20); bỏ 2 bài kiểm tra định kì giữa kì (Thông tư 27/2020 môn Tiếng Anh chỉ kiểm tra cuối kì)",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -2720,8 +2766,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Tieng Anh - Lop 4.docx",
   "name": "Tieng Anh - Lop 4.docx",
-  "original": "KHDH Tiếng Anh lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 13505,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45989,
+  "updated": "2026-09-07"
  }
 }

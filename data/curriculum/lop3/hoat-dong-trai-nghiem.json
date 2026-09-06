@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH HĐTN lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-04"
+  "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 31
+  "integrations": 36
  },
  "lessons": [
   {
@@ -22,7 +22,7 @@
    "semester": 1,
    "week": 1,
    "theme": "CHỦ ĐỀ 1 – TỰ GIỚI THIỆU VỀ MÌNH",
-   "title": "Bài 1: Chân dung em – Nét riêng mỗi người \n-Sinh hoạt dưới cờ: Chào năm học mới",
+   "title": "Bài 1: Chân dung em – Nét riêng mỗi người — Sinh hoạt dưới cờ: Chào năm học mới",
    "content": "",
    "periodLabel": "Tiết 1 (3 tiết)",
    "periodFrom": 1,
@@ -32,12 +32,22 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
+     "text": "Khi sinh hoạt lớp theo chủ điểm bài “Bài 1: Chân dung em – Nét riêng mỗi người — Sinh hoạt dưới cờ: Chào năm học mới”"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở phần cam kết, GV mời HS nói một việc làm thiết thực theo chủ điểm Em tự tin là chính mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chụp HS chỉ dùng trong lớp, xin phép HS trước khi chụp và chỉ chia sẻ với"
     }
    ],
-   "note": "Tổ CM tách và ghi tên Chủ đề 1, 2, 3 theo mục lục SGK"
+   "note": ""
   },
   {
    "id": "l3-hoat-dong-trai-nghiem-002",
@@ -50,9 +60,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chụp ảnh sản phẩm gương mặt vui nhộn từ lá cây, sỏi, chiếu lên tivi; từng em nói nét riêng, GV gõ câu giới thiệu dưới ảnh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "HS xếp các mẩu thông tin vào hai rổ kể được cho bạn (nét riêng, sở thích) và giữ riêng (địa chỉ nhà, số điện thoại bố mẹ)"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ nói sở thích, điều làm tốt; địa chỉ, số điện thoại là bí mật."
+    }
+   ],
    "note": ""
   },
   {
@@ -66,9 +92,25 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu lại bộ ảnh sản phẩm gương mặt vui nhộn của lớp; HS chia sẻ nét chung với người thân, GV gõ thêm một dòng dưới ảnh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Trò chơi Tôi nhận ra bạn nhờ điều gì, GV chiếu ảnh sản phẩm một bạn để lớp đoán; chỉ nói nét riêng vui, không kể địa chỉ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ nói sở thích, điều làm tốt; địa chỉ, số điện thoại là bí mật."
+    }
+   ],
    "note": ""
   },
   {
@@ -76,7 +118,7 @@
    "semester": 1,
    "week": 2,
    "theme": "CHỦ ĐỀ 1 – TỰ GIỚI THIỆU VỀ MÌNH",
-   "title": "Bài 2: Sở thích của em- tài năng học trò \n— Sinh hoạt dưới cờ: Câu lạc bộ theo sở thích",
+   "title": "Bài 2: Sở thích của em- tài năng học trò — Sinh hoạt dưới cờ: Câu lạc bộ theo sở thích",
    "content": "",
    "periodLabel": "Tiết 4 (3 tiết)",
    "periodFrom": 4,
@@ -86,9 +128,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Khi sinh hoạt lớp theo chủ điểm bài “Bài 2: Sở thích của em- tài năng học trò — Sinh hoạt dưới cờ: Câu lạc bộ theo sở"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần cam kết, GV chiếu bảng hình ảnh các câu lạc bộ của trường (vẽ, hát, cờ vua, bóng đá…)"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+     "text": "Video tài năng học trò chỉ lấy từ kho ảnh của trường hoặc nguồn tin cậy GV đã"
     }
    ],
    "note": ""
@@ -104,9 +156,25 @@
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chụp ảnh bông hoa sở thích của HS, chiếu lên tivi; từng em giới thiệu mỗi cánh hoa một sở thích, GV gõ dưới ảnh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "HS xếp các mẩu thông tin vào hai rổ kể được cho bạn (sở thích, món ăn) và giữ riêng (địa chỉ nhà, số điện thoại bố mẹ)"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ nói sở thích, điều làm tốt; địa chỉ, số điện thoại là bí mật."
+    }
+   ],
    "note": ""
   },
   {
@@ -120,9 +188,25 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại quay tiết mục giao lưu của các nhóm, mở lại trên tivi; GV gõ tên tiết mục, tên nhóm làm bảng tài năng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "GV nhắc chỉ quay khi bạn đồng ý, xem trong lớp rồi xoá; muốn đăng video phải xin ý kiến người thân"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ nói sở thích, điều làm tốt; địa chỉ, số điện thoại là bí mật."
+    }
+   ],
    "note": ""
   },
   {
@@ -130,7 +214,7 @@
    "semester": 1,
    "week": 3,
    "theme": "CHỦ ĐỀ 1 – TỰ GIỚI THIỆU VỀ MÌNH",
-   "title": "Bài 3: Ngôi sao của tôi, ngôi sao của bạn – Sản phẩm theo sở thích\n— Sinh hoạt dưới cờ: Giao lưu tài năng của học trò",
+   "title": "Bài 3: Ngôi sao của tôi, ngôi sao của bạn – Sản phẩm theo sở thích — Sinh hoạt dưới cờ: Giao lưu tài năng của học trò",
    "content": "",
    "periodLabel": "Tiết 7 (3 tiết)",
    "periodFrom": 7,
@@ -152,7 +236,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -168,7 +252,7 @@
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -178,7 +262,7 @@
    "semester": 1,
    "week": 4,
    "theme": "CHỦ ĐỀ 1 – TỰ GIỚI THIỆU VỀ MÌNH",
-   "title": "Bài 4: Đọc sách theo sở thích- danh mục theo sở thích\n — Sinh hoạt dưới cờ: Giới thiệu sản phẩm của các câu lạc bộ",
+   "title": "Bài 4: Đọc sách theo sở thích- danh mục theo sở thích — Sinh hoạt dưới cờ: Giới thiệu sản phẩm của các câu lạc bộ",
    "content": "",
    "periodLabel": "Tiết 10 (3 tiết)",
    "periodFrom": 10,
@@ -200,7 +284,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -216,7 +300,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -226,7 +310,7 @@
    "semester": 1,
    "week": 5,
    "theme": "CHỦ ĐỀ 1 – TỰ GIỚI THIỆU VỀ MÌNH",
-   "title": "Bài 5: Thời gian biểu của em- quý trọng thời gian \n— Sinh hoạt dưới cờ: Đêm hội trăng rằm",
+   "title": "Bài 5: Thời gian biểu của em- quý trọng thời gian — Sinh hoạt dưới cờ: Đêm hội trăng rằm",
    "content": "",
    "periodLabel": "Tiết 13 (3 tiết)",
    "periodFrom": 13,
@@ -234,13 +318,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -254,7 +332,7 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -264,13 +342,13 @@
    "semester": 1,
    "week": 5,
    "theme": "CHỦ ĐỀ 1 – TỰ GIỚI THIỆU VỀ MÌNH",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Quý trọng thời gian",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề:Quý trọng thời gian",
    "content": "",
    "periodLabel": "Tiết 15",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -280,7 +358,7 @@
    "semester": 1,
    "week": 6,
    "theme": "CHỦ ĐẾ 2: Rèn nếp sống",
-   "title": "Bài 6: Cuốn sổ thời gian – làm việc theo kế hoạch \n— Sinh hoạt dưới cờ: Sách bút thân yêu",
+   "title": "Bài 6: Cuốn sổ thời gian – làm việc theo kế hoạch — Sinh hoạt dưới cờ: Sách bút thân yêu",
    "content": "",
    "periodLabel": "Tiết 16 (3 tiết)",
    "periodFrom": 16,
@@ -288,13 +366,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -308,7 +380,7 @@
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -324,7 +396,7 @@
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -334,7 +406,7 @@
    "semester": 1,
    "week": 7,
    "theme": "CHỦ ĐẾ 2: Rèn nếp sống",
-   "title": "Bài 7: Ứng xử với đồ cũ – Phân loại đồ cũ \n— Sinh hoạt dưới cờ: Hội chợ trao đổi đồ dùng đồ chơi",
+   "title": "Bài 7: Ứng xử với đồ cũ – Phân loại đồ cũ — Sinh hoạt dưới cờ: Hội chợ trao đổi đồ dùng đồ chơi",
    "content": "",
    "periodLabel": "Tiết 19 (3 tiết)",
    "periodFrom": 19,
@@ -356,7 +428,7 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -378,7 +450,7 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -388,7 +460,7 @@
    "semester": 1,
    "week": 8,
    "theme": "CHỦ ĐẾ 2: Rèn nếp sống",
-   "title": "Bài 8: Người tiêu dùng thông minh – Cũ mà vẫn tốt \n— Sinh hoạt dưới cờ: Ngày hội tiêu dùng thông minh",
+   "title": "Bài 8: Người tiêu dùng thông minh – Cũ mà vẫn tốt — Sinh hoạt dưới cờ: Ngày hội tiêu dùng thông minh",
    "content": "",
    "periodLabel": "Tiết 22 (3 tiết)",
    "periodFrom": 22,
@@ -410,7 +482,7 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -426,7 +498,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -442,7 +514,7 @@
    "semester": 1,
    "week": 9,
    "theme": "CHỦ ĐẾ 3:Em yêu trường em",
-   "title": "Bài 9: Lớp học của em – Lớp học thân thương \n— Sinh hoạt dưới cờ: Phong trào xây dựng tủ sách lớp học",
+   "title": "Bài 9: Lớp học của em – Lớp học thân thương — Sinh hoạt dưới cờ: Phong trào xây dựng tủ sách lớp học",
    "content": "",
    "periodLabel": "Tiết 25 (3 tiết)",
    "periodFrom": 25,
@@ -464,7 +536,7 @@
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -474,13 +546,13 @@
    "semester": 1,
    "week": 9,
    "theme": "CHỦ ĐẾ 3:Em yêu trường em",
-   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề: Lớp học thân thương",
+   "title": "Sinh hoạt lớp: Sinh hoạt theo chủ đề : Lớp học thân thương",
    "content": "",
    "periodLabel": "Tiết 27",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -490,7 +562,7 @@
    "semester": 1,
    "week": 10,
    "theme": "CHỦ ĐẾ 3:Em yêu trường em",
-   "title": "Bài 10: Bảo vệ tình bạn – Chúng mình hiểu nhau \n— Sinh hoạt dưới cờ: Triển lãm tranh về chủ đề “Tình bạn”",
+   "title": "Bài 10: Bảo vệ tình bạn – Chúng mình hiểu nhau — Sinh hoạt dưới cờ: Triển lãm tranh về chủ đề “ Tình bạn”",
    "content": "",
    "periodLabel": "Tiết 28 (3 tiết)",
    "periodFrom": 28,
@@ -512,7 +584,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -528,7 +600,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -538,7 +610,7 @@
    "semester": 1,
    "week": 11,
    "theme": "CHỦ ĐẾ 3:Em yêu trường em",
-   "title": "Bài 11: Phấn đấu trở thành Đội viên – Tự hào về Đội ta \n— Sinh hoạt dưới cờ: Gương sáng đội ta",
+   "title": "Bài 11: Phấn đấu trở thành Đội viên – Tự hào về Đội ta — Sinh hoạt dưới cờ: Gương sáng đội ta",
    "content": "",
    "periodLabel": "Tiết 31 (3 tiết)",
    "periodFrom": 31,
@@ -560,7 +632,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -576,7 +648,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -586,7 +658,7 @@
    "semester": 1,
    "week": 12,
    "theme": "CHỦ ĐẾ 3:Em yêu trường em",
-   "title": "Bài 12: Thầy cô trong mắt em- Món quà tặng thầy cô \n— Sinh hoạt dưới cờ: Chào mừng ngày nhà giáo Việt Nam",
+   "title": "Bài 12: Thầy cô trong mắt em- Món quà tặng thầy cô — Sinh hoạt dưới cờ: Chào mừng ngày nhà giáo Việt Nam",
    "content": "",
    "periodLabel": "Tiết 34 (3 tiết)",
    "periodFrom": 34,
@@ -608,7 +680,7 @@
    "periodFrom": 35,
    "periodTo": 35,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -624,7 +696,7 @@
    "periodFrom": 36,
    "periodTo": 36,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -634,7 +706,7 @@
    "semester": 1,
    "week": 13,
    "theme": "CHỦ ĐỀ 4: Tự phục vụ bản thân",
-   "title": "Bài 13: Tự sắp xếp đồ dùng ngăn nắp- Đôi tay khéo léo \n— Sinh hoạt dưới cờ: Tự phục vụ bản thân",
+   "title": "Bài 13: Tự sắp xếp đồ dùng ngăn nắp- Đôi tay khéo léo — Sinh hoạt dưới cờ: Tự phục vụ bản thân",
    "content": "",
    "periodLabel": "Tiết 37 (3 tiết)",
    "periodFrom": 37,
@@ -647,11 +719,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân.  \nRèn kỹ năng tự giác phục vụ bản thân với những công việc phù hợp cả ở lớp và ở nhà."
     }
    ],
    "note": ""
@@ -667,7 +734,7 @@
    "periodFrom": 38,
    "periodTo": 38,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -683,7 +750,7 @@
    "periodFrom": 39,
    "periodTo": 39,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -693,7 +760,7 @@
    "semester": 1,
    "week": 14,
    "theme": "CHỦ ĐỀ 4: Tự phục vụ bản thân",
-   "title": "Bài 14: Góc học tập đáng yêu – Góc nhà thân thương \n— Sinh hoạt dưới cờ: Thư viện em yêu",
+   "title": "Bài 14: Góc học tập đáng yêu – Góc nhà thân thương — Sinh hoạt dưới cờ: Thư viện em yêu",
    "content": "",
    "periodLabel": "Tiết 40 (3 tiết)",
    "periodFrom": 40,
@@ -715,7 +782,7 @@
    "periodFrom": 41,
    "periodTo": 41,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -731,7 +798,7 @@
    "periodFrom": 42,
    "periodTo": 42,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -741,7 +808,7 @@
    "semester": 1,
    "week": 15,
    "theme": "CHỦ ĐỀ 4: Tự phục vụ bản thân",
-   "title": "Bài 15: Nhà là tổ ấm – Em chăm sóc nhà cửa \n— Sinh hoạt dưới cờ: Chào mừng ngày thành lập quân đội nhân dân Việt Nam 22-12",
+   "title": "Bài 15: Nhà là tổ ấm – Em chăm sóc nhà cửa — Sinh hoạt dưới cờ: Chào mừng ngày thành lập quân đội nhân dân Việt Nam 22-12",
    "content": "",
    "periodLabel": "Tiết 43 (3 tiết)",
    "periodFrom": 43,
@@ -749,13 +816,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -769,7 +830,7 @@
    "periodFrom": 44,
    "periodTo": 44,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -785,7 +846,7 @@
    "periodFrom": 45,
    "periodTo": 45,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -795,7 +856,7 @@
    "semester": 1,
    "week": 16,
    "theme": "CHỦ ĐỀ 4: Tự phục vụ bản thân",
-   "title": "Bài 16: Nhà sạch thì mát – Chăm làm việc nhà \n— Sinh hoạt dưới cờ: Nét đẹp học trò",
+   "title": "Bài 16: Nhà sạch thì mát – Chăm làm việc nhà — Sinh hoạt dưới cờ: Nét đẹp học trò",
    "content": "",
    "periodLabel": "Tiết 46 (3 tiết)",
    "periodFrom": 46,
@@ -817,7 +878,7 @@
    "periodFrom": 47,
    "periodTo": 47,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -833,7 +894,7 @@
    "periodFrom": 48,
    "periodTo": 48,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -843,7 +904,7 @@
    "semester": 1,
    "week": 17,
    "theme": "CHỦ ĐỀ 4: Tự phục vụ bản thân",
-   "title": "Bài 17: Đồ dùng của người thân – Câu chuyện yêu thương \n— Sinh hoạt dưới cờ: Kỉ niệm theo ta",
+   "title": "Bài 17: Đồ dùng của người thân – Câu chuyện yêu thương — Sinh hoạt dưới cờ: Kỉ niệm theo ta",
    "content": "",
    "periodLabel": "Tiết 49 (3 tiết)",
    "periodFrom": 49,
@@ -865,7 +926,7 @@
    "periodFrom": 50,
    "periodTo": 50,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -881,7 +942,7 @@
    "periodFrom": 51,
    "periodTo": 51,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -891,7 +952,7 @@
    "semester": 1,
    "week": 18,
    "theme": "CHỦ ĐỀ 5: Gia đình thân thương",
-   "title": "Bài 18: Lá thư tri ân – Tình cảm gia đình \n— Sinh hoạt dưới cờ: Biết ơn người thân trong gia đình",
+   "title": "Bài 18: Lá thư tri ân – Tình cảm gia đình — Sinh hoạt dưới cờ: Biết ơn người thân trong gia đình",
    "content": "",
    "periodLabel": "Tiết 52 (3 tiết)",
    "periodFrom": 52,
@@ -904,11 +965,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
     }
    ],
    "note": ""
@@ -924,7 +980,7 @@
    "periodFrom": 53,
    "periodTo": 53,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -940,7 +996,7 @@
    "periodFrom": 54,
    "periodTo": 54,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -950,7 +1006,7 @@
    "semester": 2,
    "week": 19,
    "theme": "CHỦ ĐỀ 5: Gia đình thân thương",
-   "title": "Bài 19: Lao động và thu nhập gia đình – Mua sắm tiết kiệm \n— Sinh hoạt dưới cờ: Cùng người thân sắm Tết",
+   "title": "Bài 19: Lao động và thu nhập gia đình – Mua sắm tiết kiệm — Sinh hoạt dưới cờ: Cùng người thân sắm Tết",
    "content": "",
    "periodLabel": "Tiết 55 (3 tiết)",
    "periodFrom": 55,
@@ -966,13 +1022,13 @@
    "semester": 2,
    "week": 19,
    "theme": "CHỦ ĐỀ 5: Gia đình thân thương",
-   "title": "Hoạt động giáo dục theo chủ đề: lao động và thu nhập gia đình",
+   "title": "Hoạt động giáo dục theo chủ đề: Lao động và thu nhập gia đình",
    "content": "",
    "periodLabel": "Tiết 56",
    "periodFrom": 56,
    "periodTo": 56,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -988,7 +1044,7 @@
    "periodFrom": 57,
    "periodTo": 57,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -998,7 +1054,7 @@
    "semester": 2,
    "week": 20,
    "theme": "CHỦ ĐỀ 5: Gia đình thân thương",
-   "title": "Bài 20: Tiết kiệm điện nước trong gia đình – Sử dụng thiết bị điện, nước \n— Sinh hoạt dưới cờ: Ngày hội gia đình",
+   "title": "Bài 20: Tiết kiệm điện nước trong gia đình – Sử dụng thiết bị điện, nước — Sinh hoạt dưới cờ: Ngày hội gia đình",
    "content": "",
    "periodLabel": "Tiết 58 (3 tiết)",
    "periodFrom": 58,
@@ -1020,7 +1076,7 @@
    "periodFrom": 59,
    "periodTo": 59,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1036,7 +1092,7 @@
    "periodFrom": 60,
    "periodTo": 60,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1046,7 +1102,7 @@
    "semester": 2,
    "week": 21,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân",
-   "title": "Bài 21: Bếp nhà em – Tiêu chí đánh giá của ông Táo \n— Sinh hoạt dưới cờ: Vì tầm vóc Việt",
+   "title": "Bài 21: Bếp nhà em – Tiêu chí đánh giá của ông Táo — Sinh hoạt dưới cờ: Vì tầm vóc Việt",
    "content": "",
    "periodLabel": "Tiết 61 (3 tiết)",
    "periodFrom": 61,
@@ -1059,11 +1115,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
     }
    ],
    "note": ""
@@ -1079,7 +1130,7 @@
    "periodFrom": 62,
    "periodTo": 62,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1095,7 +1146,7 @@
    "periodFrom": 63,
    "periodTo": 63,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1105,7 +1156,7 @@
    "semester": 2,
    "week": 22,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân",
-   "title": "Bài 22: Ăn sạch - Thực phẩm sạch.\n— Sinh hoạt dưới cờ: Ăn uống lành mạnh",
+   "title": "Bài 22: Ăn sạch - Thực phẩm sạch. — Sinh hoạt dưới cờ: Ăn uống lành mạnh",
    "content": "",
    "periodLabel": "Tiết 64 (3 tiết)",
    "periodFrom": 64,
@@ -1115,9 +1166,14 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự. — Nội dung tuần 22 chưa có trong nguồn — Tổ CM bổ sung theo SGK."
+    },
+    {
      "code": "GDĐP",
      "level": "",
-     "text": "- Kể được tên một món ăn đặc trưng của Nghệ An;\n- Nêu được nguyên liệu chính của một món ăn đặc trưng của Nghệ An;\n- Chia sẻ được cảm nhận về một món ăn đặc trưng của Nghệ An;\n- Thực hành cùng bạn /gia đình làm một món món ăn đặc trưng của Nghệ An."
+     "text": "- Kể được tên một món ăn đặc trưng của Nghệ An; - Nêu được nguyên liệu chính của một món ăn đặc trưng của Nghệ An; - Chia sẻ được cảm nhận về một món ăn đặc trưng của Nghệ An; - Thực hành cùng bạn /gia đình làm một món món ăn đặc trưng của Nghệ An."
     }
    ],
    "note": ""
@@ -1133,7 +1189,7 @@
    "periodFrom": 65,
    "periodTo": 65,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1149,7 +1205,7 @@
    "periodFrom": 66,
    "periodTo": 66,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1159,7 +1215,7 @@
    "semester": 2,
    "week": 23,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân",
-   "title": "Bài 23: Bên mâm cơm - Quy tắc ứng xử khi ăn uống\n— Sinh hoạt dưới cờ: Tham gia văn nghệ chào mừng ngày Quốc tế Phụ nữ 8 – 3.",
+   "title": "Bài 23: Bên mâm cơm - Quy tắc ứng xử khi ăn uống — Sinh hoạt dưới cờ: Tham gia văn nghệ chào mừng ngày Quốc tế Phụ nữ 8 – 3.",
    "content": "",
    "periodLabel": "Tiết 67 (3 tiết)",
    "periodFrom": 67,
@@ -1181,7 +1237,7 @@
    "periodFrom": 68,
    "periodTo": 68,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1197,7 +1253,7 @@
    "periodFrom": 69,
    "periodTo": 69,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1207,7 +1263,7 @@
    "semester": 2,
    "week": 24,
    "theme": "CHỦ ĐỀ 6: Tự chăm sóc và bảo vệ bản thân",
-   "title": "Bài 24 : Phòng tránh bị bắt cóc \n— Sinh hoạt dưới cờ: Tự bảo vệ bản thân",
+   "title": "Bài 24 : Phòng tránh bị bắt cóc — Sinh hoạt dưới cờ: Tự bảo vệ bản thân",
    "content": "",
    "periodLabel": "Tiết 70 (3 tiết)",
    "periodFrom": 70,
@@ -1235,7 +1291,7 @@
    "periodFrom": 71,
    "periodTo": 71,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1251,7 +1307,7 @@
    "periodFrom": 72,
    "periodTo": 72,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1261,7 +1317,7 @@
    "semester": 2,
    "week": 25,
    "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng",
-   "title": "Bài 25: Truyền thống quê hương em\nSinh hoạt dưới cờ: Làng nghề truyền thống",
+   "title": "Bài 25: Truyền thống quê hương em Sinh hoạt dưới cờ: Làng nghề truyền thống",
    "content": "",
    "periodLabel": "Tiết 73 (3 tiết)",
    "periodFrom": 73,
@@ -1276,14 +1332,9 @@
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
     },
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
-    },
-    {
      "code": "GDĐP",
      "level": "",
-     "text": "- Kể được tên một số sản phẩm truyền thống, hàng hoá hiện nay của quê hương em;\n- Giới thiệu được một cách đơn giản về một vài hoạt động sản xuất hoặc tiêu thụ của một trong những sản phẩm trên"
+     "text": "- Kể được tên một số sản phẩm truyền thống, hàng hoá hiện nay của quê hương em; - Giới thiệu được một cách đơn giản về một vài hoạt động sản xuất hoặc tiêu thụ của một trong những sản phẩm trên"
     }
    ],
    "note": ""
@@ -1299,7 +1350,7 @@
    "periodFrom": 74,
    "periodTo": 74,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1315,7 +1366,7 @@
    "periodFrom": 75,
    "periodTo": 75,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -1331,7 +1382,7 @@
    "semester": 2,
    "week": 26,
    "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng",
-   "title": "Bài 26 : Tôi luôn bên bạn \n— Sinh hoạt dưới cờ: Phong trào Mùa đông ấm, mùa hè vui Tham dự phát động phong trào “Học nhân ái, biết sẻ chia”",
+   "title": "Bài 26 : Tôi luôn bên bạn — Sinh hoạt dưới cờ: Phong trào Mùa đông ấm, mùa hè vui Tham dự phát động phong trào “Học nhân ái, biết sẻ chia”",
    "content": "",
    "periodLabel": "Tiết 76 (3 tiết)",
    "periodFrom": 76,
@@ -1343,7 +1394,7 @@
     {
      "code": "GDĐP",
      "level": "",
-     "text": "- Mô tả được một số hoạt động tết vì người nghèo ở quê hương em;\n- Hiểu được một cách đơn giản ý nghĩa tết vì người nghèo ở quê hương em;\n- Tham gia được một số hoạt động để giúp đỡ hộ nghèo vào ngày Tết ở quê em phù hợp với bản thân."
+     "text": "- Mô tả được một số hoạt động tết vì người nghèo ở quê hương em; - Hiểu được một cách đơn giản ý nghĩa tết vì người nghèo ở quê hương em; - Tham gia được một số hoạt động để giúp đỡ hộ nghèo vào ngày Tết ở quê em phù hợp với bản thân."
     }
    ],
    "note": ""
@@ -1359,7 +1410,7 @@
    "periodFrom": 77,
    "periodTo": 77,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1375,7 +1426,7 @@
    "periodFrom": 78,
    "periodTo": 78,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1385,7 +1436,7 @@
    "semester": 2,
    "week": 27,
    "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng",
-   "title": "Bài 27: Chia sẻ khó khăn với người khuyết tật \n— Sinh hoạt dưới cờ: Câu chuyện về lòng nhân ái",
+   "title": "Bài 27: Chia sẻ khó khăn với người khuyết tật — Sinh hoạt dưới cờ: Câu chuyện về lòng nhân ái",
    "content": "",
    "periodLabel": "Tiết 79 (3 tiết)",
    "periodFrom": 79,
@@ -1393,13 +1444,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1413,7 +1458,7 @@
    "periodFrom": 80,
    "periodTo": 80,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -1435,7 +1480,7 @@
    "periodFrom": 81,
    "periodTo": 81,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1445,7 +1490,7 @@
    "semester": 2,
    "week": 28,
    "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng",
-   "title": "Bài 28: Cảnh đẹp quê em \n— Sinh hoạt dưới cờ: Cảnh quan quê hương địa phương em\n- Tham gia hát, đọc thơ về quê hương đất nước. Cảnh đẹp quê em.",
+   "title": "Bài 28: Cảnh đẹp quê em — Sinh hoạt dưới cờ: Cảnh quan quê hương địa phương em - Tham gia hát, đọc thơ về quê hương đất nước. Cảnh đẹp quê em.",
    "content": "",
    "periodLabel": "Tiết 82 (3 tiết)",
    "periodFrom": 82,
@@ -1467,7 +1512,7 @@
    "periodFrom": 83,
    "periodTo": 83,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1483,7 +1528,7 @@
    "periodFrom": 84,
    "periodTo": 84,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1493,7 +1538,7 @@
    "semester": 2,
    "week": 29,
    "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng",
-   "title": "Bài 29: Bảo vệ cảnh quan quê em \n— Sinh hoạt dưới cờ: Bảo vệ thiên nhiên",
+   "title": "Bài 29: Bảo vệ cảnh quan quê em — Sinh hoạt dưới cờ: Bảo vệ thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 85 (3 tiết)",
    "periodFrom": 85,
@@ -1505,7 +1550,7 @@
     {
      "code": "GDĐP",
      "level": "",
-     "text": "- Nêu được hiện trạng môi trường tự nhiên ở địa phương;\n- Nêu được một số nguyên nhân gây ô nhiễm  môi trường tự nhiên ở địa phương em;\n- Thực hiện được hành động giữ gìn vệ sinh, bảo vệ môi trường tự nhiên ở địa phương em."
+     "text": "- Nêu được hiện trạng môi trường tự nhiên ở địa phương; - Nêu được một số nguyên nhân gây ô nhiễm môi trường tự nhiên ở địa phương em; - Thực hiện được hành động giữ gìn vệ sinh, bảo vệ môi trường tự nhiên ở địa phương em."
     }
    ],
    "note": ""
@@ -1521,7 +1566,7 @@
    "periodFrom": 86,
    "periodTo": 86,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1537,7 +1582,7 @@
    "periodFrom": 87,
    "periodTo": 87,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1547,7 +1592,7 @@
    "semester": 2,
    "week": 30,
    "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng",
-   "title": "Bài 30: Giữ gìn vệ sinh môi trường \n— Sinh hoạt dưới cờ: Phóng viên môi trường nhí",
+   "title": "Bài 30: Giữ gìn vệ sinh môi trường — Sinh hoạt dưới cờ: Phóng viên môi trường nhí",
    "content": "",
    "periodLabel": "Tiết 88 (3 tiết)",
    "periodFrom": 88,
@@ -1569,7 +1614,7 @@
    "periodFrom": 89,
    "periodTo": 89,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -1591,7 +1636,7 @@
    "periodFrom": 90,
    "periodTo": 90,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1601,7 +1646,7 @@
    "semester": 2,
    "week": 31,
    "theme": "CHỦ ĐỀ 7: Chia sẻ cộng đồng",
-   "title": "Bài 31: Lớp học xanh \n— Sinh hoạt dưới cờ: Phòng, chống ô nhiễm môi trường\n- Nghe tổng kết phong trào “Chung tay bảo vệ cảnh quan quê em”.- Hưởng ứng phong trào “Vì một hành tình xanh. Lao động an toàn.",
+   "title": "Bài 31: Lớp học xanh — Sinh hoạt dưới cờ: Phòng, chống ô nhiễm môi trường - Nghe tổng kết phong trào “Chung tay bảo vệ cảnh quan quê em”.- Hưởng ứng phong trào “Vì một hành tình xanh. Lao động an toàn.",
    "content": "",
    "periodLabel": "Tiết 91 (3 tiết)",
    "periodFrom": 91,
@@ -1623,7 +1668,7 @@
    "periodFrom": 92,
    "periodTo": 92,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -1645,7 +1690,7 @@
    "periodFrom": 93,
    "periodTo": 93,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1655,7 +1700,7 @@
    "semester": 2,
    "week": 32,
    "theme": "CHỦ ĐỀ 8: Em tìm hiểu nghề nghiệp",
-   "title": "Bài 32: Nghề của mẹ, nghề của cha \n— Sinh hoạt dưới cờ: Thế giới nghề nghiệp quanh em\n Giao lưu với các cô bác phụ huynh về nghề nghiệp của họ. Chào mừng ngày Giải phóng miền Nam 30/4 và Quốc tế Lao động 1/5",
+   "title": "Bài 32: Nghề của mẹ, nghề của cha — Sinh hoạt dưới cờ: Thế giới nghề nghiệp quanh em Giao lưu với các cô bác phụ huynh về nghề nghiệp của họ. Chào mừng ngày Giải phóng miền Nam 30/4 và Quốc tế Lao động 1/5",
    "content": "",
    "periodLabel": "Tiết 94 (3 tiết)",
    "periodFrom": 94,
@@ -1668,11 +1713,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -1688,7 +1728,7 @@
    "periodFrom": 95,
    "periodTo": 95,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -1710,7 +1750,7 @@
    "periodFrom": 96,
    "periodTo": 96,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1720,7 +1760,7 @@
    "semester": 2,
    "week": 33,
    "theme": "CHỦ ĐỀ 8: Em tìm hiểu nghề nghiệp",
-   "title": "Bài 33: Nghề nào tính nấy \n— Sinh hoạt dưới cờ: Ngày hội những người lao động tương lai\nTham gia hoạt động chào mừng ngày thành lập Đội Thiếu niên Tiền phong Hồ Chí Minh 15/5. Tìm hiểu về nghề nghiệp",
+   "title": "Bài 33: Nghề nào tính nấy — Sinh hoạt dưới cờ: Ngày hội những người lao động tương lai Tham gia hoạt động chào mừng ngày thành lập Đội Thiếu niên Tiền phong Hồ Chí Minh 15/5. Tìm hiểu về nghề nghiệp",
    "content": "",
    "periodLabel": "Tiết 97 (3 tiết)",
    "periodFrom": 97,
@@ -1728,13 +1768,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1748,7 +1782,7 @@
    "periodFrom": 98,
    "periodTo": 98,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1764,7 +1798,7 @@
    "periodFrom": 99,
    "periodTo": 99,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1774,7 +1808,7 @@
    "semester": 2,
    "week": 34,
    "theme": "CHỦ ĐỀ 8: Em tìm hiểu nghề nghiệp",
-   "title": "Bài 34: Lao động an toàn \n— Sinh hoạt dưới cờ: - Tham gia hoạt động kỉ niệm ngày sinh Bác Hồ 19 – 5.- Nghe kể chuyện về những công việc Bác Hồ đã trải qua trong thời gian đi tìm đường cứu nước. Tìm hiểu về Đội TNTP HCM - Kể chuyện về Bác Hồ",
+   "title": "Bài 34: Lao động an toàn — Sinh hoạt dưới cờ: - Tham gia hoạt động kỉ niệm ngày sinh Bác Hồ 19 – 5.- Nghe kể chuyện về những công việc Bác Hồ đã trải qua trong thời gian đi tìm đường cứu nước. Tìm hiểu về Đội TNTP HCM - Kể chuyện về Bác Hồ",
    "content": "",
    "periodLabel": "Tiết 100 (3 tiết)",
    "periodFrom": 100,
@@ -1782,13 +1816,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1802,7 +1830,7 @@
    "periodFrom": 101,
    "periodTo": 101,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1818,7 +1846,7 @@
    "periodFrom": 102,
    "periodTo": 102,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1828,7 +1856,7 @@
    "semester": 2,
    "week": 35,
    "theme": "CHỦ ĐỀ 8: Em tìm hiểu nghề nghiệp",
-   "title": "Bài 35 : Đón mùa hè trải nghiệm \n— Sinh hoạt dưới cờ: Nghe phổ biến về việc chuẩn bị các hoạt động tổng kết năm học. Đón mùa hè trải nghiệm (phòng tránh đuối nước) - Tuyên truyền cách phòng tránh dịch bệnh mùa hè",
+   "title": "Bài 35 : Đón mùa hè trải nghiệm — Sinh hoạt dưới cờ: Nghe phổ biến về việc chuẩn bị các hoạt động tổng kết năm học. Đón mùa hè trải nghiệm (phòng tránh đuối nước) - Tuyên truyền cách phòng tránh dịch bệnh mùa hè",
    "content": "",
    "periodLabel": "Tiết 103 (3 tiết)",
    "periodFrom": 103,
@@ -1836,13 +1864,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp. Khi ở nhà, chúng ta nên tránh các trò chơi nguy hiểm, tránh ao hồ sông suối, tham gia vào các CLB âm nhạc, thể dục thể thao của địa phương để có một mùa hè bổ ích."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1856,7 +1878,7 @@
    "periodFrom": 104,
    "periodTo": 104,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1872,7 +1894,7 @@
    "periodFrom": 105,
    "periodTo": 105,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -2150,8 +2172,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Hoat dong trai nghiem - Lop 3.docx",
   "name": "Hoat dong trai nghiem - Lop 3.docx",
-  "original": "KHDH HĐTN lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 44364,
-  "updated": "2026-09-04"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 47143,
+  "updated": "2026-09-07"
  }
 }

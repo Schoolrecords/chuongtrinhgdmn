@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Đạo đức lớp 2 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 25
+  "integrations": 19
  },
  "lessons": [
   {
@@ -34,12 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "hình ảnh, tư liệu về quê hương/đất nước phải lấy từ nguồn chính thống và đặt trang trọng."
+     "text": "GV mở video Quê hương tươi đẹp, gõ tên xã, tỉnh vào ô tìm kiếm hình ảnh; HS kiểm tra ảnh đúng địa phương"
     },
     {
-     "code": "QPAN",
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bộ ảnh thiên nhiên quê hương do GV, phụ huynh chụp cùng ảnh Trường Sa; HS gọi tên nơi đó, nêu nét đẹp con người"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng khi nói về Tổ quốc Việt Nam."
+     "text": "Ảnh chỉ chụp cảnh vật, không chụp cận mặt người chưa xin phép."
     }
    ],
    "note": ""
@@ -55,9 +60,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV nói vào micro điện thoại từ khoá để công cụ tìm kiếm giọng nói có AI hiện ảnh; HS kiểm tra ảnh nào đúng quê mình"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh bài tập 2 để HS quan sát nét mặt các bạn, đưa lời khuyên; chiếu ảnh cảnh đẹp có rác"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chỉ chụp cảnh vật, không chụp cận mặt người chưa xin phép."
+    }
+   ],
    "note": ""
   },
   {
@@ -78,11 +99,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "hình ảnh, tư liệu về quê hương/đất nước phải lấy từ nguồn chính thống và đặt trang trọng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng khi nói về Tổ quốc Việt Nam."
     }
    ],
    "note": ""
@@ -98,7 +114,7 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -114,7 +130,7 @@
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -152,7 +168,7 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -190,7 +206,7 @@
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -229,11 +245,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
     }
    ],
    "note": ""
@@ -249,7 +260,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -267,13 +278,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: dám nhận lỗi và sửa lỗi; chịu trách nhiệm về việc mình làm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -287,7 +292,7 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -310,11 +315,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
     }
    ],
    "note": ""
@@ -330,7 +330,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -353,11 +353,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
     }
    ],
    "note": ""
@@ -373,7 +368,7 @@
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -390,7 +385,7 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "GV chủ động bố trí nội dung ôn tập trong tuần 18",
+   "adjustments": "GV chủ động bố trí trong tuần 18",
    "integrations": [],
    "note": ""
   },
@@ -412,11 +407,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "ứng xử với thầy cô, bạn bè trên mạng cũng lễ phép như khi gặp trực tiếp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí cảm xúc: nhận diện cảm xúc của mình và tìm cách bình tĩnh trở lại."
     }
    ],
    "note": ""
@@ -432,7 +422,7 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -455,11 +445,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "ứng xử với thầy cô, bạn bè trên mạng cũng lễ phép như khi gặp trực tiếp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí cảm xúc: nhận diện cảm xúc của mình và tìm cách bình tĩnh trở lại."
     }
    ],
    "note": ""
@@ -475,7 +460,7 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -491,7 +476,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -529,7 +514,7 @@
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -583,7 +568,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -606,11 +591,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "biết nhờ người lớn giúp khi gặp tình huống khó trên mạng; không cho người lạ thông tin riêng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
     }
    ],
    "note": ""
@@ -633,11 +613,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "biết nhờ người lớn giúp khi gặp tình huống khó trên mạng; không cho người lạ thông tin riêng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
     }
    ],
    "note": ""
@@ -653,7 +628,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -676,11 +651,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "biết nhờ người lớn giúp khi gặp tình huống khó trên mạng; không cho người lạ thông tin riêng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
     }
    ],
    "note": ""
@@ -696,7 +666,7 @@
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -990,8 +960,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Dao duc - Lop 2.docx",
   "name": "Dao duc - Lop 2.docx",
-  "original": "KHDH Đạo đức lớp 2 (2026-2027) (đã rà soát).docx",
-  "size": 8665,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 42572,
+  "updated": "2026-09-07"
  }
 }

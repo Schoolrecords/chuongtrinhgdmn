@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Khoa học lớp 4 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 32
+  "integrations": 26
  },
  "lessons": [
   {
@@ -33,8 +33,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trong bài “Tính chất của nước và nước với cuộc sống (Tiết 1)”, GV chiếu video quay cận cảnh các thí nghiệm: rót nước vào cốc, chai"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV dùng điện thoại chụp ảnh kết quả thí nghiệm của từng nhóm: cốc nước trong, tấm kính có vệt nước chảy, miếng vải bị thấm"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
+     "text": "Không để nước dây vào máy chiếu, máy tính, ổ điện"
     }
    ],
    "note": ""
@@ -50,9 +60,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Mở đầu bài “Tính chất của nước và nước với cuộc sống (Tiết 2)”, GV chiếu hình gói muối ăn, chai nước lọc, mái nhà dốc"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 4.A1.2",
+     "text": "GV dùng điện thoại hỏi trợ lí trí tuệ nhân tạo nước có vai trò gì trong sản xuất và sinh hoạt"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ GV thao tác điện thoại, HS không tự hỏi trợ lí trí tuệ nhân tạo khi không"
+    }
+   ],
    "note": ""
   },
   {
@@ -78,6 +104,21 @@
      "code": "NLS-ST",
      "level": "",
      "text": "Tạo sản phẩm học tập số đơn giản (sơ đồ, áp phích) trình bày kết quả."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu hình ảnh động ba thể của nước và sơ đồ vòng tuần hoàn; HS đọc sơ đồ hình 6, nói mây hình thành thế nào"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS làm thí nghiệm cốc nước đá, cốc nước nóng; GV quay bằng điện thoại, chiếu chậm để nhóm mô tả đúng từ bay hơi, ngưng tụ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Mô phỏng không thay thí nghiệm thật; không làm theo thí nghiệm nguy hiểm trên mạng."
     }
    ],
    "note": ""
@@ -93,9 +134,25 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu hình 7 SGK và hình ảnh động vòng tuần hoàn của nước; HS chọn từ hơi nước, mây, giọt mưa điền vào sơ đồ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS quan sát thí nghiệm ba cốc với đá, nước nóng, ghi bảng nhóm; nhóm vẽ sơ đồ chuyển thể, GV chụp chiếu lên tivi để đối chiếu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Mô phỏng không thay thí nghiệm thật; không làm theo thí nghiệm nguy hiểm trên mạng."
+    }
+   ],
    "note": ""
   },
   {
@@ -111,18 +168,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -136,7 +182,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -154,13 +200,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -174,7 +214,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -192,13 +232,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -212,7 +246,7 @@
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -230,13 +264,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -250,7 +278,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -268,13 +296,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -295,11 +317,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -315,7 +332,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -333,13 +350,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -353,7 +364,7 @@
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -385,7 +396,7 @@
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -403,13 +414,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -450,7 +455,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -482,7 +487,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -514,7 +519,7 @@
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -532,13 +537,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -554,7 +553,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
+    }
+   ],
    "note": ""
   },
   {
@@ -568,7 +573,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -584,7 +589,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -616,7 +621,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -632,7 +637,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -657,7 +662,7 @@
    "id": "l4-khoa-hoc-035",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 3: THỰC VẬT VÀ ĐỘNG VẬT",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Ôn tập cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -666,20 +671,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn). Điều chỉnh: dạy trọn Bài 16, 17 trong tuần 16–17; ôn tập và kiểm tra định kì cuối HKI chuyển về tuần 18."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-khoa-hoc-036",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 3: THỰC VẬT VÀ ĐỘNG VẬT",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
@@ -704,13 +703,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -726,7 +719,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
+    }
+   ],
    "note": ""
   },
   {
@@ -740,7 +739,7 @@
    "periodFrom": 39,
    "periodTo": 39,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -772,7 +771,7 @@
    "periodFrom": 41,
    "periodTo": 41,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -810,7 +809,7 @@
    "periodFrom": 43,
    "periodTo": 43,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -828,13 +827,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -852,9 +845,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
      "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
+     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
     }
    ],
    "note": ""
@@ -870,7 +863,7 @@
    "periodFrom": 46,
    "periodTo": 46,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -898,11 +891,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "Tạo sản phẩm học tập số đơn giản (sơ đồ, áp phích) trình bày kết quả."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -918,7 +906,7 @@
    "periodFrom": 48,
    "periodTo": 48,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -934,7 +922,7 @@
    "periodFrom": 49,
    "periodTo": 49,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -966,7 +954,7 @@
    "periodFrom": 51,
    "periodTo": 51,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -982,7 +970,7 @@
    "periodFrom": 52,
    "periodTo": 52,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1005,11 +993,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Tra cứu an toàn về thực phẩm/phòng tránh tai nạn; bảo vệ sức khoẻ và thông tin cá nhân khi dùng thiết bị số."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN an toàn khi thực hành: làm đúng hướng dẫn, không tự ý thử nghiệm nguy hiểm."
     }
    ],
    "note": ""
@@ -1025,7 +1008,7 @@
    "periodFrom": 54,
    "periodTo": 54,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1043,13 +1026,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1085,7 +1062,7 @@
    "periodFrom": 57,
    "periodTo": 57,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1103,13 +1080,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1123,7 +1094,7 @@
    "periodFrom": 59,
    "periodTo": 59,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1141,7 +1112,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
+    }
+   ],
    "note": ""
   },
   {
@@ -1155,7 +1132,7 @@
    "periodFrom": 61,
    "periodTo": 61,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1171,7 +1148,7 @@
    "periodFrom": 62,
    "periodTo": 62,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1203,7 +1180,7 @@
    "periodFrom": 64,
    "periodTo": 64,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1219,7 +1196,7 @@
    "periodFrom": 65,
    "periodTo": 65,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1237,13 +1214,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1259,13 +1230,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1279,22 +1244,16 @@
    "periodFrom": 68,
    "periodTo": 68,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ tư duy/bảng số để hệ thống hoá kiến thức; tự kiểm tra kết quả (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-khoa-hoc-069",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề 6: SINH VẬT VÀ MÔI TRƯỜNG",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Kiểm tra định kì cuối năm học",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
@@ -1302,7 +1261,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Điều chỉnh: dành 1 tiết Tổng kết cho kiểm tra định kì cuối năm theo Thông tư 27/2020/TT-BGDĐT",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -1595,8 +1554,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Khoa hoc - Lop 4.docx",
   "name": "Khoa hoc - Lop 4.docx",
-  "original": "KHDH Khoa học lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 10608,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 44039,
+  "updated": "2026-09-07"
  }
 }

@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Tự nhiên và Xã hội lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-04"
+  "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 21
+  "integrations": 25
  },
  "lessons": [
   {
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài hát Ba ngọn nến lung linh, chiếu khung sơ đồ họ hàng của Hoa; HS đọc cách xưng hô còn thiếu, GV gõ vào khung"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn chào hỏi, xưng hô đúng với ông bà, cô dì ở xa qua điện thoại; GV làm mẫu cuộc gọi, HS đóng vai theo cặp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+     "text": "Ảnh gia đình, ngày sinh người thân không đưa lên mạng; gọi điện phải xin phép bố mẹ."
     }
    ],
    "note": ""
@@ -50,9 +60,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu khung sơ đồ gia đình trống; từng HS kể tên thành viên bên nội, bên ngoại, GV gõ vào khung để sơ đồ lớn dần"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dạy bày tỏ tình cảm với họ hàng qua điện thoại: gọi hoặc nhắn lời hỏi thăm; GV làm mẫu tin nhắn, HS đóng vai theo cặp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh gia đình, ngày sinh người thân không đưa lên mạng; gọi điện phải xin phép bố mẹ."
+    }
+   ],
    "note": ""
   },
   {
@@ -66,9 +92,25 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hai tranh sự kiện gia đình Minh rồi mở khung đường thời gian trống; HS nêu các mốc, GV gõ đúng thứ tự"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dạy nói lời chúc mừng ngày kỉ niệm gia đình qua điện thoại; GV làm mẫu cuộc gọi; HS đóng vai theo cặp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh gia đình, ngày sinh người thân không đưa lên mạng; gọi điện phải xin phép bố mẹ."
+    }
+   ],
    "note": ""
   },
   {
@@ -84,7 +126,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu 4 tranh nguyên nhân cháy và video mô phỏng đám cháy trong bếp; dừng từng bước, HS chỉ việc phải làm khi thoát"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "HS học thuộc và thực hành gọi 114: bấm số, nói rõ địa chỉ, cháy ở đâu; luyện theo cặp bằng điện thoại đồ chơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "114 chỉ gọi khi thật sự có cháy; khi cháy không dừng lại quay phim."
+    }
+   ],
    "note": ""
   },
   {
@@ -98,7 +156,7 @@
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -118,14 +176,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
-    },
-    {
      "code": "GDMT",
      "level": "",
-     "text": "Có ý thức giữ gìn vệ sinh, bảo vệ môi trường xung quanh sạch đẹp\n- Biết làm một số việc vừa sức để giữ gìn môi trường xung quanh: vứt rác đúng nơi quy định, sắp xếp đồ dùng trong nhà gọn gàng, sạch sẽ."
+     "text": "Có ý thức giữ gìn vệ sinh, bảo vệ môi trường xung quanh sạch đẹp - Biết làm một số việc vừa sức để giữ gìn môi trường xung quanh: vứt rác đúng nơi quy định, sắp xếp đồ dùng trong nhà gọn gàng, sạch sẽ."
     },
     {
      "code": "GDĐP",
@@ -146,7 +199,7 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -178,7 +231,7 @@
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -196,25 +249,8 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l3-tu-nhien-va-xa-hoi-011",
@@ -227,7 +263,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -259,7 +295,7 @@
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -279,16 +315,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó: nhận biết nguy cơ, xử lí bước đầu và báo ngay cho người lớn."
-    },
-    {
      "code": "GDMT",
      "level": "",
      "text": "HS thực hiện giữ gìn trường, lớp sạch, đẹp và tham gia vào những hoạt động làm cho trường, lớp học xanh, sạch đẹp để góp phần BVMT sống xung quanh."
@@ -307,7 +333,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -323,7 +349,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -355,7 +381,7 @@
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -398,7 +424,7 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -414,7 +440,7 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -452,7 +478,7 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -493,11 +519,6 @@
      "text": "Di tích lịch sử - văn hóa và cảnh quan thiên nhiên. ( Tiết 25, 26)"
     },
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
      "code": "GDMT",
      "level": "",
      "text": "HS thực hiện việc bảo vệ các di tích lịch sử cũng như cảnh quan thiên nhiên"
@@ -521,7 +542,7 @@
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -539,13 +560,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -559,7 +574,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -597,7 +612,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -613,7 +628,7 @@
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -645,7 +660,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -663,7 +678,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài. — Điều chỉnh: Bài 15 học từ tuần 17 để hai tiết ôn tập, đánh giá cuối HKI liền nhau trong tuần 18."
+    }
+   ],
    "note": ""
   },
   {
@@ -725,7 +746,7 @@
    "periodFrom": 38,
    "periodTo": 38,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -757,7 +778,7 @@
    "periodFrom": 40,
    "periodTo": 40,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -789,7 +810,7 @@
    "periodFrom": 42,
    "periodTo": 42,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -827,7 +848,7 @@
    "periodFrom": 44,
    "periodTo": 44,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -859,7 +880,7 @@
    "periodFrom": 46,
    "periodTo": 46,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -891,7 +912,7 @@
    "periodFrom": 48,
    "periodTo": 48,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -923,7 +944,7 @@
    "periodFrom": 50,
    "periodTo": 50,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -955,7 +976,7 @@
    "periodFrom": 52,
    "periodTo": 52,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -987,7 +1008,7 @@
    "periodFrom": 54,
    "periodTo": 54,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1057,7 +1078,7 @@
    "periodFrom": 58,
    "periodTo": 58,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1067,7 +1088,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
-   "title": "Bài 27. Trái Đất và các đới khí hậu (Tiết 1)",
+   "title": "Bài 27. Trái đất và các đới khí hậu (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 59 (2 tiết)",
    "periodFrom": 59,
@@ -1075,13 +1096,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1089,13 +1104,13 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
-   "title": "Bài 27. Trái Đất và các đới khí hậu (Tiết 2)",
+   "title": "Bài 27. Trái đất và các đới khí hậu (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 60",
    "periodFrom": 60,
    "periodTo": 60,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1127,7 +1142,7 @@
    "periodFrom": 62,
    "periodTo": 62,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1143,7 +1158,7 @@
    "periodFrom": 63,
    "periodTo": 63,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1153,7 +1168,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
-   "title": "Bài 29. Mặt Trời, Trái Đất, Mặt Trăng (Tiết 1)",
+   "title": "Bài 29. Mặt trời, trái đất, mặt trăng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 64 (2 tiết)",
    "periodFrom": 64,
@@ -1169,13 +1184,13 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề: TRÁI ĐẤT VÀ BẦU TRỜI (11 tiết)",
-   "title": "Bài 29. Mặt Trời, Trái Đất, Mặt Trăng (Tiết 2)",
+   "title": "Bài 29. Mặt trời, trái đất, mặt trăng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 65",
    "periodFrom": 65,
    "periodTo": 65,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1207,7 +1222,7 @@
    "periodFrom": 67,
    "periodTo": 67,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1255,7 +1270,7 @@
    "periodFrom": 70,
    "periodTo": 70,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1533,8 +1548,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.docx",
   "name": "Tu nhien va Xa hoi - Lop 3.docx",
-  "original": "KHDH Tự nhiên và Xã hội lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 23615,
-  "updated": "2026-09-04"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 44085,
+  "updated": "2026-09-07"
  }
 }

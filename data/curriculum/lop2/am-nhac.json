@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 2/KHDH Âm nhạc lớp 2 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 31
+  "integrations": 27
  },
  "lessons": [
   {
@@ -32,9 +32,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu mẫu “Dàn nhạc trong vườn” từ học liệu số, chiếu tên bài, tác giả Tô Đông Hải; HS nghe từng câu rồi hát theo"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV thu âm cả lớp hát gõ đệm theo phách bằng điện thoại, mở lại trên loa; HS chỉ chỗ gõ phách chưa đều, sai lời"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu lấy từ học liệu bộ sách, kênh chính thức; nêu tên tác giả."
     }
    ],
    "note": ""
@@ -52,7 +62,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hình kèn đồng, mở đoạn kèn đồng trong Quốc ca; mở bản kể chuyện “Ước mơ của bạn Đô” có hình, dừng mỗi tranh"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài tập tương tác: nghe âm thanh, HS chọn đúng hình kèn đồng, sắp xếp thứ tự tranh truyện; máy báo sai thì nghe lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tư liệu lấy từ nhà xuất bản, kênh chính thức, tải sẵn về máy."
+    }
+   ],
    "note": ""
   },
   {
@@ -95,11 +121,6 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -160,11 +181,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
     }
    ],
    "note": ""
@@ -174,7 +190,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 2: Em yêu làn điệu dân ca",
-   "title": "Chủ đề 2: Em yêu làn điệu dân ca — Ôn tập chủ đề 2; Vận dụng – Sáng tạo",
+   "title": "Chủ đề 2: Em yêu làn điệu dân ca — Luyện tập và biểu diễn",
    "content": "",
    "periodLabel": "Tiết 8 (1 tiết)",
    "periodFrom": 8,
@@ -187,11 +203,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -239,7 +250,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 3: Mái trường thân yêu",
-   "title": "Chủ đề 3: Mái trường thân yêu — Đọc nhạc: Bài số 2",
+   "title": "Chủ đề 3: Mái trường thân yêu — Ôn tập đọc nhạc: Bài số 2; Nghe nhạc: Vui đến trường",
    "content": "",
    "periodLabel": "Tiết 11 (1 tiết)",
    "periodFrom": 11,
@@ -274,11 +285,6 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -310,7 +316,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 4: Tuổi thơ",
-   "title": "Chủ đề 4: Tuổi thơ — Nghe nhạc: Mưa sẽ tạnh thật vui; Ôn tập bài hát: Chú chim nhỏ dễ thương",
+   "title": "Chủ đề 4: Tuổi thơ — Nghe nhạc: Múa sư tử thật là vui; Ôn tập bài hát: Chú chim nhỏ dễ thương",
    "content": "",
    "periodLabel": "Tiết 14 (1 tiết)",
    "periodFrom": 14,
@@ -339,11 +345,6 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -353,7 +354,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 4: Tuổi thơ",
-   "title": "Chủ đề 4: Tuổi thơ — Ôn tập chủ đề 4; Vận dụng – Sáng tạo",
+   "title": "Ôn tập cuối học kì I (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -375,7 +376,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập cuối học kì I (Tiết 1)",
+   "title": "Ôn tập cuối học kì I (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -391,7 +392,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập, đánh giá cuối học kì I (Tiết 2)",
+   "title": "Đánh giá cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -445,7 +446,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 5: Mùa xuân",
-   "title": "Chủ đề 5: Mùa xuân — Thường thức âm nhạc: Câu chuyện về bài hát Chú voi con ở Bản Đôn; Vận dụng – Sáng tạo",
+   "title": "Chủ đề 5: Mùa xuân — Ôn tập đọc nhạc: Bài số 3; Thường thức âm nhạc: Câu chuyện về bài hát Chú voi con ở Bản Đôn; Vận dụng – Sáng tạo",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
    "periodFrom": 21,
@@ -458,11 +459,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -472,7 +468,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 5: Mùa xuân",
-   "title": "Chủ đề 5: Mùa xuân — Ôn tập chủ đề 5; Vận dụng – Sáng tạo",
+   "title": "Chủ đề 5: Mùa xuân — Ôn tập: Hát và đọc nhạc; Vận dụng – Sáng tạo",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -545,11 +541,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -559,7 +550,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 6: Gia đình yêu thương",
-   "title": "Chủ đề 6: Gia đình yêu thương — Ôn tập chủ đề 6; Vận dụng – Sáng tạo",
+   "title": "Chủ đề 6: Gia đình yêu thương — Luyện tập và biểu diễn bài hát Mẹ ơi có biết",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -619,7 +610,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 7: Những con vật quanh em",
-   "title": "Chủ đề 7: Những con vật quanh em — Nghe nhạc: Vũ khúc đàn gà con; Ôn tập bài hát và Đọc nhạc",
+   "title": "Chủ đề 7: Những con vật quanh em — Ôn tập đọc nhạc: Bài số 4; Nghe nhạc: Vũ khúc đàn gà con",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
    "periodFrom": 29,
@@ -635,7 +626,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 7: Những con vật quanh em",
-   "title": "Chủ đề 7: Những con vật quanh em — Ôn tập chủ đề 7; Vận dụng – Sáng tạo",
+   "title": "Chủ đề 7: Những con vật quanh em — Ôn tập: Hát và đọc nhạc; Vận dụng – Sáng tạo",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
@@ -648,11 +639,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -713,11 +699,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -1027,8 +1008,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Am nhac - Lop 2.docx",
   "name": "Am nhac - Lop 2.docx",
-  "original": "KHDH Âm nhạc lớp 2 (2026-2027) (đã rà soát).docx",
-  "size": 8549,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 42837,
+  "updated": "2026-09-07"
  }
 }

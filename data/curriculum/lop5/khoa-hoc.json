@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 5/KHDH Khoa học lớp 5 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 34
+  "integrations": 21
  },
  "lessons": [
   {
@@ -22,7 +22,7 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 1: Thành phần và vai trò của đất đối với cây trồng (Tiết 1)",
+   "title": "Bài 1: Thành phần và vai trò của đất đối với cây trồng (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
    "periodFrom": 1,
@@ -30,7 +30,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở video thí nghiệm thả đất vào cốc nước thấy bọt khí, đun đất thấy hơi nước; HS nhận ra thành phần của đất, đối chiếu SGK"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Nhóm 4 làm thí nghiệm với mẫu đất thật, GV chụp từng bước bằng điện thoại; nhóm ghép ảnh thành trang trình chiếu ghi hiện tượng, trình bày"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh, tin ô nhiễm trên mạng có thể là ảnh cũ; kiểm tra nguồn rồi mới chia sẻ."
+    }
+   ],
    "note": ""
   },
   {
@@ -38,15 +54,31 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 1: Thành phần và vai trò của đất đối với cây trồng (Tiết 2)",
+   "title": "Bài 1: Thành phần và vai trò của đất đối với cây trồng (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV phóng to hình 6 bộ rễ, mở video rễ cây lớn dần trong đất để HS thấy rễ hút nước, chất khoáng, giữ cây"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Nhóm dùng ứng dụng vẽ trên máy GV lập sơ đồ: đất ở giữa, mũi tên chỉ nước, chất khoáng vào rễ; nhóm chiếu sơ đồ trình bày"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh, tin ô nhiễm trên mạng có thể là ảnh cũ; kiểm tra nguồn rồi mới chia sẻ."
+    }
+   ],
    "note": ""
   },
   {
@@ -54,7 +86,7 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 2: Ô nhiễm, xói mòn đất và bảo vệ môi trường đất (Tiết 1)",
+   "title": "Bài 2: Ô nhiễm, xói mòn đất và bảo vệ môi trường đất (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (3 tiết)",
    "periodFrom": 3,
@@ -65,13 +97,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "",
-     "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
+     "level": "Cơ bản 2",
+     "text": "GV chiếu ảnh bãi rác, ruộng phun thuốc, nước thải nhà máy và video đất nhiễm bẩn; HS tìm nguyên nhân ô nhiễm đất, đối chiếu SGK"
     },
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Nhóm làm áp phích hoặc trang trình chiếu về phân loại rác tại gia đình: ảnh thùng rác hữu cơ, tái chế kèm câu kêu gọi; chiếu lên"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
+     "text": "Ảnh, tin ô nhiễm trên mạng có thể là ảnh cũ; kiểm tra nguồn rồi mới chia sẻ."
     }
    ],
    "note": ""
@@ -81,19 +118,29 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 2: Ô nhiễm, xói mòn đất và bảo vệ môi trường đất (Tiết 2)",
+   "title": "Bài 2: Ô nhiễm, xói mòn đất và bảo vệ môi trường đất (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu ảnh sườn đồi trước, sau khi mất rừng, video mưa cuốn đất trên đồi trọc; HS nêu nguyên nhân, tác hại xói mòn, đối chiếu SGK"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Nhóm dùng ứng dụng trình chiếu trên máy GV ghép hai ảnh đồi có rừng và đồi trọc, ghi mũi tên rễ cây giữ đất"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
+     "text": "Ảnh, tin ô nhiễm trên mạng có thể là ảnh cũ; kiểm tra nguồn rồi mới chia sẻ."
     }
    ],
    "note": ""
@@ -103,13 +150,13 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 2: Ô nhiễm, xói mòn đất và bảo vệ môi trường đất (Tiết 3)",
+   "title": "Bài 2: Ô nhiễm, xói mòn đất và bảo vệ môi trường đất (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 5",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -119,7 +166,7 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 3: Hỗn hợp và dung dịch (Tiết 1)",
+   "title": "Bài 3: Hỗn hợp và dung dịch (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 6 (2 tiết)",
    "periodFrom": 6,
@@ -135,13 +182,13 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 3: Hỗn hợp và dung dịch (Tiết 2)",
+   "title": "Bài 3: Hỗn hợp và dung dịch (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 7",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -157,7 +204,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 4: Đặc điểm của chất ở trạng thái rắn, lỏng, khí. Sự biến đổi trạng thái của chất (Tiết 1)",
+   "title": "Bài 4: Đặc điểm của chất ở trạng thái rắn, lỏng, khí; sự biến đổi trạng thái của chất (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 8 (2 tiết)",
    "periodFrom": 8,
@@ -179,7 +226,7 @@
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -189,7 +236,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 5: Sự biến đổi hoá học của chất (Tiết 1)",
+   "title": "Bài 5: Sự biến đổi hoá học của chất (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 10 (2 tiết)",
    "periodFrom": 10,
@@ -205,13 +252,13 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề 1: CHẤT",
-   "title": "Bài 5: Sự biến đổi hoá học của chất (Tiết 2)",
+   "title": "Bài 5: Sự biến đổi hoá học của chất (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 11",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -256,11 +303,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -276,15 +318,9 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -300,13 +336,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN an toàn khi thực hành: làm đúng hướng dẫn, không tự ý thử nghiệm nguy hiểm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -320,7 +350,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -330,7 +360,7 @@
    "semester": 1,
    "week": 9,
    "theme": "Chủ đề 2: NĂNG LƯỢNG",
-   "title": "Bài 9: Mạch điện đơn giản. Vật dẫn điện và vật cách điện (Tiết 1)",
+   "title": "Bài 9: Mạch điện đơn giản. Vật dẫn điện và vật cách điện (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 17 (2 tiết)",
    "periodFrom": 17,
@@ -343,11 +373,6 @@
      "code": "STEM",
      "level": "",
      "text": "GD STEM"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN an toàn khi thực hành: làm đúng hướng dẫn, không tự ý thử nghiệm nguy hiểm."
     }
    ],
    "note": ""
@@ -357,13 +382,13 @@
    "semester": 1,
    "week": 9,
    "theme": "Chủ đề 2: NĂNG LƯỢNG",
-   "title": "Bài 9: Mạch điện đơn giản. Vật dẫn điện và vật cách điện (Tiết 2)",
+   "title": "Bài 9: Mạch điện đơn giản. Vật dẫn điện và vật cách điện (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 18",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -389,7 +414,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề 2: NĂNG LƯỢNG",
-   "title": "Bài 10: Năng lượng chất đốt (Tiết 1)",
+   "title": "Bài 10: Năng lượng chất đốt (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 20 (2 tiết)",
    "periodFrom": 20,
@@ -397,13 +422,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -411,13 +430,13 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 2: NĂNG LƯỢNG",
-   "title": "Bài 10: Năng lượng chất đốt (Tiết 2)",
+   "title": "Bài 10: Năng lượng chất đốt (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 21",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -435,13 +454,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -455,7 +468,7 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -477,7 +490,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -495,13 +508,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -537,15 +544,9 @@
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -575,7 +576,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -591,7 +592,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -623,7 +624,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -649,13 +650,13 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề 3: THỰC VẬT VÀ ĐỘNG VẬT",
-   "title": "Bài 16: Vòng đời và sự phát triển của động vật (Tiết 2)",
+   "title": "Bài 16: Vòng đời và sự phát triển của động vật (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 34",
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -696,7 +697,7 @@
    "id": "l5-khoa-hoc-037",
    "semester": 2,
    "week": 19,
-   "theme": "Ôn tập chủ đề 3",
+   "theme": "",
    "title": "Bài 17: Ôn tập chủ đề thực vật và động vật",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
@@ -705,13 +706,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -747,15 +742,9 @@
    "periodFrom": 39,
    "periodTo": 39,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -785,7 +774,7 @@
    "periodFrom": 41,
    "periodTo": 41,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -795,7 +784,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 4: VI KHUẨN",
-   "title": "Bài 20: Vi khuẩn gây bệnh ở người và cách phòng tránh (Tiết 1)",
+   "title": "Bài 20: Vi khuẩn gây bệnh ở người và cách phòng tránh (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 42 (2 tiết)",
    "periodFrom": 42,
@@ -803,13 +792,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -817,13 +800,13 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 4: VI KHUẨN",
-   "title": "Bài 20: Vi khuẩn gây bệnh ở người và cách phòng tránh (Tiết 2)",
+   "title": "Bài 20: Vi khuẩn gây bệnh ở người và cách phòng tránh (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 43",
    "periodFrom": 43,
    "periodTo": 43,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -849,7 +832,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 5: CON NGƯỜI VÀ SỨC KHỎE",
-   "title": "Bài 22: Sự hình thành cơ thể người (Tiết 1)",
+   "title": "Bài 22: Sự hình thành cơ thể người (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 45 (2 tiết)",
    "periodFrom": 45,
@@ -862,11 +845,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -876,21 +854,15 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 5: CON NGƯỜI VÀ SỨC KHỎE",
-   "title": "Bài 22: Sự hình thành cơ thể người (Tiết 2)",
+   "title": "Bài 22: Sự hình thành cơ thể người (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 46",
    "periodFrom": 46,
    "periodTo": 46,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -906,13 +878,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -926,7 +892,7 @@
    "periodFrom": 48,
    "periodTo": 48,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -942,7 +908,7 @@
    "periodFrom": 49,
    "periodTo": 49,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -960,13 +926,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -980,7 +940,7 @@
    "periodFrom": 51,
    "periodTo": 51,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -990,7 +950,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 5: CON NGƯỜI VÀ SỨC KHỎE",
-   "title": "Bài 25: Chăm sóc sức khoẻ tuổi dậy thì (Tiết 1)",
+   "title": "Bài 25: Chăm sóc sức khoẻ tuổi dậy thì (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 52 (3 tiết)",
    "periodFrom": 52,
@@ -998,13 +958,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1012,13 +966,13 @@
    "semester": 2,
    "week": 27,
    "theme": "Chủ đề 5: CON NGƯỜI VÀ SỨC KHỎE",
-   "title": "Bài 25: Chăm sóc sức khoẻ tuổi dậy thì (Tiết 2)",
+   "title": "Bài 25: Chăm sóc sức khoẻ tuổi dậy thì (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 53",
    "periodFrom": 53,
    "periodTo": 53,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1028,13 +982,13 @@
    "semester": 2,
    "week": 27,
    "theme": "Chủ đề 5: CON NGƯỜI VÀ SỨC KHỎE",
-   "title": "Bài 25: Chăm sóc sức khoẻ tuổi dậy thì (Tiết 3)",
+   "title": "Bài 25: Chăm sóc sức khoẻ tuổi dậy thì (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 54",
    "periodFrom": 54,
    "periodTo": 54,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1060,7 +1014,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề 5: CON NGƯỜI VÀ SỨC KHỎE",
-   "title": "Bài 26: Phòng tránh bị xâm hại (Tiết 1)",
+   "title": "Bài 26: Phòng tránh bị xâm hại (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 56 (4 tiết)",
    "periodFrom": 56,
@@ -1068,13 +1022,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1082,13 +1030,13 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 5: CON NGƯỜI VÀ SỨC KHỎE",
-   "title": "Bài 26: Phòng tránh bị xâm hại (Tiết 2)",
+   "title": "Bài 26: Phòng tránh bị xâm hại (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 57",
    "periodFrom": 57,
    "periodTo": 57,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1098,13 +1046,13 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 5: CON NGƯỜI VÀ SỨC KHỎE",
-   "title": "Bài 26: Phòng tránh bị xâm hại (Tiết 3)",
+   "title": "Bài 26: Phòng tránh bị xâm hại (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 58",
    "periodFrom": 58,
    "periodTo": 58,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1114,13 +1062,13 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 5: CON NGƯỜI VÀ SỨC KHỎE",
-   "title": "Bài 26: Phòng tránh bị xâm hại (Tiết 4)",
+   "title": "Bài 26: Phòng tránh bị xâm hại (tiết 4)",
    "content": "",
    "periodLabel": "Tiết 59",
    "periodFrom": 59,
    "periodTo": 59,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1138,13 +1086,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1152,7 +1094,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 6: SINH VẬT VÀ MÔI TRƯỜNG",
-   "title": "Bài 28: Chức năng của môi trường đối với sinh vật (Tiết 1)",
+   "title": "Bài 28: Chức năng của môi trường đối với sinh vật (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 61 (3 tiết)",
    "periodFrom": 61,
@@ -1165,11 +1107,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -1179,21 +1116,15 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 6: SINH VẬT VÀ MÔI TRƯỜNG",
-   "title": "Bài 28: Chức năng của môi trường đối với sinh vật (Tiết 2)",
+   "title": "Bài 28: Chức năng của môi trường đối với sinh vật (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 62",
    "periodFrom": 62,
    "periodTo": 62,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1201,13 +1132,13 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 6: SINH VẬT VÀ MÔI TRƯỜNG",
-   "title": "Bài 28: Chức năng của môi trường đối với sinh vật (Tiết 3)",
+   "title": "Bài 28: Chức năng của môi trường đối với sinh vật (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 63",
    "periodFrom": 63,
    "periodTo": 63,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1225,13 +1156,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1245,7 +1170,7 @@
    "periodFrom": 65,
    "periodTo": 65,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1261,7 +1186,7 @@
    "periodFrom": 66,
    "periodTo": 66,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1279,13 +1204,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1315,7 +1234,7 @@
    "periodFrom": 69,
    "periodTo": 69,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1609,8 +1528,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Khoa hoc - Lop 5.docx",
   "name": "Khoa hoc - Lop 5.docx",
-  "original": "KHDH Khoa học lớp 5 (2026-2027) (đã rà soát).docx",
-  "size": 10394,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 43791,
+  "updated": "2026-09-07"
  }
 }

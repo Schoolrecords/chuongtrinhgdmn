@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 3/KHDH Tin học lớp 3 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-04"
+  "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 53
+  "integrations": 57
  },
  "lessons": [
   {
@@ -33,8 +33,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 1, TT 02: 1.3.CB1a",
+     "text": "GV mở thư mục Bài 1 trên máy, mở tệp âm thanh chuông báo thức, ảnh đèn giao thông; HS nói nhận được thông tin gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+     "text": "GV nêu tình huống Minh nghe chuông báo thức, chiếu hai lựa chọn dậy ngay hay ngủ tiếp; HS thảo luận quyết định nào đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xem thời tiết ở trang chính thức; HS chỉ quan sát, thấy gì lạ báo thầy cô."
     }
    ],
    "note": ""
@@ -50,13 +60,23 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+     "text": "GV mở trên máy tính tệp chữ, ảnh, âm thanh về cùng con vật; HS nhận ra ba dạng thông tin"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1, QĐ 2422: 3.A1.1",
+     "text": "GV dùng công cụ AI cho máy đọc thành tiếng một câu, rồi nói để máy chuyển thành chữ; HS nêu tình huống AI giúp học"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ quan sát, không nói họ tên, địa chỉ vào micrô."
     }
    ],
    "note": ""
@@ -94,7 +114,7 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -138,7 +158,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -187,7 +207,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -214,7 +234,7 @@
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -225,7 +245,7 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số.\nThêm 1 tiết thực hành"
+     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số. Thêm 1 tiết thực hành"
     }
    ],
    "note": ""
@@ -273,7 +293,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -305,7 +325,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -359,7 +379,7 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -440,7 +460,7 @@
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -472,7 +492,7 @@
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -536,7 +556,7 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -595,7 +615,7 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -649,7 +669,7 @@
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -660,10 +680,10 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Bài học STEM."
+     "text": "Bài học STEM.\nTổ CM đối chiếu tên bài với mục lục SGK Tin học 3"
     }
    ],
-   "note": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3"
+   "note": ""
   },
   {
    "id": "l3-tin-hoc-026",
@@ -682,10 +702,10 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản.\nHS tự tìm hiểu ở nhà bài 12."
+     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản. HS tự tìm hiểu ở nhà bài 12.\nTổ CM đối chiếu tên bài với mục lục SGK Tin học 3"
     }
    ],
-   "note": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3"
+   "note": ""
   },
   {
    "id": "l3-tin-hoc-027",
@@ -698,7 +718,7 @@
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -742,7 +762,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -786,7 +806,7 @@
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -830,7 +850,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -1146,8 +1166,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Tin hoc - Lop 3.docx",
   "name": "Tin hoc - Lop 3.docx",
-  "original": "KHDH Tin học lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 14547,
-  "updated": "2026-09-04"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 42868,
+  "updated": "2026-09-07"
  }
 }

@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Công nghệ lớp 4 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 8
+  "integrations": 18
  },
  "lessons": [
   {
@@ -33,8 +33,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2, TT 02: 1.1.CB2a, 1.1.CB2b",
+     "text": "HS nêu từ khoá, GV gõ tìm trên máy chiếu, mở video, ảnh hoa, cây cảnh ở nhà, lớp, công viên; HS nêu lợi ích"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS chụp ảnh chậu hoa, cây cảnh ở lớp bằng điện thoại; GV ghép thành bộ sưu tập, nhóm 4 chọn một ảnh, đề xuất trang trí"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Quan sát hình ảnh/video kĩ thuật, khai thác thông tin an toàn lao động (có hướng dẫn)."
+     "text": "Xin phép trước khi chụp trong nhà người khác; không hái hoa để chụp."
     }
    ],
    "note": ""
@@ -50,9 +60,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu video sản phẩm làm từ hoa, cây cảnh và hình cây làm sạch không khí; HS ghi tên cây, nêu lợi ích"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Nhóm 4 chọn một cây làm sạch không khí, ghi bảng nhóm tên cây, cách chăm sóc; GV chụp bảng nhóm chiếu lên tivi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép trước khi chụp trong nhà người khác; không hái hoa để chụp."
+    }
+   ],
    "note": ""
   },
   {
@@ -66,7 +92,7 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -84,13 +110,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát hình ảnh/video kĩ thuật, khai thác thông tin an toàn lao động (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -104,7 +124,7 @@
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -120,7 +140,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -138,13 +158,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -158,7 +172,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -174,7 +188,7 @@
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -192,13 +206,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -212,7 +220,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -228,7 +236,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -260,7 +268,7 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -276,7 +284,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -293,7 +301,7 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Điều chỉnh: Bài 6 (3 tiết) chuyển học trọn tuần 19–21 sau kiểm tra cuối HKI; Bài 10 điều chỉnh 3 tiết còn 2 tiết; các bài chủ đề 2 dồn lên 1 tuần",
+   "adjustments": "Điều chỉnh: dành 1 tiết thực hành, ôn tập để Bài 6 học liền mạch đầu học kì II",
    "integrations": [],
    "note": ""
   },
@@ -301,7 +309,7 @@
    "id": "l4-cong-nghe-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Ôn tập học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
@@ -317,7 +325,7 @@
    "id": "l4-cong-nghe-018",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 1: CÔNG NGHỆ VÀ ĐỜI SỐNG",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
@@ -356,7 +364,7 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -372,7 +380,7 @@
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -415,7 +423,7 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -458,7 +466,7 @@
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -476,7 +484,18 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "GD STEM"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "",
+     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
+    }
+   ],
    "note": ""
   },
   {
@@ -490,7 +509,7 @@
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -506,7 +525,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -523,8 +542,19 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Điều chỉnh: Bài 10 dạy trong 2 tiết",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "GD STEM"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "",
+     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn). Điều chỉnh 3 tiết còn 2 tiết để bố trí ôn tập, kiểm tra cuối học kì I đúng tuần 18."
+    }
+   ],
    "note": ""
   },
   {
@@ -538,7 +568,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -556,7 +586,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "GD STEM"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "",
+     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
+    }
+   ],
    "note": ""
   },
   {
@@ -572,7 +613,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "GD STEM"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "",
+     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
+    }
+   ],
    "note": ""
   },
   {
@@ -586,7 +638,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -896,8 +948,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Cong nghe - Lop 4.docx",
   "name": "Cong nghe - Lop 4.docx",
-  "original": "KHDH Công nghệ lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 7958,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 42265,
+  "updated": "2026-09-07"
  }
 }

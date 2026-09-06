@@ -5,8 +5,8 @@
  "status": "reviewed",
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
-  "file": "Lớp 4/KHDH Lịch sử & Địa lí lớp 4 (2026-2027) (đã rà soát).docx",
-  "importedAt": "2026-09-02"
+  "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
+  "importedAt": "2026-09-07"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 23
+  "integrations": 19
  },
  "lessons": [
   {
@@ -33,8 +33,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu hình 1 SGK, mở bản đồ số Việt Nam trên máy chiếu; HS lên phóng to, thu nhỏ, chỉ bảng chú giải, tìm tỉnh mình"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 4.A3.1",
+     "text": "GV dùng AI tạo hình minh hoạ bản đồ đặt cạnh bản đồ thật SGK; HS chỉ chỗ hình máy tạo thiếu chú giải, sai địa danh"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
+     "text": "Chỉ dùng bản đồ Nhà nước ban hành; không chia sẻ tư liệu chưa kiểm chứng."
     }
    ],
    "note": ""
@@ -50,9 +60,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng số liệu, biểu đồ, trục thời gian SGK lên máy chiếu, hướng dẫn đọc đơn vị, mốc thời gian; HS chỉ số liệu lớn nhất"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 4.D2.1",
+     "text": "GV dùng AI tạo câu trắc nghiệm về đọc bảng số liệu, biểu đồ; HS làm theo cặp, phát hiện câu máy hỏi chưa đúng SGK"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng bản đồ Nhà nước ban hành; không chia sẻ tư liệu chưa kiểm chứng."
+    }
+   ],
    "note": ""
   },
   {
@@ -71,8 +97,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản đồ hành chính Việt Nam dạng số, HS lên chỉ tỉnh Nghệ An; mở ảnh vệ tinh để nhận ra núi, đồng bằng"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Nhóm 4 hoàn thành bảng thông tin tỉnh tiếp giáp, các mùa, đường giao thông ở Nghệ An; GV chụp bảng nhóm chiếu lên tivi, chốt bảng chung"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
+     "text": "Xin phép trước khi chụp ảnh người khác; tư liệu địa phương ghi rõ nguồn."
     }
    ],
    "note": ""
@@ -88,9 +124,25 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS nghe dân ca ví, giặm qua loa lớp, chiếu ảnh, video hoạt động kinh tế ở Nghệ An; HS ghi bảng thông tin"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Nhóm 4 hoàn thành bảng thông tin kinh tế, du lịch Nghệ An, thêm một việc bảo vệ môi trường; GV chụp bảng nhóm chiếu lên tivi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép trước khi chụp ảnh người khác; tư liệu địa phương ghi rõ nguồn."
+    }
+   ],
    "note": ""
   },
   {
@@ -106,18 +158,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -131,7 +172,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -140,8 +181,8 @@
    "id": "l4-lich-su-va-dia-li-007",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 4: Thiên nhiên vùng trung du và miền núi phía Bắc (tiết 1)",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
+   "title": "Bài 4: Thiên nhiên vùng Trung du và miền núi phía Bắc (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (3 tiết)",
    "periodFrom": 7,
@@ -154,11 +195,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -167,14 +203,14 @@
    "id": "l4-lich-su-va-dia-li-008",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 4: Thiên nhiên vùng trung du và miền núi phía Bắc (tiết 2)",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
+   "title": "Bài 4: Thiên nhiên vùng Trung du và miền núi phía Bắc (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -183,14 +219,14 @@
    "id": "l4-lich-su-va-dia-li-009",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 4: Thiên nhiên vùng trung du và miền núi phía Bắc (tiết 3)",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
+   "title": "Bài 4: Thiên nhiên vùng Trung du và miền núi phía Bắc (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 9",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -199,8 +235,8 @@
    "id": "l4-lich-su-va-dia-li-010",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 1)",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi phía Bắc (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 10 (6 tiết)",
    "periodFrom": 10,
@@ -208,27 +244,21 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-011",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 2)",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi phía Bắc (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 11",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -237,14 +267,14 @@
    "id": "l4-lich-su-va-dia-li-012",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 3)",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi phía Bắc (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 12",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -253,14 +283,14 @@
    "id": "l4-lich-su-va-dia-li-013",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 4)",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi phía Bắc (tiết 4)",
    "content": "",
    "periodLabel": "Tiết 13",
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -269,14 +299,14 @@
    "id": "l4-lich-su-va-dia-li-014",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 5)",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi phía Bắc (tiết 5)",
    "content": "",
    "periodLabel": "Tiết 14",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -285,29 +315,23 @@
    "id": "l4-lich-su-va-dia-li-015",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
-   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng trung du và miền núi phía Bắc (tiết 6)",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
+   "title": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi phía Bắc (tiết 6)",
    "content": "",
    "periodLabel": "Tiết 15",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-016",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
    "title": "Bài 6: Một số lễ hội của đồng bào dân tộc ít người ở tỉnh Nghệ An (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 16 (3 tiết)",
@@ -325,7 +349,7 @@
     {
      "code": "GDĐP",
      "level": "",
-     "text": "Tổ CM đối chiếu tài liệu GDĐP tỉnh Nghệ An"
+     "text": "đối chiếu tài liệu GDĐP của tỉnh"
     }
    ],
    "note": ""
@@ -334,14 +358,14 @@
    "id": "l4-lich-su-va-dia-li-017",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
    "title": "Bài 6: Một số lễ hội của đồng bào dân tộc ít người ở tỉnh Nghệ An (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 17",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -350,14 +374,14 @@
    "id": "l4-lich-su-va-dia-li-018",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI PHÍA BẮC",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
    "title": "Bài 6: Một số lễ hội của đồng bào dân tộc ít người ở tỉnh Nghệ An (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 18",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -366,7 +390,7 @@
    "id": "l4-lich-su-va-dia-li-019",
    "semester": 1,
    "week": 10,
-   "theme": "Ôn tập",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Ôn tập giữa học kì I",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
@@ -375,20 +399,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-020",
    "semester": 1,
    "week": 10,
-   "theme": "Ôn tập",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
    "title": "Bài 7: Giỗ Tổ Hùng Vương – lễ hội đền Cuông (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 20 (2 tiết)",
@@ -404,14 +422,14 @@
    "id": "l4-lich-su-va-dia-li-021",
    "semester": 1,
    "week": 11,
-   "theme": "Ôn tập",
+   "theme": "Chủ đề 2: TRUNG DU VÀ MIỀN NÚI BẮC BỘ",
    "title": "Bài 7: Giỗ Tổ Hùng Vương – lễ hội đền Cuông (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 21",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -449,7 +467,7 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -465,7 +483,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -482,7 +500,7 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Bổ sung Bài 9 theo mục lục SGK (trước đây bị thiếu); Tổ CM đối chiếu SGK về tên bài, số tiết",
+   "adjustments": "Bổ sung bài còn thiếu theo mục lục SGK (Tổ CM đối chiếu SGK)",
    "integrations": [],
    "note": ""
   },
@@ -497,7 +515,7 @@
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -507,7 +525,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 3: ĐỒNG BẰNG BẮC BỘ",
-   "title": "Bài 10: Một số nét văn hóa ở vùng Đồng bằng Bắc Bộ",
+   "title": "Bài 10: Một số nét văn hoá ở vùng Đồng bằng Bắc Bộ",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -545,7 +563,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -563,13 +581,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -583,7 +595,7 @@
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -599,7 +611,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -631,7 +643,7 @@
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -649,13 +661,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn). Điều chỉnh: sắp xếp lại trình tự Bài 5–13 học liền mạch, bổ sung Bài 9; ôn tập và kiểm tra định kì cuối HKI thực hiện trong tuần 18."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -691,7 +697,7 @@
     {
      "code": "NLS-KT",
      "level": "",
-     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn). Điều chỉnh: Bài 15 từ 6 tiết còn 5 tiết, học trọn trong HKII. Lưu ý: mục lục SGK có Bài 14 — Tổ CM đối chiếu SGK, bổ sung khi rà soát."
+     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn). | Điều chỉnh 6 tiết còn 5 tiết; chương trình còn thiếu Bài 14 theo mục lục SGK — Tổ CM rà soát, bổ sung."
     }
    ],
    "note": ""
@@ -707,7 +713,7 @@
    "periodFrom": 38,
    "periodTo": 38,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -723,7 +729,7 @@
    "periodFrom": 39,
    "periodTo": 39,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -739,7 +745,7 @@
    "periodFrom": 40,
    "periodTo": 40,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -755,7 +761,7 @@
    "periodFrom": 41,
    "periodTo": 41,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -787,7 +793,7 @@
    "periodFrom": 43,
    "periodTo": 43,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -803,7 +809,7 @@
    "periodFrom": 44,
    "periodTo": 44,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -819,7 +825,7 @@
    "periodFrom": 45,
    "periodTo": 45,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -829,7 +835,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 17: Một số nét văn hóa ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 1)",
+   "title": "Bài 17: Một số nét văn hoá ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 46 (4 tiết)",
    "periodFrom": 46,
@@ -837,13 +843,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -851,13 +851,13 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 17: Một số nét văn hóa ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 2)",
+   "title": "Bài 17: Một số nét văn hoá ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 47",
    "periodFrom": 47,
    "periodTo": 47,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -867,13 +867,13 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 17: Một số nét văn hóa ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 3)",
+   "title": "Bài 17: Một số nét văn hoá ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 3)",
    "content": "",
    "periodLabel": "Tiết 48",
    "periodFrom": 48,
    "periodTo": 48,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -883,13 +883,13 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
-   "title": "Bài 17: Một số nét văn hóa ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 4)",
+   "title": "Bài 17: Một số nét văn hoá ở vùng Bắc Trung Bộ và Nam Trung Bộ (tiết 4)",
    "content": "",
    "periodLabel": "Tiết 49",
    "periodFrom": 49,
    "periodTo": 49,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -907,18 +907,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -948,7 +937,7 @@
    "periodFrom": 52,
    "periodTo": 52,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -957,36 +946,30 @@
    "id": "l4-lich-su-va-dia-li-053",
    "semester": 2,
    "week": 27,
-   "theme": "Ôn tập",
-   "title": "Ôn tập giữa học kì II",
+   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
+   "title": "Bài 20: Phố cổ Hội An (tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 53 (1 tiết)",
+   "periodLabel": "Tiết 53 (2 tiết)",
    "periodFrom": 53,
    "periodTo": 53,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-054",
    "semester": 2,
    "week": 27,
-   "theme": "Ôn tập",
-   "title": "Bài 20: Phố cổ Hội An (tiết 1)",
+   "theme": "Chủ đề 4: BẮC TRUNG BỘ VÀ NAM TRUNG BỘ",
+   "title": "Bài 20: Phố cổ Hội An (tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 54 (2 tiết)",
+   "periodLabel": "Tiết 54",
    "periodFrom": 54,
    "periodTo": 54,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -995,14 +978,14 @@
    "id": "l4-lich-su-va-dia-li-055",
    "semester": 2,
    "week": 28,
-   "theme": "Ôn tập",
-   "title": "Bài 20: Phố cổ Hội An (tiết 2)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Ôn tập giữa học kì II",
    "content": "",
-   "periodLabel": "Tiết 55",
+   "periodLabel": "Tiết 55 (1 tiết)",
    "periodFrom": 55,
    "periodTo": 55,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1019,8 +1002,14 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Lưu ý: các bài khác của chủ đề Tây Nguyên theo mục lục SGK chưa được bố trí; Tổ CM đối chiếu SGK",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "",
+     "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
+    }
+   ],
    "note": ""
   },
   {
@@ -1034,7 +1023,7 @@
    "periodFrom": 57,
    "periodTo": 57,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1072,7 +1061,7 @@
    "periodFrom": 59,
    "periodTo": 59,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1088,7 +1077,7 @@
    "periodFrom": 60,
    "periodTo": 60,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1104,7 +1093,7 @@
    "periodFrom": 61,
    "periodTo": 61,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1136,7 +1125,7 @@
    "periodFrom": 63,
    "periodTo": 63,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1146,7 +1135,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 6: NAM BỘ",
-   "title": "Bài 24: Một số nét văn hóa và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ (tiết 1)",
+   "title": "Bài 24: Một số nét văn hoá và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ (tiết 1)",
    "content": "",
    "periodLabel": "Tiết 64 (2 tiết)",
    "periodFrom": 64,
@@ -1154,13 +1143,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1168,13 +1151,13 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 6: NAM BỘ",
-   "title": "Bài 24: Một số nét văn hóa và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ (tiết 2)",
+   "title": "Bài 24: Một số nét văn hoá và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ (tiết 2)",
    "content": "",
    "periodLabel": "Tiết 65",
    "periodFrom": 65,
    "periodTo": 65,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1206,7 +1189,7 @@
    "periodFrom": 67,
    "periodTo": 67,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1224,13 +1207,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục truyền thống đấu tranh cách mạng, lòng biết ơn các anh hùng, liệt sĩ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1246,13 +1223,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng sơ đồ/bảng số liệu hệ thống hoá kiến thức; tự kiểm tra (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1544,8 +1515,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.docx",
   "name": "Lich su va Dia li - Lop 4.docx",
-  "original": "KHDH Lịch sử & Địa lí lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 11651,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 43799,
+  "updated": "2026-09-07"
  }
 }
