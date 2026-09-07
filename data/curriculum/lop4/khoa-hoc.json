@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 26
+  "integrations": 38
  },
  "lessons": [
   {
@@ -96,11 +96,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
-    {
      "code": "NLS-ST",
      "level": "",
      "text": "Tạo sản phẩm học tập số đơn giản (sơ đồ, áp phích) trình bày kết quả."
@@ -119,6 +114,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Mô phỏng không thay thí nghiệm thật; không làm theo thí nghiệm nguy hiểm trên mạng."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Sự chuyển thể của nước và vòng tuần hoàn của nước (Khoa học – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -168,7 +168,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -264,7 +270,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Gió, bão (Khoa học – Công nghệ) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -317,6 +329,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -432,14 +449,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
-    {
      "code": "NLS-ST",
      "level": "",
      "text": "Tạo sản phẩm học tập số đơn giản (sơ đồ, áp phích) trình bày kết quả."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Âm thanh trong cuộc sống (Khoa học – Âm nhạc) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -505,7 +522,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Dẫn nhiệt (Khoa học – Công nghệ) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -848,6 +871,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -883,14 +911,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
-    {
      "code": "NLS-ST",
      "level": "",
      "text": "Tạo sản phẩm học tập số đơn giản (sơ đồ, áp phích) trình bày kết quả."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Ăn uống cân bằng (Khoa học – Toán) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -940,7 +973,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
+    }
+   ],
    "note": ""
   },
   {
@@ -993,6 +1032,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Tra cứu an toàn về thực phẩm/phòng tránh tai nạn; bảo vệ sức khoẻ và thông tin cá nhân khi dùng thiết bị số."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN an toàn khi thực hành: làm đúng hướng dẫn, không tự ý thử nghiệm nguy hiểm."
     }
    ],
    "note": ""
@@ -1117,6 +1161,16 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát video/hình ảnh khoa học, đọc và khai thác dữ liệu đơn giản từ nguồn số đáng tin cậy (có hướng dẫn)."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Chuỗi thức ăn trong tự nhiên (Khoa học – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -1166,7 +1220,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
+    }
+   ],
    "note": ""
   },
   {
@@ -1278,7 +1338,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
+    }
+   ],
    "note": ""
   }
  ],
@@ -1555,7 +1621,7 @@
   "file": "assets/docs/lop4/Khoa hoc - Lop 4.docx",
   "name": "Khoa hoc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44039,
+  "size": 44313,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 19
+  "integrations": 48
  },
  "lessons": [
   {
@@ -158,7 +158,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
+    }
+   ],
    "note": ""
   },
   {
@@ -195,6 +201,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -244,7 +255,18 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
+    }
+   ],
    "note": ""
   },
   {
@@ -350,6 +372,11 @@
      "code": "GDĐP",
      "level": "",
      "text": "đối chiếu tài liệu GDĐP của tỉnh"
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -415,7 +442,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
+    }
+   ],
    "note": ""
   },
   {
@@ -452,6 +490,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -501,7 +544,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "Bổ sung bài còn thiếu theo mục lục SGK (Tổ CM đối chiếu SGK)",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
@@ -533,7 +582,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
+    }
+   ],
    "note": ""
   },
   {
@@ -549,7 +609,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
@@ -581,7 +647,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -698,6 +770,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn). | Điều chỉnh 6 tiết còn 5 tiết; chương trình còn thiếu Bài 14 theo mục lục SGK — Tổ CM rà soát, bổ sung."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -779,7 +856,18 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
+    }
+   ],
    "note": ""
   },
   {
@@ -843,7 +931,18 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
+    }
+   ],
    "note": ""
   },
   {
@@ -907,7 +1006,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -923,7 +1033,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
@@ -1008,6 +1124,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -1046,6 +1167,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác lược đồ, bản đồ, tranh ảnh, tư liệu lịch sử – địa lí số đáng tin cậy (có hướng dẫn)."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -1111,7 +1237,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1143,7 +1280,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -1175,7 +1323,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
@@ -1207,7 +1361,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
@@ -1516,7 +1676,7 @@
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.docx",
   "name": "Lich su va Dia li - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43799,
+  "size": 44178,
   "updated": "2026-09-07"
  }
 }

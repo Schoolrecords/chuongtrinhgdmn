@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 36
+  "integrations": 63
  },
  "lessons": [
   {
@@ -141,6 +141,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Video tài năng học trò chỉ lấy từ kho ảnh của trường hoặc nguồn tin cậy GV đã"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
     }
    ],
    "note": ""
@@ -222,7 +227,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -270,7 +281,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -318,7 +335,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -366,7 +389,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -468,7 +497,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Hoạt động trải nghiệm STEM học kì I: ngày hội/câu lạc bộ/dự án STEM cấp lớp hoặc khối — tối thiểu 01 lần mỗi học kì (CV 3132/SGD&ĐT); HS trưng bày, giới thiệu sản phẩm từ các bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -618,7 +653,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -719,6 +760,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
     }
    ],
    "note": ""
@@ -768,7 +814,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -816,7 +868,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
+    }
+   ],
    "note": ""
   },
   {
@@ -965,6 +1023,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
     }
    ],
    "note": ""
@@ -1014,7 +1077,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1062,7 +1131,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1115,6 +1190,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
     }
    ],
    "note": ""
@@ -1276,6 +1356,11 @@
      "code": "KNS",
      "level": "",
      "text": "phòng tránh và có cách xử lý phù hợp khi gặp tình huống có nguy cơ bị lạc, bị bắt cóc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
     }
    ],
    "note": ""
@@ -1335,6 +1420,11 @@
      "code": "GDĐP",
      "level": "",
      "text": "- Kể được tên một số sản phẩm truyền thống, hàng hoá hiện nay của quê hương em; - Giới thiệu được một cách đơn giản về một vài hoạt động sản xuất hoặc tiêu thụ của một trong những sản phẩm trên"
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
     }
    ],
    "note": ""
@@ -1395,6 +1485,16 @@
      "code": "GDĐP",
      "level": "",
      "text": "- Mô tả được một số hoạt động tết vì người nghèo ở quê hương em; - Hiểu được một cách đơn giản ý nghĩa tết vì người nghèo ở quê hương em; - Tham gia được một số hoạt động để giúp đỡ hộ nghèo vào ngày Tết ở quê em phù hợp với bản thân."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Hoạt động trải nghiệm STEM học kì II: ngày hội/câu lạc bộ/dự án STEM cấp lớp hoặc khối — tối thiểu 01 lần mỗi học kì (CV 3132/SGD&ĐT); HS trưng bày, giới thiệu sản phẩm từ các bài học STEM."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
     }
    ],
    "note": ""
@@ -1444,7 +1544,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
+    }
+   ],
    "note": ""
   },
   {
@@ -1498,7 +1604,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
+    }
+   ],
    "note": ""
   },
   {
@@ -1551,6 +1663,11 @@
      "code": "GDĐP",
      "level": "",
      "text": "- Nêu được hiện trạng môi trường tự nhiên ở địa phương; - Nêu được một số nguyên nhân gây ô nhiễm môi trường tự nhiên ở địa phương em; - Thực hiện được hành động giữ gìn vệ sinh, bảo vệ môi trường tự nhiên ở địa phương em."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
     }
    ],
    "note": ""
@@ -1600,7 +1717,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
+    }
+   ],
    "note": ""
   },
   {
@@ -1654,7 +1777,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
+    }
+   ],
    "note": ""
   },
   {
@@ -1713,6 +1842,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS làm quen chia sẻ, trình bày sản phẩm có sử dụng tranh ảnh/thiết bị đơn giản dưới sự hướng dẫn; ứng xử an toàn, lịch sự."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục lòng yêu hoà bình, tình đoàn kết; liên hệ truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
     }
    ],
    "note": ""
@@ -1768,7 +1902,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1816,7 +1956,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1864,7 +2010,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2173,7 +2325,7 @@
   "file": "assets/docs/lop3/Hoat dong trai nghiem - Lop 3.docx",
   "name": "Hoat dong trai nghiem - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47143,
+  "size": 48052,
   "updated": "2026-09-07"
  }
 }

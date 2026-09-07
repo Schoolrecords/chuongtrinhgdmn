@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 174,
-  "integrations": 54
+  "integrations": 79
  },
  "lessons": [
   {
@@ -430,7 +430,13 @@
    "periods": 1,
    "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thanh cộng trong phạm vi 20 (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -510,7 +516,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -692,7 +704,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1399,6 +1417,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "xem đồng hồ và lịch điện tử trên máy tính/điện thoại của cô để đối chiếu với đồng hồ, lịch thật."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1416,7 +1439,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -1432,7 +1461,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -1448,7 +1483,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Lịch để bàn tiện ích (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1464,7 +1510,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -1480,7 +1532,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -1501,6 +1559,11 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1760,7 +1823,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1792,7 +1861,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1888,7 +1963,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành nhân nhẩm, chia nhẩm (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1920,7 +2006,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1936,7 +2028,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -2043,6 +2141,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài với tên rõ ràng."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Trải nghiệm thành phố hình học (Toán – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -2060,7 +2163,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Trải nghiệm thành phố hình học (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -2194,7 +2303,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành biểu diễn số với bàn tính (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -2274,7 +2389,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành biểu diễn số với bàn tính (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -2349,6 +2470,11 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -2403,6 +2529,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem hình tiền trên màn hình để nhận biết mệnh giá; nhắc HS không tự ý mua bán trên mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -2420,7 +2551,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thước gấp (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -2791,6 +2928,11 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "dùng công cụ quay số/tung xúc xắc trên máy để HS quan sát khả năng xảy ra, rồi tự rút nhận xét."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Vòng xoay ngẫu nhiên (Toán – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -3379,7 +3521,7 @@
   "file": "assets/docs/lop2/Toan - Lop 2.docx",
   "name": "Toan - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48197,
+  "size": 48730,
   "updated": "2026-09-07"
  }
 }

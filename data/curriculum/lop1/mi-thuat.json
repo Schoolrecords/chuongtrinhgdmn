@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 23
+  "integrations": 30
  },
  "lessons": [
   {
@@ -64,9 +64,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+     "text": "GV chiếu ảnh phóng to một bức tranh chấm màu và một tấm vải hoa văn chấm, phóng to dần từng vùng để HS thấy tranh được tạo bởi rất nhiều chấm nhỏ"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV gõ vào công cụ vẽ bằng trí tuệ nhân tạo câu “bông hoa vẽ bằng các chấm màu” cho cả lớp xem máy vẽ ra hình gì; GV nói rõ hình này do máy vẽ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ cô giáo gõ chữ và bấm máy, các em ngồi xem; hình máy vẽ chỉ để xem, không chép lại thành bài của mình."
     }
    ],
    "note": ""
@@ -519,6 +529,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -541,6 +556,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -563,6 +583,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -585,6 +610,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -703,6 +733,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; nhờ GV hướng dẫn khi lưu bài."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -981,7 +1016,7 @@
   "file": "assets/docs/lop1/Mi thuat - Lop 1.docx",
   "name": "Mi thuat - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42213,
+  "size": 42561,
   "updated": "2026-09-07"
  }
 }

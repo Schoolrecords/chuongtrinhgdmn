@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 27
+  "integrations": 37
  },
  "lessons": [
   {
@@ -115,6 +115,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -137,6 +142,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 2",
      "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -175,6 +185,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -197,6 +212,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -279,6 +299,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -361,6 +386,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -475,6 +505,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -557,6 +592,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -639,6 +679,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -699,6 +744,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -1009,7 +1059,7 @@
   "file": "assets/docs/lop4/Am nhac - Lop 4.docx",
   "name": "Am nhac - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43063,
+  "size": 43225,
   "updated": "2026-09-07"
  }
 }

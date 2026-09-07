@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 13
+  "integrations": 14
  },
  "lessons": [
   {
@@ -131,6 +131,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -925,7 +930,7 @@
   "file": "assets/docs/lop5/Am nhac - Lop 5.docx",
   "name": "Am nhac - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42559,
+  "size": 42680,
   "updated": "2026-09-07"
  }
 }

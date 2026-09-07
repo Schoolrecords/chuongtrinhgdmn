@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 25
+  "integrations": 46
  },
  "lessons": [
   {
@@ -45,6 +45,16 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Ảnh gia đình, ngày sinh người thân không đưa lên mạng; gọi điện phải xin phép bố mẹ."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Họ hàng nội, ngoại (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -141,6 +151,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "114 chỉ gọi khi thật sự có cháy; khi cháy không dừng lại quay phim."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -184,6 +199,11 @@
      "code": "GDĐP",
      "level": "",
      "text": "Em đã làm gì để cho đường làng ngõ xóm nơi em ở sạch sẽ."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
     }
    ],
    "note": ""
@@ -249,7 +269,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -281,7 +312,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -318,6 +360,11 @@
      "code": "GDMT",
      "level": "",
      "text": "HS thực hiện giữ gìn trường, lớp sạch, đẹp và tham gia vào những hoạt động làm cho trường, lớp học xanh, sạch đẹp để góp phần BVMT sống xung quanh."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -409,6 +456,11 @@
      "code": "GDMT",
      "level": "",
      "text": "HS thực hiện việc bảo vệ môi trường ở địa phương và tham gia các hoạt động BVMT."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     }
    ],
    "note": ""
@@ -527,6 +579,11 @@
      "code": "GDĐP",
      "level": "",
      "text": "Giữ gìn và tôn tạo các di tích lịch sử ở quê hương."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     }
    ],
    "note": ""
@@ -597,6 +654,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Các bộ phận thực vật (TNXH – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -833,6 +895,16 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS quan sát tranh ảnh/clip, tìm thông tin đơn giản (có hướng dẫn) để tìm hiểu nội dung bài."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cơ quan tiêu hoá (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     }
    ],
    "note": ""
@@ -866,7 +938,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -898,7 +976,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -930,7 +1014,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -962,7 +1052,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -994,7 +1090,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -1128,7 +1230,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bề mặt Trái Đất (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -1176,7 +1284,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Mô hình Mặt Trời – Trái Đất – Mặt Trăng (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -1549,7 +1663,7 @@
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.docx",
   "name": "Tu nhien va Xa hoi - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44085,
+  "size": 44530,
   "updated": "2026-09-07"
  }
 }

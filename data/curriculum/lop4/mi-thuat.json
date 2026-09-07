@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 30
+  "integrations": 45
  },
  "lessons": [
   {
@@ -121,6 +121,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -203,6 +208,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -225,6 +235,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -242,7 +257,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
@@ -263,6 +284,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -285,6 +311,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -367,6 +398,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -465,6 +501,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -547,6 +588,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -629,6 +675,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -651,6 +702,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -668,7 +724,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
@@ -689,6 +751,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -711,6 +778,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
     }
    ],
    "note": ""
@@ -749,6 +821,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -1027,7 +1104,7 @@
   "file": "assets/docs/lop4/Mi thuat - Lop 4.docx",
   "name": "Mi thuat - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42367,
+  "size": 42554,
   "updated": "2026-09-07"
  }
 }

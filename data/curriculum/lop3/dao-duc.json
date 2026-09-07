@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 11
+  "integrations": 15
  },
  "lessons": [
   {
@@ -45,6 +45,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Không chế lời, ghép nhạc vui vào Quốc ca; thấy video chế nhạo thì báo thầy cô."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng khi nói về Tổ quốc Việt Nam."
     }
    ],
    "note": ""
@@ -94,7 +99,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng khi nói về Tổ quốc Việt Nam."
+    }
+   ],
    "note": ""
   },
   {
@@ -570,6 +581,11 @@
      "code": "GDĐP",
      "level": "",
      "text": "HS nêu được các loại đường giao thông, kể tên được các phương tiện giao thông được sử dụng phổ biến."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
     }
    ],
    "note": ""
@@ -603,7 +619,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
+    }
+   ],
    "note": ""
   },
   {
@@ -912,7 +934,7 @@
   "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
   "name": "Dao duc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42384,
+  "size": 42614,
   "updated": "2026-09-07"
  }
 }

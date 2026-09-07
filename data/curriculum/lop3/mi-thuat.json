@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 14
+  "integrations": 18
  },
  "lessons": [
   {
@@ -77,6 +77,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Gọi đúng tên dân tộc, không chê bai trang phục dân tộc khác."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
     }
    ],
    "note": ""
@@ -277,6 +282,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -433,6 +443,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -652,6 +667,11 @@
      "code": "STEM",
      "level": "",
      "text": "Triển lãm sản phẩm STEM cuối học kì 2"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -930,7 +950,7 @@
   "file": "assets/docs/lop3/Mi thuat - Lop 3.docx",
   "name": "Mi thuat - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42419,
+  "size": 42617,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 51
+  "integrations": 60
  },
  "lessons": [
   {
@@ -238,7 +238,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -524,6 +530,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "dùng phần mềm vẽ đơn giản để tạo lại hình vừa học, lưu bài dưới sự hướng dẫn của GV."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -777,7 +788,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1239,6 +1256,11 @@
      "code": "STEM",
      "level": "",
      "text": "Bài học STEM \"Bảng các số từ 1 đến 100\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: bảng các số từ 1 đến 100."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -1266,6 +1288,11 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -1702,6 +1729,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "Quan sát đồng hồ/lịch (vật thật hoặc hình ảnh số) để khai thác thông tin thời gian (GV hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1746,6 +1778,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "Quan sát đồng hồ/lịch (vật thật hoặc hình ảnh số) để khai thác thông tin thời gian (GV hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1784,6 +1821,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "Quan sát đồng hồ/lịch (vật thật hoặc hình ảnh số) để khai thác thông tin thời gian (GV hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -1822,6 +1864,11 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
     }
    ],
    "note": ""
@@ -2260,7 +2307,7 @@
   "file": "assets/docs/lop1/Toan - Lop 1.docx",
   "name": "Toan - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45132,
+  "size": 45302,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 22
+  "integrations": 62
  },
  "lessons": [
   {
@@ -50,6 +50,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Ảnh gia đình chỉ đưa khi cha mẹ đồng ý, chiếu xong xoá, không đăng mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -82,6 +87,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Ảnh gia đình chỉ đưa khi cha mẹ đồng ý, chiếu xong xoá, không đăng mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -114,6 +124,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Không chỉ nhà mình trên bản đồ khi chưa hỏi cha mẹ."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -200,6 +215,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -222,6 +242,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -287,7 +312,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -303,7 +339,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -319,7 +361,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -335,7 +383,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -351,7 +410,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -367,7 +437,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -383,7 +464,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -463,7 +550,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -495,7 +593,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Trang trí nơi em sống (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -511,7 +620,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -575,6 +690,11 @@
      "code": "STEM",
      "level": "",
      "text": "Bài 7: Đèn tín hiệu và biển báo giao thông"
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -597,6 +717,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -662,7 +787,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cây xung quanh em (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
+    }
+   ],
    "note": ""
   },
   {
@@ -678,7 +814,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
+    }
+   ],
    "note": ""
   },
   {
@@ -694,7 +836,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
+    }
+   ],
    "note": ""
   },
   {
@@ -710,7 +858,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
+    }
+   ],
    "note": ""
   },
   {
@@ -726,7 +880,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
+    }
+   ],
    "note": ""
   },
   {
@@ -742,7 +902,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
+    }
+   ],
    "note": ""
   },
   {
@@ -758,7 +924,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
+    }
+   ],
    "note": ""
   },
   {
@@ -774,7 +946,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
+    }
+   ],
    "note": ""
   },
   {
@@ -790,7 +968,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Nhà cho vật nuôi (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -870,7 +1054,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
+    }
+   ],
    "note": ""
   },
   {
@@ -886,7 +1076,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
+    }
+   ],
    "note": ""
   },
   {
@@ -902,7 +1098,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
+    }
+   ],
    "note": ""
   },
   {
@@ -918,7 +1120,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
+    }
+   ],
    "note": ""
   },
   {
@@ -934,7 +1142,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
+    }
+   ],
    "note": ""
   },
   {
@@ -950,7 +1164,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
+    }
+   ],
    "note": ""
   },
   {
@@ -1110,7 +1330,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bầu trời ngày và đêm (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -1533,7 +1759,7 @@
   "file": "assets/docs/lop1/Tu nhien va Xa hoi - Lop 1.docx",
   "name": "Tu nhien va Xa hoi - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43499,
+  "size": 44041,
   "updated": "2026-09-07"
  }
 }

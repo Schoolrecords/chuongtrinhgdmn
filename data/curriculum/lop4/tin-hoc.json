@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 43
+  "integrations": 44
  },
  "lessons": [
   {
@@ -327,6 +327,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Tạo bài trình chiếu (Tin học – Khoa học) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -1097,7 +1102,7 @@
   "file": "assets/docs/lop4/Tin hoc - Lop 4.docx",
   "name": "Tin hoc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43149,
+  "size": 43207,
   "updated": "2026-09-07"
  }
 }

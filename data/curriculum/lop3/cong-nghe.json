@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 8
+  "integrations": 20
  },
  "lessons": [
   {
@@ -94,7 +94,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+    }
+   ],
    "note": ""
   },
   {
@@ -126,7 +132,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+    }
+   ],
    "note": ""
   },
   {
@@ -158,7 +170,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+    }
+   ],
    "note": ""
   },
   {
@@ -222,7 +240,18 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cẩm nang máy thu hình (Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+    }
+   ],
    "note": ""
   },
   {
@@ -292,7 +321,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+    }
+   ],
    "note": ""
   },
   {
@@ -356,7 +391,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "Điều chỉnh: hoàn thành Bài 6 (tiết 3–4) đầu học kì II để bố trí ôn tập, kiểm tra cuối HKI đúng tuần 17–18",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+    }
+   ],
    "note": ""
   },
   {
@@ -393,6 +434,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
     }
    ],
    "note": ""
@@ -426,7 +472,18 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Sáng tạo đồ dùng học tập (Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
+    }
+   ],
    "note": ""
   },
   {
@@ -474,7 +531,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
+    }
+   ],
    "note": ""
   },
   {
@@ -538,7 +601,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
+    }
+   ],
    "note": ""
   },
   {
@@ -895,7 +964,7 @@
   "file": "assets/docs/lop3/Cong nghe - Lop 3.docx",
   "name": "Cong nghe - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42140,
+  "size": 42289,
   "updated": "2026-09-07"
  }
 }

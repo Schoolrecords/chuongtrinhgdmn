@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 7
+  "integrations": 11
  },
  "lessons": [
   {
@@ -126,7 +126,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -398,7 +404,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -462,7 +474,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -611,6 +629,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "quan sát tranh/ảnh số; lưu ảnh sản phẩm mĩ thuật để chia sẻ trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -889,7 +912,7 @@
   "file": "assets/docs/lop5/Mi thuat - Lop 5.docx",
   "name": "Mi thuat - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42105,
+  "size": 42246,
   "updated": "2026-09-07"
  }
 }

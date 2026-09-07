@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 53
+  "integrations": 77
  },
  "lessons": [
   {
@@ -237,6 +237,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Trò chơi màn hình chỉ 10 phút; không dùng máy tra thay học thuộc bảng."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bảng nhân, chia (Toán – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -301,6 +306,16 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Trò chơi màn hình chỉ 10 phút; không dùng máy tra thay học thuộc bảng."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bảng nhân, chia (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -350,7 +365,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bảng nhân, chia (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -468,7 +494,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bảng nhân, chia (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -500,7 +537,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bảng nhân, chia (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -532,7 +580,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bảng nhân, chia (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -564,7 +623,18 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bảng nhân, chia (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -612,7 +682,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -644,7 +720,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Trải nghiệm cùng một phần mấy (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -752,7 +834,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1100,7 +1188,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1262,7 +1356,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cân thăng bằng (Toán – Công nghệ) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -1937,6 +2037,11 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "dùng ứng dụng thước/cân điện tử (nếu có) để kiểm chứng lại kết quả đo bằng dụng cụ thật."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Trải nghiệm diện tích (Toán – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -2537,6 +2642,16 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "xem đồng hồ và lịch điện tử trên máy tính/điện thoại của cô để đối chiếu với đồng hồ, lịch thật."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Đồng hồ số La Mã (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -2613,6 +2728,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem hình tiền trên màn hình để nhận biết mệnh giá; nhắc HS không tự ý mua bán trên mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -2833,6 +2953,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "HS làm quen đọc bảng số liệu/biểu đồ tranh đơn giản; thu thập, sắp xếp dữ liệu (có hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
     }
    ],
    "note": ""
@@ -2898,7 +3023,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -3389,7 +3520,7 @@
   "file": "assets/docs/lop3/Toan - Lop 3.docx",
   "name": "Toan - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47768,
+  "size": 48205,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 163,
-  "integrations": 61
+  "integrations": 141
  },
  "lessons": [
   {
@@ -45,6 +45,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Hình, video do GV chọn từ nguồn tin cậy; HS không tự tìm video."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
     }
    ],
    "note": ""
@@ -173,6 +178,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Bài viết chỉ chiếu khi bạn đồng ý; không chép bài bạn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -205,6 +215,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Hình, video do GV chọn từ nguồn tin cậy; HS không tự tìm video."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
     }
    ],
    "note": ""
@@ -269,6 +284,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Hình, video do GV chọn từ nguồn tin cậy; HS không tự tìm video."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
     }
    ],
    "note": ""
@@ -333,6 +353,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Công cụ chỉ để tra nghĩa, không làm hộ bài; HS không tự tra cứu một mình."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -350,7 +375,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -414,7 +445,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -430,7 +467,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -462,7 +505,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -499,6 +548,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -516,7 +570,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -591,6 +651,11 @@
      "code": "AI-NB",
      "level": "Cơ bản 1",
      "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -608,7 +673,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -640,7 +711,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -694,7 +771,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -715,6 +798,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -764,7 +852,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -780,7 +874,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -812,7 +912,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -898,7 +1004,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -973,6 +1085,11 @@
      "code": "AI-NB",
      "level": "Cơ bản 1",
      "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -990,7 +1107,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1022,7 +1145,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1059,6 +1188,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1076,7 +1210,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1140,7 +1280,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1156,7 +1302,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1188,7 +1340,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1225,6 +1383,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1242,7 +1405,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1258,7 +1427,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng xử: thể hiện sự quan tâm, lễ phép, biết nói lời cảm ơn và xin lỗi đúng lúc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1317,6 +1492,11 @@
      "code": "AI-NB",
      "level": "Cơ bản 1",
      "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1334,7 +1514,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1366,7 +1552,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1403,6 +1595,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1420,7 +1617,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1484,7 +1687,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1500,7 +1709,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1532,7 +1747,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1569,6 +1790,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1618,7 +1844,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1693,6 +1925,11 @@
      "code": "AI-NB",
      "level": "Cơ bản 1",
      "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1710,7 +1947,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1726,7 +1969,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1742,7 +1991,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1779,6 +2034,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1796,7 +2056,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1860,7 +2126,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1876,7 +2148,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1908,7 +2186,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1945,6 +2229,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1962,7 +2251,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2037,6 +2332,11 @@
      "code": "AI-NB",
      "level": "Cơ bản 1",
      "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2054,7 +2354,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2086,7 +2392,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2123,6 +2435,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2140,7 +2457,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2204,7 +2527,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2220,7 +2549,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2252,7 +2587,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2289,6 +2630,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2338,7 +2684,18 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2354,7 +2711,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
+    }
+   ],
    "note": ""
   },
   {
@@ -2413,6 +2776,11 @@
      "code": "AI-NB",
      "level": "Cơ bản 1",
      "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
     }
    ],
    "note": ""
@@ -2430,7 +2798,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2462,7 +2836,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2478,7 +2858,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
+    }
+   ],
    "note": ""
   },
   {
@@ -2499,6 +2885,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
     }
    ],
    "note": ""
@@ -2521,6 +2912,11 @@
      "code": "GDĐP",
      "level": "",
      "text": "- Sưu tầm được tranh, ảnh về một số mẫu nhà ở truyền thống của các dân tộc trên địa bàn tỉnh Nghệ An. -Nêu được một số đặc điểm của một ngôi nhà truyền thống, vị trí chỗ ở và sinh hoạt của một số thành viên trong gia đình. - GV liên hệ thực tế: Vùng Tây Nguyên cũ và Vùng Tây Nguyên mới sau sáp nhập."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
     }
    ],
    "note": ""
@@ -2586,7 +2982,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2602,7 +3004,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2634,7 +3042,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2671,6 +3085,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2688,7 +3107,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2780,7 +3205,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2812,7 +3243,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2849,6 +3286,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2866,7 +3308,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2935,6 +3383,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -3245,7 +3698,7 @@
   "file": "assets/docs/lop3/Tieng Viet - Lop 3.docx",
   "name": "Tieng Viet - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 49898,
+  "size": 51581,
   "updated": "2026-09-07"
  }
 }

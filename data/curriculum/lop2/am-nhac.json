@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 27
+  "integrations": 33
  },
  "lessons": [
   {
@@ -181,6 +181,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
     }
    ],
    "note": ""
@@ -203,6 +208,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -345,6 +355,11 @@
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
      "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -541,6 +556,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -563,6 +583,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -699,6 +724,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -1009,7 +1039,7 @@
   "file": "assets/docs/lop2/Am nhac - Lop 2.docx",
   "name": "Am nhac - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42837,
+  "size": 43009,
   "updated": "2026-09-07"
  }
 }

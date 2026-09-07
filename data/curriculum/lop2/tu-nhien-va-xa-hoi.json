@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 27
+  "integrations": 59
  },
  "lessons": [
   {
@@ -45,6 +45,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Ảnh gia đình chỉ chụp khi được đồng ý, chiếu xong xoá."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -109,6 +114,16 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Xin phép phụ huynh trước, không ghi lại cuộc gọi."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Nghề nghiệp của người thân (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -163,6 +178,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -196,7 +216,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Giữ gìn vệ sinh nhà ở (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -282,7 +313,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
+    }
+   ],
    "note": ""
   },
   {
@@ -351,6 +393,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -384,7 +431,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
+    }
+   ],
    "note": ""
   },
   {
@@ -400,7 +458,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
+    }
+   ],
    "note": ""
   },
   {
@@ -475,6 +544,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
     }
    ],
    "note": ""
@@ -529,6 +603,16 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Các loại đường và phương tiện giao thông (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -562,7 +646,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó: nhận biết nguy cơ, xử lí bước đầu và báo ngay cho người lớn."
+    }
+   ],
    "note": ""
   },
   {
@@ -741,7 +836,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
+    }
+   ],
    "note": ""
   },
   {
@@ -885,7 +986,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cơ quan vận động (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -917,7 +1029,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -949,7 +1067,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -981,7 +1105,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bảo vệ cơ quan hô hấp (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -1013,7 +1148,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -1045,7 +1186,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -1061,7 +1208,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -1136,6 +1289,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tra cứu hình ảnh/clip về đối tượng đang học; đối chiếu chú thích trước khi dùng."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Các mùa trong năm ở Việt Nam (TNXH – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -1174,6 +1332,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
     }
    ],
    "note": ""
@@ -1207,7 +1370,18 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó: nhận biết nguy cơ, xử lí bước đầu và báo ngay cho người lớn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1564,7 +1738,7 @@
   "file": "assets/docs/lop2/Tu nhien va Xa hoi - Lop 2.docx",
   "name": "Tu nhien va Xa hoi - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44167,
+  "size": 44954,
   "updated": "2026-09-07"
  }
 }

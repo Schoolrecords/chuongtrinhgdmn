@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 33
+  "integrations": 46
  },
  "lessons": [
   {
@@ -60,6 +60,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Kiểm tra kĩ nguồn trước khi chia sẻ; không lan truyền bản đồ sai chủ quyền."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Sử dụng bản đồ hành chính Việt Nam để HS chỉ ra lãnh thổ, vùng biển, quần đảo Hoàng Sa và Trường Sa của Việt Nam."
     }
    ],
    "note": ""
@@ -214,12 +219,17 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Cập nhật tên các tỉnh, thành phố ven biển là: Quảng Ninh, Hải Phòng, Hưng Yên, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị, Huế, Đà Nẵng, Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hòa, Lâm Đồng, Thành phố HCM, Đồng Tháp, Vĩnh Long, Cần Thơ, An Giang, Cà Mau",
+   "adjustments": "Cập nhật tên các tỉnh, thành phố ven biển là: Quảng Ninh, Hải Phòng, Hưng Yên, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị, Huế, Đà Nẵng, Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hòa, Lâm Đồng, Thành phố HCM, Đồng Tháp, Vĩnh Long, Cần Thơ, An Giang, Cà Mau; SGK tr.5 — sửa thành: \"Vùng biển nước ta bao gồm một phần Biển Đông, Vịnh Bắc Bộ, Vịnh Thái Lan, tiếp giáp với vùng biển của nhiều quốc gia.\"; SGK tr.17 — sửa thành: \"Thế kỉ XVII, các chúa Nguyễn… đồng thời thực thi chủ quyền đối với quần đảo Hoàng Sa và quần đảo Trường Sa một cách liên tục, lâu dài và hiệu quả.\"; SGK tr.18 — bổ sung: \"Từ năm 1954 đến năm 1975, chính quyền Sài Gòn tiếp tục quản lí, thực thi chủ quyền đối với hai quần đảo như: cử quân đồn trú, dựng bia chủ quyền và ban hành các sắc lệnh hành chính sáp nhập quần đảo Hoàng Sa vào tỉnh Quảng Nam (nay thuộc thành phố Đà Nẵng) và quần đảo Trường Sa vào tỉnh Phước Tuy (nay thuộc Thành phố Hồ Chí Minh).\"",
    "integrations": [
     {
      "code": "QPAN",
      "level": "",
      "text": "GDQP"
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Khẳng định chủ quyền, quyền chủ quyền của Việt Nam đối với biển, đảo; liên hệ việc khai thác thuỷ, hải sản gắn với nhiệm vụ quốc phòng, an ninh."
     }
    ],
    "note": ""
@@ -253,7 +263,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "*Thay đổi dữ liệu dân số của các vùng phù hợp với bản đồ mới",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -318,6 +334,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Sử dụng bản đồ hành chính Việt Nam để HS chỉ ra lãnh thổ, vùng biển, quần đảo Hoàng Sa và Trường Sa của Việt Nam."
     }
    ],
    "note": ""
@@ -420,6 +441,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
     }
    ],
    "note": ""
@@ -453,7 +479,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -500,8 +532,14 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "- Nội dung 1, câu chuyện lịch sử: địa điểm Ninh Bình; Trang 46, câu chuyện lịch sử: Địa điểm Chí Linh (Hải Phòng)",
-   "integrations": [],
+   "adjustments": "Nội dung 1, câu chuyện lịch sử: địa điểm Ninh Bình; Trang 46, câu chuyện lịch sử: Địa điểm Chí Linh (Hải Phòng)",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -596,8 +634,14 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "- Mục 2, câu chuyện lịch sử Vụ Bản (Ninh Bình)",
-   "integrations": [],
+   "adjustments": "Mục 2, câu chuyện lịch sử Vụ Bản (Ninh Bình)",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -644,8 +688,14 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "- Mục 1 a, trang 58 câu chuyện lịch sử: Tiền Hải (Hưng Yên)",
-   "integrations": [],
+   "adjustments": "Mục 1 a, trang 58 câu chuyện lịch sử: Tiền Hải (Hưng Yên)",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -725,7 +775,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -768,6 +824,11 @@
      "code": "QPAN",
      "level": "",
      "text": "GDQP"
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
     }
    ],
    "note": ""
@@ -812,6 +873,11 @@
      "code": "QPAN",
      "level": "",
      "text": "GDQP-"
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
     }
    ],
    "note": ""
@@ -1034,6 +1100,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
     }
    ],
    "note": ""
@@ -1596,7 +1667,7 @@
   "file": "assets/docs/lop5/Lich su va Dia li - Lop 5.docx",
   "name": "Lich su va Dia li - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45242,
+  "size": 45963,
   "updated": "2026-09-07"
  }
 }

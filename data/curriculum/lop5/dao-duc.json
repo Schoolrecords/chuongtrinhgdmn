@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 20
+  "integrations": 25
  },
  "lessons": [
   {
@@ -45,6 +45,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Ảnh, video về nhân vật lịch sử lấy từ SGK"
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ khi nói về Tổ quốc Việt Nam."
     }
    ],
    "note": ""
@@ -148,6 +153,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và chia sẻ: biết cảm thông, giúp đỡ bạn và làm việc cùng nhau."
     }
    ],
    "note": ""
@@ -438,6 +448,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
     }
    ],
    "note": ""
@@ -529,6 +544,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
     }
    ],
    "note": ""
@@ -620,6 +640,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
     }
    ],
    "note": ""
@@ -962,7 +987,7 @@
   "file": "assets/docs/lop5/Dao duc - Lop 5.docx",
   "name": "Dao duc - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42462,
+  "size": 42797,
   "updated": "2026-09-07"
  }
 }

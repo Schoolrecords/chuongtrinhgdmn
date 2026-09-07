@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 105
+  "integrations": 114
  },
  "lessons": [
   {
@@ -141,6 +141,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Âm lượng loa vừa phải; bản thu chỉ dùng tại lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -173,6 +178,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Bản thu lấy từ học liệu bộ sách; nêu tên tác giả."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
     }
    ],
    "note": ""
@@ -205,6 +215,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Phim từ học liệu bộ sách, GV xem trước; loa vừa đủ nghe."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
     }
    ],
    "note": ""
@@ -237,6 +252,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Quốc ca từ nguồn chính thức; đứng nghiêm khi nghe."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS nghe/hát bài hát về chú bộ đội, về Đội; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
     }
    ],
    "note": ""
@@ -269,6 +289,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Âm thanh từ học liệu có nguồn; loa vừa đủ, tránh âm chói tai."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
     }
    ],
    "note": ""
@@ -397,6 +422,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Không hét vào micro, loa vừa đủ, bản ghi chỉ dùng trong lớp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -685,6 +715,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Bản ghi chỉ dùng tại lớp, loa vừa đủ nghe."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -813,6 +848,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Không nêu tên riêng, GV là người gửi."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -941,6 +981,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đoạn quay chỉ xem tại lớp; học liệu bộ sách."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -1411,7 +1456,7 @@
   "file": "assets/docs/lop1/Am nhac - Lop 1.docx",
   "name": "Am nhac - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45355,
+  "size": 45603,
   "updated": "2026-09-07"
  }
 }

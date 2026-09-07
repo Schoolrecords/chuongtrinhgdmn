@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 24
+  "integrations": 76
  },
  "lessons": [
   {
@@ -109,6 +109,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Ảnh chụp hoạt động lớp chỉ dùng trong tiết sinh hoạt"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
     }
    ],
    "note": ""
@@ -141,6 +146,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "HS chỉ xem thông tin trường trên mạng khi có cha mẹ ngồi cùng"
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
     }
    ],
    "note": ""
@@ -205,6 +215,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Ảnh giờ học, giờ chơi chỉ chiếu trong lớp, không đăng lên mạng"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
     }
    ],
    "note": ""
@@ -254,7 +269,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   },
   {
@@ -302,7 +323,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -334,7 +361,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
+    }
+   ],
    "note": ""
   },
   {
@@ -350,7 +383,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -398,7 +437,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -446,7 +491,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -462,7 +513,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Hoạt động trải nghiệm STEM học kì I: ngày hội/câu lạc bộ/dự án STEM cấp lớp hoặc khối — tối thiểu 01 lần mỗi học kì (CV 3132/SGD&ĐT); HS trưng bày, giới thiệu sản phẩm từ các bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -494,7 +551,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -510,7 +573,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
+    }
+   ],
    "note": ""
   },
   {
@@ -531,6 +600,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
     }
    ],
    "note": ""
@@ -548,7 +622,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -564,7 +644,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   },
   {
@@ -596,7 +682,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -644,7 +736,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -665,6 +763,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
     }
    ],
    "note": ""
@@ -698,7 +801,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -714,7 +823,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -730,7 +845,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -778,7 +899,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -826,7 +953,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -858,7 +991,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -874,7 +1013,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -911,6 +1056,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
     }
    ],
    "note": ""
@@ -1136,7 +1286,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1184,7 +1340,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1205,6 +1367,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -1238,7 +1405,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1286,7 +1459,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1307,6 +1486,11 @@
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
     }
    ],
    "note": ""
@@ -1324,7 +1508,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
+    }
+   ],
    "note": ""
   },
   {
@@ -1356,7 +1551,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Hoạt động trải nghiệm STEM học kì II: ngày hội/câu lạc bộ/dự án STEM cấp lớp hoặc khối — tối thiểu 01 lần mỗi học kì (CV 3132/SGD&ĐT); HS trưng bày, giới thiệu sản phẩm từ các bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -1500,7 +1701,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+    }
+   ],
    "note": ""
   },
   {
@@ -1532,7 +1739,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1580,7 +1793,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1596,7 +1815,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+    }
+   ],
    "note": ""
   },
   {
@@ -1612,7 +1837,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+    }
+   ],
    "note": ""
   },
   {
@@ -1628,7 +1859,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1660,7 +1897,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+    }
+   ],
    "note": ""
   },
   {
@@ -1676,7 +1919,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1692,7 +1941,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+    }
+   ],
    "note": ""
   },
   {
@@ -1713,6 +1968,11 @@
      "code": "GDĐP",
      "level": "",
      "text": "Tích hợp giáo dục địa phương"
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
     }
    ],
    "note": ""
@@ -1730,7 +1990,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1762,7 +2033,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+    }
+   ],
    "note": ""
   },
   {
@@ -1778,7 +2055,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1794,7 +2077,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   },
   {
@@ -1810,7 +2099,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục yêu quê hương, yêu hoà bình, yêu Tổ quốc Việt Nam xã hội chủ nghĩa."
+    }
+   ],
    "note": ""
   },
   {
@@ -1826,7 +2121,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   }
  ],
@@ -2103,7 +2404,7 @@
   "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.docx",
   "name": "Hoat dong trai nghiem - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45317,
+  "size": 46542,
   "updated": "2026-09-07"
  }
 }

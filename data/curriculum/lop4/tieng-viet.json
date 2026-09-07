@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 194,
-  "integrations": 66
+  "integrations": 123
  },
  "lessons": [
   {
@@ -173,6 +173,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Bài mẫu chỉ để học cách viết, không chép; chỉ mở học liệu GV chỉ định."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -365,6 +370,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Không nhờ máy viết hộ rồi nộp; không đưa họ tên, địa chỉ vào bài."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -397,6 +407,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Chỉ đọc sách trong tủ sách trường hoặc nguồn GV giới thiệu; không chép lời giới thiệu."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -446,7 +461,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -478,7 +499,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -542,7 +569,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -574,7 +607,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -590,7 +629,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -643,6 +688,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -778,7 +828,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -799,6 +855,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -949,6 +1010,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý từ ngữ / kiểm tra chính tả; HS tự viết, KHÔNG để AI viết thay (trung thực học thuật)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -998,7 +1064,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1083,6 +1155,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1191,6 +1268,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý từ ngữ / kiểm tra chính tả; HS tự viết, KHÔNG để AI viết thay (trung thực học thuật)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1224,7 +1306,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1245,6 +1333,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1438,7 +1531,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1491,6 +1590,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1594,7 +1698,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1647,6 +1757,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1701,6 +1816,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý từ ngữ / kiểm tra chính tả; HS tự viết, KHÔNG để AI viết thay (trung thực học thuật)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1750,7 +1870,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1798,7 +1924,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1830,7 +1962,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1846,7 +1984,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1931,6 +2075,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2039,6 +2188,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý từ ngữ / kiểm tra chính tả; HS tự viết, KHÔNG để AI viết thay (trung thực học thuật)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2093,6 +2247,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -2142,7 +2301,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2174,7 +2339,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2190,7 +2361,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -2286,7 +2463,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2350,7 +2533,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -2371,6 +2560,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý từ ngữ / kiểm tra chính tả; HS tự viết, KHÔNG để AI viết thay (trung thực học thuật)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2474,7 +2668,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2495,6 +2695,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -2549,6 +2754,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2598,7 +2808,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Kể về tấm gương anh hùng, liệt sĩ; giáo dục lòng biết ơn người có công với cách mạng và niềm tự hào về truyền thống dân tộc."
+    }
+   ],
    "note": ""
   },
   {
@@ -2646,7 +2862,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2662,7 +2884,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa; HS nói lời cảm ơn các chú bộ đội, chú công an."
+    }
+   ],
    "note": ""
   },
   {
@@ -2694,7 +2922,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2742,7 +2976,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
+    }
+   ],
    "note": ""
   },
   {
@@ -2758,7 +2998,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
+    }
+   ],
    "note": ""
   },
   {
@@ -2779,6 +3025,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2812,7 +3063,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2914,7 +3171,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2935,6 +3198,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3032,7 +3300,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -3085,6 +3359,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý từ ngữ / kiểm tra chính tả; HS tự viết, KHÔNG để AI viết thay (trung thực học thuật)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -3134,7 +3413,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -3193,6 +3478,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý từ ngữ / kiểm tra chính tả; HS tự viết, KHÔNG để AI viết thay (trung thực học thuật)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -3231,6 +3521,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "soạn đoạn viết trên máy (nếu có điều kiện); nhắc HS không đưa thông tin riêng của mình lên mạng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -3308,7 +3603,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3340,7 +3641,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3361,6 +3668,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "HS tìm, chọn lọc văn bản/sách phù hợp trên thư viện số hoặc Internet (có hướng dẫn); ghi lại nguồn đã đọc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3410,7 +3722,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3767,7 +4085,7 @@
   "file": "assets/docs/lop4/Tieng Viet - Lop 4.docx",
   "name": "Tieng Viet - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 51617,
+  "size": 52281,
   "updated": "2026-09-07"
  }
 }
