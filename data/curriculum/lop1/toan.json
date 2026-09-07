@@ -401,19 +401,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV dùng bộ bài tập tương tác tự chấm trên máy chiếu cho bài “LUYỆN TẬP CHUNG”: HS giơ thẻ chọn đáp án"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu lại theo thứ tự các hình động, bảng số và mô phỏng đã dùng trong chủ đề để HS tự hệ thống lại kiến thức đã"
+     "text": "Ở tiết luyện tập chung, GV chiếu ảnh những nơi có chữ số quen thuộc như mặt đồng hồ, biển số xe, số trang sách"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác đếm đồ vật rồi kéo đúng thẻ số vào ô trống; máy báo đúng"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Máy chỉ dùng để kiểm tra lại sau khi HS đã tự làm ra nháp"
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
     }
    ],
    "note": ""
@@ -605,19 +605,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV dùng bộ bài tập tương tác tự chấm trên máy chiếu cho bài “LUYỆN TẬP CHUNG”: HS giơ thẻ chọn đáp án"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu lại theo thứ tự các hình động, bảng số và mô phỏng đã dùng trong chủ đề để HS tự hệ thống lại kiến thức đã"
+     "text": "Ở tiết luyện tập chung về hình, GV chiếu ảnh đồ vật quen thuộc trong lớp rồi bấm cho viền hình sáng lên: mặt đồng hồ thành hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác xếp ghép hình và tìm hình còn thiếu trong dãy theo quy luật; máy báo đúng"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Máy chỉ dùng để kiểm tra lại sau khi HS đã tự làm ra nháp"
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
     }
    ],
    "note": ""
@@ -2586,7 +2586,7 @@
   "file": "assets/docs/lop1/Toan - Lop 1.docx",
   "name": "Toan - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47385,
+  "size": 47424,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 78
+  "integrations": 87
  },
  "lessons": [
   {
@@ -163,7 +163,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề “Sự kết hợp của các hình cơ bản”, GV chiếu ảnh các đồ vật quen thuộc rồi bấm tách dần thành hình tròn, vuông"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Làm xong sản phẩm ba chiều, GV chụp ảnh từ hai phía rồi chiếu lên màn hình thành bộ sưu tập của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS; ảnh lưu trong máy của cô"
+    }
+   ],
    "note": ""
   },
   {
@@ -349,7 +365,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề “Sự kết hợp thú vị của khối”, GV chiếu ảnh đồ vật ba chiều rồi bấm tách dần thành các khối lập phương, khối hộp"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Sắp xếp xong, GV chụp ảnh sản phẩm của từng nhóm từ hai phía rồi chiếu lên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS; khi ghép khối, các em dùng kéo mũi tròn"
+    }
+   ],
    "note": ""
   },
   {
@@ -434,7 +466,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề “Sắc màu thiên nhiên”, GV chiếu ảnh phong cảnh bốn mùa và phóng to từng mảng màu trời, cây, nước; HS gọi tên màu"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Vẽ xong, GV chụp ảnh tranh của cả lớp rồi chiếu thành phòng tranh trên màn hình; mỗi em giới thiệu bức của mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ chụp tranh, không chụp mặt HS"
+    }
+   ],
    "note": ""
   },
   {
@@ -1267,7 +1315,7 @@
   "file": "assets/docs/lop2/Mi thuat - Lop 2.docx",
   "name": "Mi thuat - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45481,
+  "size": 45789,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 41
+  "integrations": 47
  },
  "lessons": [
   {
@@ -160,6 +160,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Vật liệu và dụng cụ trồng hoa, cây cảnh trong chậu”, GV chiếu ảnh phóng to từng loại giá thể, phân bón"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu vài tình huống trồng cây trong chậu và cho HS chọn bộ vật liệu, dụng cụ phù hợp cho từng loại cây; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi dùng xẻng, kéo cắt cành, HS đeo găng tay và làm theo hướng dẫn của thầy cô"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
@@ -282,6 +297,21 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Chậu hoa và cây cảnh mini”, GV chiếu ảnh phóng to nhiều kiểu chậu mini cùng loại cây phù hợp với từng chậu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu vài tình huống chọn chậu và cây cho góc học tập, ban công, lớp học"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi làm chậu cây, HS dùng kéo mũi tròn, đeo găng tay khi trộn đất; không nghịch đất"
+    },
     {
      "code": "STEM",
      "level": "",
@@ -1073,7 +1103,7 @@
   "file": "assets/docs/lop4/Cong nghe - Lop 4.docx",
   "name": "Cong nghe - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43369,
+  "size": 43628,
   "updated": "2026-09-07"
  }
 }

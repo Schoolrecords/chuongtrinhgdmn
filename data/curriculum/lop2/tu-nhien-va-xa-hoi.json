@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 98
+  "integrations": 105
  },
  "lessons": [
   {
@@ -196,6 +196,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá bài “Giữ sạch nhà ở”, GV chiếu phóng to tranh trong sách và thêm cặp ảnh một góc bếp"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu đoạn phim ngắn về rô-bốt hút bụi đang chạy trong nhà và giải thích máy tự đi được là nhờ có trí tuệ nhân tạo"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ xem phim, không tự bật hay chạm vào máy móc trong nhà"
+    },
+    {
      "code": "STEM",
      "level": "",
      "text": "Giữ gìn vệ sinh nhà ở (TNXH – Mĩ thuật) — dạy thay cho tiết này."
@@ -287,14 +302,24 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Chào đón ngày khai giảng”, GV chiếu ảnh và clip ngắn lễ khai giảng của chính trường mình do nhà trường cung cấp"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV gõ lên màn hình những việc HS kể được thành bảng chung theo thứ tự diễn ra trong buổi lễ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng ảnh, clip nhà trường cho phép"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -431,14 +456,24 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Giữ vệ sinh trường học”, GV chiếu ảnh hoặc clip ngắn sân trường sau một buổi hoạt động tập thể và ảnh sân trường sau khi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu các tình huống ở trường rồi cho HS chọn cách xử lí như bỏ vỏ sữa vào thùng rác, nhắc bạn không vứt giấy ra sân"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi nhặt rác, HS đeo găng tay, chỉ nhặt giấy, vỏ hộp"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
     }
    ],
    "note": ""
@@ -1929,7 +1964,7 @@
   "file": "assets/docs/lop2/Tu nhien va Xa hoi - Lop 2.docx",
   "name": "Tu nhien va Xa hoi - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46647,
+  "size": 47102,
   "updated": "2026-09-07"
  }
 }

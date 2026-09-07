@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 44
+  "integrations": 59
  },
  "lessons": [
   {
@@ -160,6 +160,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết học hát Quốc ca Việt Nam, GV mở bản thu Quốc ca chính thức và video về ý nghĩa lá cờ Tổ quốc"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở lại bản thu theo từng câu hát, dừng đúng chỗ HS hay hát sai nhịp hoặc sai lời để cả lớp nghe kĩ rồi hát lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng bản thu Quốc ca chính thức do thầy cô mở"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Cho HS nghe/hát bài hát về chú bộ đội, về Đội; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
@@ -212,7 +227,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết học nhạc cụ ma-ra-cát, GV mở bản thu âm sắc của ma-ra-cát cùng thanh phách, song loan"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu mẫu tiết tấu và mở nhạc nền chậm dần đều; HS gõ ma-ra-cát theo mẫu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Cầm ma-ra-cát gõ nhẹ, không gõ vào nhau hay gõ sát tai bạn"
+    }
+   ],
    "note": ""
   },
   {
@@ -244,7 +275,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết học bài hát “Vui đến trường”, GV mở bản thu bài hát và chiếu hình tiết tấu phóng to; HS nghe trọn bài một lượt"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở lại bản thu theo từng câu hát, dừng đúng chỗ HS hay hát sai lời hoặc sai nhịp để cả lớp nghe kĩ rồi hát lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Mở nhạc vừa đủ nghe trong lớp, không mở quá to gây đau tai"
+    }
+   ],
    "note": ""
   },
   {
@@ -340,7 +387,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết học bài hát “Khúc nhạc trên nương xa”, GV mở bản thu bài hát và chiếu tranh các nhạc cụ dân tộc"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở lại bản thu theo từng câu hát, dừng đúng chỗ HS hay hát sai lời hoặc sai nhịp để cả lớp nghe kĩ rồi hát lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Mở nhạc vừa đủ nghe trong lớp, không mở quá to gây đau tai"
+    }
+   ],
    "note": ""
   },
   {
@@ -356,7 +419,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết ôn bài hát và học nhạc cụ gõ, GV chiếu hình tiết tấu phóng to và mở bản thu bài hát; HS vỗ tay nhanh chậm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở nhạc nền rồi dừng đúng chỗ HS gõ lệch phách để cả lớp nghe lại và tự chỉnh tay gõ; sau vài lượt"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Cầm nhạc cụ gõ nhẹ, không gõ vào nhau hay gõ sát tai bạn"
+    }
+   ],
    "note": ""
   },
   {
@@ -1086,7 +1165,7 @@
   "file": "assets/docs/lop3/Am nhac - Lop 3.docx",
   "name": "Am nhac - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43253,
+  "size": 43886,
   "updated": "2026-09-07"
  }
 }

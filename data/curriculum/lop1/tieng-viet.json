@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 178,
-  "integrations": 74
+  "integrations": 206
  },
  "lessons": [
   {
@@ -555,7 +555,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ i, k để HS gọi tên người, vật trong tranh và nói nhân vật đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có chữ i, chữ k với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu và bài tập trên màn hình do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -571,7 +587,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ h, l, chỉ vào từng chi tiết để HS kể lại việc các nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -587,7 +619,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ u, ư và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn tiếng viết đúng trong các cặp dễ lẫn giữa u và ư; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -603,7 +651,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ ch, kh cùng ảnh thật vài sự vật có tiếng chứa ch, kh để HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu chữ ch, kh trên bảng tương tác theo từng nét, tô lại nét mà HS hay viết sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, chạm nhẹ đầu ngón tay"
+    }
+   ],
    "note": ""
   },
   {
@@ -651,7 +715,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ m, n và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có chữ m với hình và tiếng có chữ n với hình; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -667,7 +747,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ g, gi cùng ảnh thật vài sự vật có tiếng chứa g, gi để HS gọi tên"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -683,7 +779,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ gh, nh, chỉ vào từng chi tiết để HS kể việc các nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn chữ đúng điền vào chỗ trống giữa g và gh; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -699,7 +811,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ ng, ngh và ảnh thật vài sự vật có tiếng chứa hai chữ ghép này; HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu chữ ng, ngh trên bảng tương tác theo từng nét, tô lại chỗ nối nét mà HS hay viết rời"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -747,7 +875,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ r, s và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có r, có s với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -763,7 +907,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ t, tr cùng ảnh thật vài sự vật có tiếng chứa t, tr để HS gọi tên"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -779,7 +939,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ th và vần ia, chỉ vào từng chi tiết để HS kể việc các nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác ghép âm đầu với vần ia thành tiếng rồi nối tiếng với hình; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -795,7 +971,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ua, ưa và ảnh thật vài sự vật có tiếng chứa hai vần này; HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu vần ua, ưa trên bảng tương tác theo từng nét, tô lại dấu móc của chữ ư mà HS hay quên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -843,7 +1035,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ ph, qu và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có ph, có qu với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -859,7 +1067,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ v, x cùng ảnh thật vài sự vật có tiếng chứa v, x để HS gọi tên"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -875,7 +1099,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài chữ y, chỉ vào từng chi tiết để HS kể việc các nhân vật đang làm"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu chữ y trên bảng tương tác theo từng nét, tô lại nét khuyết dưới mà HS hay viết ngắn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -891,7 +1131,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết luyện tập chính tả, GV dùng trò chơi học liệu tương tác cho HS chọn đúng c hay k, g hay gh"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng quy tắc chính tả phóng to và bấm sáng dần từng dòng khi cả lớp đọc; HS nhìn bảng lớn để nhớ mặt chữ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi trên màn hình do cô bấm, HS chờ đến lượt được mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -939,7 +1195,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần an, ăn, ân và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có vần an, ăn, ân với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -955,7 +1227,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần on, ôn, ơn cùng ảnh thật vài sự vật có tiếng chứa ba vần này"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -971,7 +1259,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần en, ên, in, un, chỉ vào từng chi tiết để HS kể việc nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác ghép âm đầu với bốn vần vừa học rồi nối tiếng với hình; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -987,7 +1291,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần am, ăm, âm và ảnh thật vài sự vật có tiếng chứa ba vần; HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu vần am, ăm, âm trên bảng tương tác theo từng nét, tô lại dấu mũ và dấu á mà HS hay quên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -1035,7 +1355,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần om, ôm, ơm và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có vần om, ôm, ơm với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1051,7 +1387,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần em, êm, im, um cùng ảnh thật vài sự vật có tiếng chứa các vần này"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -1067,7 +1419,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ai, ay, ây, chỉ vào từng chi tiết để HS kể việc nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn vần đúng điền vào chỗ trống giữa ay và ây; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1083,7 +1451,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần oi, ôi, ơi và ảnh thật vài sự vật có tiếng chứa ba vần; HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu vần oi, ôi, ơi trên bảng tương tác theo từng nét, tô lại dấu mũ và dấu móc mà HS hay quên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -1131,7 +1515,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ui, ưi và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có vần ui, ưi với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1147,7 +1547,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ao, eo cùng ảnh thật vài sự vật có tiếng chứa hai vần này"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -1163,7 +1579,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần au, âu, êu, chỉ vào từng chi tiết để HS kể việc nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn vần đúng điền vào chỗ trống giữa au và âu; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1179,7 +1611,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần iu, ưu và ảnh thật vài sự vật có tiếng chứa hai vần; HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu vần iu, ưu trên bảng tương tác theo từng nét, tô lại dấu móc của chữ ư mà HS hay quên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -1227,7 +1675,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ac, ăc, âc và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có vần ac, ăc, âc với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1243,7 +1707,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần oc, ôc, uc, ưc cùng ảnh thật vài sự vật có tiếng chứa các vần này"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -1259,7 +1739,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần at, ăt, ât, chỉ vào từng chi tiết để HS kể việc nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn vần đúng điền vào chỗ trống giữa at, ăt và ât; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1275,7 +1771,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ot, ôt, ơt và ảnh thật vài sự vật có tiếng chứa ba vần; HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu vần ot, ôt, ơt trên bảng tương tác theo từng nét, tô lại dấu mũ và dấu móc mà HS hay quên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -1323,7 +1835,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần et, êt, it và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có vần et, êt, it với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1339,7 +1867,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ut, ưt cùng ảnh thật vài sự vật có tiếng chứa hai vần này"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -1355,7 +1899,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ap, ăp, âp, chỉ vào từng chi tiết để HS kể việc nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn vần đúng điền vào chỗ trống giữa ap, ăp và âp; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1371,7 +1931,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần op, ôp, ơp và ảnh thật vài sự vật có tiếng chứa ba vần; HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu vần op, ôp, ơp trên bảng tương tác theo từng nét, tô lại dấu mũ và dấu móc mà HS hay quên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -1419,7 +1995,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ep, êp, ip, up và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có bốn vần vừa học với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1435,7 +2027,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần anh, ênh, inh cùng ảnh thật vài sự vật có tiếng chứa ba vần này"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -1451,7 +2059,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ach, êch, ich, chỉ vào từng chi tiết để HS kể việc nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn vần đúng điền vào chỗ trống giữa ach, êch và ich; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1467,7 +2091,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ang, ăng, âng và ảnh thật vài sự vật có tiếng chứa ba vần; HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu vần ang, ăng, âng trên bảng tương tác theo từng nét, tô lại dấu á và dấu mũ mà HS hay quên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -1515,7 +2155,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần ong, ông, ung, ưng và hỏi tranh vẽ ai, đang làm gì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng có bốn vần vừa học với hình tương ứng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1531,7 +2187,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần iêc, iên, iêp cùng ảnh thật vài sự vật có tiếng chứa ba vần này"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -1547,7 +2219,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần iêng, iêm, yên, chỉ vào từng chi tiết để HS kể việc nhân vật đang làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn vần đúng điền vào chỗ trống giữa iên và yên; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1563,7 +2251,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết của bài vần iêt, iêu, yêu và ảnh thật vài sự vật có tiếng chứa ba vần; HS gọi tên"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu vần iêt, iêu, yêu trên bảng tương tác theo từng nét, tô lại dấu mũ của chữ ê mà HS hay quên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, tay sạch và khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -3534,7 +4238,7 @@
   "file": "assets/docs/lop1/Tieng Viet - Lop 1.docx",
   "name": "Tieng Viet - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 49110,
+  "size": 50673,
   "updated": "2026-09-07"
  }
 }

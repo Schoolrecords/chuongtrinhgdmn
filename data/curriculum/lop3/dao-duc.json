@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 26
+  "integrations": 32
  },
  "lessons": [
   {
@@ -152,7 +152,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Quan tâm hàng xóm láng giềng”, GV chiếu bộ ảnh việc làm quen thuộc trong xóm như trông giúp nhà bên, đưa cụ già qua đường"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu các tình huống trên màn hình và cho HS chọn cách ứng xử phù hợp khi nhà hàng xóm có việc"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi ở nhà một mình, HS không mở cửa cho người lạ dù người đó nói là quen"
+    }
+   ],
    "note": ""
   },
   {
@@ -296,7 +312,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Giữ lời hứa”, GV chiếu các đoạn phim tình huống ngắn về việc hứa rồi quên, hứa rồi thực hiện"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV gõ lên màn hình những lời hứa mà HS muốn thực hiện trong tuần, thành bảng chung của lớp; cả lớp cùng đọc lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng chung chỉ ghi lời hứa về việc học và việc tốt, không ghi chuyện riêng"
+    }
+   ],
    "note": ""
   },
   {
@@ -988,7 +1020,7 @@
   "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
   "name": "Dao duc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43289,
+  "size": 43604,
   "updated": "2026-09-07"
  }
 }

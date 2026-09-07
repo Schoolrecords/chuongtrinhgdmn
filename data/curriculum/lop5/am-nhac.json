@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 25
+  "integrations": 34
  },
  "lessons": [
   {
@@ -94,7 +94,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết nhạc cụ và Vận dụng – Sáng tạo tổng kết chủ đề “Khúc ca ngày mới”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Cả lớp nghe lại bản quay và nhận xét theo tiêu chí chiếu sẵn: gõ đúng mẫu tiết tấu, đều phách, hoà với giọng hát"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, bản quay chỉ mở trong lớp rồi xoá"
+    }
+   ],
    "note": ""
   },
   {
@@ -179,7 +195,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết tổng kết chủ đề “Giai điệu quê hương”, GV mở bản thu bài Lí đất giồng cùng một vài điệu lí khác của Nam Bộ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm và vận động"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, bản quay chỉ mở trong lớp rồi xoá"
+    }
+   ],
    "note": ""
   },
   {
@@ -275,7 +307,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết tổng kết chủ đề “Bay vào tương lai”, GV mở bản thu các bài đã học và chiếu mẫu tiết tấu nhịp hai bốn phóng to"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm; GV quay lại rồi chiếu chậm đoạn gõ để mỗi nhóm nhìn thấy tay mình vào phách"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, bản quay chỉ mở trong lớp rồi xoá"
+    }
+   ],
    "note": ""
   },
   {
@@ -984,7 +1032,7 @@
   "file": "assets/docs/lop5/Am nhac - Lop 5.docx",
   "name": "Am nhac - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42710,
+  "size": 43098,
   "updated": "2026-09-07"
  }
 }

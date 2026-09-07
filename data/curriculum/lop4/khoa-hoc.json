@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 84
+  "integrations": 93
  },
  "lessons": [
   {
@@ -189,7 +189,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Mở đầu bài “Không khí có ở đâu?”, GV chiếu đoạn phim hoạt hình về không khí xung quanh ta"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Sau khi các nhóm làm thí nghiệm với túi ni lông và chậu nước, HS ghi kết quả vào bảng chiếu trên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS làm thí nghiệm theo hướng dẫn của thầy cô"
+    }
+   ],
    "note": ""
   },
   {
@@ -342,17 +358,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV dùng mô phỏng trên máy: kéo nguồn sáng lại gần, ra xa, đổi vị trí vật cản để HS thấy bóng của vật to lên, nhỏ đi"
+     "text": "Ở bài “Ánh sáng và sự truyền ánh sáng”, GV chiếu mô phỏng tia sáng đi từ nguồn đến vật rồi đến mắt"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS làm thí nghiệm thật với đèn pin và vật cản để kiểm chứng lại điều vừa thấy trên mô phỏng"
+     "text": "Sau thí nghiệm với đèn pin và tấm bìa, HS ghi kết quả vào bảng chiếu trên màn hình; khi các nhóm ra kết quả khác nhau"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Không chiếu đèn pin, đèn la-de vào mắt mình và mắt bạn"
+     "text": "Tuyệt đối không chiếu đèn pin thẳng vào mắt mình hoặc mắt bạn"
     },
     {
      "code": "KNS",
@@ -441,19 +457,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS dùng ứng dụng đo độ ồn trên điện thoại của GV để đo mức ồn ở lớp học lúc yên lặng, lúc thảo luận"
+     "text": "Ở bài “Âm thanh và sự truyền âm thanh”, GV chiếu mô phỏng sóng âm lan từ nguồn phát đến tai người qua không khí, qua nước"
     },
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS ghi âm vài âm thanh quen thuộc, cho cả lớp nghe và đoán"
+     "text": "Sau thí nghiệm gõ vào bàn, gõ vào chậu nước, HS ghi kết quả nghe được vào bảng chiếu trên màn hình; khi các nhóm ghi khác nhau"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Không mở loa, tai nghe ở mức lớn vì hại tai"
+     "text": "Không gõ mạnh sát tai bạn, không mở loa quá to khi thử âm thanh"
     }
    ],
    "note": ""
@@ -561,7 +577,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Nhiệt độ và sự truyền nhiệt”, GV chiếu ảnh phóng to mặt nhiệt kế để cả lớp cùng đọc đúng số chỉ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS ghi kết quả đo vào bảng chiếu trên màn hình rồi cùng đối chiếu; khi số liệu các nhóm khác nhau"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Cầm nhiệt kế nhẹ tay, không lắc mạnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -594,6 +626,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài vật dẫn nhiệt tốt và vật dẫn nhiệt kém, GV chiếu mô phỏng nhiệt truyền qua thìa kim loại và thìa gỗ cắm trong cốc nước"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS ghi kết quả thí nghiệm vào bảng chiếu trên màn hình rồi đối chiếu với dự đoán; khi kết quả các nhóm khác nhau"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thí nghiệm với nước nóng phải do thầy cô rót, HS không tự cầm cốc nước sôi"
+    },
     {
      "code": "STEM",
      "level": "",
@@ -1854,7 +1901,7 @@
   "file": "assets/docs/lop4/Khoa hoc - Lop 4.docx",
   "name": "Khoa hoc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45975,
+  "size": 46472,
   "updated": "2026-09-07"
  }
 }

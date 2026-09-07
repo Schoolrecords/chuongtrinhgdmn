@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 142
+  "integrations": 151
  },
  "lessons": [
   {
@@ -334,7 +334,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết luyện tập chung, GV cho HS làm bộ bài tập tương tác có chấm tự động về đọc, viết"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bài toán thực tế có bảng số liệu, tô màu dòng cần dùng theo lời HS đọc đề; các em học cách lấy đúng số liệu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập tương tác do thầy cô mở"
+    }
+   ],
    "note": ""
   },
   {
@@ -611,7 +627,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết luyện tập chung, GV cho HS làm bộ câu hỏi tương tác có chấm tự động về đọc, viết"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng hàng của số thập phân phóng to, bấm sáng dần từng hàng phần mười, phần trăm theo lời HS đọc số"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập tương tác do thầy cô mở, HS làm đúng phần được giao"
+    }
+   ],
    "note": ""
   },
   {
@@ -1075,7 +1107,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết luyện tập chung, GV cho HS làm bộ câu hỏi tương tác có chấm tự động; sau mỗi câu các em biết ngay đúng hay sai"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bài toán thực tế có bảng số liệu, tô màu dòng và cột cần dùng theo lời HS đọc đề; các em học cách đọc bảng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập tương tác do thầy cô mở"
+    }
+   ],
    "note": ""
   },
   {
@@ -3846,7 +3894,7 @@
   "file": "assets/docs/lop5/Toan - Lop 5.docx",
   "name": "Toan - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48949,
+  "size": 49359,
   "updated": "2026-09-07"
  }
 }

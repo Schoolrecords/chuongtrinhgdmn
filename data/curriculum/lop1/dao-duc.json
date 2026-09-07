@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 92
+  "integrations": 98
  },
  "lessons": [
   {
@@ -138,6 +138,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh Khám phá của bài “Em giữ trang phục gọn gàng, sạch sẽ” và thêm vài ảnh thật: áo bỏ trong quần"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác sắp các bước mặc áo và chỉnh trang phục theo đúng thứ tự: mặc áo, cài cúc từ dưới lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy do cô giáo bấm, HS chờ đến lượt được mời"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
@@ -162,17 +177,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim tình huống gia đình gắn với bài “GIA ĐÌNH CỦA EM”"
+     "text": "Sau khi hát bài “Cả nhà thương nhau”, GV chiếu phóng to tranh Khám phá của bài “Gia đình của em” và thêm vài ảnh cảnh gia đình"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại của mình gọi video cho một phụ huynh đã hẹn trước để cả lớp quan sát cách chào hỏi, hỏi thăm ông bà"
+     "text": "GV gõ lên màn hình những lời yêu thương mà HS muốn nói với người thân, thành bảng chung “Lời thương của lớp em”"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "HS chỉ gọi điện, gọi video cho người thân khi có người lớn ở bên; không nghe máy"
+     "text": "Lớp chỉ dùng ảnh chung do cô chuẩn bị"
     },
     {
      "code": "QPAN",
@@ -455,6 +470,21 @@
      "code": "QPAN",
      "level": "",
      "text": "GDQP an ninh"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Giữ trật tự trong trường, lớp”, GV chiếu clip ngắn cảnh xếp hàng vào lớp ngay ngắn và cảnh chen lấn xô đẩy do thầy cô"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu các tình huống trong lớp như bạn nói chuyện riêng, bạn chạy trong hành lang; HS chọn cách ứng xử phù hợp, máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Clip chỉ dựng lại tình huống, không quay bạn đang mắc lỗi để chiếu trước lớp"
     },
     {
      "code": "QPAN",
@@ -1342,7 +1372,7 @@
   "file": "assets/docs/lop1/Dao duc - Lop 1.docx",
   "name": "Dao duc - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45187,
+  "size": 45563,
   "updated": "2026-09-07"
  }
 }

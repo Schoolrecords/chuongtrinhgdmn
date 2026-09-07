@@ -406,17 +406,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng công cụ vẽ sơ đồ tư duy trên máy để sắp xếp các việc trong ngày hoặc các bước giải quyết một việc"
+     "text": "Ở chủ đề “Nếp sống và tư duy khoa học”, GV mở khung thời gian biểu trên máy chia theo buổi"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS ghi thời gian làm từng việc trong một ngày vào bảng, cộng lại theo nhóm việc (học, giúp việc nhà, vận động, xem màn hình)"
+     "text": "GV chiếu hai thời gian biểu: một cái cân đối, một cái dồn việc vào buổi tối và thiếu giờ ngủ; HS so sánh"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Tính cả thời gian xem điện thoại, ti vi, chơi trò chơi vào bảng theo dõi"
+     "text": "Thời gian biểu chỉ ghi việc học và sinh hoạt chung, không ghi chuyện riêng của gia đình"
     }
    ],
    "note": ""
@@ -484,19 +484,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng công cụ vẽ sơ đồ tư duy trên máy để sắp xếp các việc trong ngày hoặc các bước giải quyết một việc"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS ghi thời gian làm từng việc trong một ngày vào bảng, cộng lại theo nhóm việc (học, giúp việc nhà, vận động, xem màn hình)"
+     "text": "Ở chủ đề “Nếp sống và tư duy khoa học”, GV chiếu các câu đố và tình huống cần suy luận lên màn hình"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV gõ các cách giải mà từng nhóm nêu lên màn hình thành bảng chung, kể cả cách chưa đúng; cả lớp cùng nhìn bảng để so sánh"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Tính cả thời gian xem điện thoại, ti vi, chơi trò chơi vào bảng theo dõi"
+     "text": "Bảng chung ghi cách làm chứ không ghi tên bạn trả lời sai"
     }
    ],
    "note": ""
@@ -564,19 +564,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng công cụ vẽ sơ đồ tư duy trên máy để sắp xếp các việc trong ngày hoặc các bước giải quyết một việc"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS ghi thời gian làm từng việc trong một ngày vào bảng, cộng lại theo nhóm việc (học, giúp việc nhà, vận động, xem màn hình)"
+     "text": "Ở chủ đề “Nếp sống và tư duy khoa học”, GV chiếu bảng ghi thời gian thật mà HS dùng cho từng việc trong ngày"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV gõ các cách tiết kiệm thời gian mà từng nhóm nêu lên màn hình thành bảng chung; cả lớp cùng đọc"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Tính cả thời gian xem điện thoại, ti vi, chơi trò chơi vào bảng theo dõi"
+     "text": "Bảng chung chỉ ghi việc học và sinh hoạt, không ghi chuyện riêng của gia đình"
     }
    ],
    "note": ""
@@ -724,19 +724,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS khảo sát thực trạng vệ sinh, cảnh quan trường lớp bằng phiếu quan sát và ảnh chụp"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm bản tin ảnh hoặc trang chiếu “Trường em xanh – sạch – đẹp” gồm ảnh trước và sau khi lớp ra tay dọn dẹp, trang trí"
+     "text": "Ở chủ đề “Yêu trường, mến lớp”, mỗi nhóm làm một trang giới thiệu góc đẹp của trường mình: chọn ảnh do thầy cô cung cấp hoặc tranh"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV gõ lên màn hình những việc HS nêu để giữ trường lớp đẹp hơn, thành bảng chung; cả lớp cùng đọc"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Xin phép trước khi chụp ảnh bạn và thầy cô"
+     "text": "Ảnh chỉ chụp cảnh trường, không chụp mặt bạn khi bạn chưa đồng ý"
     }
    ],
    "note": ""
@@ -806,17 +806,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS khảo sát thực trạng vệ sinh, cảnh quan trường lớp bằng phiếu quan sát và ảnh chụp"
+     "text": "Ở chủ đề “Yêu trường, mến lớp”, GV chiếu ảnh sân trường, hành lang, khu vệ sinh trước và sau khi được dọn dẹp"
     },
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm bản tin ảnh hoặc trang chiếu “Trường em xanh – sạch – đẹp” gồm ảnh trước và sau khi lớp ra tay dọn dẹp, trang trí"
+     "text": "Mỗi nhóm thiết kế một tấm biển nhắc nhở giữ vệ sinh: chọn hình, viết khẩu hiệu ngắn"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Xin phép trước khi chụp ảnh bạn và thầy cô"
+     "text": "Ảnh chỉ chụp cảnh trường, không chụp bạn đang lao động khi chưa hỏi ý kiến"
     }
    ],
    "note": ""
@@ -890,19 +890,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS khảo sát thực trạng vệ sinh, cảnh quan trường lớp bằng phiếu quan sát và ảnh chụp"
+     "text": "Ở hoạt động chia sẻ về bạn mình, GV gõ lên màn hình những điều tốt mà HS nói về bạn, thành bảng chung của lớp"
     },
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm bản tin ảnh hoặc trang chiếu “Trường em xanh – sạch – đẹp” gồm ảnh trước và sau khi lớp ra tay dọn dẹp, trang trí"
+     "text": "Mỗi nhóm làm một tấm thẻ giới thiệu bạn gồm một điểm mạnh, một sở thích và một lời chúc"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Xin phép trước khi chụp ảnh bạn và thầy cô"
+     "text": "Thẻ chỉ ghi điểm tốt và sở thích, không ghi khuyết điểm hay chuyện riêng của bạn"
     }
    ],
    "note": ""
@@ -1050,19 +1050,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng danh sách việc cần làm hoặc lịch trên máy tính, điện thoại của gia đình: đặt tên việc, đặt hạn hoàn thành"
+     "text": "Ở chủ đề “Tự lực thực hiện nhiệm vụ”, GV mở khung kế hoạch cá nhân trên máy gồm việc cần làm, thời gian, cách làm"
     },
     {
-     "code": "NLS-GT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS phân công công việc nhóm trên một bảng theo dõi chung, mỗi bạn tự cập nhật phần việc của mình để cả nhóm cùng biết tiến độ"
+     "text": "GV chiếu vài tình huống gặp khó khi tự làm nhiệm vụ như quên dụng cụ, làm mãi chưa xong; HS đề xuất cách xử lí"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Dùng thiết bị của gia đình phải xin phép; không cài ứng dụng lạ"
+     "text": "Kế hoạch chỉ ghi việc học và việc nhà vừa sức; việc dùng bếp, điện"
     }
    ],
    "note": ""
@@ -1138,17 +1138,17 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng danh sách việc cần làm hoặc lịch trên máy tính, điện thoại của gia đình: đặt tên việc, đặt hạn hoàn thành"
+     "text": "Ở chủ đề “Tự lực thực hiện nhiệm vụ”, GV chiếu bảng ghi các bước làm một nhiệm vụ gồm hiểu việc, chuẩn bị, làm, kiểm tra lại"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS phân công công việc nhóm trên một bảng theo dõi chung, mỗi bạn tự cập nhật phần việc của mình để cả nhóm cùng biết tiến độ"
+     "text": "GV gõ lên màn hình khó khăn mà từng nhóm gặp khi tự làm nhiệm vụ và cách khắc phục các bạn góp ý, thành bảng chung"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Dùng thiết bị của gia đình phải xin phép; không cài ứng dụng lạ"
+     "text": "Bảng chung chỉ ghi việc học và việc nhà vừa sức; việc dùng điện, bếp"
     }
    ],
    "note": ""
@@ -3444,7 +3444,7 @@
   "file": "assets/docs/lop4/Hoat dong trai nghiem - Lop 4.docx",
   "name": "Hoat dong trai nghiem - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 50426,
+  "size": 51367,
   "updated": "2026-09-07"
  }
 }

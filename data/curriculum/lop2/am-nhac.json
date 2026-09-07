@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 42
+  "integrations": 45
  },
  "lessons": [
   {
@@ -212,6 +212,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề “Em yêu làn điệu dân ca”, GV mở bản thu bài Con chim chích choè và một hai làn điệu dân ca quen thuộc cho"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Sau khi các nhóm biểu diễn, GV quay lại tiết mục rồi chiếu cho cả lớp cùng xem"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, bản quay chỉ mở trong lớp rồi xoá"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1076,7 +1091,7 @@
   "file": "assets/docs/lop2/Am nhac - Lop 2.docx",
   "name": "Am nhac - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43275,
+  "size": 43418,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 30
+  "integrations": 33
  },
  "lessons": [
   {
@@ -217,6 +217,21 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Yêu lao động”, GV chiếu bộ ảnh người lao động ở nhiều nghề và ảnh HS làm việc vừa sức như trực nhật, tưới cây"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV gõ lên màn hình những việc HS kể thành bảng hai cột việc ở nhà và việc ở trường; cả lớp cùng đọc"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chọn việc vừa sức, có người lớn hướng dẫn khi dùng dụng cụ"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1012,7 +1027,7 @@
   "file": "assets/docs/lop4/Dao duc - Lop 4.docx",
   "name": "Dao duc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43319,
+  "size": 43485,
   "updated": "2026-09-07"
  }
 }

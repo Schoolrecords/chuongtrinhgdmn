@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 163,
-  "integrations": 426
+  "integrations": 456
  },
  "lessons": [
   {
@@ -567,7 +567,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Mùa hè lấp lánh”, GV chiếu đoạn thơ phóng to và bấm tô màu các chữ dễ viết sai cùng những tiếng có"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt ch với tr và v với d, GV mở bài tập tương tác chọn chữ đúng điền vào chỗ trống; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -726,7 +742,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Đi học vui sao”, GV chiếu đoạn thơ phóng to và bấm tô màu những tiếng có s"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt s với x và dấu hỏi với dấu ngã, GV mở bài tập tương tác chọn chữ và dấu thanh đúng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -864,7 +896,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết đoạn trong bài “Lời giải toán đặc biệt”, GV chiếu đoạn văn phóng to và bấm tô màu các tiếng có r, d"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt r với d, gi và an với ang, GV mở bài tập tương tác chọn chữ và vần đúng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1019,6 +1067,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Nghe thầy đọc thơ”, GV chiếu đoạn thơ phóng to và bấm tô màu các tiếng bắt đầu bằng l"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt l với n và ăn với ăng, GV mở bài tập tương tác chọn chữ, chọn vần đúng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1178,7 +1241,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Thư viện”, GV chiếu đoạn văn phóng to và bấm tô màu các tiếng có ch, tr cùng những tiếng vần ân, âng"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt ch với tr và ân với âng, GV mở bài tập tương tác chọn chữ, chọn vần đúng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1235,17 +1314,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở tiết “NGÀY EM VÀO ĐỘI – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+     "text": "Ở tiết mở rộng vốn từ về thư viện, GV chiếu ảnh góc thư viện trường mình có chú thích tên các khu như giá sách, bàn đọc"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+     "text": "GV mở bài tập tương tác chọn câu cảm trong nhóm câu cho trước và điền dấu chấm than vào cuối câu; máy báo đúng"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+     "text": "Ảnh thư viện chỉ chụp giá sách, bàn đọc, không chụp mặt bạn đang đọc sách"
     }
    ],
    "note": ""
@@ -1265,19 +1344,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Ở tiết “NGÀY EM VÀO ĐỘI – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+     "text": "Ở tiết viết thông báo, GV chiếu một mẫu thông báo của thư viện trường và bấm tô màu từng phần: tên thông báo, nội dung, thời gian"
     },
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+     "text": "GV chiếu hai bản thông báo, một bản đủ ý và một bản thiếu thời gian, địa điểm; HS so sánh"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+     "text": "Thông báo của lớp chỉ ghi việc chung như lịch đọc sách, quyên góp sách"
     }
    ],
    "note": ""
@@ -1364,7 +1443,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Đồ đạc trong nhà”, GV chiếu đoạn thơ phóng to và bấm tô màu các tiếng có vần iêu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt iêu với ươu và en với eng, GV mở bài tập tương tác chọn vần đúng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1382,19 +1477,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Bài “MÓN QUÀ ĐẶC BIỆT” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+     "text": "Trước bài đọc “Món quà đặc biệt”, GV chiếu tranh minh hoạ phóng to để HS đoán món quà trong bài; sang phần viết"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Vài HS lên viết thử chữ hoa G, H trên bảng tương tác cho cả lớp nhận xét độ cao, độ rộng và khoảng cách"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+     "text": "Chỉ HS được mời mới lên chạm màn hình, tay sạch và khô, chạm nhẹ không tì mạnh"
     }
    ],
    "note": ""
@@ -1414,19 +1509,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Bài “MÓN QUÀ ĐẶC BIỆT” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+     "text": "Ở tiết luyện từ và câu, GV chiếu từng cặp ảnh đối nhau như cũ và mới, cao và thấp, sáng và tối rồi bấm chuyển qua lại"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn câu khiến trong nhóm câu cho trước và điền dấu câu phù hợp; máy báo đúng"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+     "text": "Khi đặt câu khiến với bạn, HS dùng lời lịch sự, có từ làm ơn, nhé"
     }
    ],
    "note": ""
@@ -1446,19 +1541,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Bài “MÓN QUÀ ĐẶC BIỆT” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+     "text": "Trước khi viết đoạn văn tả đồ vật, GV mở khung ba ô trên máy gồm đồ vật gì, hình dáng màu sắc ra sao"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+     "text": "GV chiếu ảnh phóng to một vài đồ vật quen thuộc rồi phóng to từng chi tiết như quai cặp, nắp bút, hoa văn trên hộp"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+     "text": "Ảnh dùng trong bài là ảnh đồ dùng học tập"
     },
     {
      "code": "KNS",
@@ -1518,7 +1613,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Khi cả nhà bé tí”, GV chiếu đoạn thơ phóng to và bấm tô màu các tiếng có vần iu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt iu với ưu và iên với iêng, GV mở bài tập tương tác chọn vần đúng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1677,7 +1788,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Kho sách của ông bà”, GV chiếu đoạn văn phóng to và bấm tô màu các tiếng có s"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt s với x và uôn với uông, GV mở bài tập tương tác chọn chữ, chọn vần đúng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1816,7 +1943,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Tôi yêu em tôi”, GV chiếu đoạn thơ phóng to và bấm tô màu các tiếng có r, d"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt r, d, gi và ươn với ương, GV mở bài tập tương tác chọn chữ, chọn vần đúng; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1961,6 +2104,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Những bậc đá chạm mây”, GV chiếu đoạn văn phóng to và bấm tô màu những chữ viết hoa cùng các tiếng dễ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Sau khi viết, GV chiếu đoạn văn mẫu cho HS soát lỗi theo từng câu; các em tự đánh dấu chỗ mình sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS ngồi tại chỗ soát bài"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -5155,7 +5313,7 @@
   "file": "assets/docs/lop3/Tieng Viet - Lop 3.docx",
   "name": "Tieng Viet - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 54571,
+  "size": 55840,
   "updated": "2026-09-07"
  }
 }

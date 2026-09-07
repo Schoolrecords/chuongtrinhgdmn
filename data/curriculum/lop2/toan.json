@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 174,
-  "integrations": 167
+  "integrations": 191
  },
  "lessons": [
   {
@@ -342,6 +342,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài phép cộng qua 10 trong phạm vi 20, GV chiếu khung mười ô phóng to: bấm cho 9 chấm tròn hiện ra rồi thêm 5 chấm"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV gõ phép tính 9 cộng 5 cho công cụ trí tuệ nhân tạo và chiếu câu trả lời của máy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy do cô giáo gõ, HS chỉ xem và không nhập tên hay ảnh của mình vào máy"
+    },
+    {
      "code": "STEM",
      "level": "",
      "text": "Thanh cộng trong phạm vi 20 (Toán – Mĩ thuật) — dạy thay cho tiết này."
@@ -427,6 +442,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Bảng cộng qua 10”, GV chiếu bảng cộng trên màn hình rồi bấm hiện dần từng dòng theo thứ tự HS nêu; nhìn bảng lớn"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở trò chơi luyện bảng cộng có tự chấm: mỗi em trả lời rồi nhìn máy báo đúng, sai ngay để biết phép nào mình còn chậm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi do cô bấm, HS chờ đến lượt được mời lên chạm màn hình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -516,17 +546,17 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu trò chơi tách - gộp trên máy: khi cộng qua 10, các chấm tròn tự tách ra cho đủ chục rồi gộp phần còn lại"
+     "text": "Ở tiết luyện tập chung, GV chiếu bộ câu hỏi có tự chấm gồm điền số, tính nhẩm và bài toán thêm, bớt"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Sau mỗi vòng chơi, GV chiếu bảng đếm số câu đúng của từng tổ theo dạng bài (cộng qua 10, trừ qua 10, tìm số còn thiếu)"
+     "text": "GV chiếu phóng to bài toán có lời văn, dùng bút màu gạch chân số liệu và từ khoá thêm, còn lại"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Bảng đếm điểm chỉ ghi theo tổ, không nêu tên HS làm sai để không bạn nào ngại"
+     "text": "Màn hình do cô bấm, HS ngồi tại chỗ giơ bảng con, không tranh nhau lên bảng"
     }
    ],
    "note": ""
@@ -560,7 +590,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài phép trừ qua 10 trong phạm vi 20, GV chiếu khung mười ô phóng to: bấm cho 11 chấm tròn hiện ra rồi bớt dần"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác cho HS kéo chấm tròn để thực hiện phép trừ rồi chọn kết quả; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -641,6 +687,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Bảng trừ qua 10”, GV chiếu bảng trừ trên màn hình rồi bấm hiện dần từng dòng theo thứ tự HS nêu; nhìn bảng lớn"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở trò chơi luyện bảng trừ có tự chấm: mỗi em trả lời rồi nhìn máy báo đúng, sai ngay để biết phép nào mình còn chậm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi do cô bấm, HS chờ đến lượt được mời lên chạm màn hình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -954,17 +1015,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng đặt tính dọc trên máy: khi cộng đủ 10 ở hàng đơn vị thì ô nhớ tự sáng lên và số 1 chạy sang"
+     "text": "Ở tiết luyện tập chung về ki-lô-gam và lít, GV chiếu ảnh phóng to mặt cân đồng hồ và ca đong có vạch chia"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu các phép tính đặt sai (quên nhớ, viết lệch cột) và cho HS tìm lỗi; GV bấm sửa theo lời HS"
+     "text": "GV mở bài tập tương tác chọn số đo phù hợp cho từng đồ vật và tính phép cộng, trừ có đơn vị kg, l; máy báo đúng"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Mô phỏng chỉ để hiểu chỗ nhớ; khi làm bài HS vẫn phải tự đặt tính thẳng cột"
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
     }
    ],
    "note": ""
@@ -982,7 +1043,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài phép cộng có nhớ số có hai chữ số với số có một chữ số"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác đặt tính rồi tính, máy báo đúng, sai ngay và chỉ ra chỗ viết lệch cột"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô mở, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1030,7 +1107,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở bài cộng có nhớ số có hai chữ số với số có hai chữ số, GV mở bài tập tương tác đặt tính rồi tính"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá tất cả, cả hai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -1096,19 +1189,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng đặt tính dọc trên máy: khi cộng đủ 10 ở hàng đơn vị thì ô nhớ tự sáng lên và số 1 chạy sang"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu các phép tính đặt sai (quên nhớ, viết lệch cột) và cho HS tìm lỗi; GV bấm sửa theo lời HS"
+     "text": "Ở tiết luyện tập chung về phép cộng có nhớ, GV mở bộ bài tập tương tác có chấm tự động; sau mỗi câu máy báo đúng"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá tất cả, cả hai"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Mô phỏng chỉ để hiểu chỗ nhớ; khi làm bài HS vẫn phải tự đặt tính thẳng cột"
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
     }
    ],
    "note": ""
@@ -1142,7 +1235,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài phép trừ có nhớ số có hai chữ số cho số có một chữ số"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác đặt tính rồi tính, máy báo đúng, sai ngay và chỉ chỗ sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -1206,7 +1315,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở bài trừ có nhớ số có hai chữ số cho số có hai chữ số, GV mở bài tập tương tác đặt tính rồi tính"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá còn lại, ít hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -1288,19 +1413,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng đặt tính dọc trên máy: khi cộng đủ 10 ở hàng đơn vị thì ô nhớ tự sáng lên và số 1 chạy sang"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu các phép tính đặt sai (quên nhớ, viết lệch cột) và cho HS tìm lỗi; GV bấm sửa theo lời HS"
+     "text": "Ở tiết luyện tập chung về phép trừ có nhớ, GV mở bộ bài tập tương tác có chấm tự động; sau mỗi câu máy báo đúng"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá còn lại, ít hơn"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Mô phỏng chỉ để hiểu chỗ nhớ; khi làm bài HS vẫn phải tự đặt tính thẳng cột"
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
     }
    ],
    "note": ""
@@ -3966,7 +4091,7 @@
   "file": "assets/docs/lop2/Toan - Lop 2.docx",
   "name": "Toan - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 51590,
+  "size": 52466,
   "updated": "2026-09-07"
  }
 }

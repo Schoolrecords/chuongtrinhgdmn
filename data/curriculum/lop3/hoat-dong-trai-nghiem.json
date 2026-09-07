@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 106
+  "integrations": 112
  },
  "lessons": [
   {
@@ -328,19 +328,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Sau khi HS lập thời gian biểu trên giấy, GV mở đồng hồ hẹn giờ trên điện thoại chiếu lên màn hình và cho cả lớp thử: hẹn"
+     "text": "Ở hoạt động “Thời gian biểu của em”, GV mở sẵn khung thời gian biểu trên máy chia theo buổi sáng, chiều, tối"
     },
     {
-     "code": "NLS-KT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV giới thiệu cuốn sổ nhắc việc có hai dạng: sổ giấy và mục nhắc việc trên điện thoại của bố mẹ. GV thao tác mẫu"
+     "text": "GV chiếu hai thời gian biểu mẫu, một cái xếp hợp lí và một cái dồn hết việc vào buổi tối; HS so sánh"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Điện thoại giúp hẹn giờ, nhắc việc nhưng cũng là thứ lấy mất nhiều thời gian nhất: HS"
+     "text": "Thời gian biểu chỉ ghi việc học và sinh hoạt"
     }
    ],
    "note": ""
@@ -469,17 +469,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ba đoạn quảng cáo đồ chơi, đồ dùng học tập dành cho trẻ em rồi hỏi: quảng cáo hứa điều gì"
+     "text": "Ở chủ đề “Ứng xử với đồ cũ”, GV chiếu ảnh những đồ dùng cũ được sửa"
     },
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV nêu tình huống trong ứng dụng, trò chơi trên điện thoại thường hiện nút mời mua đồ, mời bấm để nhận quà"
+     "text": "Sau khi mỗi nhóm làm một sản phẩm từ đồ cũ, GV chụp ảnh và chiếu thành trang trưng bày của lớp"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Tuyệt đối không tự bấm nút mua hàng, nạp thẻ"
+     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS; khi làm đồ tái sử dụng"
     }
    ],
    "note": ""
@@ -607,19 +607,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ba mẩu tin nhắn giữa các bạn trong lớp: một tin nhắn rủ bạn cùng học, một tin nhắn chê bai bạn"
+     "text": "Ở chủ đề “Lớp học của em”, HS vẽ hoặc làm mô hình góc trang trí lớp"
     },
     {
-     "code": "NLS-AT",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV nêu tình huống có bạn bị cả nhóm bỏ ra ngoài nhóm nhắn tin của lớp. HS thảo luận: bạn ấy sẽ thấy thế nào"
+     "text": "GV chiếu bảng phân công việc trang trí lớp và gõ tên nhóm nhận từng việc"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Không lập nhóm để nói xấu hay bỏ rơi một bạn"
+     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS; khi trang trí lớp"
     }
    ],
    "note": ""
@@ -741,19 +741,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn cả lớp làm một tấm thiệp số chúc mừng thầy cô: GV mở khung thiệp trên phần mềm trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tư liệu về gương sáng Đội lấy từ trang chính thức của Đội Thiếu niên Tiền phong Hồ Chí Minh: ảnh"
+     "text": "Ở chủ đề “Phấn đấu trở thành đội viên”, GV chiếu ảnh lễ kết nạp đội viên của trường, hình khăn quàng"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV gõ lên màn hình những việc HS sẽ làm để phấn đấu, thành bảng chung theo từng tiêu chuẩn; cả lớp cùng đọc lại"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh lớp, ảnh thầy cô đưa vào thiệp chỉ dùng trong lớp và chỉ gửi khi mọi người"
+     "text": "Ảnh lễ kết nạp chỉ dùng ảnh nhà trường cho phép"
     }
    ],
    "note": ""
@@ -873,7 +873,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề “Tự sắp xếp đồ dùng ngăn nắp”, GV chiếu cặp ảnh một góc học tập bừa bộn và một góc được phân loại theo nhóm"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "HS sắp xếp lại cặp sách hoặc ngăn bàn, GV chụp ảnh trước và sau rồi chiếu lên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ chụp cặp sách, ngăn bàn, không chụp mặt HS"
+    }
+   ],
    "note": ""
   },
   {
@@ -927,7 +943,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề “Góc học tập đáng yêu”, HS vẽ hoặc làm mô hình góc học tập mơ ước"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu vài ảnh góc học tập có ánh sáng tốt và góc thiếu sáng, bàn ghế đúng và sai tầm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS; khi kê lại bàn ghế ở nhà"
+    }
+   ],
    "note": ""
   },
   {
@@ -2553,7 +2585,7 @@
   "file": "assets/docs/lop3/Hoat dong trai nghiem - Lop 3.docx",
   "name": "Hoat dong trai nghiem - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 49289,
+  "size": 49867,
   "updated": "2026-09-07"
  }
 }

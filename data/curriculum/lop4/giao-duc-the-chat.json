@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 121
+  "integrations": 130
  },
  "lessons": [
   {
@@ -300,6 +300,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu video mẫu động tác chân với vòng của chủ đề Bài tập thể dục"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV quay một lượt tập của từng tổ rồi chiếu lại; HS tự chấm theo ba tiêu chí chiếu sẵn là đúng nhịp, đủ biên độ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV báo trước khi quay, clip chỉ mở trong giờ học rồi xoá, không đăng lên mạng"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
@@ -359,6 +374,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu video mẫu động tác toàn thân với vòng, cho chạy chậm và dừng hình ở nhịp gập thân"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV quay một lượt tập của từng tổ rồi chiếu lại; HS tự chấm theo tiêu chí chiếu sẵn là đúng trình tự, đủ biên độ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV báo trước khi quay, clip chỉ mở trong giờ rồi xoá, không đăng lên mạng"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
@@ -380,6 +410,21 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu video mẫu động tác nhảy và động tác điều hoà với vòng, cho chạy chậm và dừng hình ở nhịp bật nhảy, nhịp thả lỏng"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV quay một lượt tập của từng tổ rồi chiếu lại; HS tự chấm theo tiêu chí chiếu sẵn là bật đúng nhịp, tiếp đất êm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV báo trước khi quay, clip chỉ mở trong giờ rồi xoá, không đăng lên mạng"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2066,7 +2111,7 @@
   "file": "assets/docs/lop4/Giao duc the chat - Lop 4.docx",
   "name": "Giao duc the chat - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45499,
+  "size": 45723,
   "updated": "2026-09-07"
  }
 }

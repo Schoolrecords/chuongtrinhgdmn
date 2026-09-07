@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 246
+  "integrations": 252
  },
  "lessons": [
   {
@@ -482,7 +482,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Ở chủ đề những vấn đề nảy sinh giữa bạn bè, GV chiếu các tình huống thường gặp gồm cả hiểu lầm khi nhắn tin"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu quy trình bốn bước xử lí mâu thuẫn: bình tĩnh, nghe bạn nói, nói cảm nhận của mình, cùng tìm cách"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi nhắn tin hay bình luận, các em không nói lời xúc phạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -623,6 +639,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động lập kế hoạch “Cùng làm nên kỉ niệm”, GV mở khung kế hoạch trên máy gồm tên hoạt động, thời gian, người phụ trách"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng phân công theo nhóm để các em tự nhận việc và ghi tên vào đúng ô; nhìn bảng chung"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản kế hoạch chỉ ghi việc của lớp, không ghi số điện thoại hay địa chỉ của ai"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3288,7 +3319,7 @@
   "file": "assets/docs/lop5/Hoat dong trai nghiem - Lop 5.docx",
   "name": "Hoat dong trai nghiem - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47552,
+  "size": 47874,
   "updated": "2026-09-07"
  }
 }

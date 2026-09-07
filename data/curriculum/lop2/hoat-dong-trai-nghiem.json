@@ -265,17 +265,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim quay cận cảnh và chiếu chậm các bước làm sản phẩm thủ công của chủ đề (gấp, đan, làm mặt nạ"
+     "text": "Ở chủ đề “Tay khéo, tay đảm”, GV chiếu đoạn phim quay cận cảnh và chiếu chậm một vài việc nhà vừa sức như gấp áo, quét nhà"
     },
     {
-     "code": "NLS-KT",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh về một làng nghề thủ công của địa phương và chỉ vị trí làng nghề đó trên bản đồ số"
+     "text": "Sau khi nghe chuyện “Cậu bé hậu đậu”, GV gõ lên màn hình các cách làm việc nhà cho khéo mà HS nêu, thành bảng chung của lớp"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "GV nhắc HS: xem phim hướng dẫn làm đồ thủ công trên mạng phải có người lớn ở"
+     "text": "Bảng chung chỉ ghi việc làm, không ghi chuyện riêng trong gia đình bạn; khi làm việc nhà"
     }
    ],
    "note": ""
@@ -391,19 +391,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS nhờ bố mẹ chụp giúp ảnh góc học tập ở nhà trước và sau khi tự sắp xếp lại rồi gửi tới GV"
+     "text": "Ở chủ đề “Góc học tập của em”, GV chiếu cặp ảnh một góc học tập bừa bộn và một góc gọn gàng, phóng to từng phần bàn"
     },
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Ở chủ đề quý trọng đồng tiền, GV chiếu bảng ghi chép tiền dựng sẵn trên máy; HS nêu các khoản đã tiêu"
+     "text": "HS vẽ hoặc xếp mô hình góc học tập mơ ước; GV chụp ảnh sản phẩm rồi chiếu thành bộ sưu tập của lớp để mỗi em giới"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh góc học tập là ảnh trong nhà: GV nhắc chỉ chụp bàn học"
+     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS"
     }
    ],
    "note": ""
@@ -461,19 +461,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS nhờ bố mẹ chụp giúp ảnh góc học tập ở nhà trước và sau khi tự sắp xếp lại rồi gửi tới GV"
+     "text": "Ở chủ đề “Gọn gàng, ngăn nắp”, GV chiếu cặp ảnh một ngăn bàn lộn xộn và một ngăn bàn được phân loại theo nhóm đồ dùng"
     },
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Ở chủ đề quý trọng đồng tiền, GV chiếu bảng ghi chép tiền dựng sẵn trên máy; HS nêu các khoản đã tiêu"
+     "text": "HS sắp xếp lại ngăn bàn hoặc cặp sách của mình, GV chụp ảnh trước và sau rồi chiếu lên màn hình"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh góc học tập là ảnh trong nhà: GV nhắc chỉ chụp bàn học"
+     "text": "GV chỉ chụp ngăn bàn, cặp sách, không chụp mặt HS"
     }
    ],
    "note": ""
@@ -617,19 +617,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV dựng trên máy một tấm thiệp điện tử hoặc trang “Lời cảm ơn thầy cô” chung của lớp và chiếu lên màn hình"
+     "text": "Ở chủ đề “Có bạn thật vui”, GV chiếu các đoạn phim tình huống ngắn về việc bạn bè cùng chơi, cùng làm việc nhóm"
     },
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV nêu tình huống hai bạn giận nhau vì một tin nhắn và cùng HS sửa lại câu nhắn cho tử tế"
+     "text": "GV gõ lên màn hình những việc HS kể mình đã cùng bạn làm được, thành bảng chung của lớp; cả lớp cùng đọc lại"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "GV nhắc HS: nếu bị bạn nói lời khó nghe trong nhóm trò chuyện của lớp hay của"
+     "text": "Bảng chung chỉ ghi việc làm cùng nhau, không ghi chuyện riêng khiến bạn ngại"
     }
    ],
    "note": ""
@@ -693,19 +693,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV dựng trên máy một tấm thiệp điện tử hoặc trang “Lời cảm ơn thầy cô” chung của lớp và chiếu lên màn hình"
+     "text": "Ở chủ đề tìm sự trợ giúp để giữ gìn tình bạn, GV chiếu các đoạn phim tình huống ngắn về mâu thuẫn giữa bạn bè và dừng"
     },
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV nêu tình huống hai bạn giận nhau vì một tin nhắn và cùng HS sửa lại câu nhắn cho tử tế"
+     "text": "GV gõ lên màn hình các cách giữ gìn tình bạn mà HS nêu, thành bảng chung của lớp; cả lớp cùng đọc lại"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "GV nhắc HS: nếu bị bạn nói lời khó nghe trong nhóm trò chuyện của lớp hay của"
+     "text": "Bảng chung chỉ ghi cách làm, không nêu tên bạn trong chuyện mâu thuẫn"
     }
    ],
    "note": ""
@@ -769,19 +769,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV dựng trên máy một tấm thiệp điện tử hoặc trang “Lời cảm ơn thầy cô” chung của lớp và chiếu lên màn hình"
+     "text": "Ở chủ đề “Trường học hạnh phúc”, GV chiếu ảnh các góc quen thuộc của trường như thư viện, sân chơi"
     },
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV nêu tình huống hai bạn giận nhau vì một tin nhắn và cùng HS sửa lại câu nhắn cho tử tế"
+     "text": "GV gõ lên màn hình những điều HS nói sẽ làm để lớp mình vui hơn, thành bảng chung của lớp; cả lớp cùng đọc lại"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "GV nhắc HS: nếu bị bạn nói lời khó nghe trong nhóm trò chuyện của lớp hay của"
+     "text": "Ảnh chỉ chụp cảnh trường, không chụp mặt bạn khi bạn chưa đồng ý"
     }
    ],
    "note": ""
@@ -920,19 +920,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu các tình huống nguy hiểm trong nhà (cháy, điện giật, người lạ gõ cửa) dưới dạng đoạn phim ngắn dừng giữa chừng cho HS chọn cách"
+     "text": "Ở chủ đề “Em tự làm lấy việc của mình”, GV chiếu bộ ảnh những việc HS lớp 2 tự làm được như gấp quần áo"
     },
     {
-     "code": "NLS-ST",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Ở chủ đề tự giác làm việc, GV cùng HS lập bảng việc cần làm trong ngày ngay trên máy"
+     "text": "GV gõ lên màn hình những việc HS hứa sẽ tự làm, thành bảng chung của lớp; cả lớp cùng đọc lại"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "GV nhắc HS: khi có cháy hay có người lạ gõ cửa thì việc đầu tiên là tự"
+     "text": "HS chọn việc vừa sức, việc dùng dao, bếp, ổ điện thì phải có người lớn"
     },
     {
      "code": "KNS",
@@ -991,17 +991,17 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu các tình huống nguy hiểm trong nhà (cháy, điện giật, người lạ gõ cửa) dưới dạng đoạn phim ngắn dừng giữa chừng cho HS chọn cách"
+     "text": "Ở chủ đề “Nghĩ nhanh, làm giỏi”, GV chiếu các tình huống cần xử lí nhanh như quên mang bút, làm rơi đồ của bạn, đến lớp muộn"
     },
     {
-     "code": "NLS-ST",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Ở chủ đề tự giác làm việc, GV cùng HS lập bảng việc cần làm trong ngày ngay trên máy"
+     "text": "GV gõ lên màn hình các cách xử lí mà từng nhóm nêu, thành bảng chung; cả lớp cùng đọc"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "GV nhắc HS: khi có cháy hay có người lạ gõ cửa thì việc đầu tiên là tự"
+     "text": "Bảng chung chỉ ghi cách làm, không nêu tên bạn mắc lỗi; khi chơi trò phản xạ nhanh"
     }
    ],
    "note": ""
@@ -2851,7 +2851,7 @@
   "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.docx",
   "name": "Hoat dong trai nghiem - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 49641,
+  "size": 50543,
   "updated": "2026-09-07"
  }
 }

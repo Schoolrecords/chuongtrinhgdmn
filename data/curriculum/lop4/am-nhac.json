@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 53
+  "integrations": 61
  },
  "lessons": [
   {
@@ -111,6 +111,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết Vận dụng – Sáng tạo tổng kết chủ đề “Âm thanh ngày mới”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Cả lớp xem lại bản quay và nhận xét theo ba tiêu chí chiếu sẵn trên màn hình: hát đúng giai điệu, gõ đệm đúng phách"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -224,14 +239,24 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết tổng kết chủ đề “Giai điệu quê hương”, GV mở bản thu các bài đã học và một vài trích đoạn dân ca cùng vùng miền"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm, vận động; GV quay lại rồi chiếu cho cả lớp xem"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, bản quay chỉ mở trong lớp rồi xoá"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -330,6 +355,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết tổng kết chủ đề “Thầy cô với chúng em”, GV mở bản thu các bài đã học trong chủ đề cho HS nghe đoán tên bài"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm và vận động; GV quay lại rồi chiếu cho cả lớp xem"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, bản quay chỉ mở trong lớp rồi xoá"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1137,7 +1177,7 @@
   "file": "assets/docs/lop4/Am nhac - Lop 4.docx",
   "name": "Am nhac - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43677,
+  "size": 43973,
   "updated": "2026-09-07"
  }
 }

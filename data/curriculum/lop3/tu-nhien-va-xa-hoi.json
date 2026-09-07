@@ -254,19 +254,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV cùng HS làm một tấm áp phích số giới thiệu hoạt động cộng đồng và truyền thống trường: GV mở sẵn khung trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu trang thông tin của trường hoặc của xã, phường và hướng dẫn HS đọc tìm hai chi tiết: trường thành lập năm nào"
+     "text": "Ở bài “Hoạt động kết nối với cộng đồng”, GV chiếu phóng to hình trong sách và thêm ảnh vài hoạt động có thật ở trường như quyên"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV gõ lên màn hình tên các hoạt động mà từng nhóm kể được, xếp thành bảng hai cột việc trường làm và việc em tham gia"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh có mặt bạn bè, thầy cô chỉ được dùng khi mọi người đồng ý"
+     "text": "Ảnh hoạt động chỉ dùng ảnh nhà trường cho phép"
     },
     {
      "code": "QPAN",
@@ -473,17 +473,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video quy trình thật: từ hạt lúa – gieo mạ – cấy – gặt – xay xát – hạt gạo"
+     "text": "Ở bài “Hoạt động sản xuất nông nghiệp”, GV chiếu bộ ảnh và clip ngắn về trồng lúa, trồng rau, nuôi gà, nuôi cá ở địa phương"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV cho HS sắp xếp lại thứ tự các bức ảnh chụp từng công đoạn (GV chiếu ảnh xáo trộn"
+     "text": "GV chiếu bảng hai cột sản phẩm và nơi làm ra, cho HS kéo mỗi sản phẩm về đúng cột; máy báo đúng"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Video, hình ảnh về nghề nghiệp phải lấy từ nguồn tin cậy vì trên mạng có nhiều clip"
+     "text": "Ảnh và clip do thầy cô chuẩn bị, không quay người dân khi chưa xin phép"
     },
     {
      "code": "QPAN",
@@ -1900,7 +1900,7 @@
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.docx",
   "name": "Tu nhien va Xa hoi - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45978,
+  "size": 46234,
   "updated": "2026-09-07"
  }
 }

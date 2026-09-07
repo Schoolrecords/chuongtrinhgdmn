@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 29
+  "integrations": 32
  },
  "lessons": [
   {
@@ -218,7 +218,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Vượt qua khó khăn”, GV chiếu một hai câu chuyện có thật về tấm gương vượt khó do thầy cô chọn từ nguồn tin cậy"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV gõ lên màn hình những khó khăn HS nêu cùng cách khắc phục mà các bạn góp ý, thành bảng hai cột"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng chung không ghi tên bạn gặp khó khăn nếu bạn không muốn"
+    }
+   ],
    "note": ""
   },
   {
@@ -1008,7 +1024,7 @@
   "file": "assets/docs/lop5/Dao duc - Lop 5.docx",
   "name": "Dao duc - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43352,
+  "size": 43535,
   "updated": "2026-09-07"
  }
 }

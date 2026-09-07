@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 145
+  "integrations": 214
  },
  "lessons": [
   {
@@ -401,6 +401,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài Unit 2 Our homes, GV chiếu ảnh các kiểu nhà ở và sơ đồ các phòng trong nhà"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài tập tương tác nghe chọn tranh và ghép từ chỉ phòng với đồ vật thường có trong phòng đó"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi nói về nhà mình, HS chỉ nói kiểu nhà và các phòng"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -444,6 +459,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần luyện nói bài Unit 2 Our homes, GV chiếu bảng khảo sát của lớp về kiểu nhà và phòng mà mỗi bạn thích nhất"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi nhóm làm một trang giới thiệu ngôi nhà mơ ước: chọn hoặc vẽ hình các phòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng khảo sát và trang giới thiệu chỉ dùng trong lớp"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -489,6 +519,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Vào bài Unit 3 My foreign friends, GV chiếu bản đồ thế giới và ảnh cờ một số nước kèm tệp ghi âm mẫu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài tập tương tác nối tên nước với lá cờ và điền từ còn thiếu vào câu hỏi bạn đến từ đâu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản đồ và ảnh do thầy cô mở, HS không tự tìm nội dung khác trên máy"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -532,6 +577,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài Unit 3 phần tả ngoại hình bạn bè, GV chiếu bộ tranh nhân vật lên màn hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài tập tương tác nghe rồi chọn đúng tranh nhân vật được tả"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ tả nhân vật trong tranh của bài học"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -577,6 +637,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần kĩ năng của bài Unit 3 My foreign friends, GV mở tệp ghi âm đoạn hội thoại tả tính cách bạn bè và chiếu tranh kèm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài tập tương tác nối từ chỉ tính cách với tình huống minh hoạ và điền từ còn thiếu vào câu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ tả tính cách nhân vật trong bài học; khi nói về bạn trong lớp"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -620,6 +695,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Vào bài Unit 4 Our free-time activities, GV chiếu bộ tranh hoạt động rảnh rỗi kèm tệp ghi âm mẫu; HS nghe rồi nối hoạt động với tranh"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng khảo sát hoạt động rảnh rỗi của lớp; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô đánh dấu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi kể hoạt động rảnh rỗi có dùng máy tính, điện thoại"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -665,6 +755,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần luyện tập bài Unit 4 Our free-time activities, GV mở bài tập tương tác nghe chọn tranh và ghép hoạt động rảnh rỗi với tần suất"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt hỏi đáp về hoạt động rảnh rỗi của vài cặp rồi mở cho cả lớp nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm và xoá ngay sau tiết học"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -708,6 +813,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần kĩ năng của bài Unit 4 Our free-time activities, GV mở tệp ghi âm đoạn hội thoại và chiếu tranh kèm từ khoá"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi nhóm làm một trang giới thiệu hoạt động rảnh rỗi của nhóm: chọn biểu tượng hoạt động, ghi tần suất và viết hai câu tiếng Anh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trang giới thiệu chỉ nói về hoạt động"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -753,6 +873,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Vào bài Unit 5 My future job, GV chiếu bộ tranh nghề nghiệp kèm tệp ghi âm mẫu; HS nghe rồi nối tên nghề với tranh"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng khảo sát nghề mơ ước của lớp; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô đánh dấu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng chỉ ghi nghề mơ ước, không ghi nghề nghiệp hay nơi làm việc của bố mẹ bạn"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -796,6 +931,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần luyện tập bài Unit 5 My future job, GV mở bài tập tương tác nghe chọn tranh và ghép nghề với việc người làm nghề đó"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV hỏi công cụ trí tuệ nhân tạo xem một nghề cần những kĩ năng gì rồi chiếu câu trả lời"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ thầy cô gõ và mở công cụ, HS không nhập tên hay thông tin cá nhân"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -841,6 +991,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần kĩ năng của bài Unit 5 My future job, GV mở bài tập tương tác nghe chọn tranh nghề nghiệp và điền từ còn thiếu vào"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi HS làm một tấm thẻ nghề mơ ước gồm tên nghề bằng tiếng Anh, một hình minh hoạ và hai câu nêu lí do"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thẻ chỉ ghi nghề mơ ước và lí do, không ghi thông tin riêng của gia đình"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -883,7 +1048,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết Review 1, GV mở bộ bài tập tương tác tổng hợp các chủ điểm đã học; sau mỗi câu máy báo đúng"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng tổng hợp từ vựng và mẫu câu theo từng chủ điểm, bấm sáng dần từng nhóm; HS nhìn bảng để ôn lại có hệ thống"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do thầy cô mở, HS làm đúng phần được giao"
+    }
+   ],
    "note": ""
   },
   {
@@ -915,7 +1096,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết hoạt động mở rộng, GV mở bộ bài tập tương tác ôn từ vựng về nghề nghiệp và nơi làm việc"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi nhóm làm một bảng ghép nghề với nơi làm việc bằng hình và từ khoá; các nhóm đổi bảng cho nhau chơi thử"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập và bảng ghép chỉ dùng nội dung bài học; không đưa tên"
+    }
+   ],
    "note": ""
   },
   {
@@ -932,6 +1129,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Vào bài Unit 6 Our school rooms, GV chiếu sơ đồ các tầng của trường có chú thích phòng bằng tiếng Anh kèm tệp ghi âm"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng hai cột tên phòng và tầng; từng cặp HS hỏi đáp bằng tiếng Anh xem phòng nào ở tầng nào rồi đọc để thầy cô"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Sơ đồ và bảng chỉ dùng trong lớp học; khi đi tham quan các phòng chức năng"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -977,6 +1189,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở bài Unit 6 phần luyện tập, GV mở bài tập tương tác nghe chọn tranh và ghép câu hỏi với câu trả lời về vị trí các"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt hỏi đáp chỉ đường trong trường của vài cặp rồi mở cho cả lớp nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm và xoá ngay sau tiết học"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -1020,6 +1247,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần kĩ năng của bài Unit 6 Our school rooms, GV chiếu tranh kèm từ khoá và mở tệp ghi âm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài tập tương tác nghe chọn tranh và điền từ chỉ vị trí còn thiếu; máy chấm ngay nên HS nhận ra mình còn nhầm tầng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do thầy cô mở, HS làm đúng phần được giao"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1065,6 +1307,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Vào bài Unit 7 về hoạt động yêu thích ở trường, GV chiếu bộ tranh hoạt động kèm tệp ghi âm mẫu"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng khảo sát hoạt động yêu thích của lớp; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô đánh dấu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng khảo sát chỉ ghi hoạt động ở trường, không ghi thông tin riêng của bạn"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -1108,6 +1365,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài Unit 7 về hoạt động yêu thích, GV mở bài hát của bài học trên màn hình cho cả lớp hát theo"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài tập tương tác nghe chọn tranh và ghép câu hỏi lí do với câu trả lời"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng chung chỉ ghi hoạt động ở trường, không ghi thông tin riêng của bạn"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1153,6 +1425,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần kĩ năng của bài Unit 7, GV chiếu tranh kèm từ khoá và mở tệp ghi âm đoạn hội thoại"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi nhóm làm một trang giới thiệu hoạt động yêu thích ở trường: chọn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình dùng trong trang giới thiệu do thầy cô cung cấp hoặc HS tự vẽ"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -1196,6 +1483,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Vào bài Unit 8 In our classroom, GV chiếu ảnh lớp học có chú thích đồ vật bằng tiếng Anh kèm tệp ghi âm"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng liệt kê đồ dùng trong lớp; từng cặp HS hỏi đáp bằng tiếng Anh xem lớp mình có gì"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chỉ chụp đồ vật trong lớp, không chụp mặt bạn"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1241,6 +1543,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở bài Unit 8 phần hỏi vị trí đồ vật, GV mở bài tập tương tác nghe chọn tranh và kéo đồ vật về đúng vị trí theo"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt hỏi đáp về vị trí đồ vật của vài cặp rồi mở cho cả lớp nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm và xoá ngay sau tiết học"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -1285,6 +1602,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần kĩ năng của bài Unit 8 In our classroom, GV chiếu tranh lớp học kèm từ khoá và mở tệp ghi âm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài tập tương tác nghe rồi kéo đồ vật về đúng vị trí và điền từ chỉ vị trí còn thiếu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do thầy cô mở, HS làm đúng phần được giao"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -1328,6 +1660,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Vào bài Unit 9 Our outdoor activities, GV chiếu bộ tranh hoạt động ngoài trời và tên địa điểm kèm tệp ghi âm mẫu"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng khảo sát hoạt động ngoài trời mà lớp thích; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô đánh dấu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng chỉ ghi hoạt động và nơi công cộng quen thuộc, không ghi địa chỉ nhà bạn"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3380,7 +3727,7 @@
   "file": "assets/docs/lop5/Tieng Anh - Lop 5.docx",
   "name": "Tieng Anh - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45118,
+  "size": 47368,
   "updated": "2026-09-07"
  }
 }
