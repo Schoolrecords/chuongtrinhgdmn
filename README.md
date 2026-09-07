@@ -114,9 +114,24 @@ giáo viên sẽ thấy ba bản khác nhau của cùng một kế hoạch:
 | Ứng dụng Bút Xanh (**NGUỒN GỐC DUY NHẤT** từ 7/9/2026) | `../../web/khgd-lop*.js` | sửa trong app / nhập Excel; mọi khối đã chuyển thì KHÔNG dùng `sync-butxanh.py` nữa |
 | Bản nội bộ của trường | `website/` | **sinh từ app**: `python ../../_khgd-app-to-web.py --lop N` (JSON + Word đính kèm + build cả hai website); `docx-to-json.py` chỉ còn dùng để nhập lần đầu kế hoạch riêng của trường khác |
 | Bản dùng chung | `web-chung/` | **không sửa tay**, `_khgd-app-to-web.py` đã chạy `node tools/build-public.mjs` |
-
-Khối đã chuyển sang chiều app → web: **lớp 1 (7/9/2026)**. Các khối còn lại chuyển dần khi rà theo mục lục SGV.
 | Ứng dụng Bút Xanh – giao diện | `../../web/index.html` | sửa tay; phần KHDH ở `buildKHGDPhuLuc2` (bảng QUY ƯỚC MÃ, mục I căn cứ) |
+
+Đã chuyển sang chiều app → web (không dùng `sync-butxanh.py` nữa):
+
+| Phạm vi | Ngày | Căn cứ rà soát |
+| --- | --- | --- |
+| **Lớp 1** – cả khối | 7/9/2026 | mục lục SGV |
+| **Giáo dục thể chất lớp 2, 3, 4, 5** | 7/9/2026 | SGV, bảng "Gợi ý kế hoạch dạy học" đầu mỗi chủ đề |
+| **Công nghệ lớp 5**, **Tiếng Anh lớp 4** | 7/9/2026 | SGV (Công nghệ: bảng phân phối; Tiếng Anh: Starter chia theo Period) |
+
+Các khối, môn còn lại chuyển dần khi rà theo mục lục SGV.
+
+**Khung số tiết môn Giáo dục thể chất** (giống nhau ở cả lớp 1–5, đã đối chiếu SGV ngày 7/9/2026):
+Chủ đề 1 *Đội hình đội ngũ* 14 tiết + Chủ đề 2 *Bài tập thể dục* 7 + Chủ đề 3 *Tư thế và kĩ năng vận
+động cơ bản* 24 + Thể thao tự chọn (Bóng rổ) 18 = **63 tiết**; 7 tiết còn lại dành cho kiến thức chung,
+ôn tập, kiểm tra, dự phòng (70 tiết/năm). Số tiết từng bài chép ở
+`../Mục lục SGV KNTT/So tiet tung bai theo SGV.md`. Khi rà, **gom theo cặp (chủ đề, bài)** — mỗi chủ đề
+đều có Bài 1, Bài 2 nên gom theo số bài sẽ cộng dồn sai.
 
 Bút Xanh giữ dữ liệu KHDH riêng (`window.BX_KHGD_L1`…`L4`, `window.BX_KHGD_RAW` + `window.TV5_KHGD`
 cho lớp 5) và tự sinh tệp Word Phụ lục 2, nên bảng quy ước mã, danh mục căn cứ và các nội dung tích
