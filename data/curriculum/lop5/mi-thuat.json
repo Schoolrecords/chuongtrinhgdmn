@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 14
+  "integrations": 28
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu hình SGK và ảnh tác phẩm, để HS chỉ chấm, nét, hình, khối, màu; HS gõ từ khoá tìm trong kho ảnh GV chỉ định"
+     "text": "GV chiếu hình minh hoạ trong SGK Mĩ thuật 5 và ảnh tác phẩm cho chủ đề “Yếu tố tạo hình trong thực hành"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS lập phiếu tư liệu trên máy hoặc giấy gồm ba hình đã chọn, ghi yếu tố tạo hình, nguồn ảnh; GV chiếu vài phiếu"
+     "text": "HS lập phiếu tư liệu trên máy hoặc trên giấy gồm ba hình đã chọn, mỗi hình ghi yếu tố tạo hình nổi bật nhất"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Chỉ tìm trong trang GV chỉ định, không tải tệp không rõ nguồn."
+     "text": "Chỉ tìm trong các trang GV đã chỉ định, không tự vào trang lạ"
     }
    ],
    "note": ""
@@ -62,23 +62,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu các bước làm sản phẩm, HS dùng ứng dụng vẽ trên máy tính phác nhanh hai, ba phương án bố cục"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS chiếu các phương án bố cục lên màn hình, chọn một và nói vì sao bỏ phương án còn lại dựa vào hình, khối, màu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lưu bản phác vào thư mục tên mình, không sửa bài bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -94,23 +78,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu các mảnh cắt từ tranh và phóng to từng mảng để HS gọi tên yếu tố tạo hình nổi bật là chấm, nét"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Hoàn thành sản phẩm, HS chụp ảnh bài của mình, viết một câu nêu ý tưởng và yếu tố tạo hình đã dùng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ chụp sản phẩm, không chụp mặt bạn; ảnh lưu trong máy của lớp"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -143,6 +111,21 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS tìm hiểu về một anh hùng dân tộc qua tư liệu số ở trang của bảo tàng và thư viện tỉnh: tượng đài, tranh chân dung"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS ghi vào phiếu tên nhân vật, chi tiết tạo hình đặc trưng và tên hai nguồn đã đối chiếu."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin lịch sử phải lấy từ bảo tàng"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -212,7 +195,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS xem bộ tranh đề tài gia đình của các hoạ sĩ Việt Nam trên bảo tàng số"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS ghi lại một cách sắp xếp nhân vật mình muốn học hỏi cùng tên bức tranh và tên hoạ sĩ."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tranh của hoạ sĩ thuộc bản quyền của tác giả và nơi lưu giữ"
+    }
+   ],
    "note": ""
   },
   {
@@ -276,7 +275,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS xem lại kho ảnh và clip các hoạt động của trường trong năm như hội khoẻ, văn nghệ, lao động, câu lạc bộ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS chọn một hoạt động, liệt kê các nhân vật và đồ vật cần có rồi phác sơ đồ bố cục trước khi vẽ."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Kho ảnh của trường chỉ dùng trong nhà trường"
+    }
+   ],
    "note": ""
   },
   {
@@ -356,7 +371,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS tìm trên báo dành cho thiếu nhi và trang của cơ quan nhà nước những câu chuyện về việc làm tử tế của người bình thường"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS ghi vào phiếu câu chuyện, nhân vật, nguồn tin và chi tiết nào có thể chuyển thành hình ảnh trong tranh."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trên mạng có nhiều câu chuyện cảm động được dựng lên hoặc do máy viết ra để câu"
+    }
+   ],
    "note": ""
   },
   {
@@ -421,6 +452,21 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS dùng bản đồ số và ảnh toàn cảnh xem lại một vùng của quê mình từ nhiều góc, nhận ra lớp cảnh gần"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS ghi vào phiếu tư liệu ba lớp cảnh mình sẽ đưa vào tranh và nguồn của ảnh tham khảo."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ tra cứu trong ứng dụng bản đồ GV chỉ định"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -492,6 +538,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS tìm tư liệu về trang phục, lễ hội, kiến trúc của một vùng miền trên trang của bảo tàng và cổng thông tin địa phương"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS lập phiếu tư liệu ghi tên vùng miền, dân tộc, chi tiết đặc trưng và nguồn của từng thông tin."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trang phục và hoa văn của mỗi dân tộc gắn với văn hoá của cộng đồng ấy nên"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
@@ -560,7 +621,23 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS xem các tác phẩm mĩ thuật Việt Nam và thế giới về đề tài hoà bình như chim bồ câu, vòng tay, cánh đồng, trẻ em"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS chọn một biểu tượng, ghi lại ý nghĩa của nó và tên tác phẩm đã dùng biểu tượng ấy."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Biểu tượng hoà bình được nhiều tác giả sử dụng nên HS học cách dùng biểu tượng chứ"
+    }
+   ],
    "note": ""
   },
   {
@@ -641,11 +718,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "quan sát tranh/ảnh số; lưu ảnh sản phẩm mĩ thuật để chia sẻ trong lớp."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -928,7 +1000,7 @@
   "file": "assets/docs/lop5/Mi thuat - Lop 5.docx",
   "name": "Mi thuat - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42400,
+  "size": 43000,
   "updated": "2026-09-07"
  }
 }

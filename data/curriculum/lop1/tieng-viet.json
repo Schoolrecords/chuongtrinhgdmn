@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 178,
-  "integrations": 68
+  "integrations": 74
  },
  "lessons": [
   {
@@ -47,6 +47,21 @@
      "text": "Clip quay HS chỉ dùng trong lớp rồi xoá, không đăng lên mạng"
     },
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh SGK trang 9 – 11 của bài “Làm quen với tư thế đọc, viết, nói"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài tập tương tác: lần lượt hiện hình các bạn ngồi học, HS giơ thẻ mặt cười hoặc mặt buồn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ngồi sai tư thế và nhìn màn hình quá gần"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN ứng xử: thể hiện sự quan tâm, lễ phép, biết nói lời cảm ơn và xin lỗi đúng lúc."
@@ -71,17 +86,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to tranh SGK trang 9–11 và cặp ảnh tư thế ngồi đọc, viết đúng, sai; HS chỉ bạn ngồi đúng"
+     "text": "Ở hoạt động Khám phá của bài “LÀM QUEN VỚI CÁC NÉT CƠ BẢN, CÁC CHỮ SỐ, BẢNG CHỮ CÁI VÀ DẤU THANH”"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bài tập tương tác hình các bạn ngồi học, HS giơ thẻ mặt cười, mặt buồn; GV chụp ảnh tư thế vài HS chiếu lên"
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác trên máy chiếu: các nét, chữ số và dấu thanh lẫn lộn"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Nhìn màn hình quá gần, quá lâu gây cong lưng, mỏi mắt; nghỉ mắt định kì."
+     "text": "HS xem hình động vừa đủ, GV tắt máy chiếu khi HS tô, viết để bảo vệ mắt"
     },
     {
      "code": "KNS",
@@ -348,23 +363,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng ôn chữ a, b, c, e, ê và dấu thanh cho HS ghép, đọc; chiếu tranh “Búp bê và dế mèn” kèm ghi âm"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV quay bằng điện thoại một, hai HS kể một đoạn theo tranh, mở lại cho cả lớp nghe, nhận ra chỗ nói nhỏ, nói vấp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đoạn quay chỉ xem lại rồi xoá ngay; hỏi ý HS trước khi quay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -508,23 +507,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bốn tranh truyện “Đàn kiến con ngoan ngoãn” theo đúng thứ tự và mở bản ghi lời kể từng đoạn"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV quay lại một, hai lượt HS kể từng đoạn truyện rồi mở cho cả lớp cùng nghe; các em tự nhận ra chỗ kể nhỏ, kể vấp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi quay, không quay bạn đang bối rối"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -908,13 +891,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "nghe bản đọc mẫu với âm lượng vừa phải; ngồi đúng tư thế khi nhìn màn hình."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1666,7 +1643,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu mẫu chữ viết động cho tiết “LUYỆN VIẾT NÂNG CAO”: nét chữ hiện ra theo đúng thứ tự đưa bút"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chụp ảnh vài bài viết đẹp và một bài còn sai độ cao, độ rộng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh bài viết chiếu lên đã được che tên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1954,7 +1947,23 @@
    "periods": 3,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu mẫu chữ viết động cho tiết “LUYỆN VIẾT CÁC CHỮ HOA”: nét chữ hiện ra theo đúng thứ tự đưa bút"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chụp ảnh vài bài viết đẹp và một bài còn sai độ cao, độ rộng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh bài viết chiếu lên đã được che tên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1986,13 +1995,7 @@
    "periods": 4,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2040,7 +2043,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV dùng trò chơi học liệu tương tác trên máy chiếu để ôn lại đúng các âm, vần"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài đọc phóng to và dùng con trỏ chỉ theo từng tiếng khi cả lớp đọc đồng thanh, giúp HS lớp 1 không bị mất dòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi trên màn hình do GV bấm; HS chờ đến lượt được mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -2072,7 +2091,23 @@
    "periods": 4,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh minh hoạ bài “SINH NHẬT CỦA VOI CON” phóng to và mở bản đọc mẫu có ghi âm để HS nghe đúng giọng đọc"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS đóng vai nhân vật nói lại lời thoại trong bài, quay một lượt bằng điện thoại rồi mở cho cả lớp nghe để cùng nhận"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đoạn quay chỉ để cả lớp xem lại rồi xoá ngay"
+    }
+   ],
    "note": ""
   },
   {
@@ -2121,11 +2156,6 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2179,7 +2209,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV dùng trò chơi học liệu tương tác trên máy chiếu để ôn lại đúng các âm, vần"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài đọc phóng to và dùng con trỏ chỉ theo từng tiếng khi cả lớp đọc đồng thanh, giúp HS lớp 1 không bị mất dòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi trên màn hình do GV bấm; HS chờ đến lượt được mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -2281,13 +2327,7 @@
    "periods": 4,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2415,7 +2455,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV dùng trò chơi học liệu tương tác trên máy chiếu để ôn lại đúng các âm, vần"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài đọc phóng to và dùng con trỏ chỉ theo từng tiếng khi cả lớp đọc đồng thanh, giúp HS lớp 1 không bị mất dòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi trên màn hình do GV bấm; HS chờ đến lượt được mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -2431,13 +2487,7 @@
    "periods": 4,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2565,13 +2615,7 @@
    "periods": 4,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2700,11 +2744,6 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2838,13 +2877,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3005,11 +3038,6 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Quan sát tranh/ảnh minh hoạ (vật thật hoặc hình ảnh số) để hiểu nội dung bài đọc (GV hướng dẫn)."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -3506,7 +3534,7 @@
   "file": "assets/docs/lop1/Tieng Viet - Lop 1.docx",
   "name": "Tieng Viet - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48936,
+  "size": 49110,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 17
+  "integrations": 25
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu “Chim sơn ca” trên tivi, HS nghe trọn bài rồi nghe từng câu và hát theo, xin mở lại câu còn chênh"
+     "text": "GV mở bản thu mẫu bài hát “Chim sơn ca” trên tivi của lớp, cho HS nghe trọn bài để nắm giai điệu vui tươi"
     },
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Mỗi tổ dùng điện thoại GV thu âm một lượt hát vỗ tay theo phách, nghe lại trên loa, tự sửa rồi thu lần hai"
+     "text": "Sau khi hát cả bài kết hợp vỗ tay theo phách, mỗi tổ dùng điện thoại GV thu âm một lượt trình bày"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Bản thu lấy từ học liệu bộ sách; bản thu của tổ chỉ dùng trong giờ."
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -62,23 +62,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bản nhạc “Chim sơn ca”, tô sáng vạch nhịp, ô nhịp, phách mạnh, nhẹ khi bản thu phát; HS tự chỉ vạch nhịp trên SGK"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS làm bài tương tác trên máy GV: nghe tiết tấu rồi chọn phách mạnh, nhẹ; kéo vạch nhịp chia câu nhạc; máy báo sai thì làm lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở học liệu GV chuẩn bị; làm hết bài mới xem đáp án."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -94,23 +78,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV dùng đàn phím điện tử hoặc phần mềm đàn phím lấy cao độ chuẩn cho “Bài số 1”: nghe mẫu từng nốt"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS luyện “Bài số 1” bằng phần mềm đọc nhạc có chấm ngay: máy phát nốt, HS đọc lại, máy báo đúng hay còn cao hơn, thấp hơn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở phần mềm đàn phím và phần mềm đọc nhạc GV đã chỉ định"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -144,9 +112,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản thu mẫu bài “Lí đất giồng” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi tác giả “Dân ca Nam Bộ”"
+    },
+    {
      "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Lí đất giồng” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     },
     {
      "code": "QPAN",
@@ -217,13 +195,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -239,7 +211,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản thu mẫu bài “Bay vào tương lai” từ học liệu điện tử của bộ sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Bay vào tương lai” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+    }
+   ],
    "note": ""
   },
   {
@@ -287,13 +275,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -309,7 +291,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản thu mẫu bài “Duyên dáng mùa xuân” từ học liệu điện tử của bộ sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Duyên dáng mùa xuân” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+    }
+   ],
    "note": ""
   },
   {
@@ -391,9 +389,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản thu mẫu bài “Em đi giữa biển vàng” từ học liệu điện tử của bộ sách"
+    },
+    {
      "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Em đi giữa biển vàng” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -461,9 +469,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản thu mẫu bài “Tuổi hồng ơi” từ học liệu điện tử của bộ sách"
+    },
+    {
      "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Tuổi hồng ơi” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -547,9 +565,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản thu mẫu bài “Đất nước tươi đẹp sao” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi tác giả “Nhạc Ma-lai-xi-a”"
+    },
+    {
      "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Đất nước tươi đẹp sao” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -599,13 +627,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "nghe mẫu âm thanh/video biểu diễn; ghi âm/nghe lại sản phẩm học tập khi phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -621,7 +643,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản thu mẫu bài “Khúc ca hè về” từ học liệu điện tử của bộ sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Khúc ca hè về” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+    }
+   ],
    "note": ""
   },
   {
@@ -946,7 +984,7 @@
   "file": "assets/docs/lop5/Am nhac - Lop 5.docx",
   "name": "Am nhac - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42832,
+  "size": 42710,
   "updated": "2026-09-07"
  }
 }

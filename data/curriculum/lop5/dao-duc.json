@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 28
+  "integrations": 29
  },
  "lessons": [
   {
@@ -67,23 +67,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết 2 bài “Biết ơn những người có công với quê hương, đất nước”, GV chiếu câu đố về nhân vật lịch sử trên tivi"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Nhóm ghi lại hai nội dung: vì sao cần biết ơn và việc làm thể hiện lòng biết ơn, trình bày bằng sơ đồ trên giấy"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng ảnh, thông tin nhân vật từ SGK và học liệu GV đưa"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -104,21 +88,6 @@
      "code": "GDĐP",
      "level": "",
      "text": "GD địa phương"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Biết ơn những người có công với quê hương, đất nước”, GV chiếu tư liệu về một số người có công ở địa phương cùng ảnh"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Khi xử lí các tình huống bày tỏ thái độ, GV gõ ý kiến của từng nhóm lên màn hình thành hai cột đồng tình và không đồng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về người có công phải lấy từ nguồn nhà trường"
     }
    ],
    "note": ""
@@ -160,14 +129,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu các tình huống ứng xử trên mạng gắn với “Tôn trọng sự khác biệt của người khác”: bình luận chê bai ngoại hình bạn"
     },
     {
-     "code": "NLS-GT",
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: mạng xã hội dùng trí tuệ nhân tạo để đẩy những nội dung gây tranh cãi lên trước vì thu hút nhiều người xem"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+     "text": "Nghĩ trước khi gõ — điều không dám nói trực tiếp thì không viết lên mạng"
     },
     {
      "code": "KNS",
@@ -308,7 +282,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu các tình huống ứng xử trên mạng gắn với “Bảo vệ cái đúng, cái tốt”: bình luận chê bai ngoại hình bạn"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: mạng xã hội dùng trí tuệ nhân tạo để đẩy những nội dung gây tranh cãi lên trước vì thu hút nhiều người xem"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nghĩ trước khi gõ — điều không dám nói trực tiếp thì không viết lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -362,7 +352,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS làm một sản phẩm số tuyên truyền cho “Bảo vệ môi trường sồng”: áp phích"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS tra cứu ở nguồn GV chỉ định một số liệu về rác thải nhựa hoặc cây xanh của địa phương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép trước khi đưa hình ảnh người khác vào sản phẩm"
+    }
+   ],
    "note": ""
   },
   {
@@ -378,18 +384,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -455,14 +450,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS dùng ứng dụng lịch hoặc danh sách việc cần làm trên máy để lập “Lập kế hoạch cá nhân”: đặt việc"
     },
     {
-     "code": "NLS-GT",
+     "code": "NLS-AT",
      "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+     "text": "Đặt giới hạn thời gian dùng thiết bị và nghỉ mắt sau mỗi 20 phút"
     },
     {
      "code": "KNS",
@@ -533,7 +528,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "Bài “Phòng, tránh xâm hại” gắn trực tiếp với an toàn trên mạng: GV cho HS phân tích các tình huống người lạ kết bạn rồi tỏ ra"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: kẻ xấu có thể dùng ảnh và giọng nói giả do trí tuệ nhân tạo tạo ra để giả làm người quen"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không kết bạn với người lạ trên mạng; không gửi ảnh riêng tư cho bất kì ai"
+    }
+   ],
    "note": ""
   },
   {
@@ -550,16 +561,6 @@
    "lessonPeriods": 5,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -647,14 +648,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS nhận diện các hình thức tiêu tiền trên môi trường số liên quan “Sử dụng tiền hợp lý”: mua hàng qua mạng"
     },
     {
-     "code": "NLS-GT",
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: quảng cáo trên mạng được trí tuệ nhân tạo chọn riêng cho từng người nên rất trúng ý, khiến ta dễ muốn mua ngay"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "thảo luận tình huống số phù hợp; rèn ứng xử an toàn, tôn trọng, có trách nhiệm."
+     "text": "Không tự ý nạp tiền trong trò chơi"
     },
     {
      "code": "KNS",
@@ -1002,7 +1008,7 @@
   "file": "assets/docs/lop5/Dao duc - Lop 5.docx",
   "name": "Dao duc - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42936,
+  "size": 43352,
   "updated": "2026-09-07"
  }
 }

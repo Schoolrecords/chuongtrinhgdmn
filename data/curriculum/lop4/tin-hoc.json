@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 46
+  "integrations": 54
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS chỉ trên máy tính phần cứng: thân máy, màn hình, bàn phím, chuột; xử lí tình huống bạn Phúc không nghe tiếng: kiểm tra tai nghe, loa"
+     "text": "GV cho HS chỉ trên máy tính lớp đâu là phần cứng như thân máy, màn hình, bàn phím, chuột"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS quan sát ảnh thiết bị trên máy chiếu, phân loại phần cứng, phần mềm; GV mở thông tin hệ thống để HS đọc tên máy, bộ nhớ"
+     "text": "HS quan sát ảnh các thiết bị trên máy chiếu, phân loại vào hai cột phần cứng và phần mềm, ghép cột A với cột B"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Không tháo, cắm rút dây khi máy đang bật; không tự cài, xoá phần mềm."
+     "text": "Không tháo, không cắm rút dây thiết bị khi máy đang bật"
     }
    ],
    "note": ""
@@ -62,28 +62,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2, TT 02: 5.1.CB2a",
-     "text": "HS chơi trò mê cung trên máy tính bằng phím mũi tên, chuột; nhóm thám tử nhận phiếu sự cố, xác định lỗi phần cứng hay phần mềm"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 4.C2.1",
-     "text": "GV thao tác trên máy chiếu việc máy làm nhờ"
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "đọc chính tả thành chữ, dịch câu; HS đọc lại kết quả máy, tìm chỗ sai, sửa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Dùng máy theo giờ cha mẹ cho phép; mắt cách màn hình 50 cm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -131,13 +110,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "4.3.CB2a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số (Tư thế, thói quen gõ phím)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -157,12 +130,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
+     "text": "GV mở một trang web dành cho thiếu nhi, chỉ cho HS các thành phần: ô địa chỉ, tiêu đề trang, khối văn bản, hình ảnh, liên kết"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "1.2.CB2a: Phát hiện được độ tin cậy và độ chính xác của các nguồn chung của dữ liệu, thông tin và nội dung số."
+     "text": "HS tập đọc địa chỉ trang để đoán trang đó của ai (báo dành cho thiếu nhi, trường học, cơ quan nhà nước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không bấm vào quảng cáo, cửa sổ tự hiện lên hay nút “tải về” lạ"
     }
    ],
    "note": ""
@@ -180,18 +158,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "1.2.CB2a: Phát hiện được độ tin cậy và độ chính xác của các nguồn chung của dữ liệu, thông tin và nội dung số."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -211,12 +178,22 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
+     "text": "GV hướng dẫn HS chọn từ khoá ngắn, đúng trọng tâm cho một câu hỏi cụ thể; HS gõ từ khoá"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "1.1.CB2d: Xác định được các chiến lược tìm kiếm đơn giản."
+     "text": "HS đối chiếu thông tin tìm được ở ít nhất hai trang và với SGK"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV chỉ cho HS thấy phần trả lời tóm tắt do máy tự sinh đặt ở đầu trang kết quả"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ tìm kiếm với từ khoá phục vụ bài học; không tải tệp lạ về máy"
     }
    ],
    "note": ""
@@ -234,18 +211,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "1.1.CB2d: Xác định được các chiến lược tìm kiếm đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -263,9 +229,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "1.3.CB2a: Tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+     "text": "GV hướng dẫn HS tạo thư mục riêng mang tên mình, đặt tên tệp dễ hiểu, sao chép – di chuyển – đổi tên – xoá tệp"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS tự nghĩ một cách sắp xếp thư mục (theo môn học hoặc theo tháng) và giải thích vì sao cách đó giúp mình tìm bài nhanh hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ thao tác trong thư mục của mình, không mở, không sửa"
     }
    ],
    "note": ""
@@ -283,13 +259,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "1.3.CB2a: Tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -307,14 +277,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "4.1.CB2c: Tuân theo được các biện pháp an toàn và bảo mật đơn giản (Liên quan đến bản quyền và sử dụng hợp pháp)."
+     "text": "GV cho HS quan sát cửa sổ giấy phép hiện ra khi cài một phần mềm, chỉ chỗ ghi phần mềm dùng miễn phí hay phải mua"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV nêu công sức của người viết phần mềm, người vẽ tranh, người viết truyện"
     },
     {
      "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "4.4.CB2c: Nhận biết được bản quyền đối với các nội dung và dữ liệu số."
+     "level": "",
+     "text": "Chỉ dùng phần mềm được thầy cô, cha mẹ cho phép"
     }
    ],
    "note": ""
@@ -336,7 +311,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+     "text": "GV hướng dẫn HS thực hiện “Tạo bài trình chiếu”: mở phần mềm, thêm trang chiếu, nhập tiêu đề và nội dung ngắn gọn, chèn ảnh minh hoạ"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS trình chiếu bài của mình cho nhóm xem, nghe bạn góp ý xem chữ có dễ đọc không, ảnh có đúng nội dung không"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng ảnh do mình chụp, mình vẽ hoặc ảnh được phép dùng và ghi rõ nguồn"
     },
     {
      "code": "STEM",
@@ -359,13 +344,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -385,7 +364,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+     "text": "GV cho HS so sánh hai trang chiếu cùng nội dung: một trang chữ nhỏ, nhiều màu loè loẹt và một trang chữ to, màu tương phản rõ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS định dạng lại bài trình chiếu của mình: chỉnh cỡ chữ tiêu đề và nội dung, chọn màu chữ nổi trên nền, căn lề cho thẳng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không chép nguyên đoạn văn của người khác vào trang chiếu rồi nhận là của mình"
     }
    ],
    "note": ""
@@ -403,13 +392,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -429,7 +412,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản."
+     "text": "GV hướng dẫn HS đặt hiệu ứng chuyển trang cho bài trình chiếu và chỉnh thời gian chuyển"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS trình bày bài hoàn chỉnh trước lớp, tập nói theo trang chiếu chứ không đọc nguyên chữ trên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hiệu ứng chỉ là phần phụ, nội dung mới là chính — không lạm dụng hiệu ứng nhấp"
     }
    ],
    "note": ""
@@ -479,13 +472,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -505,7 +492,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+     "text": "GV hướng dẫn HS mở phần mềm soạn thảo, gõ một đoạn văn ngắn của mình, đặt tên tệp và lưu vào thư mục riêng"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS gõ đúng quy tắc trình bày tiếng Việt: viết hoa đầu câu, một dấu cách sau dấu chấm và dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết phải do chính HS nghĩ và gõ ra; chỉ lưu bài vào thư mục của mình"
     }
    ],
    "note": ""
@@ -523,13 +520,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -549,7 +540,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản."
+     "text": "GV hướng dẫn HS chỉnh sửa văn bản: chọn khối chữ, xoá, chèn thêm, sao chép, di chuyển đoạn, huỷ thao tác vừa làm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS dùng chức năng gợi ý lỗi chính tả của phần mềm để soát lại bài; GV lưu ý máy chỉ báo chỗ nghi ngờ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉnh sửa trên bài của chính mình, không mở và sửa bài của bạn"
     }
    ],
    "note": ""
@@ -567,13 +568,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -593,7 +588,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "3.2.CB2a: Chọn được các cách sửa đổi, tinh chỉnh, cải thiện và tích hợp các mục đơn giản có nội dung và thông tin mới để tạo ra những nội dung và thông tin mới và độc đáo."
+     "text": "GV hướng dẫn HS đặt tay đúng hàng phím cơ sở và gõ bằng mười ngón; HS gõ một đoạn ngắn cho sẵn"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS dùng phần mềm luyện gõ có chấm điểm để biết tốc độ và số lỗi sau mỗi lần luyện"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ngồi đúng tư thế, cổ tay thẳng, không tì mạnh"
     }
    ],
    "note": ""
@@ -611,13 +616,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.2.CB2a: Chọn được các cách sửa đổi, tinh chỉnh, cải thiện và tích hợp các mục đơn giản có nội dung và thông tin mới để tạo ra những nội dung và thông tin mới và độc đáo."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -637,7 +636,17 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "5.2.CB2b: Nhận ra được các công cụ số đơn giản và các giải pháp công nghệ có thể có để giải quyết những nhu cầu đó (giải trí lành mạnh)."
+     "text": "GV chọn phần mềm trò chơi mang tính học tập (xếp hình, luyện gõ, giải đố, tìm đường)"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS thoả thuận với bạn luật chơi và thứ tự lượt khi dùng chung một máy; giữ thái độ vui vẻ khi thắng, bình tĩnh khi thua"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đặt giới hạn thời gian chơi và dừng đúng giờ"
     }
    ],
    "note": ""
@@ -655,13 +664,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "5.2.CB2b: Nhận ra được các công cụ số đơn giản và các giải pháp công nghệ có thể có để giải quyết những nhu cầu đó (giải trí lành mạnh)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -679,9 +682,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+     "text": "GV giới thiệu màn hình phần mềm lập trình trực quan: khu vực khối lệnh, khu vực ghép lệnh, sân khấu và nhân vật"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS thử đổi thứ tự các khối lệnh rồi chạy lại để thấy máy làm đúng theo thứ tự mình xếp — sai ở đâu sửa ở đó"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở phần mềm và dự án GV chỉ định; lưu dự án vào thư mục của mình"
     }
    ],
    "note": ""
@@ -699,13 +712,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -725,7 +732,22 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+     "text": "HS diễn tả một ý tưởng của mình thành chương trình cho “Tạo chương trình máy tính để diễn tả ý tưởng”: chọn nhân vật, phông nền"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Khi chương trình chạy chưa đúng, HS chia nhỏ để tìm lỗi: chạy từng phần, kiểm tra thứ tự lệnh, đổi giá trị thời gian và bước đi"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS giới thiệu chương trình của mình trước lớp, nghe bạn góp ý và ghi lại một điều mình sẽ cải tiến ở lần sau."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ý tưởng và lời thoại trong chương trình phải do HS tự nghĩ; nhân vật"
     }
    ],
    "note": ""
@@ -743,13 +765,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -767,14 +783,29 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Bài học STEM."
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS diễn tả một ý tưởng của mình thành chương trình cho “Chương trình của em”: chọn nhân vật, phông nền"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Khi chương trình chạy chưa đúng, HS chia nhỏ để tìm lỗi: chạy từng phần, kiểm tra thứ tự lệnh, đổi giá trị thời gian và bước đi"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS giới thiệu chương trình của mình trước lớp, nghe bạn góp ý và ghi lại một điều mình sẽ cải tiến ở lần sau."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ý tưởng và lời thoại trong chương trình phải do HS tự nghĩ; nhân vật"
     }
    ],
    "note": ""
@@ -793,11 +824,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -1112,7 +1138,7 @@
   "file": "assets/docs/lop4/Tin hoc - Lop 4.docx",
   "name": "Tin hoc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43368,
+  "size": 44592,
   "updated": "2026-09-07"
  }
 }

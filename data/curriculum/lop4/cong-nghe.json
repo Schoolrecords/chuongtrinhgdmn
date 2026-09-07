@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 25
+  "integrations": 41
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2, TT 02: 1.1.CB2a, 1.1.CB2b",
-     "text": "HS nêu từ khoá, GV gõ tìm trên máy chiếu, mở video, ảnh hoa, cây cảnh ở nhà, lớp, công viên; HS nêu lợi ích"
+     "text": "Khi dạy “Lợi ích của hoa và cây cảnh”, GV hỏi cần tìm thông tin gì để biết hoa, cây cảnh có ích thế nào"
     },
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS chụp ảnh chậu hoa, cây cảnh ở lớp bằng điện thoại; GV ghép thành bộ sưu tập, nhóm 4 chọn một ảnh, đề xuất trang trí"
+     "text": "HS chụp ảnh chậu hoa, cây cảnh ở lớp hoặc sân trường bằng điện thoại GV; GV ghép các ảnh thành bộ sưu tập trên máy chiếu"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Xin phép trước khi chụp trong nhà người khác; không hái hoa để chụp."
+     "text": "Xin phép trước khi chụp ảnh trong nhà người khác hoặc chụp có mặt người khác"
     }
    ],
    "note": ""
@@ -62,23 +62,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video sản phẩm làm từ hoa, cây cảnh và hình cây làm sạch không khí; HS ghi tên cây, nêu lợi ích"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Nhóm 4 chọn một cây làm sạch không khí, ghi bảng nhóm tên cây, cách chăm sóc; GV chụp bảng nhóm chiếu lên tivi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp trong nhà người khác; không hái hoa để chụp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -94,23 +78,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh và đoạn phim ngắn về không gian có hoa, cây cảnh ở công viên, trường học, văn phòng, đường phố"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp ảnh các chậu hoa, cây cảnh ở trường và ở nhà, ghép thành một bộ ảnh “Góc xanh quanh em” kèm chú thích ngắn về ích"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh trong nhà người khác hoặc chụp có mặt người khác"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -126,7 +94,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS chụp ảnh một cây trong sân trường rồi dùng ứng dụng nhận diện cây để máy đoán tên"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS tra cứu tên gọi, đặc điểm và cách nhận biết một loài hoa hoặc cây cảnh phổ biến ở địa phương từ nguồn GV chỉ định"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Kết quả nhận diện của ứng dụng chỉ để tham khảo, phải đối chiếu SGK và hỏi GV"
+    }
+   ],
    "note": ""
   },
   {
@@ -229,6 +213,21 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu đoạn phim tua nhanh cảnh hạt nứt vỏ, ra rễ, nhú mầm và vươn lên khỏi mặt đất — quá trình kéo dài nhiều ngày được"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS chụp ảnh chậu gieo hạt của mình mỗi ngày vào cùng một giờ, ghép thành chuỗi ảnh và bảng theo dõi ngày nảy mầm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng điện thoại để chụp cây theo nhiệm vụ được giao, chụp xong cất ngay"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -336,7 +335,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Điều chỉnh: dành 1 tiết thực hành, ôn tập để Bài 6 học liền mạch đầu học kì II",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu ảnh cận cảnh các dấu hiệu cây cần chăm sóc: lá vàng, lá héo, đất khô nứt, sâu ăn lá"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS lập bảng theo dõi chăm sóc trên máy hoặc trên giấy: ngày tưới, lượng nước, ngày bón phân, tình trạng cây"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không làm theo mẹo dùng thuốc, hoá chất chăm cây thấy trên mạng khi chưa hỏi GV và"
+    }
+   ],
    "note": ""
   },
   {
@@ -422,7 +437,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu ảnh phóng to từng chi tiết và đoạn phim hướng dẫn lắp “Giới thiệu bộ lắp ghép mô hình kĩ thuật” theo từng bước"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS chụp ảnh sản phẩm ở từng công đoạn, ghép thành bản báo cáo quy trình; nếu mô hình chưa cân"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Cẩn thận với các chi tiết nhỏ, ốc vít và tua vít"
+    }
+   ],
    "note": ""
   },
   {
@@ -465,7 +496,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu ảnh phóng to từng chi tiết và đoạn phim hướng dẫn lắp “Lắp ghép mô hình bập bênh” theo từng bước; HS được tua chậm"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS chụp ảnh sản phẩm ở từng công đoạn, ghép thành bản báo cáo quy trình; nếu mô hình chưa cân"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Cẩn thận với các chi tiết nhỏ, ốc vít và tua vít"
+    }
+   ],
    "note": ""
   },
   {
@@ -508,7 +555,28 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu phim ngắn về rô-bốt thật đang làm việc trong nhà máy, bệnh viện, kho hàng"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: rô-bốt làm được việc là nhờ chương trình do con người viết và nhờ trí tuệ nhân tạo giúp nó nhận biết vật xung quanh"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS lắp mô hình rô-bốt, chụp ảnh sản phẩm và viết vài câu giới thiệu rô-bốt của nhóm mình làm được việc gì nếu có động cơ."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Cẩn thận với chi tiết nhỏ và dụng cụ khi lắp; không tự đấu nối pin"
+    }
+   ],
    "note": ""
   },
   {
@@ -567,7 +635,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu phim tư liệu về các trò chơi và đồ chơi dân gian ở nhiều vùng miền: tò he, đèn ông sao, chong chóng, con giống bột"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS quay một đoạn phim ngắn hoặc chụp chuỗi ảnh hướng dẫn cách làm món đồ chơi dân gian của nhóm mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép trước khi quay phim, chụp ảnh người khác; phim và ảnh chỉ dùng trong trường"
+    }
+   ],
    "note": ""
   },
   {
@@ -989,7 +1073,7 @@
   "file": "assets/docs/lop4/Cong nghe - Lop 4.docx",
   "name": "Cong nghe - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42503,
+  "size": 43369,
   "updated": "2026-09-07"
  }
 }

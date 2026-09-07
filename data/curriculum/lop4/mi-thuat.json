@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 47
+  "integrations": 44
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh mảng chạm khắc gỗ, tượng tròn ở đình làng, chi tiết rồng, người, hoa lá có chú thích tên đình; HS nêu cảm nhận"
+     "text": "GV chiếu ảnh chụp mảng chạm khắc gỗ và tượng tròn ở đình làng lên máy chiếu, phóng to chi tiết hình rồng, người"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS xem phim ngắn giới thiệu một ngôi đình trên tivi, ghi phiếu tên đình, nơi có đình, hình chạm khắc; chọn một hình cho tiết sau"
+     "text": "HS xem thêm đoạn phim ngắn giới thiệu một ngôi đình trên tivi, ghi vào phiếu tên đình, nơi có đình"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh di sản lấy từ bảo tàng, cơ quan văn hoá, ghi rõ nguồn."
+     "text": "Ảnh tư liệu di sản phải lấy từ trang của bảo tàng"
     }
    ],
    "note": ""
@@ -62,23 +62,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh từng bước làm sản phẩm SGK: phác hình, tạo mảng nổi bằng đất nặn, tỉa chi tiết; thao tác mẫu được quay, chiếu lại chậm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS lập bảng các bước làm sản phẩm theo mẫu trên màn hình, ghi chất liệu, bước khó; GV chụp bản phác vài HS chiếu lên"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip mở đúng đường dẫn GV cấp; không dùng dao, đục sắc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -94,23 +78,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh chụp các bức chạm khắc đình làng Việt Nam ở nhiều góc và phóng to chi tiết mảng chạm nổi"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Hoàn thành sản phẩm, mỗi nhóm chụp ảnh tác phẩm ở hai góc và viết một câu chú thích ngắn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ chụp sản phẩm, không chụp mặt bạn; ảnh và trang trưng bày lưu trong máy của lớp"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -127,11 +95,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -157,7 +120,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+     "text": "GV mở bộ sưu tập số tranh Đông Hồ, Hàng Trống trên trang của bảo tàng"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS so sánh một bức Đông Hồ với một bức Hàng Trống và ghi vào phiếu hai điểm khác nhau về màu và về nét."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tranh dân gian là di sản và mỗi bản chụp đều thuộc về nơi lưu giữ"
     }
    ],
    "note": ""
@@ -191,13 +164,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -214,11 +181,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -244,7 +206,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+     "text": "HS dùng bản đồ số và ảnh toàn cảnh để xem lại một địa danh ở quê mình từ trên cao và từ mặt đất"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS chọn một địa danh, thu thập hai đến ba ảnh và ghi lại nguồn từng ảnh vào phiếu tư liệu."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ tra cứu trong ứng dụng bản đồ và trang tư liệu GV chỉ định"
     },
     {
      "code": "QPAN",
@@ -291,11 +263,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
@@ -318,14 +285,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -347,7 +314,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+     "text": "GV chiếu loạt ảnh chụp người lao động đang làm việc: bác nông dân, cô lao công, chú thợ xây, người bán hàng"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS chọn một ảnh, mô tả dáng người và đoán người trong ảnh đang nghĩ gì, cảm thấy thế nào."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chụp người lao động do GV lấy từ nguồn tư liệu có ghi tác giả"
     }
    ],
    "note": ""
@@ -381,13 +358,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -404,11 +375,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -450,7 +416,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+     "text": "GV chiếu bộ ảnh kỉ niệm của lớp chụp trong năm học cùng vài ảnh tư liệu về các cách người ta lưu giữ kỉ niệm: album ảnh"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS chọn một bức ảnh kỉ niệm và chỉ ra nhân vật chính, bối cảnh và điều gì làm bức ảnh ấy đáng nhớ."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh kỉ niệm của lớp chỉ dùng trong lớp; trước khi đưa ảnh có mặt bạn vào bài"
     }
    ],
    "note": ""
@@ -484,13 +460,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -507,11 +477,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -537,7 +502,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+     "text": "HS dùng thiết bị của lớp chụp lại các góc của trường: cổng, hành lang, sân sau, gốc cây"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS giải thích vì sao góc mình chọn là đẹp: có mảng chính, có đường dẫn mắt, có khoảng trống hợp lí."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đi chụp theo nhóm và theo lộ trình GV giao, không leo trèo"
     }
    ],
    "note": ""
@@ -571,13 +546,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -594,11 +563,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -624,7 +588,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+     "text": "HS xem bộ ảnh chụp cùng một địa điểm trước và sau khi bị rác thải xâm chiếm"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS ghi lại một số liệu mình thấy ấn tượng nhất cùng tên trang đã cung cấp số liệu đó để đưa vào tranh cổ động."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số liệu về môi trường phải lấy từ trang của cơ quan nhà nước hoặc tổ chức có"
     }
    ],
    "note": ""
@@ -658,13 +632,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -681,11 +649,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -711,7 +674,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+     "text": "HS xem bộ tranh và ảnh về cuộc sống làng quê ở các vùng miền"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS chọn hai tác phẩm khác vùng miền và ghi vào phiếu điểm giống nhau về cảm xúc, điểm khác nhau về cảnh vật."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi đưa ảnh tham khảo vào phiếu tư liệu, HS ghi tên tác giả và nơi lấy ảnh"
     },
     {
      "code": "QPAN",
@@ -758,11 +731,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
@@ -785,14 +753,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -830,7 +798,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+     "text": "HS cùng GV dựng một trang triển lãm số cuối năm chia theo tám chủ đề đã học, mỗi chủ đề chọn vài sản phẩm tiêu biểu"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS đóng vai người thuyết minh, giới thiệu một chủ đề trong triển lãm cho khách tham quan là các bạn lớp khác và cha mẹ."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Triển lãm ghi đủ tên tác giả cho từng sản phẩm và ghi nguồn cho mọi hình ảnh"
     },
     {
      "code": "KNS",
@@ -1114,7 +1092,7 @@
   "file": "assets/docs/lop4/Mi thuat - Lop 4.docx",
   "name": "Mi thuat - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42681,
+  "size": 43387,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 52
+  "integrations": 100
  },
  "lessons": [
   {
@@ -49,17 +49,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bản đồ số do Nhà nước ban hành; HS phóng to, chỉ 6 thành phố trực thuộc Trung ương, Hoàng Sa, Trường Sa"
+     "text": "GV mở bản đồ số do Nhà nước Việt Nam ban hành cho bài “Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy"
     },
     {
      "code": "AI-NB",
      "level": "Cơ bản 2, QĐ 2422: 5.A1.2",
-     "text": "GV chiếu bản đồ do AI vẽ, HS so với SGK tìm chỗ thiếu Hoàng Sa, Trường Sa; kiểm tra với nguồn chính thống"
+     "text": "GV chiếu một bản đồ do công cụ trí tuệ nhân tạo vẽ, HS so với bản đồ SGK để tìm chỗ thiếu Hoàng Sa, Trường Sa"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Kiểm tra kĩ nguồn trước khi chia sẻ; không lan truyền bản đồ sai chủ quyền."
+     "text": "Kiểm tra kĩ nguồn trước khi tin và trước khi chia sẻ; không lan truyền bản đồ"
     },
     {
      "code": "QPAN",
@@ -92,21 +92,6 @@
      "code": "GDVL",
      "level": "",
      "text": "GDQP, GD Việt Lào"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu hình 5 Quốc kì, Quốc huy, mở Quốc ca để HS nêu ý nghĩa; HS chỉ Hoàng Sa, Trường Sa trên bản đồ số"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 5.A3.2",
-     "text": "GV chiếu hình Quốc kì, Quốc huy do AI tạo, HS đối chiếu SGK tìm chỗ sai số cánh sao, dòng chữ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Kiểm tra kĩ nguồn trước khi chia sẻ; không lan truyền bản đồ sai chủ quyền."
     }
    ],
    "note": ""
@@ -128,17 +113,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV dùng bản đồ số địa hình do Nhà nước công bố; HS phóng to, chỉ đồi núi, đồng bằng, kí hiệu khoáng sản, đối chiếu SGK"
+     "text": "GV dùng bản đồ số địa hình do Nhà nước công bố cho bài “Thiên nhiên Việt Nam”: HS phóng to, chỉ các khu vực đồi núi"
     },
     {
      "code": "AI-NB",
      "level": "Cơ bản 2, QĐ 2422: 5.B2.1",
-     "text": "GV nhờ AI mô tả địa hình, khoáng sản Tây Nguyên, chiếu lên; HS đối chiếu SGK tìm chỗ máy nói chung chung, lẫn vùng khác, sửa lại"
+     "text": "GV nhờ công cụ trí tuệ nhân tạo viết vài câu mô tả địa hình, khoáng sản của một vùng, ví dụ Tây Nguyên, chiếu lên màn hình"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Dùng bản đồ, số liệu do Nhà nước công bố; không nói lời kì thị vùng miền."
+     "text": "Dùng bản đồ và số liệu do cơ quan Nhà nước công bố; tôn trọng"
     }
    ],
    "note": ""
@@ -156,23 +141,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bảng nhiệt độ SGK trang 12, nhập vào bảng tính hiện biểu đồ cột; HS đọc biểu đồ nêu khí hậu, chỉ sông lớn"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 5.D2.1",
-     "text": "GV nhờ AI mô tả khí hậu, sông ngòi miền Bắc hoặc miền Nam, chiếu lên; HS tìm chỗ máy lẫn miền, sai mùa, sửa lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Dùng bản đồ, số liệu do Nhà nước công bố; không nói lời kì thị vùng miền."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -188,23 +157,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết về đất và rừng của bài “Thiên nhiên Việt Nam”, GV chiếu lược đồ phân bố các loại đất"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bảng hai cột vai trò của đất và vai trò của rừng, gõ ý kiến từng nhóm vào bảng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lược đồ, ảnh do thầy cô mở và nói rõ nguồn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -220,23 +173,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết về khó khăn của thiên nhiên, GV chiếu ảnh và tư liệu ngắn về bão, lũ, hạn hán, xâm nhập mặn ở nước ta; HS đọc"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bảng ghép khó khăn với biện pháp phòng chống như trồng rừng phòng hộ, xây hồ chứa nước, làm nhà tránh lũ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu thiên tai lấy từ nguồn thầy cô giới thiệu và nói rõ nguồn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -257,6 +194,21 @@
      "code": "QPAN",
      "level": "",
      "text": "GDQP"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng bản đồ số để HS xác định vị trí, giới hạn lãnh thổ và các quần đảo trong bài “Biển, đảo Việt Nam”"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: hình ảnh và bản đồ trên mạng có thể do trí tuệ nhân tạo tạo ra hoặc bị chỉnh sửa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Kiểm tra kĩ nguồn trước khi tin và trước khi chia sẻ; không lan truyền bản đồ"
     },
     {
      "code": "QPAN",
@@ -296,6 +248,21 @@
    "lessonPeriods": 3,
    "adjustments": "*Thay đổi dữ liệu dân số của các vùng phù hợp với bản đồ mới",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng bản đồ số có lớp địa hình, khí hậu để HS quan sát trực quan nội dung “Dân cư và dân tộc ở Việt Nam”"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nhờ công cụ trí tuệ nhân tạo mô tả đặc điểm một vùng miền, cho HS đối chiếu với SGK"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Dùng bản đồ và số liệu do cơ quan Nhà nước công bố; tôn trọng"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -363,11 +330,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Sử dụng bản đồ hành chính Việt Nam để HS chỉ ra lãnh thổ, vùng biển, quần đảo Hoàng Sa và Trường Sa của Việt Nam."
@@ -388,7 +350,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Nhà nước văn lang, nhà nước âu lạc” qua bảo tàng số hoặc ảnh 360 độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -436,7 +414,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "Vị trí một số đền tháp Chăm-Pa: bản đồ cũ; Kiến trúc của đền tháp Chăm -Pa: Hình 2 nhắc đến tỉnh Quảng Nam. Một số câu chuyện về đền tháp Chăm-pa nhắc: Hình 4 nhắc đến Ninh Thuận; Hình 1 trang; 32: Tháp Nhạn (Đắk Lắk); Hình 3 trang 33: Khu di tích Thánh địa Mỹ Sơn (Đà Nẵng); Hình 4 trang 34: Tháp Bánh Ít (Gia Lai); Hình 5: Tháp Pô Klong Ga; rai (Khánh Hòa); Phần Luyện tập bài 1 trang 35 địa điểm Đà Nẵng *Cập nhật tỉnh mới theo bản đồ hành chính mới: Ninh Thuận sáp nhập Khánh Hòa lấy tên là Khánh Hòa, Quảng Nam sáp nhập thành Đà Nẵng",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Vương quốc phù Nam” qua bảo tàng số hoặc ảnh 360 độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -452,7 +446,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Vương quốc chăm-pa” qua bảo tàng số hoặc ảnh 360 độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -469,11 +479,6 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -495,7 +500,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Đấu tranh giành độc lập thời kì Bắc thuộc” qua bảo tàng số hoặc ảnh 360 độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -549,7 +570,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Triều lý và việc định đô ở thăng long” qua bảo tàng số hoặc ảnh 360 độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -603,7 +640,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Triều trần xây dựng đất nước và kháng chiến chống quân mông – nguyên xâm lược” qua bảo"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -705,7 +758,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Khởi nghĩa lam sơn và triều hậu lê” qua bảo tàng số hoặc ảnh 360 độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -759,7 +828,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Triều nguyễn” qua bảo tàng số hoặc ảnh 360 độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -858,6 +943,21 @@
      "text": "GDQP"
     },
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu phim tư liệu gốc, ảnh chụp thật về “Cách mạng tháng tám năm 1945” từ kho lưu trữ hoặc bảo tàng số"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: đã có công cụ trí tuệ nhân tạo tạo ra video, ảnh giả rất giống tư liệu lịch sử"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng tư liệu từ bảo tàng, kho lưu trữ, cơ quan chính thống; ghi rõ nguồn"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
@@ -907,6 +1007,21 @@
      "text": "GDQP-"
     },
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu phim tư liệu gốc, ảnh chụp thật về “Chiến dịch Điện Biên Phủ” từ kho lưu trữ hoặc bảo tàng số"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: đã có công cụ trí tuệ nhân tạo tạo ra video, ảnh giả rất giống tư liệu lịch sử"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng tư liệu từ bảo tàng, kho lưu trữ, cơ quan chính thống; ghi rõ nguồn"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
@@ -949,7 +1064,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu phim tư liệu gốc, ảnh chụp thật về “Chiến dịch Hồ Chí Minh năm 1975” từ kho lưu trữ hoặc bảo tàng số"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: đã có công cụ trí tuệ nhân tạo tạo ra video, ảnh giả rất giống tư liệu lịch sử"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng tư liệu từ bảo tàng, kho lưu trữ, cơ quan chính thống; ghi rõ nguồn"
+    }
+   ],
    "note": ""
   },
   {
@@ -984,8 +1115,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu phim tư liệu gốc, ảnh chụp thật về “Đất nước đổi mới” từ kho lưu trữ hoặc bảo tàng số"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: đã có công cụ trí tuệ nhân tạo tạo ra video, ảnh giả rất giống tư liệu lịch sử"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
+     "text": "Chỉ dùng tư liệu từ bảo tàng, kho lưu trữ, cơ quan chính thống; ghi rõ nguồn"
     }
    ],
    "note": ""
@@ -1024,6 +1165,16 @@
      "code": "GDVL",
      "level": "",
      "text": "GD Việt Lào"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng quả địa cầu số hoặc bản đồ thế giới tương tác để HS xác định vị trí và quan sát cảnh quan thật của các nước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số liệu phải lấy từ nguồn chính thống và ghi rõ năm công bố"
     }
    ],
    "note": ""
@@ -1063,7 +1214,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng quả địa cầu số hoặc bản đồ thế giới tương tác để HS xác định vị trí và quan sát cảnh quan thật của các nước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số liệu phải lấy từ nguồn chính thống và ghi rõ năm công bố"
+    }
+   ],
    "note": ""
   },
   {
@@ -1094,8 +1256,19 @@
    "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "- Hình 3 trang 110: Lũ quét ở Mù Cang Chải, tỉnh Lào Cai tháng 8 năm 2023",
-   "integrations": [],
+   "adjustments": "Hình 3 trang 110: Lũ quét ở Mù Cang Chải, tỉnh Lào Cai tháng 8 năm 2023",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng quả địa cầu số hoặc bản đồ thế giới tương tác để HS xác định vị trí và quan sát cảnh quan thật của các nước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số liệu phải lấy từ nguồn chính thống và ghi rõ năm công bố"
+    }
+   ],
    "note": ""
   },
   {
@@ -1130,8 +1303,13 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng quả địa cầu số hoặc bản đồ thế giới tương tác để HS xác định vị trí và quan sát cảnh quan thật của các nước"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
+     "text": "Số liệu phải lấy từ nguồn chính thống và ghi rõ năm công bố"
     },
     {
      "code": "KNS",
@@ -1170,7 +1348,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng quả địa cầu số hoặc bản đồ thế giới tương tác để HS xác định vị trí và quan sát cảnh quan thật của các nước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số liệu phải lấy từ nguồn chính thống và ghi rõ năm công bố"
+    }
+   ],
    "note": ""
   },
   {
@@ -1250,7 +1439,18 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng quả địa cầu số hoặc bản đồ thế giới tương tác để HS xác định vị trí và quan sát cảnh quan thật của các nước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số liệu phải lấy từ nguồn chính thống và ghi rõ năm công bố"
+    }
+   ],
    "note": ""
   },
   {
@@ -1282,7 +1482,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Văn minh ai cập” qua bảo tàng số hoặc ảnh 360 độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -1298,7 +1514,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem hiện vật, di tích liên quan “Văn minh hi lạp” qua bảo tàng số hoặc ảnh 360 độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự rồi trình chiếu trước lớp."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phân biệt rõ ảnh chụp hiện vật thật với hình vẽ phục dựng minh hoạ"
+    }
+   ],
    "note": ""
   },
   {
@@ -1319,6 +1551,16 @@
      "code": "NLS-KT",
      "level": "",
      "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng quả địa cầu số hoặc bản đồ thế giới tương tác để HS xác định vị trí và quan sát cảnh quan thật của các nước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số liệu phải lấy từ nguồn chính thống và ghi rõ năm công bố"
     }
    ],
    "note": ""
@@ -1357,6 +1599,16 @@
      "code": "QPAN",
      "level": "",
      "text": "Yêu hoà bình, bảo vệ hoà bình bằng những việc phù hợp với khả năng, phản đối chiến tranh."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng quả địa cầu số hoặc bản đồ thế giới tương tác để HS xác định vị trí và quan sát cảnh quan thật của các nước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số liệu phải lấy từ nguồn chính thống và ghi rõ năm công bố"
     }
    ],
    "note": ""
@@ -1699,7 +1951,7 @@
   "file": "assets/docs/lop5/Lich su va Dia li - Lop 5.docx",
   "name": "Lich su va Dia li - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46249,
+  "size": 46804,
   "updated": "2026-09-07"
  }
 }

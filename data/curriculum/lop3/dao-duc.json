@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 18
+  "integrations": 26
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bài hát Lá cờ Việt Nam, chiếu ảnh Quốc kì và video lễ chào cờ; HS quan sát tư thế nghiêm, nêu Quốc hiệu"
+     "text": "Trong “Bài 1. Chào cờ và hát quốc ca”, GV mở bài hát Lá cờ Việt Nam rồi chiếu ảnh Quốc kì và đoạn video lễ chào cờ"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản thu Quốc ca chính thức để cả lớp hát đúng nhịp, đúng lời khi các nhóm thi chào cờ; nhóm nhận xét cho nhau"
+     "text": "GV mở bản thu Quốc ca chính thức để cả lớp cùng hát đúng nhịp"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Không chế lời, ghép nhạc vui vào Quốc ca; thấy video chế nhạo thì báo thầy cô."
+     "text": "Quốc ca và Quốc kì là biểu tượng thiêng liêng của đất nước: không được chế lời"
     },
     {
      "code": "QPAN",
@@ -67,23 +67,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu video lễ chào cờ và tranh các bạn nhỏ với tư thế khác nhau; HS nói đồng tình hay không với hành vi của bạn nào"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh Quốc kì chuẩn để đối chiếu bài vẽ; GV chụp bài vẽ chiếu lên, lớp nhận xét lịch sự, khen trước rồi góp ý"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chế lời, ghép nhạc vui vào Quốc ca; thấy video chế nhạo thì báo thầy cô."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -168,13 +152,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -254,7 +232,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV lấy một câu hỏi thật của HS trong lớp (ví dụ “Vì sao con tắc kè đổi màu?”)"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV gõ câu hỏi ấy vào một công cụ trí tuệ nhân tạo cho HS quan sát màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS lớp 3 chưa tự dùng máy tính, điện thoại để tra cứu một mình"
+    }
+   ],
    "note": ""
   },
   {
@@ -302,13 +296,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -420,7 +408,23 @@
    "periods": 1,
    "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Sau khi HS liệt kê được điểm mạnh, điểm yếu của mình, GV hướng dẫn cả lớp cùng làm “Tấm thẻ giới thiệu em” trên màn hình: GV"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "GV đưa danh sách 8 thông tin và cho HS phân loại thành hai nhóm: điều có thể nói cho bạn bè biết (sở thích"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Điểm mạnh, sở thích thì kể được cho bạn nghe; còn địa chỉ nhà"
+    }
+   ],
    "note": ""
   },
   {
@@ -520,7 +524,17 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
+     "text": "Bên cạnh các tình huống bất hoà ở lớp, GV chiếu một tình huống nhắn tin: bạn A nhắn cho bạn B câu “Cậu chơi dở lắm”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống hai bạn giận nhau rồi một bạn rủ cả nhóm “đừng nói chuyện với bạn ấy nữa”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không nhắn tin, gửi hình chê bai, chế giễu bạn; không lập nhóm để tẩy chay một bạn"
     }
    ],
    "note": ""
@@ -588,14 +602,24 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    },
-    {
      "code": "GDĐP",
      "level": "",
      "text": "HS nêu được các loại đường giao thông, kể tên được các phương tiện giao thông được sử dụng phổ biến."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video mô phỏng một ngã tư có đèn tín hiệu và vạch kẻ dành cho người đi bộ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ba ảnh tình huống: một bạn vừa đi bộ qua đường vừa nhìn điện thoại, một bạn đeo tai nghe khi qua đường"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Vừa đi đường vừa nhìn điện thoại hoặc đeo tai nghe là rất nguy hiểm vì không nghe"
     },
     {
      "code": "KNS",
@@ -635,6 +659,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video mô phỏng một ngã tư có đèn tín hiệu và vạch kẻ dành cho người đi bộ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ba ảnh tình huống: một bạn vừa đi bộ qua đường vừa nhìn điện thoại, một bạn đeo tai nghe khi qua đường"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Vừa đi đường vừa nhìn điện thoại hoặc đeo tai nghe là rất nguy hiểm vì không nghe"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -949,7 +988,7 @@
   "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
   "name": "Dao duc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42779,
+  "size": 43289,
   "updated": "2026-09-07"
  }
 }

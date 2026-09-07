@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 60
+  "integrations": 55
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1, TT 02: 1.3.CB1a",
-     "text": "GV mở thư mục Bài 1 trên máy, mở tệp âm thanh chuông báo thức, ảnh đèn giao thông; HS nói nhận được thông tin gì"
+     "text": "Trong “Bài 1: Thông tin và quyết định”, GV mở thư mục Bài 1 lưu sẵn trên máy, lần lượt mở tệp âm thanh chuông báo thức"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV nêu tình huống Minh nghe chuông báo thức, chiếu hai lựa chọn dậy ngay hay ngủ tiếp; HS thảo luận quyết định nào đúng"
+     "text": "GV nêu tình huống bạn Minh nghe chuông báo thức rồi chiếu hai lựa chọn: dậy ngay hay ngủ tiếp"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Xem thời tiết ở trang chính thức; HS chỉ quan sát, thấy gì lạ báo thầy cô."
+     "text": "Thông tin về thời tiết, giờ giấc phải xem ở trang hoặc ứng dụng chính thức chứ không"
     }
    ],
    "note": ""
@@ -62,23 +62,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở trên máy tính tệp chữ, ảnh, âm thanh về cùng con vật; HS nhận ra ba dạng thông tin"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 1, QĐ 2422: 3.A1.1",
-     "text": "GV dùng công cụ AI cho máy đọc thành tiếng một câu, rồi nói để máy chuyển thành chữ; HS nêu tình huống AI giúp học"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chỉ quan sát, không nói họ tên, địa chỉ vào micrô."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -126,13 +110,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -150,9 +128,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản."
+     "text": "GV cho HS đứng quanh một bộ máy tính thật, chỉ và gọi tên từng bộ phận: thân máy, màn hình, bàn phím, chuột, loa"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS chơi trò nối trên máy chiếu: nhìn ảnh một bộ phận, chọn đúng tên và đúng việc bộ phận đó làm — nhìn, gõ, trỏ, nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không cắm, rút dây và không tháo bất cứ bộ phận nào khi máy đang bật"
     },
     {
      "code": "STEM",
@@ -175,13 +163,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -199,14 +181,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
+     "text": "GV chiếu ảnh hai bạn ngồi máy: một bạn cong lưng, mặt sát màn hình; một bạn ngồi thẳng, mắt cách màn hình khoảng 50 cm"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "HS đọc bảng khuyến cáo thời gian dùng máy tính theo lứa tuổi do GV chiếu lên"
     },
     {
      "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
+     "level": "",
+     "text": "Ngồi thẳng lưng, hai chân đặt trên sàn, mắt cách màn hình khoảng 50 cm"
     }
    ],
    "note": ""
@@ -224,18 +211,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -251,18 +227,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số. Thêm 1 tiết thực hành"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -280,19 +245,24 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Bài học STEM."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hình bàn phím phóng to, chỉ rõ các khu vực: hàng phím cơ sở, phím cách, phím Enter, phím xoá"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS gõ thử tên riêng của mình và vài từ ngắn, tự đếm số lần gõ nhầm rồi gõ lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Gõ nhẹ tay, không đập mạnh và không tì cả cánh tay lên bàn phím"
     }
    ],
    "note": ""
@@ -311,16 +281,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -343,16 +303,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.3.CB1b: Lựa chọn được những cách thức đơn giản để bảo vệ bản thân khỏi nguy cơ trong môi trường số."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -378,7 +328,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+     "text": "GV mở một trang dành cho thiếu nhi đã chọn sẵn, chỉ cho HS ô địa chỉ, tiêu đề trang, khối chữ, hình ảnh và các liên kết"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu song song hai trang: một trang của trường học, báo thiếu nhi hoặc cơ quan nhà nước và một trang không rõ của ai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ xem những trang thầy cô đã mở sẵn; không nháy vào quảng cáo"
     }
    ],
    "note": ""
@@ -396,13 +356,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -420,14 +374,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+     "text": "GV đổ lẫn một rổ đồ dùng học tập rồi cho hai tổ thi tìm một món: tổ để lộn xộn và tổ đã xếp theo nhóm"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
+     "text": "GV chiếu một danh sách trên máy rồi bấm nút sắp xếp theo tên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Giữ gìn đồ dùng của lớp khi chơi trò tìm nhanh, tìm xong xếp lại đúng chỗ"
     }
    ],
    "note": ""
@@ -447,19 +406,24 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Bài học STEM."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu sơ đồ hình cây của nhà trường: trường → khối → lớp → tổ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS sắp một danh sách cho sẵn thành sơ đồ hình cây trên bảng kéo thả của máy chiếu: mục lớn ở trên, mục nhỏ ở dưới"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ kéo thả trong bài tập GV đã mở sẵn, không đổi cài đặt của máy"
     }
    ],
    "note": ""
@@ -511,16 +475,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Bài học STEM."
@@ -543,19 +497,24 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Thực hành với tệp và thư mục trong máy tính."
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn từng bước để HS mở cửa sổ quản lí tệp, đi vào thư mục của lớp"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "HS nhìn biểu tượng và phần đuôi tên tệp để đoán tệp đó chứa gì: tệp chữ, tệp ảnh, tệp âm thanh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở và xem trong thư mục GV chỉ định; không mở, không sửa"
     }
    ],
    "note": ""
@@ -574,16 +533,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "1.3.CB1b: Nhận biết được nơi để sắp xếp dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường có cấu trúc."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -607,14 +556,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "4.2.CB1a: Lựa chọn được những cách thức đơn giản để bảo vệ dữ liệu cá nhân và quyền riêng tư trong môi trường số."
+     "text": "GV chiếu một phiếu đăng kí trên mạng có các ô họ tên, ngày sinh, địa chỉ nhà, số điện thoại của cha mẹ, ảnh chân dung"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu vài tình huống: một trang hứa tặng quà nếu điền số điện thoại, một người lạ trong trò chơi hỏi tên trường"
     },
     {
      "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.2.CB1b: Nhận biết được các cách sử dụng và chia sẻ thông tin định danh cá nhân một cách an toàn, có khả năng bảo vệ bản thân và người khác."
+     "level": "",
+     "text": "Không cho ai họ tên đầy đủ, ngày sinh, địa chỉ nhà, tên trường lớp"
     }
    ],
    "note": ""
@@ -632,18 +586,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.2.CB1a: Lựa chọn được những cách thức đơn giản để bảo vệ dữ liệu cá nhân và quyền riêng tư trong môi trường số."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.2.CB1b: Nhận biết được các cách sử dụng và chia sẻ thông tin định danh cá nhân một cách an toàn, có khả năng bảo vệ bản thân và người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -661,14 +604,24 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "3.1.CB1a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Bài học STEM."
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS từng bước tạo bài trình chiếu: mở phần mềm, thêm một trang chiếu, nhập tiêu đề, nhập vài dòng nội dung ngắn"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hai trang chiếu cùng nội dung — một trang chữ nhỏ và kín đặc, một trang chữ to và ít dòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng hình trong kho ảnh thầy cô đã chuẩn bị hoặc hình do chính mình vẽ"
     }
    ],
    "note": ""
@@ -687,11 +640,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "3.1.CB1a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -712,12 +660,22 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản. HS tự tìm hiểu ở nhà bài 12.\nTổ CM đối chiếu tên bài với mục lục SGK Tin học 3"
+     "text": "HS luyện thao tác chuột qua phần mềm có chấm điểm: kéo thả, nháy đúp, vẽ theo mẫu"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Hai HS dùng chung một máy: thoả thuận trước ai làm trước và làm bao lâu thì đổi lượt"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ chơi phần mềm và đúng khoảng thời gian thầy cô cho phép, hết lượt là nhường bạn"
     }
    ],
    "note": ""
@@ -735,13 +693,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -759,9 +711,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+     "text": "GV chiếu các thẻ việc của một công việc quen thuộc — pha một cốc nước chanh, gấp một chiếc thuyền giấy — theo thứ tự lộn xộn"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "HS xem đoạn phim hướng dẫn làm một việc, tạm dừng ở mỗi bước và ghi lại thành dãy các bước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ kéo thả trong bài tập GV đã mở, không đổi cài đặt máy"
     }
    ],
    "note": ""
@@ -779,13 +741,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -803,9 +759,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+     "text": "GV chiếu bài tập tương tác dạng Nếu… thì…: chọn điều kiện trời mưa thì hình cậu bé cầm ô"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "HS tìm trong đời sống những việc chỉ xảy ra khi có điều kiện: đèn đường sáng khi trời tối, chuông báo khi hết giờ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở bài tập GV đã chuẩn bị sẵn trên máy, không mở trang khác"
     }
    ],
    "note": ""
@@ -823,13 +789,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -847,9 +807,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+     "text": "GV cùng HS lập bảng cho một việc cụ thể của lớp — làm tờ giới thiệu góc thư viện: việc nào cần làm bằng tay"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "HS tìm tư liệu cho sản phẩm của mình trong kho ảnh và kho bài đọc GV đã chuẩn bị sẵn trên máy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy ảnh và bài đọc trong kho thầy cô đã chuẩn bị"
     }
    ],
    "note": ""
@@ -867,13 +837,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "3.4.CB1a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1182,7 +1146,7 @@
   "file": "assets/docs/lop3/Tin hoc - Lop 3.docx",
   "name": "Tin hoc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43137,
+  "size": 44375,
   "updated": "2026-09-07"
  }
 }

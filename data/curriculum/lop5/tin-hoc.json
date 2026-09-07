@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 61
+  "integrations": 54
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2, TT 02: 5.2.CB2a",
-     "text": "GV chiếu phim ngắn về người dùng máy tính trong học tập, đời sống; HS nêu việc cần làm, ghép nhu cầu với đúng phần mềm"
+     "text": "GV chiếu đoạn phim ngắn về người dùng máy tính trong học tập, công việc, đời sống để mở bài “Em có thể làm gì với máy tính?”"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS mở tệp mẫu trong thư mục lớp gồm văn bản, bảng tính, bức vẽ, nói mỗi tệp tạo bằng công việc nào"
+     "text": "HS mở các tệp mẫu trong thư mục của lớp gồm một văn bản, một bảng tính, một bức vẽ"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Đăng nhập bằng tài khoản GV cấp, không lưu mật khẩu máy chung."
+     "text": "Đăng nhập bằng tài khoản GV cấp, không dùng tài khoản của bạn và không lưu mật khẩu"
     }
    ],
    "note": ""
@@ -62,23 +62,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS mở phần mềm soạn thảo hoặc vẽ, gõ vài dòng giới thiệu bản thân, lưu đúng thư mục, đặt tên tệp theo quy ước lớp"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 5.A2.1",
-     "text": "GV dùng công cụ AI tạo hình minh hoạ, câu gợi ý cho bài; HS đối chiếu SGK, giải thích AI chỉ hỗ trợ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không nhập họ tên, địa chỉ vào công cụ trên mạng; kết quả máy tạo phải sửa lại."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -126,43 +110,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "CB2a: Phát hiện được độ tin cậy và độ chính xác của các nguồn chung của dữ liệu, thông tin và nội dung số."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "2.1.CB2a: Lựa chọn được các công nghệ số đơn giản để tương tác."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "2.1.CB2b: Xác định được các phương tiện giao tiếp đơn giản thích hợp cho một bối cảnh cụ thể."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "2.2.CB2a: Nhận biết được các công nghệ số đơn giản, phù hợp để chia sẻ dữ liệu, thông tin và nội dung kỹ thuật số."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "2.4.CB2a: Chọn được những công cụ và công nghệ số đơn giản cho các quá trình cộng tác."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -180,29 +128,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "CB2a: Xác định được nhu cầu thông tin."
+     "text": "HS nhận một vấn đề thật của lớp — chọn cây trồng cho góc lớp"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "1.1.CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+     "text": "HS đối chiếu thông tin tìm được với sách giáo khoa và với một trang chính thống khác"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "giới thiệu mức nhận biết về công cụ gợi ý thông minh; GV kiểm soát, không dùng tài khoản cá nhân."
+     "text": "Chỉ tìm kiếm với từ khoá phục vụ vấn đề đang giải quyết"
     }
    ],
    "note": ""
@@ -220,28 +158,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "1.1.CB2c: Tìm được cách truy cập những dữ liệu, thông tin và nội dung này cũng như điều hướng giữa chúng."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "giới thiệu mức nhận biết về công cụ gợi ý thông minh; GV kiểm soát, không dùng tài khoản cá nhân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -259,9 +176,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "4.2.CB2a: Lựa chọn được những cách thức đơn giản để bảo vệ dữ liệu cá nhân và quyền riêng tư trong môi trường số."
+     "text": "HS tự mở cửa sổ quản lí tệp, đi lên đi xuống trong cây thư mục"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS đọc các thông tin đi kèm mỗi tệp — kiểu tệp, dung lượng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở xem, không sửa, không di chuyển tệp của người khác và của máy"
     }
    ],
    "note": ""
@@ -279,13 +206,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "4.2.CB2b: Nhận biết được các cách sử dụng và chia sẻ thông tin định danh cá nhân một cách an toàn, có khả năng bảo vệ bản thân và người khác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -304,18 +225,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+     "level": "Cơ bản 2",
+     "text": "GV chiếu cùng một tấm ảnh ở hai nơi: một nơi ghi rõ tác giả và giấy phép sử dụng, một nơi đăng lại mà không ghi gì"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS tìm một hình ảnh hoặc đoạn nhạc được phép dùng cho bài học của mình, chép lại tên tác giả"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "giới thiệu mức nhận biết về công cụ gợi ý thông minh; GV kiểm soát, không dùng tài khoản cá nhân."
+     "text": "Chỉ dùng tư liệu có ghi rõ được phép sử dụng và phải ghi nguồn; không tải"
     }
    ],
    "note": ""
@@ -333,23 +254,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "giới thiệu mức nhận biết về công cụ gợi ý thông minh; GV kiểm soát, không dùng tài khoản cá nhân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -367,9 +272,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS tự định dạng một văn bản cho sẵn: chọn phông, cỡ chữ, kiểu chữ đậm nghiêng, màu chữ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS thử ba cách trình bày khác nhau cho cùng một đoạn rồi hỏi bạn ngồi cạnh xem cách nào dễ đọc nhất từ khoảng cách một mét"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "phát triển kĩ năng sử dụng thiết bị và phần mềm học tập."
+     "text": "Lưu bài vào đúng thư mục của mình sau mỗi lần sửa lớn"
     }
    ],
    "note": ""
@@ -387,13 +302,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "phát triển kĩ năng sử dụng thiết bị và phần mềm học tập."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -413,12 +322,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+     "text": "HS soạn một văn bản hoàn chỉnh của riêng mình — bản tin lớp"
     },
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản"
+     "text": "HS dùng chức năng soát lỗi chính tả của phần mềm để tìm chỗ nghi ngờ rồi tự đọc lại từng chỗ mà quyết định sửa hay giữ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết phải do chính HS nghĩ và gõ ra, có tham khảo thì ghi rõ nguồn"
     }
    ],
    "note": ""
@@ -436,18 +350,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -463,7 +366,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "HS tự tìm hiểu ở nhà bài 8B, tăng 1 tiết bài 8A",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS tự khám phá các công cụ của phần mềm đồ hoạ: chọn bút, chọn hình khối, chọn màu, tô màu, tẩy, phóng to thu nhỏ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS vẽ một hình đơn giản theo ý mình, đặt tên tệp dễ hiểu và lưu vào thư mục riêng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở phần mềm GV chỉ định, không cài thêm phần mềm đồ hoạ lạ tải trên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -531,17 +450,22 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "3.1.CB2a: Xác định được các cách tạo và chỉnh sửa nội dung đơn giản ở các định dạng đơn giản."
+     "text": "HS tạo một sản phẩm số hoàn chỉnh bằng phần mềm đồ hoạ theo chủ đề của lớp — áp phích kêu gọi giữ vệ sinh trường"
     },
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "3.1.CB2b: Chọn được cách thể hiện bản thân thông qua việc tạo ra các nội dung số đơn giản. HS tự tìm hiểu ở nhà bài 9B"
+     "text": "HS đưa bản nháp cho hai bạn xem thử ở khoảng cách xa như khi treo lên tường"
     },
     {
-     "code": "NLS-ST",
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV giới thiệu công cụ tạo ảnh từ mô tả bằng lời và cho HS xem một ví dụ"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "thực hành tạo/sửa sản phẩm số theo hướng dẫn."
+     "text": "Tư liệu đưa vào sản phẩm phải do HS tự vẽ"
     }
    ],
    "note": ""
@@ -561,9 +485,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+     "text": "HS tự ghép một chương trình tuần tự trong môi trường lập trình trực quan: chọn nhân vật, kéo các khối lệnh di chuyển, xoay"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS đọc kịch bản cho sẵn — một đoạn hội thoại ngắn giữa hai nhân vật — rồi chuyển từng câu trong kịch bản thành khối lệnh tương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở phần mềm lập trình và dự án GV chỉ định"
     }
    ],
    "note": ""
@@ -581,13 +515,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -605,9 +533,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+     "text": "HS viết một chương trình vẽ hình bằng cách lặp lại một nhóm lệnh: vẽ hình vuông bằng bốn lần tiến và quay"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS tìm những việc lặp đi lặp lại quanh mình — đèn nhấp nháy, băng chuyền"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở dự án GV chỉ định, không cài thêm phần mềm lạ"
     }
    ],
    "note": ""
@@ -625,13 +563,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -649,9 +581,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+     "text": "HS nhận một nhiệm vụ cụ thể — vẽ một dãy hình, cho nhân vật đi hết một vòng sân khấu — rồi tự phân tích: phần nào"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS đọc chương trình mẫu của GV trước khi tự viết, chỉ ra khối lặp nằm ở đâu và các giá trị bước đi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng dự án và học liệu GV chỉ định"
     }
    ],
    "note": ""
@@ -669,13 +611,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -693,9 +629,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
+     "text": "HS viết một chương trình có rẽ nhánh: nếu chạm vào cạnh sân khấu thì nhân vật quay lại, nếu không thì đi tiếp"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS đọc và diễn đạt lại điều kiện trong chương trình bằng lời — điều gì được kiểm tra, khi đúng thì làm gì"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở dự án GV chỉ định; kiểm tra kĩ điều kiện trước khi chạy để chương trình"
     }
    ],
    "note": ""
@@ -713,13 +659,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -737,9 +677,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản. Bài học Stems: Bài - Lập trình trò chơi"
+     "text": "HS tạo một biến để ghi điểm hoặc ghi số lần thực hiện trong chương trình của mình"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS đọc một chương trình có nhiều biến, chỉ ra mỗi biến đang giữ dữ liệu gì và giá trị của nó thay đổi ở những khối lệnh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đặt tên biến bằng nội dung công việc"
     }
    ],
    "note": ""
@@ -758,11 +708,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -786,14 +731,24 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Bài học STEM."
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS dùng biểu thức trong chương trình để máy tự tính: tính tổng điểm qua các vòng, tính chu vi hình theo số đo người dùng nhập"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS đối chiếu kết quả chương trình mình viết với kết quả tính bằng tay hoặc bằng máy tính cầm tay cho vài bộ số liệu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Kiểm tra lại kết quả máy tính ra bằng cách tính thử vài bộ số liệu"
     }
    ],
    "note": ""
@@ -812,11 +767,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -840,14 +790,24 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Bài học STEM."
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS tự nghĩ một ý tưởng rồi viết thành kịch bản: có mấy nhân vật, mỗi nhân vật nói gì, làm gì, theo thứ tự nào"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS chia chương trình lớn thành từng phần nhỏ theo cảnh, làm xong phần nào chạy thử phần đó rồi mới ghép tiếp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ý tưởng và lời thoại phải do HS tự nghĩ; nhân vật"
     }
    ],
    "note": ""
@@ -866,11 +826,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "3.4.CB2a: Liệt kê được các hướng dẫn đơn giản để hệ thống máy tính giải quyết một vấn đề đơn giản hoặc thực hiện một nhiệm vụ đơn giản."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -1185,7 +1140,7 @@
   "file": "assets/docs/lop5/Tin hoc - Lop 5.docx",
   "name": "Tin hoc - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43430,
+  "size": 44303,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 33
+  "integrations": 32
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh sản phẩm mĩ thuật có thật trong trường: tranh HS, góc lớp, bồn hoa; HS nói sản phẩm làm bằng gì"
+     "text": "GV chiếu bộ ảnh chụp sản phẩm mĩ thuật có thật trong trường gắn với bài “Mĩ thuật trong nhà trường”: tranh vẽ của HS trên bảng tin"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV mời từng HS lên chỉ một sản phẩm trên màn hình, nói “Em thấy sản phẩm này đẹp vì…”; các bạn tập khen bạn"
+     "text": "GV mời từng HS lên chỉ tay vào một sản phẩm trên màn hình và nói trước lớp “Em thấy sản phẩm này đẹp vì…”"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh chụp trong trường chỉ dùng để học, không đưa lên mạng."
+     "text": "Ảnh chụp trong trường chỉ dùng để học, GV giữ trong máy của mình, không đưa lên mạng"
     }
    ],
    "note": ""
@@ -66,17 +66,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh phóng to một bức tranh chấm màu và một tấm vải hoa văn chấm, phóng to dần từng vùng để HS thấy tranh được tạo bởi rất nhiều chấm nhỏ"
+     "text": "GV chiếu ảnh phóng to một bức tranh chấm màu và một tấm vải hoa văn chấm"
     },
     {
      "code": "AI-NB",
      "level": "Cơ bản 1",
-     "text": "GV gõ vào công cụ vẽ bằng trí tuệ nhân tạo câu “bông hoa vẽ bằng các chấm màu” cho cả lớp xem máy vẽ ra hình gì; GV nói rõ hình này do máy vẽ"
+     "text": "GV gõ vào một công cụ vẽ bằng trí tuệ nhân tạo câu “bông hoa vẽ bằng các chấm màu” cho cả lớp cùng xem máy vẽ ra"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Chỉ cô giáo gõ chữ và bấm máy, các em ngồi xem; hình máy vẽ chỉ để xem, không chép lại thành bài của mình."
+     "text": "Chỉ cô giáo gõ chữ và bấm máy, các em ngồi xem"
     }
    ],
    "note": ""
@@ -94,23 +94,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV mở ứng dụng vẽ trên máy tính nối máy chiếu, chọn cỡ đầu bút to nhỏ khác nhau rồi chấm mẫu một hàng chấm thưa và một"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV mời lần lượt vài HS lên chấm thử vài chấm trên bảng tương tác theo hướng dẫn từng bước"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ HS được mời mới chạm vào máy, chạm nhẹ đầu ngón tay"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -142,23 +126,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh phóng to ba cách chấm (ngón tay, tăm bông, bút); HS chọn cách chấm cho bài"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh sản phẩm từng nhóm chiếu lên màn hình; HS xem và nói lời khen nhóm bạn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ chụp sản phẩm, không chụp mặt bạn; ảnh chỉ dùng trong lớp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -176,9 +144,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+     "text": "GV chiếu hình động vẽ lần lượt từng loại nét: nét thẳng, nét cong, nét gấp khúc, nét xoáy ốc"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV dừng hình động ở giữa chừng, hỏi HS đoán nét đang được vẽ là nét gì rồi cho chạy tiếp để cả lớp cùng kiểm tra."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV điều khiển hình động, HS ngồi tại chỗ quan sát"
     }
    ],
    "note": ""
@@ -230,9 +208,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+     "text": "GV chiếu ảnh đồ vật quen thuộc rồi dùng công cụ vẽ đè chồng hình tròn, hình vuông"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tiếp một loạt ảnh và cho HS thi gọi nhanh tên hình cơ bản có trong mỗi đồ vật."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV thao tác trên máy, HS ngồi tại chỗ trả lời; khi thi đua chỉ giơ tay"
     }
    ],
    "note": ""
@@ -300,9 +288,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+     "text": "GV chiếu mô phỏng pha màu: kéo giọt màu đỏ chồng lên giọt màu vàng, màu cam hiện ra ngay trên màn hình"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV kéo thêm ít hoặc nhiều màu để HS thấy tỉ lệ khác nhau thì cho ra màu cam đậm hay cam nhạt."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV thao tác trên máy; sau khi xem mô phỏng"
     }
    ],
    "note": ""
@@ -370,9 +368,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+     "text": "GV chiếu mô hình khối lập phương, khối cầu, khối trụ dạng ba chiều và xoay chậm để HS thấy mặt trước, mặt bên"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV dừng ở một góc xoay và hỏi HS đoán đó là khối gì, sau đó xoay tiếp cho cả lớp kiểm tra."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV điều khiển việc xoay hình; sau khi xem, HS cầm khối gỗ"
     }
    ],
    "note": ""
@@ -390,23 +398,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh sản phẩm tiêu biểu chủ đề 1–5 của lớp; HS xem, chọn bài muốn làm lại"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh góc trưng bày từng nhóm chiếu lên màn hình; HS nói lời khen nhóm bạn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chỉ dùng trong lớp, không đăng mạng, không chụp mặt bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -472,9 +464,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+     "text": "GV chiếu ảnh chụp cận cảnh các loại quả nguyên và quả bổ đôi, phóng to để HS thấy rõ vỏ nhẵn hay sần"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "HS kể tên loại quả có ở quê mình rồi tìm đúng quả đó trong bộ ảnh trên màn hình."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chọn sẵn ảnh trước giờ học và chỉ mở đúng tập ảnh đó"
     }
    ],
    "note": ""
@@ -544,7 +546,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
+     "text": "GV chiếu bộ tranh chân dung và tranh gia đình đã chuẩn bị sẵn, phóng to phần khuôn mặt để HS thấy người vẽ đã tả mái tóc"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "HS nhớ lại và tả bằng lời một nét riêng của người thân mình như tóc bạc, đeo kính, có râu, trước khi bắt tay vào vẽ."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ dùng tranh, ảnh đã chuẩn bị sẵn"
     },
     {
      "code": "QPAN",
@@ -569,11 +581,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
@@ -595,11 +602,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -623,11 +625,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm tranh, ảnh tư liệu trên máy để lấy ý tưởng; nói rõ hình lấy từ đâu."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
@@ -648,7 +645,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu đoạn phim ngắn quay lại một buổi ra chơi, buổi chào cờ, giờ học của chính lớp mình"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV dừng phim ở một cảnh và cùng HS đếm trong cảnh đó có mấy bạn, các bạn đang làm gì, sân trường có những gì."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phim do GV quay và giữ trong máy của lớp, không đưa lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -712,23 +725,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh sản phẩm tiêu biểu chủ đề 6–9 của lớp; HS xem, chọn bài muốn làm lại"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh góc trưng bày từng nhóm chiếu lên màn hình; HS nói lời khen nhóm bạn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài vẽ người thân chỉ chiếu trong lớp, không đăng mạng, không chụp mặt bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -745,11 +742,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; nhờ GV hướng dẫn khi lưu bài."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1032,7 +1024,7 @@
   "file": "assets/docs/lop1/Mi thuat - Lop 1.docx",
   "name": "Mi thuat - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42719,
+  "size": 43190,
   "updated": "2026-09-07"
  }
 }

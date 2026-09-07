@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 210,
-  "integrations": 203
+  "integrations": 101
  },
  "lessons": [
   {
@@ -62,18 +62,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu đoạn văn bài Luyện từ và câu; HS tô màu danh từ, động từ, tính từ bằng chức năng tìm kiếm, tra từ điển điện tử"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Từ điển điện tử chỉ tham khảo, HS tự chọn nghĩa đúng văn cảnh."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -90,21 +79,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bài văn và hai chi tiết kể sáng tạo A, B SGK, tô màu lời thoại thêm vào; HS gõ thử một chi tiết sáng tạo"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 5.A2.1",
-     "text": "GV dùng AI viết đoạn kể sáng tạo cho cùng câu chuyện, chiếu để HS nhận xét chi tiết có hợp truyện gốc, có cảm xúc không"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -160,21 +134,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu đoạn văn bài tập 1, tô màu từ xưng hô tôi, mình và câu bộc lộ suy nghĩ; HS gõ thử câu mở bài trên máy"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 5.A1.2",
-     "text": "GV nhờ AI viết đoạn văn đóng vai nhân vật kể cùng câu chuyện; HS soi xưng hô có nhất quán, chi tiết đúng truyện gốc không"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
@@ -196,21 +155,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV dạy HS tìm truyện về tuổi thơ trong thư viện số GV chọn trước: gõ từ khoá, đọc giới thiệu, mục lục để chọn truyện"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS điền phiếu đọc sách theo mẫu SGK: tên truyện, tác giả, chi tiết em thích; GV chụp ảnh phiếu, bìa truyện chiếu lên để HS giới thiệu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ truy cập trang GV chỉ định; gặp nội dung không phù hợp thì báo thầy cô."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -264,18 +208,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu câu bài tập 1, tô đậm từ vậy, thế, kẻ mũi tên nối về từ được thay thế; HS làm bài tương tác chọn đại từ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Từ điển điện tử chỉ tham khảo, HS tự chọn nghĩa đúng văn cảnh."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -292,21 +225,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu khung dàn ý ba phần theo gợi ý SGK; vài HS gõ dàn ý vào khung trên máy, đánh dấu chỗ thêm lời thoại"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 5.A3.2",
-     "text": "GV nhờ AI gợi ý vài chi tiết sáng tạo cho một câu chuyện quen thuộc rồi chiếu; HS nhận xét chi tiết nào hợp, nào lạc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -362,21 +280,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS viết bài văn kể chuyện sáng tạo theo dàn ý; GV chụp bài của vài HS chiếu lên, lớp góp ý chi tiết tưởng tượng"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 5.A2.1",
-     "text": "GV dùng AI viết đoạn có chi tiết tưởng tượng cho cùng đề, chiếu để HS so với bài mình: có cảm xúc không"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
@@ -397,18 +300,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình bày ý kiến về chi tiết thú vị trong truyện, GV quay bằng điện thoại; HS xem lại, nhận ra chỗ nói nhanh, nói nhỏ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép bạn trước khi ghi hình; không đăng file ghi hình bạn lên mạng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -456,18 +348,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng từ điển tiếng Việt điện tử tra nghĩa, tìm từ đồng nghĩa – trái nghĩa phục vụ nội dung “Tiếng hạt nảy mầm”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Từ điển điện tử chỉ để tham khảo, HS phải tự chọn nghĩa đúng văn cảnh"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -484,21 +365,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS gõ và trình bày bài “Tiếng hạt nảy mầm” trên phần mềm soạn thảo: chia đoạn, căn lề"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem một đoạn văn do công cụ trí tuệ nhân tạo viết về cùng đề tài và cùng nhận xét: đoạn ấy đúng ngữ pháp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tuyệt đối không chép bài do trí tuệ nhân tạo viết để nộp"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -552,23 +418,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS gõ và trình bày bài “Ngôi sao sân cỏ” trên phần mềm soạn thảo: chia đoạn, căn lề"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem một đoạn văn do công cụ trí tuệ nhân tạo viết về cùng đề tài và cùng nhận xét: đoạn ấy đúng ngữ pháp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tuyệt đối không chép bài do trí tuệ nhân tạo viết để nộp"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -585,21 +435,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS tra tìm sách, truyện theo chủ điểm “Ngôi sao sân cỏ” trên thư viện số hoặc trang sách thiếu nhi mà GV đã chọn"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp bìa cuốn sách mình đọc, dựng một trang trình chiếu ngắn có ảnh kèm vài dòng cảm nhận để giới thiệu với cả lớp."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ truy cập trang GV chỉ định; không tải sách từ nguồn lạ"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -659,13 +494,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Viết báo cáo công việc theo mẫu bảng; khuyến khích trình bày rõ nhiệm vụ, thời gian, kết quả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -697,18 +526,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Chỉnh sửa báo cáo theo góp ý; có thể phản hồi trên phiếu/bảng chia sẻ nhóm."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Chỉnh sửa báo cáo theo góp ý; có thể phản hồi trên phiếu/bảng chia sẻ nhóm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -724,13 +542,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nói và nghe; rèn cách chia sẻ địa điểm vui chơi an toàn, không công khai thông tin cá nhân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -780,11 +592,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số có nguồn rõ ràng; ghi ý bằng từ ngữ của học sinh."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -823,11 +630,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số có nguồn rõ ràng; ghi ý bằng từ ngữ của học sinh."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -850,16 +652,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng về thiên nhiên; chọn tranh/ảnh/tư liệu có nguồn rõ ràng."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng về thiên nhiên; chọn tranh/ảnh/tư liệu có nguồn rõ ràng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -880,7 +672,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước khi đọc “Hang sơn đoòng”, GV chiếu ảnh, video hoặc ảnh 360 độ về địa danh, di sản, loại hình nghệ thuật được nói tới trong bài"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: trên mạng có nhiều ảnh phong cảnh, ảnh di tích do trí tuệ nhân tạo tạo ra hoặc chỉnh sửa cho lung linh hơn thực tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng tư liệu do GV chọn trước; thời lượng xem nghe ngắn"
+    }
+   ],
    "note": ""
   },
   {
@@ -930,6 +738,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước khi đọc “Những hòn đảo trên vịnh hạ long”, GV chiếu ảnh, video hoặc ảnh 360 độ về địa danh, di sản"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: trên mạng có nhiều ảnh phong cảnh, ảnh di tích do trí tuệ nhân tạo tạo ra hoặc chỉnh sửa cho lung linh hơn thực tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng tư liệu do GV chọn trước; thời lượng xem nghe ngắn"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Liên hệ chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
@@ -950,13 +773,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số của địa phương; ghi nhận xét bằng từ ngữ của HS."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -972,18 +789,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác tư liệu về bảo tồn động vật hoang dã; biết kiểm tra nguồn, không chia sẻ hình ảnh phản cảm."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khai thác tư liệu về bảo tồn động vật hoang dã; biết kiểm tra nguồn, không chia sẻ hình ảnh phản cảm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1031,13 +837,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Lập dàn ý bằng sơ đồ tư duy số đơn giản dưới sự hướng dẫn của giáo viên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1053,7 +853,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước khi đọc “Những ngọn núi nóng rẫy”, GV chiếu ảnh, video hoặc ảnh 360 độ về địa danh, di sản"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: trên mạng có nhiều ảnh phong cảnh, ảnh di tích do trí tuệ nhân tạo tạo ra hoặc chỉnh sửa cho lung linh hơn thực tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng tư liệu do GV chọn trước; thời lượng xem nghe ngắn"
+    }
+   ],
    "note": ""
   },
   {
@@ -1092,11 +908,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng chủ đề thiên nhiên; ghi lại thông tin mới và nguồn tham khảo."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1152,16 +963,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Có thể dùng công cụ kiểm tra chính tả; học sinh tự viết, không để AI viết thay (trung thực học tập)."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "Có thể dùng công cụ kiểm tra chính tả; học sinh tự viết, không để AI viết thay (trung thực học tập)."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -1182,7 +983,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước khi đọc “Xin chào, xa-ha-ra”, GV chiếu ảnh, video hoặc ảnh 360 độ về địa danh, di sản, loại hình nghệ thuật được nói tới trong bài"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: trên mạng có nhiều ảnh phong cảnh, ảnh di tích do trí tuệ nhân tạo tạo ra hoặc chỉnh sửa cho lung linh hơn thực tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng tư liệu do GV chọn trước; thời lượng xem nghe ngắn"
+    }
+   ],
    "note": ""
   },
   {
@@ -1198,13 +1015,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng công cụ rà soát lỗi để phát hiện và tự chọn cách chỉnh sửa phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1220,13 +1031,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Có thể giới thiệu cảnh đẹp bằng tranh ảnh/sơ đồ nhỏ; chú ý ghi nguồn hình ảnh nếu sử dụng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1354,13 +1159,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Sử dụng từ điển giấy/từ điển số có hướng dẫn; biết đối chiếu nghĩa từ trong ngữ cảnh."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1432,16 +1231,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng; lập phiếu đọc sách, ghi nguồn, không sao chép nhận xét mẫu."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng; lập phiếu đọc sách, ghi nguồn, không sao chép nhận xét mẫu."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -1478,13 +1267,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Luyện sử dụng từ điển; bước đầu so sánh kết quả tra cứu từ nhiều nguồn đáng tin cậy."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1554,18 +1337,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Giới thiệu cuốn sách yêu thích; có thể chuẩn bị thẻ giới thiệu sách/slide 1 trang."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Giới thiệu cuốn sách yêu thích; có thể chuẩn bị thẻ giới thiệu sách/slide 1 trang."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1581,13 +1353,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác thông tin về sách/tác giả dưới sự hướng dẫn của GV; biết chọn thông tin cần thiết."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1675,16 +1441,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng; ghi tên sách/nguồn và nêu cảm nhận riêng."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng; ghi tên sách/nguồn và nêu cảm nhận riêng."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -1705,13 +1461,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Có thể trình bày giới thiệu sách bằng sơ đồ hoặc poster học tập; khuyến khích diễn đạt bằng lời của HS."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1797,13 +1547,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Liên hệ thói quen tự học trong môi trường số; biết dùng công cụ học tập đúng mục đích."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1873,13 +1617,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "Nhận biết AI có thể tạo hình ảnh từ mô tả (mức minh họa do giáo viên trình bày); sản phẩm AI cần kiểm chứng, tôn trọng bản quyền."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1912,16 +1650,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng về nghệ thuật; tôn trọng bản quyền tranh/ảnh/video."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng về nghệ thuật; tôn trọng bản quyền tranh/ảnh/video."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1997,7 +1725,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước khi đọc “Tập hát quan họ”, GV chiếu ảnh, video hoặc ảnh 360 độ về địa danh, di sản"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: trên mạng có nhiều ảnh phong cảnh, ảnh di tích do trí tuệ nhân tạo tạo ra hoặc chỉnh sửa cho lung linh hơn thực tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng tư liệu do GV chọn trước; thời lượng xem nghe ngắn"
+    }
+   ],
    "note": ""
   },
   {
@@ -2029,18 +1773,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Chia sẻ chương trình nghệ thuật yêu thích; có thể sử dụng hình ảnh minh họa có nguồn rõ ràng."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Chia sẻ chương trình nghệ thuật yêu thích; có thể sử dụng hình ảnh minh họa có nguồn rõ ràng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2059,13 +1792,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "",
-     "text": "Nhận biết công nghệ số/AI hỗ trợ làm phim hoạt hình; giáo viên minh họa, học sinh không tạo tài khoản."
+     "level": "Cơ bản 2",
+     "text": "Trước khi đọc “Phim hoạt hình “chú ốc sên bay””, GV chiếu ảnh, video hoặc ảnh 360 độ về địa danh, di sản"
     },
     {
      "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: trên mạng có nhiều ảnh phong cảnh, ảnh di tích do trí tuệ nhân tạo tạo ra hoặc chỉnh sửa cho lung linh hơn thực tế"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Nhận biết công nghệ số/AI hỗ trợ làm phim hoạt hình; giáo viên minh họa, học sinh không tạo tài khoản."
+     "text": "Chỉ dùng tư liệu do GV chọn trước; thời lượng xem nghe ngắn"
     }
    ],
    "note": ""
@@ -2101,11 +1839,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Khi tìm hiểu nhân vật phim hoạt hình, có thể dùng tranh/ảnh minh họa; nhắc HS tôn trọng bản quyền."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -2129,8 +1862,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước khi đọc “Nghệ thuật múa ba lê”, GV chiếu ảnh, video hoặc ảnh 360 độ về địa danh, di sản"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: trên mạng có nhiều ảnh phong cảnh, ảnh di tích do trí tuệ nhân tạo tạo ra hoặc chỉnh sửa cho lung linh hơn thực tế"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Khai thác clip/tư liệu nghệ thuật múa có nguồn rõ ràng; tôn trọng bản quyền."
+     "text": "Chỉ dùng tư liệu do GV chọn trước; thời lượng xem nghe ngắn"
     }
    ],
    "note": ""
@@ -2148,13 +1891,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Tìm ý cho đoạn văn bằng sơ đồ tư duy; không dùng công cụ số viết thay nội dung của HS."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2171,16 +1908,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng; chú ý ghi nguồn và chọn nội dung phù hợp lứa tuổi."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng; chú ý ghi nguồn và chọn nội dung phù hợp lứa tuổi."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2262,7 +1989,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước khi đọc “Sự tích chú tễu”, GV chiếu ảnh, video hoặc ảnh 360 độ về địa danh, di sản"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV nêu: trên mạng có nhiều ảnh phong cảnh, ảnh di tích do trí tuệ nhân tạo tạo ra hoặc chỉnh sửa cho lung linh hơn thực tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng tư liệu do GV chọn trước; thời lượng xem nghe ngắn"
+    }
+   ],
    "note": ""
   },
   {
@@ -2294,18 +2037,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Trao đổi về bộ phim yêu thích; không chia sẻ đường dẫn/nội dung không phù hợp."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trao đổi về bộ phim yêu thích; không chia sẻ đường dẫn/nội dung không phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2451,11 +2183,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Tìm hiểu cách tả người qua tư liệu/ảnh chân dung có nguồn; chọn chi tiết tiêu biểu."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -2509,16 +2236,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng; ghi tên nguồn, chia sẻ cảm nhận riêng."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng; ghi tên nguồn, chia sẻ cảm nhận riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2610,13 +2327,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Lập dàn ý bằng sơ đồ tư duy số đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2632,18 +2343,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nói và nghe về nét đẹp học đường; liên hệ ứng xử văn minh khi giao tiếp trực tuyến."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nói và nghe về nét đẹp học đường; liên hệ ứng xử văn minh khi giao tiếp trực tuyến."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2731,16 +2431,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận biết công cụ gợi ý/kiểm tra chính tả có AI; học sinh tự viết, không để AI viết thay."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "Nhận biết công cụ gợi ý/kiểm tra chính tả có AI; học sinh tự viết, không để AI viết thay."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -2762,11 +2452,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng chủ đề vẻ đẹp cuộc sống; chọn thông tin/tác phẩm phù hợp."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2820,13 +2505,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "",
-     "text": "Dùng công cụ rà soát để phát hiện lỗi; tự quyết định cách chỉnh sửa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2880,18 +2559,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Thảo luận ý kiến khác biệt; rèn phản hồi văn minh, tôn trọng người khác cả trực tiếp và trực tuyến."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Thảo luận ý kiến khác biệt; rèn phản hồi văn minh, tôn trọng người khác cả trực tiếp và trực tuyến."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2983,13 +2651,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Tìm ý từ tư liệu về vùng miền/sự việc; biết chọn thông tin cần thiết, không chép nguyên văn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3006,16 +2668,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng chủ đề hương sắc trăm miền; ghi nguồn tư liệu địa phương."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng chủ đề hương sắc trăm miền; ghi nguồn tư liệu địa phương."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -3123,18 +2775,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Giới thiệu địa điểm tham quan, du lịch; có thể dùng bản đồ số/tranh ảnh, không công khai thông tin cá nhân."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Giới thiệu địa điểm tham quan, du lịch; có thể dùng bản đồ số/tranh ảnh, không công khai thông tin cá nhân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3182,13 +2823,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Tìm hiểu cách viết chương trình hoạt động; có thể lập bảng kế hoạch hoạt động trên giấy hoặc công cụ số đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3220,13 +2855,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Viết chương trình hoạt động theo mẫu; khuyến khích trình bày rõ mục tiêu, thời gian, phân công."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3243,16 +2872,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng; chọn nguồn đọc phù hợp, ghi nhận xét của cá nhân."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng; chọn nguồn đọc phù hợp, ghi nhận xét của cá nhân."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -3306,18 +2925,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Chỉnh sửa chương trình hoạt động theo góp ý; rèn chia sẻ, phản hồi có văn hóa."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Chỉnh sửa chương trình hoạt động theo góp ý; rèn chia sẻ, phản hồi có văn hóa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3349,13 +2957,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Viết chương trình hoạt động; có thể trình bày bằng bảng/sơ đồ, không lệ thuộc mẫu có sẵn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3371,13 +2973,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác tư liệu về sản vật địa phương; khuyến khích liên hệ thực tế địa phương."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3489,13 +3085,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác tư liệu về di sản/văn hiến qua tranh ảnh, bản đồ, nguồn tin đáng tin cậy."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3583,16 +3173,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng; ghi nguồn, tránh sao chép cảm nhận mẫu."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng; ghi nguồn, tránh sao chép cảm nhận mẫu."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -3613,13 +3193,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Tìm hiểu thêm về nhân vật lịch sử qua nguồn phù hợp, biết chọn thông tin chính."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3678,13 +3252,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác tư liệu về nhân vật văn hóa; biết đối chiếu thông tin cơ bản từ nguồn tin đáng tin cậy."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3716,13 +3284,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Nói và nghe về đền ơn đáp nghĩa; có thể chuẩn bị thông điệp/thiệp tri ân số đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3739,11 +3301,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Tìm hiểu về Anh hùng Lao động Trần Đại Nghĩa qua tư liệu số có hướng dẫn; ghi nguồn."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -3848,16 +3405,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng; ưu tiên sách/tư liệu phù hợp, có nguồn rõ ràng."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng; ưu tiên sách/tư liệu phù hợp, có nguồn rõ ràng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -4003,13 +3550,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Khai thác tư liệu về hòa bình, Trái Đất; chọn thông tin phù hợp, ghi nguồn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4041,13 +3582,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Lập dàn ý bằng sơ đồ số; sắp xếp ý theo bố cục."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4102,16 +3637,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng chủ đề thế giới; tôn trọng bản quyền và nguồn tư liệu."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đọc mở rộng chủ đề thế giới; tôn trọng bản quyền và nguồn tư liệu."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -4187,18 +3712,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Tìm hiểu chiến dịch Giờ Trái Đất; thảo luận cách truyền thông số tích cực, có trách nhiệm."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Tìm hiểu chiến dịch Giờ Trái Đất; thảo luận cách truyền thông số tích cực, có trách nhiệm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4214,13 +3728,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi nêu ý kiến phản đối một hiện tượng, rèn thái độ lịch sự, có dẫn chứng, không công kích cá nhân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4236,18 +3744,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "Chia sẻ trải nghiệm ngày hè an toàn; không công khai lịch trình, địa chỉ, hình ảnh riêng tư."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chia sẻ trải nghiệm ngày hè an toàn; không công khai lịch trình, địa chỉ, hình ảnh riêng tư."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4263,18 +3760,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Liên hệ sử dụng điện thoại di động; nhận biết trợ lý giọng nói/gợi ý thông minh, bảo vệ dữ liệu cá nhân, cân bằng thời gian sử dụng."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "Liên hệ sử dụng điện thoại di động; nhận biết trợ lý giọng nói/gợi ý thông minh, bảo vệ dữ liệu cá nhân, cân bằng thời gian sử dụng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4308,11 +3794,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Viết ý kiến phản đối hiện tượng lạm dụng thiết bị số; lập luận văn minh, có dẫn chứng phù hợp."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
@@ -4333,18 +3814,7 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Nhận biết thành phố thông minh sử dụng dữ liệu/công nghệ/AI trong giao thông, dịch vụ đô thị; GV minh họa, HS không tạo tài khoản AI."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "Nhận biết thành phố thông minh sử dụng dữ liệu/công nghệ/AI trong giao thông, dịch vụ đô thị; GV minh họa, HS không tạo tài khoản AI."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4360,18 +3830,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đánh giá, chỉnh sửa đoạn văn về hiện tượng công nghệ; nhấn mạnh sử dụng AI trung thực, không để AI viết thay."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "Đánh giá, chỉnh sửa đoạn văn về hiện tượng công nghệ; nhấn mạnh sử dụng AI trung thực, không để AI viết thay."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4388,16 +3847,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng về thành phố thông minh/công nghệ trong đời sống; ghi nguồn, trao đổi về sử dụng AI có trách nhiệm."
-    },
-    {
-     "code": "AI-NB",
-     "level": "",
-     "text": "Đọc mở rộng về thành phố thông minh/công nghệ trong đời sống; ghi nguồn, trao đổi về sử dụng AI có trách nhiệm."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -4776,7 +4225,7 @@
   "file": "assets/docs/lop5/Tieng Viet - Lop 5.docx",
   "name": "Tieng Viet - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 54342,
+  "size": 50493,
   "updated": "2026-09-07"
  }
 }

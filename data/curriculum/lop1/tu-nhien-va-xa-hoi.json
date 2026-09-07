@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 68
+  "integrations": 111
  },
  "lessons": [
   {
@@ -39,17 +39,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tranh gia đình Hoa phóng to, HS gọi tên thành viên, nói việc đang làm; chiếu ảnh gia đình HS gửi trước"
+     "text": "GV chiếu tranh gia đình Hoa trong bài “Kể về gia đình” phóng to trên màn hình"
     },
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng máy tính xếp ảnh gia đình HS thành trang trình chiếu “Gia đình lớp em”; HS chọn ảnh mình, đọc tên người thân"
+     "text": "GV dùng máy tính xếp ảnh hoặc tranh vẽ gia đình của HS thành trang trình chiếu “Gia đình lớp em” ngay tại lớp"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh gia đình chỉ đưa khi cha mẹ đồng ý, chiếu xong xoá, không đăng mạng."
+     "text": "Ảnh gia đình là chuyện riêng của mỗi nhà: chỉ đưa ảnh khi cha mẹ đồng ý"
     },
     {
      "code": "KNS",
@@ -73,21 +73,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu tranh hoạt động nghỉ ngơi của gia đình Hoa, HS nói ai làm gì; mở hình việc nhà vừa sức để HS chọn"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp thẻ việc tốt HS vừa vẽ bằng điện thoại, chiếu thành bộ sưu tập “Việc tốt của lớp em”; HS nói việc sẽ làm tối nay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh gia đình chỉ đưa khi cha mẹ đồng ý, chiếu xong xoá, không đăng mạng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -113,17 +98,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tranh nhà Minh và hình, video về nhà một tầng, nhiều tầng, chung cư, nhà sàn; HS gọi tên kiểu nhà, nói nhà mình kiểu nào"
+     "text": "GV chiếu tranh vị trí nhà Minh trong bài “Ngôi nhà của em” và hình ảnh, đoạn video ngắn về một số kiểu nhà: nhà một tầng"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tình huống Minh mời Hoa đến nhà, hiện gợi ý tên đường, số nhà để HS chọn; HS chỉ chỗ chưa an toàn trong hình"
+     "text": "GV chiếu tình huống Minh mời Hoa đến nhà mà chưa nói địa chỉ, hiện lần lượt gợi ý tên đường, số nhà"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Không chỉ nhà mình trên bản đồ khi chưa hỏi cha mẹ."
+     "text": "Không chỉ cho người khác biết chính xác nhà mình ở chỗ nào trên bản đồ khi chưa"
     },
     {
      "code": "KNS",
@@ -146,23 +131,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu tranh các phòng trong nhà Minh phóng to; HS gọi tên phòng, nói công dụng; so sánh ảnh góc học tập gọn và bừa bộn"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác sơ đồ ngôi nhà với thẻ đồ dùng; HS lên chỉ chọn thẻ, GV kéo vào phòng, máy báo đúng sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chỉ nhà mình trên bản đồ khi chưa hỏi cha mẹ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -210,23 +179,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu cặp ảnh một phòng ở trước và sau khi được sắp xếp, phóng to lần lượt từng góc: bàn học, giá sách, hộp đồ chơi"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Sau khi HS vẽ xong góc học tập gọn gàng, GV chụp ảnh sản phẩm của từng nhóm rồi chiếu lên màn hình thành bộ sưu tập của"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -244,9 +197,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
+     "text": "GV chiếu bộ ảnh đồ dùng trong nhà sắp theo từng phòng, trong đó có các đồ dùng dùng điện như tivi, tủ lạnh, nồi cơm điện"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò kéo thả trên màn hình: đưa mỗi đồ dùng về đúng phòng của nó; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đồ dùng dùng điện chỉ được người lớn cắm, rút; HS không tự ý bật tắt"
     },
     {
      "code": "QPAN",
@@ -271,14 +234,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó: nhận biết nguy cơ, xử lí bước đầu và báo ngay cho người lớn."
     }
    ],
    "note": ""
@@ -346,14 +309,24 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh chụp và sơ đồ số của trường để HS nhận ra vị trí các phòng học, sân chơi, thư viện"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chụp ảnh lớp học ở vài góc, chiếu lên màn hình rồi cùng HS đánh dấu vị trí bảng, cửa sổ, góc học tập"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Muốn chụp ảnh có bạn trong khung hình thì phải hỏi bạn trước"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -417,14 +390,24 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh chụp và sơ đồ số của trường để HS nhận ra vị trí các phòng học, sân chơi, thư viện"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chụp ảnh lớp học ở vài góc, chiếu lên màn hình rồi cùng HS đánh dấu vị trí bảng, cửa sổ, góc học tập"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Muốn chụp ảnh có bạn trong khung hình thì phải hỏi bạn trước"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -497,6 +480,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh chụp và sơ đồ số của trường để HS nhận ra vị trí các phòng học, sân chơi, thư viện"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chụp ảnh lớp học ở vài góc, chiếu lên màn hình rồi cùng HS đánh dấu vị trí bảng, cửa sổ, góc học tập"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Muốn chụp ảnh có bạn trong khung hình thì phải hỏi bạn trước"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -584,14 +582,24 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đồ số ở chế độ ảnh vệ tinh, phóng to khu vực quanh trường để HS nhận ra chợ, cánh đồng, dòng sông, khu phố"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mời từng HS lên chỉ trên màn hình và giới thiệu với cả lớp nơi mình sống; HS tập nói câu giới thiệu rõ ràng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không chỉ rõ nhà mình ở đâu trên bản đồ cho người lạ biết"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp và hợp tác trong gia đình, lớp học, cộng đồng."
     }
    ],
    "note": ""
@@ -626,6 +634,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video ngắn về công việc của một số nghề ở địa phương (nông dân, thợ may, người bán hàng, bác sĩ"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hẹn trước và gọi video cho một phụ huynh làm nghề tiêu biểu để bác nói chuyện với lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Cuộc gọi do GV thực hiện trên thiết bị của GV"
+    },
     {
      "code": "STEM",
      "level": "",
@@ -684,6 +707,21 @@
      "code": "QPAN",
      "level": "",
      "text": "Tích hợp GD quốc phòng an ninh"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video phong tục đón Tết ở ba miền: gói bánh chưng, chợ hoa ngày giáp Tết, múa lân"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS nói lời chúc Tết, quay lại một lời chúc của lớp bằng điện thoại rồi mở cho cả lớp nghe lại để các em"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đoạn quay lời chúc chỉ để cả lớp nghe lại rồi xoá ngay, không gửi ra ngoài lớp"
     }
    ],
    "note": ""
@@ -724,6 +762,21 @@
      "text": "Bài 7: Đèn tín hiệu và biển báo giao thông"
     },
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video mô phỏng tình huống trên đường: đèn tín hiệu đổi màu, vạch sang đường, xe bất ngờ đi ra từ ngõ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đồ số đoạn đường quanh trường, chỉ cho HS chỗ có vạch sang đường và chỗ khuất tầm nhìn cần đặc biệt chú ý."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không vừa đi bộ vừa xem điện thoại, không đeo tai nghe khi qua đường"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
@@ -746,14 +799,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó: nhận biết nguy cơ, xử lí bước đầu và báo ngay cho người lớn."
     }
    ],
    "note": ""
@@ -820,6 +873,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video tua nhanh cảnh hạt nảy mầm, cây lớn lên và ra hoa chỉ trong vài phút — quá trình kéo dài hàng tuần mà HS"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò phân loại trên màn hình: kéo ảnh từng cây về nhóm cây cho bóng mát, cây ăn quả, cây hoa, cây rau"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Có loại cây, loại quả trông rất đẹp nhưng lại độc; HS không tự hái"
+    },
     {
      "code": "STEM",
      "level": "",
@@ -892,6 +960,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video hướng dẫn từng bước công việc trong bài “CHĂM SÓC VÀ BẢO VỆ CÂY TRỒNG” (tưới nước đúng lượng, nhổ cỏ, cho ăn, dọn chuồng)"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu cạnh nhau hai ảnh cùng một cây trồng hoặc cùng một con vật: một bên được chăm sóc tốt, một bên bị bỏ mặc"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ chăm sóc cây trồng, vật nuôi khi có người lớn ở bên"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN sống thân thiện với môi trường: việc nhỏ vừa sức để giữ sạch nơi mình sống."
@@ -935,6 +1018,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở tiếng kêu thật của một số con vật (gà, mèo, ếch, ve sầu) cho HS đoán rồi mới hiện hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS phân loại ngay trên màn hình: con vật nuôi trong nhà, con vật sống dưới nước, con vật có ích, con vật có hại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không lại gần, không trêu chọc con vật lạ ngoài đời chỉ vì thấy chúng dễ thương trong"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1001,6 +1099,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video hướng dẫn từng bước công việc trong bài “CHĂM SÓC VÀ BẢO VỆ VẬT NUÔI” (tưới nước đúng lượng, nhổ cỏ, cho ăn, dọn chuồng)"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu cạnh nhau hai ảnh cùng một cây trồng hoặc cùng một con vật: một bên được chăm sóc tốt, một bên bị bỏ mặc"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ chăm sóc cây trồng, vật nuôi khi có người lớn ở bên"
+    },
     {
      "code": "STEM",
      "level": "",
@@ -1088,6 +1201,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng mô hình cơ thể người xoay được trên máy tính để HS nhìn cơ thể từ phía trước, phía sau"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS kéo thả tên từng bộ phận vào đúng vị trí trên hình cơ thể chiếu ở màn hình; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trên cơ thể có những vùng riêng tư; HS không cho ai chụp ảnh"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
@@ -1154,6 +1282,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS trải nghiệm từng giác quan bằng thiết bị: mở đoạn âm thanh để nghe và đoán vật phát ra tiếng"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chỉnh to nhỏ âm lượng và phóng to, thu nhỏ hình trên màn hình để HS tự nhận ra mắt và tai phải làm việc vất vả"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nhìn màn hình lâu làm mỏi mắt, nghe tai nghe to làm hại tai: HS ngồi cách màn"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự chăm sóc bản thân: giữ vệ sinh, ăn uống, nghỉ ngơi điều độ."
@@ -1218,7 +1361,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh phóng to nhãn một hộp sữa, gói bánh và chỉ cho HS chỗ ghi hạn sử dụng"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS kéo thả các món ăn vào bữa sáng, bữa trưa, bữa tối ngay trên màn hình để cả lớp cùng dựng một ngày ăn uống"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không đòi mua đồ ăn, nước ngọt chỉ vì thấy quảng cáo hấp dẫn trên tivi, điện thoại"
+    }
+   ],
    "note": ""
   },
   {
@@ -1250,7 +1409,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video các hoạt động vận động phù hợp lứa tuổi và cặp ảnh so sánh tư thế ngồi đúng - ngồi sai khi học bài"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV bật hẹn giờ trên điện thoại cho cả lớp thấy: cứ sau 20 phút ngồi học thì đứng dậy vận động một lần"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ngồi xem tivi, điện thoại quá lâu làm mỏi mắt, đau lưng và khó ngủ"
+    }
+   ],
    "note": ""
   },
   {
@@ -1282,7 +1457,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phim hoạt hình tình huống: người lạ cho quà, rủ đi cùng, hỏi xin số điện thoại"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống trên mạng: người lạ nhắn tin làm quen qua điện thoại của cha mẹ, xin ảnh hoặc hỏi em học trường nào"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không nhận quà, không đi theo người lạ dù gặp ngoài đời hay quen qua mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -1364,6 +1555,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng ứng dụng bầu trời sao trên máy tính, chiếu bầu trời ban ngày rồi tua tới ban đêm để HS thấy Mặt Trời lặn"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV tua nhanh nhiều ngày liên tiếp để HS nhận ra Mặt Trăng đổi hình dạng dần dần; HS nói lại quy luật mình vừa quan sát được."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tuyệt đối không nhìn thẳng vào Mặt Trời, kể cả qua ống nhòm hay qua camera điện thoại"
+    },
+    {
      "code": "STEM",
      "level": "",
      "text": "Bầu trời ngày và đêm (TNXH – Mĩ thuật) — dạy thay cho tiết này."
@@ -1384,13 +1590,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "quan sát tranh ảnh/clip do GV trình chiếu về đối tượng đang học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1406,13 +1606,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "quan sát tranh ảnh/clip do GV trình chiếu về đối tượng đang học."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1433,6 +1627,26 @@
      "code": "STEM",
      "level": "",
      "text": "STEM Bài 16: Thời tiết và trang phục"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở trang dự báo thời tiết trên máy tính, chiếu bản đồ mây và nhiệt độ của địa phương trong tuần; HS đọc các kí hiệu nắng"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Cả lớp ghi lại thời tiết thật quan sát được mỗi ngày rồi đối chiếu với bản dự báo hôm trước"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV nêu cho HS nhận biết: máy tính dự báo thời tiết bằng cách học từ rất nhiều số liệu đã ghi trong nhiều năm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Dự báo thời tiết là dự đoán nên vẫn có thể sai: HS vẫn phải nhìn trời và"
     }
    ],
    "note": ""
@@ -1791,7 +2005,7 @@
   "file": "assets/docs/lop1/Tu nhien va Xa hoi - Lop 1.docx",
   "name": "Tu nhien va Xa hoi - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44352,
+  "size": 46669,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 40
+  "integrations": 92
  },
  "lessons": [
   {
@@ -34,17 +34,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình phóng to bàn tay bẩn và bàn tay sạch sau khi rửa xà phòng; HS nói vì sao cần giữ sạch tay"
+     "text": "GV chiếu hình ảnh minh hoạ phóng to bàn tay bẩn có nhiều vết bẩn nhỏ mắt thường không thấy và bàn tay sạch sau khi rửa xà"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở video các bước rửa tay trên tivi, dừng từng bước cho HS làm động tác rửa tay khô; HS giơ thẻ mặt cười"
+     "text": "GV mở video minh hoạ các bước rửa tay bằng xà phòng trên tivi, dừng ở từng bước cho HS làm động tác rửa tay khô theo"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh, video do GV chọn trước; HS không tự tìm video vi khuẩn."
+     "text": "Ảnh và video trong tiết học đều do GV chọn trước"
     },
     {
      "code": "KNS",
@@ -71,17 +71,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình phóng to hàm răng sạch, răng sâu, bạn nhỏ cười tươi; HS nêu lợi ích giữ răng sạch"
+     "text": "GV chiếu hình ảnh phóng to hàm răng sạch và chiếc răng bị sâu cùng hình bạn nhỏ cười tươi trong bài “Em giữ sạch răng miệng”"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở video chải răng đúng cách trên tivi, dừng từng bước; HS chải răng khô theo mô hình, chọn lời khuyên cho bạn"
+     "text": "GV mở video minh hoạ chải răng đúng cách trên tivi, dừng ở từng bước: lấy kem vừa đủ, chải mặt ngoài, mặt trong, mặt nhai, súc miệng"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "HS chỉ xem hình GV chọn sẵn, không tự tra hình bệnh trên mạng."
+     "text": "HS chỉ xem hình ảnh răng miệng do GV chọn sẵn"
     },
     {
      "code": "KNS",
@@ -160,14 +160,24 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu đoạn phim tình huống gia đình gắn với bài “GIA ĐÌNH CỦA EM”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại của mình gọi video cho một phụ huynh đã hẹn trước để cả lớp quan sát cách chào hỏi, hỏi thăm ông bà"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ gọi điện, gọi video cho người thân khi có người lớn ở bên; không nghe máy"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giáo dục tinh thần đoàn kết, yêu hoà bình; liên hệ hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và chia sẻ: biết cảm thông, giúp đỡ bạn và làm việc cùng nhau."
     }
    ],
    "note": ""
@@ -187,9 +197,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ảnh và chuyện riêng của gia đình chỉ chia sẻ khi người lớn đồng ý."
+     "text": "GV chiếu đoạn phim tình huống gia đình gắn với bài “GIA ĐÌNH CỦA EM”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại của mình gọi video cho một phụ huynh đã hẹn trước để cả lớp quan sát cách chào hỏi, hỏi thăm ông bà"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ gọi điện, gọi video cho người thân khi có người lớn ở bên; không nghe máy"
     }
    ],
    "note": ""
@@ -209,9 +229,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ảnh và chuyện riêng của gia đình chỉ chia sẻ khi người lớn đồng ý."
+     "text": "GV chiếu đoạn phim tình huống gia đình gắn với bài “LỄ PHÉP, VÂNG LỜI ÔNG BÀ, CHA MẸ, ANH CHỊ”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại của mình gọi video cho một phụ huynh đã hẹn trước để cả lớp quan sát cách chào hỏi, hỏi thăm ông bà"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ gọi điện, gọi video cho người thân khi có người lớn ở bên; không nghe máy"
     }
    ],
    "note": ""
@@ -231,9 +261,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ảnh và chuyện riêng của gia đình chỉ chia sẻ khi người lớn đồng ý."
+     "text": "GV chiếu đoạn phim tình huống gia đình gắn với bài “QUAN TÂM, CHĂM SÓC ÔNG BÀ”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại của mình gọi video cho một phụ huynh đã hẹn trước để cả lớp quan sát cách chào hỏi, hỏi thăm ông bà"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ gọi điện, gọi video cho người thân khi có người lớn ở bên; không nghe máy"
     }
    ],
    "note": ""
@@ -253,9 +293,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ảnh và chuyện riêng của gia đình chỉ chia sẻ khi người lớn đồng ý."
+     "text": "GV chiếu đoạn phim tình huống gia đình gắn với bài “QUAN TÂM, CHĂM SÓC CHA MẸ”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại của mình gọi video cho một phụ huynh đã hẹn trước để cả lớp quan sát cách chào hỏi, hỏi thăm ông bà"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ gọi điện, gọi video cho người thân khi có người lớn ở bên; không nghe máy"
     }
    ],
    "note": ""
@@ -275,9 +325,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu đoạn phim tình huống gia đình gắn với bài “CHĂM SÓC, GIÚP ĐỠ EM NHỎ”"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "trẻ em có quyền được bảo vệ trên môi trường số; biết lên tiếng nhờ người lớn khi thấy bạn bị trêu chọc trên mạng."
+     "text": "GV dùng điện thoại của mình gọi video cho một phụ huynh đã hẹn trước để cả lớp quan sát cách chào hỏi, hỏi thăm ông bà"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ gọi điện, gọi video cho người thân khi có người lớn ở bên; không nghe máy"
     },
     {
      "code": "QPAN",
@@ -318,14 +378,24 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV mở tệp thời gian biểu trên máy tính, cùng HS kéo thả tên các việc trong ngày (ngủ dậy, đi học, học bài, xem tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV bật báo thức và chức năng hẹn giờ trên điện thoại cho cả lớp nghe và nhìn thấy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xem tivi, điện thoại quá giờ là lí do thường gặp khiến HS lớp 1 đi học muộn"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giáo dục ý thức chấp hành nội quy, pháp luật — nền nếp đầu tiên của người công dân giữ gìn an ninh, trật tự."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
     }
    ],
    "note": ""
@@ -343,7 +413,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV mở tệp thời gian biểu trên máy tính, cùng HS kéo thả tên các việc trong ngày (ngủ dậy, đi học, học bài, xem tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV bật báo thức và chức năng hẹn giờ trên điện thoại cho cả lớp nghe và nhìn thấy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xem tivi, điện thoại quá giờ là lí do thường gặp khiến HS lớp 1 đi học muộn"
+    }
+   ],
    "note": ""
   },
   {
@@ -393,11 +479,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
@@ -420,11 +501,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "rửa tay sạch trước khi chạm vào máy tính, ti vi của lớp; giữ gìn thiết bị chung."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự phục vụ: tự làm lấy việc của mình, giữ gìn vệ sinh cá nhân và nơi ở."
@@ -446,11 +522,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "rửa tay sạch trước khi chạm vào máy tính, ti vi của lớp; giữ gìn thiết bị chung."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -490,6 +561,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV mở tệp thời gian biểu trên máy tính, cùng HS kéo thả tên các việc trong ngày (ngủ dậy, đi học, học bài, xem tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV bật báo thức và chức năng hẹn giờ trên điện thoại cho cả lớp nghe và nhìn thấy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xem tivi, điện thoại quá giờ là lí do thường gặp khiến HS lớp 1 đi học muộn"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN quản lí thời gian: lập và thực hiện thời gian biểu hằng ngày của bản thân."
@@ -511,6 +597,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV mở tệp thời gian biểu trên máy tính, cùng HS kéo thả tên các việc trong ngày (ngủ dậy, đi học, học bài, xem tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV bật báo thức và chức năng hẹn giờ trên điện thoại cho cả lớp nghe và nhìn thấy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xem tivi, điện thoại quá giờ là lí do thường gặp khiến HS lớp 1 đi học muộn"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -578,6 +679,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hai mẩu tin cùng nói về một sự việc: một tin thật và một tin bịa kèm ảnh ghép"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống: một bạn nhỏ kể lại cho cả nhà nghe chuyện bạn ấy xem được trên điện thoại nhưng chuyện đó không có thật"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không phải điều gì thấy trên tivi, điện thoại cũng là thật; khi nghe được một tin lạ"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: dám nhận lỗi và sửa lỗi; chịu trách nhiệm về việc mình làm."
@@ -598,7 +714,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống: một bạn để quên điện thoại, máy tính bảng trên bàn, bạn khác mở ra xem ảnh và tin nhắn bên trong"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS sắm vai hỏi mượn: xin phép trước khi dùng đồ của bạn, kể cả sách vở"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đồ dùng của người khác và cả những gì có trong điện thoại"
+    }
+   ],
    "note": ""
   },
   {
@@ -614,7 +746,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống: em nhặt được một chiếc điện thoại ở sân trường"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh bảng tin của trường và nêu cách nhà trường thông báo tìm người đánh mất"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nhặt được điện thoại thì đem nộp ngay, không mở xem ảnh và tin nhắn bên trong"
+    }
+   ],
    "note": ""
   },
   {
@@ -632,9 +780,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
+     "text": "GV chiếu tình huống trên màn hình: bạn nhỏ làm hỏng đồ của bạn rồi im lặng"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu: khi lỡ làm bạn buồn mà chưa gặp được bạn, em có thể nhờ cha mẹ gọi điện để nói lời xin lỗi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS không dùng điện thoại của người lớn để nhắn tin, gọi điện khi chưa được phép"
     },
     {
      "code": "KNS",
@@ -675,6 +833,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video mô phỏng tình huống giao thông trước cổng trường: đèn tín hiệu, vạch kẻ đường, xe đi tới từ hai phía"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đồ số, phóng to đoạn đường từ trường về khu dân cư gần nhất"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tuyệt đối không vừa đi đường vừa nhìn điện thoại, không đeo tai nghe khi qua đường"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
@@ -695,7 +868,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video mô phỏng những nơi dễ xảy ra đuối nước: ao hồ, hố nước công trình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh chụp các biển cảnh báo nguy hiểm có thật ở địa phương để HS nhận mặt biển báo và nói ra việc cần làm khi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trên mạng có nhiều clip quay cảnh trẻ em nhảy xuống sông, xuống hồ trông rất vui"
+    }
+   ],
    "note": ""
   },
   {
@@ -711,7 +900,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video quay chậm cảnh nước sôi trào ra khỏi ấm và ảnh minh hoạ các vật nóng trong bếp để HS thấy rõ vì sao chỉ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu sơ đồ các bước sơ cứu bỏng bằng nước mát dưới dạng tranh rời, cho HS sắp xếp lại đúng thứ tự ngay trên màn hình."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chọn trước hình ảnh minh hoạ phù hợp lứa tuổi"
+    }
+   ],
    "note": ""
   },
   {
@@ -727,7 +932,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video mô phỏng các tình huống dễ ngã: sàn nhà vừa lau còn ướt, trèo lan can, chạy đuổi nhau trên cầu thang"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh chụp chính sân trường và hành lang lớp mình, mời HS lên chỉ trực tiếp trên màn hình những chỗ các em hay bị vấp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không bắt chước các trò leo trèo, nhào lộn mạo hiểm thấy trong clip trên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -743,7 +964,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hình động mô phỏng đường đi của dòng điện qua ổ cắm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chỉ ngay các thiết bị dùng điện có trong lớp (quạt, máy chiếu, dây sạc điện thoại) và cho HS nói việc nên làm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không cắm và rút sạc điện thoại khi tay ướt; không vừa cắm sạc vừa dùng điện thoại"
+    }
+   ],
    "note": ""
   },
   {
@@ -759,7 +996,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh phóng to nhãn một gói bánh, hộp sữa lên màn hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu và làm mẫu cách người lớn quét mã trên bao bì để tra thông tin sản phẩm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không ăn quà vặt lạ chỉ vì thấy quảng cáo hấp dẫn trên tivi, điện thoại"
+    }
+   ],
    "note": ""
   },
   {
@@ -776,6 +1029,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phim hoạt hình về Quy tắc năm ngón tay và vùng riêng tư trên cơ thể"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống trên môi trường mạng: có người lạ nhắn tin làm quen qua điện thoại của cha mẹ, xin ảnh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không gửi ảnh của mình, nhất là ảnh không mặc quần áo"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1074,7 +1342,7 @@
   "file": "assets/docs/lop1/Dao duc - Lop 1.docx",
   "name": "Dao duc - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43279,
+  "size": 45187,
   "updated": "2026-09-07"
  }
 }

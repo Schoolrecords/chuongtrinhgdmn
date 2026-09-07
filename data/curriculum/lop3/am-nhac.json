@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 18
+  "integrations": 44
  },
  "lessons": [
   {
@@ -66,17 +66,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở nhạc đệm, bản đọc mẫu Bài số 1 trên máy tính, bấm từng nốt trên đàn phím điện tử; HS nghe rồi đọc theo"
+     "text": "Ở phần đọc nhạc của tiết “Ôn bài hát Múa lân; Đọc nhạc Bài số 1”, GV mở tệp nhạc đệm và bản đọc mẫu trên máy tính"
     },
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV thu phần ôn bài Múa lân kết hợp gõ đệm bằng điện thoại, mở lại ngay; HS nhận xét chỗ hát chưa đều, gõ phách chưa khớp"
+     "text": "GV dùng điện thoại thu lại phần ôn bài hát Múa lân kết hợp gõ đệm theo phách của cả lớp"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Bản thu giọng hát chỉ nghe trong tiết rồi xoá, không đưa lên mạng."
+     "text": "Bản thu giọng hát của lớp chỉ nghe trong tiết học rồi xoá, không đưa lên mạng"
     }
    ],
    "note": ""
@@ -126,7 +126,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Tiết “Chủ đề 1: Lễ hội âm thanh — Tổ chức hoạt động Vận dụng – Sáng tạo” là tiết HS làm ra sản phẩm"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS nhận xét nhóm bạn theo đúng hai câu: một câu khen điều bạn làm được, một câu góp ý điều nên sửa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video quay phần biểu diễn của lớp chỉ dùng trong tiết học và trong nhóm lớp có sự"
+    }
+   ],
    "note": ""
   },
   {
@@ -143,11 +159,6 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ƯD",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -169,7 +180,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần nghe nhạc của tiết “Chủ đề 2: Em yêu Tổ quốc Việt Nam — Ôn bài hát Quốc ca Việt Nam"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS ngồi theo nhóm 4, mỗi em nói một câu về cảm nhận của mình sau khi nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nghe nhạc bằng loa hoặc tai nghe đều phải để âm lượng vừa phải"
+    }
+   ],
    "note": ""
   },
   {
@@ -217,13 +244,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ƯD",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -239,7 +260,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đọc nhạc của tiết “Chủ đề 3: Vui đến trường — Ôn bài hát Vui đến trường; Đọc nhạc Bài số 2”"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại thu lại phần ôn bài hát của cả lớp, mở cho HS nghe lại ngay và cùng nhận xét: chỗ nào hát chưa đều"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu giọng hát của lớp chỉ nghe trong tiết học rồi xoá, không đưa lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -255,7 +292,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Tiết “Chủ đề 3: Vui đến trường — Ôn đọc nhạc Bài số 2"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò “Nghe tiếng đoán nhạc cụ”: GV chỉ bật tiếng, không cho nhìn hình, HS giơ thẻ tên nhạc cụ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Các video, bản nhạc GV chiếu đều lấy từ nguồn chính thức và được GV xem trước"
+    }
+   ],
    "note": ""
   },
   {
@@ -287,13 +340,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ƯD",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -325,7 +372,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Tiết “Chủ đề 4: Em yêu làn điệu dân ca — Nghe nhạc Suối đàn t’rưng"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò “Nghe tiếng đoán nhạc cụ”: GV chỉ bật tiếng, không cho nhìn hình, HS giơ thẻ tên nhạc cụ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Các video, bản nhạc GV chiếu đều lấy từ nguồn chính thức và được GV xem trước"
+    }
+   ],
    "note": ""
   },
   {
@@ -389,13 +452,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ƯD",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -411,7 +468,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đọc nhạc của tiết “Chủ đề 5: Đón xuân về — Ôn bài hát Đón xuân về; Đọc nhạc Bài số 3”"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại thu lại phần ôn bài hát của cả lớp, mở cho HS nghe lại ngay và cùng nhận xét: chỗ nào hát chưa đều"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu giọng hát của lớp chỉ nghe trong tiết học rồi xoá, không đưa lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -432,6 +505,21 @@
      "code": "GDĐP",
      "level": "",
      "text": "- Kể được tên một số nhạc cụ dân tộc ở Nghệ An; - Mô tả được một số đặc điểm của ít nhất một nhạc cụ dân tộc ở Nghệ An (hình dáng, chất liệu, cách chơi, hoàn cảnh sử dụng); - Chơi hoặc chế tác mô phỏng lại được một nhạc cụ dân tộc ở Nghệ An ở mức độ đơn giản"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Tiết “Chủ đề 5: Đón xuân về — Ôn đọc nhạc Bài số 3; Thường thức âm nhạc: Giới thiệu đàn vi-ô-lông"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò “Nghe tiếng đoán nhạc cụ”: GV chỉ bật tiếng, không cho nhìn hình, HS giơ thẻ tên nhạc cụ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Các video, bản nhạc GV chiếu đều lấy từ nguồn chính thức và được GV xem trước"
     }
    ],
    "note": ""
@@ -465,13 +553,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ƯD",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -487,7 +569,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần nghe nhạc của tiết “Chủ đề 6: Đẹp mãi tuổi thơ — Ôn bài hát Đẹp mãi tuổi thơ; Nghe nhạc Ước mơ hồng”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS ngồi theo nhóm 4, mỗi em nói một câu về cảm nhận của mình sau khi nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nghe nhạc bằng loa hoặc tai nghe đều phải để âm lượng vừa phải"
+    }
+   ],
    "note": ""
   },
   {
@@ -535,13 +633,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ƯD",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -557,7 +649,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đọc nhạc của tiết “Chủ đề 7: Âm nhạc nước ngoài — Ôn bài hát Con chim non; Đọc nhạc Bài số 4”"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại thu lại phần ôn bài hát của cả lớp, mở cho HS nghe lại ngay và cùng nhận xét: chỗ nào hát chưa đều"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu giọng hát của lớp chỉ nghe trong tiết học rồi xoá, không đưa lên mạng"
+    }
+   ],
    "note": ""
   },
   {
@@ -573,7 +681,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Tiết “Chủ đề 7: Âm nhạc nước ngoài — Ôn đọc nhạc Bài số 4"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò “Nghe tiếng đoán nhạc cụ”: GV chỉ bật tiếng, không cho nhìn hình, HS giơ thẻ tên nhạc cụ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Các video, bản nhạc GV chiếu đều lấy từ nguồn chính thức và được GV xem trước"
+    }
+   ],
    "note": ""
   },
   {
@@ -605,13 +729,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ƯD",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -643,7 +761,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Tiết “Chủ đề 8: Vui đón hè — Thường thức âm nhạc: Cá heo với âm nhạc"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò “Nghe tiếng đoán nhạc cụ”: GV chỉ bật tiếng, không cho nhìn hình, HS giơ thẻ tên nhạc cụ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Các video, bản nhạc GV chiếu đều lấy từ nguồn chính thức và được GV xem trước"
+    }
+   ],
    "note": ""
   },
   {
@@ -952,7 +1086,7 @@
   "file": "assets/docs/lop3/Am nhac - Lop 3.docx",
   "name": "Am nhac - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42881,
+  "size": 43253,
   "updated": "2026-09-07"
  }
 }
