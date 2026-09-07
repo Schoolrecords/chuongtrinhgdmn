@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát theo Sách giáo viên (07/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 155
+  "integrations": 70
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở video mẫu tập hợp hàng dọc, hàng ngang, dóng hàng, điểm số, quay các hướng trên tivi trước khi ra sân"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Sau phần luyện tập, GV quay một đoạn ngắn lúc tổ thực hiện phối hợp tập hợp hàng, dóng hàng, quay các hướng bằng điện thoại GV"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mang thiết bị ra sân khi GV cho phép và đặt ở vị trí cố định ngoài"
+     "text": "Mở video mẫu tập hợp hàng dọc, hàng ngang, dóng hàng, điểm số, quay các hướng trên tivi trước khi ra sân."
     },
     {
      "code": "KNS",
@@ -91,19 +81,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu sơ đồ nhìn từ trên xuống của bài “Bài tập phối hợp biến đổi đội hình”: các chấm đánh số 1, 2"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Sau khi tập, mỗi tổ vẽ lại sơ đồ biến đổi từ một hàng thành ba hàng dọc của tổ mình trên bảng con hoặc ứng dụng vẽ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mang thiết bị ra sân khi GV cho phép và đặt ở vị trí cố định ngoài"
+     "text": "Sau khi tập."
     },
     {
      "code": "KNS",
@@ -152,17 +132,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Bài tập phối hợp đi đều vòng các hướng” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Bài tập phối hợp đi đều vòng các hướng” và giao cho mỗi tổ một việc quan sát riêng."
     },
     {
      "code": "KNS",
@@ -253,19 +223,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Động tác vươn thở, động tác tay với gậy” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa."
     },
     {
      "code": "KNS",
@@ -289,21 +249,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video mẫu động tác chân với gậy, cho chạy chậm và dừng hình ở nhịp khuỵu gối, nhịp đưa gậy ngang vai"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV quay một lượt tập của từng tổ rồi chiếu lại; HS tự chấm theo tiêu chí chiếu sẵn là đúng nhịp, đủ biên độ, gậy giữ ngang"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV báo trước khi quay, clip chỉ mở trong giờ rồi xoá, không đăng lên mạng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -329,17 +274,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Động tác bụng, động tác vặn mình với gậy” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Động tác bụng, động tác vặn mình với gậy” và giao cho mỗi tổ một việc quan sát riêng."
     },
     {
      "code": "KNS",
@@ -364,21 +299,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video mẫu động tác toàn thân với gậy, cho chạy chậm và dừng hình ở nhịp gập thân, nhịp đưa gậy lên cao"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV quay một lượt tập của từng tổ rồi chiếu lại; HS tự chấm theo tiêu chí chiếu sẵn là đúng trình tự, đủ biên độ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV báo trước khi quay, clip chỉ mở trong giờ rồi xoá, không đăng lên mạng"
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
@@ -401,19 +321,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video mẫu động tác nhảy và động tác điều hoà với gậy, cho chạy chậm và dừng hình ở nhịp bật nhảy"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV quay một lượt tập của từng tổ rồi chiếu lại; HS tự chấm theo tiêu chí chiếu sẵn là bật đúng nhịp, tiếp đất êm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV báo trước khi quay, clip chỉ mở trong giờ rồi xoá, không đăng lên mạng"
+     "text": "Quay một lượt tập của từng tổ."
     },
     {
      "code": "KNS",
@@ -437,21 +347,6 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực hiện “Hoàn thiện bài thể dục"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Mỗi cặp thống nhất một lỗi cần sửa rồi báo cáo với tổ; GV cho tổ chọn clip làm đúng nhất chiếu cho cả lớp xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chỉ dùng đúng việc quay động tác, không mở ứng dụng khác; hết tiết"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -477,17 +372,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS làm việc theo tổ với một đồng hồ bấm giờ GV giao: một bạn bấm giờ, một bạn đếm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS so kết quả hôm nay với lần đo trước và tự trả lời vì sao tăng hoặc giảm (tập đều hơn, mệt hơn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy để ở vị trí cố định ngoài khu vực tập, không cầm máy khi đang chạy nhảy"
+     "text": "HS làm việc theo tổ với một đồng hồ bấm giờ GV giao."
     }
    ],
    "note": ""
@@ -505,23 +390,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự lập nhật kí vận động gắn với bài thể dục với gậy: ghi ngày, nội dung, thời gian tập và cảm nhận sau buổi tập"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các ứng dụng và mạng xã hội tự gợi ý clip tập luyện"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự tập theo các bài tập nặng, bài giảm cân, cách nhịn ăn thấy trên mạng"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -573,17 +442,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Động tác lăn” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế chân"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Động tác lăn” và giao cho mỗi tổ một việc quan sát riêng."
     }
    ],
    "note": ""
@@ -619,19 +478,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video mẫu bài phối hợp lăn, cho chạy chậm và dừng hình ở tư thế thu người, ở lúc tay chống hỗ trợ"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV quay một lượt tập của từng tổ rồi chiếu lại; HS tự chấm theo tiêu chí chiếu sẵn là thu người gọn, lăn thẳng hướng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV báo trước khi quay, clip chỉ mở trong giờ rồi xoá, không đăng lên mạng; khi lăn"
+     "text": "Quay một lượt tập của từng tổ."
     }
    ],
    "note": ""
@@ -649,23 +498,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết trò chơi và bài tập bổ trợ lăn, GV chiếu sơ đồ khu tập và luật chơi lên màn hình rồi cùng HS bàn cách chia"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video các bài tập bổ trợ, dừng hình ở tư thế chuẩn bị và tư thế kết thúc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tập trên đệm hoặc thảm, khởi động kĩ khớp cổ và vai trước khi lăn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -685,17 +518,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực hiện “Hoàn thiện động tác lăn”"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Mỗi cặp thống nhất một lỗi cần sửa rồi báo cáo với tổ; GV cho tổ chọn clip làm đúng nhất chiếu cho cả lớp xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chỉ dùng đúng việc quay động tác, không mở ứng dụng khác; hết tiết"
+     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực."
     },
     {
      "code": "KNS",
@@ -719,21 +542,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự lập nhật kí vận động gắn với động tác lăn: ghi ngày, nội dung, thời gian tập và cảm nhận sau buổi tập"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các ứng dụng và mạng xã hội tự gợi ý clip tập luyện"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự tập theo các bài tập nặng, bài giảm cân, cách nhịn ăn thấy trên mạng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -759,17 +567,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Động tác lộn xuôi” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế chân"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Động tác lộn xuôi” và giao cho mỗi tổ một việc quan sát riêng."
     },
     {
      "code": "KNS",
@@ -816,19 +614,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video mẫu bài phối hợp lộn xuôi, cho chạy chậm và dừng hình ở tư thế chống tay, thu cằm, đẩy hông"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV quay một lượt tập của từng tổ rồi chiếu lại; HS tự chấm theo tiêu chí chiếu sẵn là chống tay đúng chỗ, thu cằm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV báo trước khi quay, clip chỉ mở trong giờ rồi xoá, không đăng lên mạng"
+     "text": "Quay một lượt tập của từng tổ."
     },
     {
      "code": "KNS",
@@ -852,21 +640,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết trò chơi và bài tập bổ trợ lộn xuôi, GV chiếu sơ đồ khu tập và luật chơi lên màn hình rồi cùng HS bàn cách"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video các bài tập bổ trợ, dừng hình ở tư thế chuẩn bị và tư thế kết thúc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tập trên đệm, khởi động kĩ khớp cổ, vai và lưng trước khi tập"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -892,17 +665,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực hiện “Hoàn thiện động tác lộn"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Mỗi cặp thống nhất một lỗi cần sửa rồi báo cáo với tổ; GV cho tổ chọn clip làm đúng nhất chiếu cho cả lớp xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chỉ dùng đúng việc quay động tác, không mở ứng dụng khác; hết tiết"
+     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực."
     },
     {
      "code": "KNS",
@@ -951,17 +714,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tự điền số liệu của mình vào bảng theo dõi chung của tổ cho phần lăn và lộn xuôi (bảng tính trên máy hoặc bảng kẻ sẵn)"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Mỗi tổ chọn 3 ảnh hoặc clip ngắn ghi lại quá trình luyện tập"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu phải ghi trung thực, không sửa cho đẹp"
+     "text": "HS tự điền số liệu của mình vào bảng theo dõi chung của tổ cho phần lăn và lộn xuôi (bảng tính trên máy hoặc bảng kẻ sẵn)."
     },
     {
      "code": "KNS",
@@ -1030,6 +783,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Hình thành kiến thức bài hoàn thiện phối hợp lăn và lộn xuôi, GV chiếu trên tivi video kĩ thuật."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
@@ -1054,17 +812,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tự lập nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học: ghi ngày, nội dung"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các ứng dụng và mạng xã hội tự gợi ý clip tập luyện"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự tập theo các bài tập nặng, bài giảm cân, cách nhịn ăn thấy trên mạng"
+     "text": "HS tự lập nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học."
     }
    ],
    "note": ""
@@ -1102,17 +850,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Động tác leo” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế chân"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Động tác leo” và giao cho mỗi tổ một việc quan sát riêng."
     },
     {
      "code": "KNS",
@@ -1158,6 +896,11 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Luyện tập, GV quay lại lượt leo của vài."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1205,17 +948,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực hiện “Hoàn thiện động tác leo”"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Mỗi cặp thống nhất một lỗi cần sửa rồi báo cáo với tổ; GV cho tổ chọn clip làm đúng nhất chiếu cho cả lớp xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chỉ dùng đúng việc quay động tác, không mở ứng dụng khác; hết tiết"
+     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực."
     },
     {
      "code": "KNS",
@@ -1264,17 +997,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Động tác trèo” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế chân"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Động tác trèo” và giao cho mỗi tổ một việc quan sát riêng."
     },
     {
      "code": "KNS",
@@ -1320,6 +1043,11 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Luyện tập, GV quay lượt trèo của vài."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1367,17 +1095,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực hiện “Hoàn thiện động tác trèo”"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Mỗi cặp thống nhất một lỗi cần sửa rồi báo cáo với tổ; GV cho tổ chọn clip làm đúng nhất chiếu cho cả lớp xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chỉ dùng đúng việc quay động tác, không mở ứng dụng khác; hết tiết"
+     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực."
     },
     {
      "code": "KNS",
@@ -1401,21 +1119,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự bắt mạch ở cổ tay, đếm trong 15 giây rồi nhân 4 để ra nhịp tim một phút"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu rõ: đồng hồ và điện thoại đếm bước, đo nhịp tim bằng cách để máy tự học từ rung động cổ tay và tín hiệu ánh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ số của thiết bị không dùng để đánh giá sức khoẻ hay xếp hạng bất kì ai"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1441,17 +1144,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Làm quen với bóng rổ và tư thế dẫn bóng tại chỗ” và giao cho mỗi tổ một việc quan sát riêng: tổ theo"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Làm quen với bóng rổ và tư thế dẫn bóng tại chỗ” và giao cho mỗi tổ một việc quan sát riêng."
     }
    ],
    "note": ""
@@ -1487,19 +1180,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu sơ đồ nhìn từ trên xuống có mũi tên chỉ đường di chuyển của “Dẫn bóng theo đường vòng, đường zíc-zắc”"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Sau khi tập, mỗi tổ vẽ lại sơ đồ đường di chuyển của tổ mình (trên bảng con hoặc bằng phần mềm vẽ đơn giản)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mang thiết bị ra sân khi GV cho phép và đặt ở vị trí cố định ngoài"
+     "text": "Sau khi tập."
     }
    ],
    "note": ""
@@ -1553,17 +1236,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Chuyền và bắt bóng bằng hai tay trước ngực” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Chuyền và bắt bóng bằng hai tay trước ngực” và giao cho mỗi tổ một việc quan sát riêng."
     }
    ],
    "note": ""
@@ -1581,7 +1254,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Luyện tập, GV quay lượt chuyền bóng của vài cặp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1617,17 +1296,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Làm quen động tác ném rổ bằng một tay trên vai tại chỗ” và giao cho mỗi tổ một việc quan sát riêng: tổ"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Làm quen động tác ném rổ bằng một tay trên vai tại chỗ” và giao cho mỗi tổ một việc quan sát riêng."
     }
    ],
    "note": ""
@@ -1645,23 +1314,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV dùng ứng dụng quay chậm có vạch chuẩn hoặc ứng dụng nhận diện tư thế để phân tích “Hai bước ném rổ bằng một tay trên vai”"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS đối chiếu nhận xét của máy với nhận xét của GV và của bạn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Kết quả chấm của ứng dụng chỉ để tham khảo"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1680,18 +1333,8 @@
    "integrations": [
     {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV dùng ứng dụng quay chậm có vạch chuẩn hoặc ứng dụng nhận diện tư thế để phân tích “Luyện tập hai bước ném rổ và phát triển"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS đối chiếu nhận xét của máy với nhận xét của GV và của bạn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Kết quả chấm của ứng dụng chỉ để tham khảo"
+     "level": "Nhận biết",
+     "text": "Dùng ứng dụng quay chậm có vạch chuẩn."
     }
    ],
    "note": ""
@@ -1709,23 +1352,7 @@
    "periods": 1,
    "lessonPeriods": 8,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS tra cứu luật của trò chơi gắn với “bóng rổ” trong tài liệu số GV chỉ định (trang của liên đoàn thể thao"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Khi có tình huống tranh cãi, tổ trọng tài của lớp mở lại phần luật đã ghi để quyết định"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở đúng trang GV đã chỉ định, không tự tìm kiếm thêm và không tải tệp lạ"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1745,17 +1372,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS xem clip quay từ dưới mặt nước cho bài “an toàn dưới nước và làm quen với nước” — góc quay này cho thấy đường đi của"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS tra bảng biển báo, cờ hiệu vùng nước nguy hiểm trong tài liệu số GV cung cấp rồi ghép mỗi biển báo với một chỗ nước có"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Học an toàn qua clip không thay được người lớn đi kèm: tuyệt đối không tự ra ao"
+     "text": "HS xem clip quay từ dưới mặt nước cho bài “an toàn dưới nước và làm quen với nước”."
     }
    ],
    "note": ""
@@ -1773,23 +1390,7 @@
    "periods": 1,
    "lessonPeriods": 8,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Động tác chân bơi trườn sấp” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế chân"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1805,7 +1406,13 @@
    "periods": 1,
    "lessonPeriods": 8,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Luyện tập, GV quay lượt tập của vài."
+    }
+   ],
    "note": ""
   },
   {
@@ -1821,23 +1428,7 @@
    "periods": 1,
    "lessonPeriods": 8,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Động tác tay bơi trườn sấp” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế chân"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1857,17 +1448,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu clip mẫu “Phối hợp động tác tay với nhịp thở” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế chân"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+     "text": "Chiếu clip mẫu “Phối hợp động tác tay với nhịp thở” và giao cho mỗi tổ một việc quan sát riêng."
     }
    ],
    "note": ""
@@ -1901,7 +1482,13 @@
    "periods": 1,
    "lessonPeriods": 8,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Luyện tập, GV quay lượt tập của vài."
+    }
+   ],
    "note": ""
   },
   {
@@ -1917,23 +1504,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS xem clip quay từ dưới mặt nước cho bài “phối hợp bơi trườn sấp và an toàn dưới nước” — góc quay này cho thấy đường đi"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS tra bảng biển báo, cờ hiệu vùng nước nguy hiểm trong tài liệu số GV cung cấp rồi ghép mỗi biển báo với một chỗ nước có"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Học an toàn qua clip không thay được người lớn đi kèm: tuyệt đối không tự ra ao"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2241,8 +1812,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Giao duc the chat - Lop 5.docx",
   "name": "Giao duc the chat - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46028,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 43906,
+  "updated": "2026-09-08"
  }
 }

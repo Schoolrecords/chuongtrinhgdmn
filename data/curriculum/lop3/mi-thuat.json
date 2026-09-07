@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 35
+  "integrations": 15
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Mở đầu “Chủ đề 1: EM YÊU MĨ THUẬT”, GV chiếu bộ ảnh và đoạn video ngắn về các hoạt động mĩ thuật trong và ngoài nhà trường"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu lần lượt ảnh tranh vẽ, tranh xé dán, tượng nặn, đồ vật trang trí"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV mở tập ảnh đã chuẩn bị sẵn trước giờ học"
+     "text": "Mở đầu “Chủ đề 1: EM YÊU MĨ THUẬT”, GV chiếu bộ ảnh và đoạn video ngắn về các hoạt động mĩ."
     }
    ],
    "note": ""
@@ -66,17 +56,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trong “Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC”"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV đặt hai ảnh hoa văn của hai dân tộc cạnh nhau trên màn hình; HS đối chiếu, chỉ ra điểm khác nhau về hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hoa văn của mỗi dân tộc gắn với văn hoá của cộng đồng ấy nên khi nói phải"
+     "text": "Trong “Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC”, GV chiếu video lễ hội."
     },
     {
      "code": "QPAN",
@@ -119,17 +99,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh cùng một cảnh chụp vào sáng sớm, giữa trưa và lúc hoàng hôn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS gọi tên màu chủ đạo của từng thời điểm và đoán cảnh nào cho cảm giác ấm, cảnh nào cho cảm giác lạnh."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV thao tác trên máy, HS quan sát và trả lời tại chỗ"
+     "text": "Chiếu ảnh cùng một cảnh chụp vào sáng sớm, giữa trưa."
     }
    ],
    "note": ""
@@ -183,17 +153,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh một pho tượng chụp từ nhiều phía và cho chuyển ảnh liên tục để HS thấy khối lồi, khối lõm, chỗ nhận sáng"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS chỉ trên màn hình chỗ khối nhô ra, chỗ khối lõm vào và nói vì sao mình nhận ra."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh tượng lấy từ trang của bảo tàng, GV nêu rõ tên tác phẩm và nơi lưu giữ"
+     "text": "Chiếu ảnh một pho tượng chụp từ nhiều phía."
     }
    ],
    "note": ""
@@ -247,17 +207,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp gần bề mặt các vật liệu: giấy báo, vải vụn, len, lá khô, vỏ ốc, nhựa, đất nặn; ảnh phóng to cho thấy vân"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS đoán tên vật liệu qua ảnh phóng to rồi kiểm tra bằng cách sờ mẫu vật thật GV đưa cho từng bàn."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chuẩn bị mẫu vật sạch, không sắc cạnh; HS rửa tay sau khi cầm vật liệu"
+     "text": "Chiếu ảnh chụp gần bề mặt các vật liệu."
     }
    ],
    "note": ""
@@ -311,17 +261,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bộ tranh, ảnh về nhà giáo qua các thời kì: lớp học tranh tre ngày trước, lớp học hôm nay, thầy cô ở vùng cao"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS chọn một bức và kể lại thầy cô trong tranh đang làm gì, HS trong tranh có gì khác với lớp mình."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh tư liệu do GV chọn từ nguồn đáng tin và có ghi nguồn"
+     "text": "Chiếu bộ tranh, ảnh về nhà giáo qua các thời kì."
     },
     {
      "code": "QPAN",
@@ -412,17 +352,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu một ảnh phong cảnh rồi lần lượt che phần gần, che phần xa để HS nhận ra vật ở gần thì to, rõ"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS ra cửa sổ nhìn ra sân trường và kiểm chứng lại: cây ở gần và cây ở xa khác nhau thế nào."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV thao tác che, mở trên máy; HS quan sát tại chỗ"
+     "text": "Chiếu một ảnh phong cảnh rồi lần lượt che phần gần, che phần xa."
     }
    ],
    "note": ""
@@ -492,17 +422,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tranh chân dung của hoạ sĩ và ảnh chụp chân dung, phóng to phần mắt và miệng để HS thấy chỉ cần đổi nét miệng"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS đoán cảm xúc của người trong từng bức và chỉ ra chi tiết nào cho mình biết điều đó."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV dùng tranh của hoạ sĩ có ghi tên tác giả và ảnh tư liệu đã chuẩn bị"
+     "text": "Chiếu tranh chân dung của hoạ sĩ và ảnh chụp chân dung, phóng to phần mắt."
     },
     {
      "code": "QPAN",
@@ -577,17 +497,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip quay chậm và ảnh chụp liên tiếp một người đang quét nhà, nấu cơm, bế em"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS chọn một dáng đã dừng hình, đứng lên bắt chước rồi kể tay chân mình đang ở tư thế nào."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV dùng clip tư liệu đã chuẩn bị"
+     "text": "Chiếu clip quay chậm và ảnh chụp liên tiếp một người đang quét nhà, nấu cơm, bế em."
     }
    ],
    "note": ""
@@ -657,17 +567,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng một ngã tư có đèn tín hiệu và các biển báo, bấm cho đèn đổi màu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS gọi tên biển báo và nói màu, hình dạng của biển ấy có ý nghĩa gì."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS quan sát ngã tư qua mô phỏng"
+     "text": "Chiếu mô phỏng một ngã tư có đèn tín hiệu và các biển báo, bấm cho đèn đổi màu, cho xe và."
     }
    ],
    "note": ""
@@ -1036,8 +936,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Mi thuat - Lop 3.docx",
   "name": "Mi thuat - Lop 3.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43576,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42490,
+  "updated": "2026-09-08"
  }
 }

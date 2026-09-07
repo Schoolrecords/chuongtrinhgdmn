@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 55
+  "integrations": 25
  },
  "lessons": [
   {
@@ -33,18 +33,8 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "Cơ bản 1, TT 02: 1.3.CB1a",
-     "text": "Trong “Bài 1: Thông tin và quyết định”, GV mở thư mục Bài 1 lưu sẵn trên máy, lần lượt mở tệp âm thanh chuông báo thức"
-    },
-    {
-     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV nêu tình huống bạn Minh nghe chuông báo thức rồi chiếu hai lựa chọn: dậy ngay hay ngủ tiếp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Thông tin về thời tiết, giờ giấc phải xem ở trang hoặc ứng dụng chính thức chứ không"
+     "text": "Trong “Bài 1: Thông tin và quyết định”, GV mở thư mục Bài 1 lưu sẵn trên máy."
     }
    ],
    "note": ""
@@ -82,17 +72,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu sơ đồ động Thu nhận → Xử lí → Kết quả, hiện dần từng ô"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ba nguồn thông tin cho cùng một việc đi tham quan: một tấm phiếu ghi giờ tập trung, một biển báo chỉ đường"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng những phiếu, biển báo, bản tin GV đã chuẩn bị"
+     "text": "Chiếu sơ đồ động Thu nhận → Xử lí → Kết quả, hiện dần từng ô."
     }
    ],
    "note": ""
@@ -130,17 +110,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV cho HS đứng quanh một bộ máy tính thật, chỉ và gọi tên từng bộ phận: thân máy, màn hình, bàn phím, chuột, loa"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS chơi trò nối trên máy chiếu: nhìn ảnh một bộ phận, chọn đúng tên và đúng việc bộ phận đó làm — nhìn, gõ, trỏ, nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không cắm, rút dây và không tháo bất cứ bộ phận nào khi máy đang bật"
+     "text": "Cho HS đứng quanh một bộ máy tính thật, chỉ."
     },
     {
      "code": "STEM",
@@ -183,17 +153,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh hai bạn ngồi máy: một bạn cong lưng, mặt sát màn hình; một bạn ngồi thẳng, mắt cách màn hình khoảng 50 cm"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS đọc bảng khuyến cáo thời gian dùng máy tính theo lứa tuổi do GV chiếu lên"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ngồi thẳng lưng, hai chân đặt trên sàn, mắt cách màn hình khoảng 50 cm"
+     "text": "Chiếu ảnh hai bạn ngồi máy."
     }
    ],
    "note": ""
@@ -252,17 +212,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình bàn phím phóng to, chỉ rõ các khu vực: hàng phím cơ sở, phím cách, phím Enter, phím xoá"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS gõ thử tên riêng của mình và vài từ ngắn, tự đếm số lần gõ nhầm rồi gõ lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Gõ nhẹ tay, không đập mạnh và không tì cả cánh tay lên bàn phím"
+     "text": "Chiếu hình bàn phím phóng to, chỉ rõ các khu vực."
     }
    ],
    "note": ""
@@ -328,17 +278,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở một trang dành cho thiếu nhi đã chọn sẵn, chỉ cho HS ô địa chỉ, tiêu đề trang, khối chữ, hình ảnh và các liên kết"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu song song hai trang: một trang của trường học, báo thiếu nhi hoặc cơ quan nhà nước và một trang không rõ của ai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ xem những trang thầy cô đã mở sẵn; không nháy vào quảng cáo"
+     "text": "Mở một trang dành cho thiếu nhi đã chọn sẵn, chỉ cho HS ô địa chỉ, tiêu đề trang, khối chữ."
     }
    ],
    "note": ""
@@ -376,17 +316,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV đổ lẫn một rổ đồ dùng học tập rồi cho hai tổ thi tìm một món: tổ để lộn xộn và tổ đã xếp theo nhóm"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu một danh sách trên máy rồi bấm nút sắp xếp theo tên"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Giữ gìn đồ dùng của lớp khi chơi trò tìm nhanh, tìm xong xếp lại đúng chỗ"
+     "text": "Đổ lẫn một rổ đồ dùng học tập."
     }
    ],
    "note": ""
@@ -413,17 +343,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu sơ đồ hình cây của nhà trường: trường → khối → lớp → tổ"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS sắp một danh sách cho sẵn thành sơ đồ hình cây trên bảng kéo thả của máy chiếu: mục lớn ở trên, mục nhỏ ở dưới"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ kéo thả trong bài tập GV đã mở sẵn, không đổi cài đặt của máy"
+     "text": "Chiếu sơ đồ hình cây của nhà trường."
     }
    ],
    "note": ""
@@ -504,17 +424,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn từng bước để HS mở cửa sổ quản lí tệp, đi vào thư mục của lớp"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS nhìn biểu tượng và phần đuôi tên tệp để đoán tệp đó chứa gì: tệp chữ, tệp ảnh, tệp âm thanh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở và xem trong thư mục GV chỉ định; không mở, không sửa"
+     "text": "Hướng dẫn từng bước để HS mở cửa sổ quản lí tệp, đi vào thư mục của lớp, mở một thư mục."
     }
    ],
    "note": ""
@@ -558,17 +468,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu một phiếu đăng kí trên mạng có các ô họ tên, ngày sinh, địa chỉ nhà, số điện thoại của cha mẹ, ảnh chân dung"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV nêu vài tình huống: một trang hứa tặng quà nếu điền số điện thoại, một người lạ trong trò chơi hỏi tên trường"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không cho ai họ tên đầy đủ, ngày sinh, địa chỉ nhà, tên trường lớp"
+     "text": "Chiếu một phiếu đăng kí trên mạng có các ô họ tên, ngày sinh, địa chỉ nhà, số điện thoại của cha mẹ, ảnh chân dung."
     }
    ],
    "note": ""
@@ -611,17 +511,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS từng bước tạo bài trình chiếu: mở phần mềm, thêm một trang chiếu, nhập tiêu đề, nhập vài dòng nội dung ngắn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu hai trang chiếu cùng nội dung — một trang chữ nhỏ và kín đặc, một trang chữ to và ít dòng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng hình trong kho ảnh thầy cô đã chuẩn bị hoặc hình do chính mình vẽ"
+     "text": "Hướng dẫn HS từng bước tạo bài trình chiếu."
     }
    ],
    "note": ""
@@ -665,17 +555,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "HS luyện thao tác chuột qua phần mềm có chấm điểm: kéo thả, nháy đúp, vẽ theo mẫu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Hai HS dùng chung một máy: thoả thuận trước ai làm trước và làm bao lâu thì đổi lượt"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ chơi phần mềm và đúng khoảng thời gian thầy cô cho phép, hết lượt là nhường bạn"
+     "text": "HS luyện thao tác chuột qua phần mềm."
     }
    ],
    "note": ""
@@ -711,19 +591,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu các thẻ việc của một công việc quen thuộc — pha một cốc nước chanh, gấp một chiếc thuyền giấy — theo thứ tự lộn xộn"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "HS xem đoạn phim hướng dẫn làm một việc, tạm dừng ở mỗi bước và ghi lại thành dãy các bước"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ kéo thả trong bài tập GV đã mở, không đổi cài đặt máy"
+     "text": "HS xem đoạn phim hướng dẫn làm một việc, tạm dừng ở mỗi bước."
     }
    ],
    "note": ""
@@ -761,17 +631,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bài tập tương tác dạng Nếu… thì…: chọn điều kiện trời mưa thì hình cậu bé cầm ô"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS tìm trong đời sống những việc chỉ xảy ra khi có điều kiện: đèn đường sáng khi trời tối, chuông báo khi hết giờ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở bài tập GV đã chuẩn bị sẵn trên máy, không mở trang khác"
+     "text": "Chiếu bài tập tương tác dạng Nếu… thì…."
     }
    ],
    "note": ""
@@ -807,19 +667,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV cùng HS lập bảng cho một việc cụ thể của lớp — làm tờ giới thiệu góc thư viện: việc nào cần làm bằng tay"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "HS tìm tư liệu cho sản phẩm của mình trong kho ảnh và kho bài đọc GV đã chuẩn bị sẵn trên máy"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ lấy ảnh và bài đọc trong kho thầy cô đã chuẩn bị"
+     "text": "HS tìm tư liệu cho sản phẩm của mình trong kho ảnh và kho bài đọc GV đã chuẩn bị sẵn trên máy."
     }
    ],
    "note": ""
@@ -1145,8 +995,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Tin hoc - Lop 3.docx",
   "name": "Tin hoc - Lop 3.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44375,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42589,
+  "updated": "2026-09-08"
  }
 }

@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 252
+  "integrations": 101
  },
  "lessons": [
   {
@@ -50,17 +50,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh của lớp qua các năm học lên màn hình cho HS nhận ra mình và nói sự thay đổi; mỗi nhóm chọn ba"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Sau khi đo chiều cao trên tường, HS nhập số đo của mình vào bảng tính trên máy tính GV"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Chiếu ảnh của lớp qua các năm học lên màn hình cho HS nhận ra mình."
     }
    ],
    "note": ""
@@ -78,23 +68,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Lớp trưởng điều hành đánh giá tuần với bảng theo dõi thi đua trên máy tính GV: nhập số việc tốt, số lần nhắc nhở của từng tổ"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS vẽ hoặc viết bậc thang tiến bộ của mình từ lớp 1 đến lớp 4 về kĩ năng, năng lực"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -128,19 +102,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Mỗi nhóm chụp ảnh kỉ vật, sản phẩm cá nhân đã mang đến bằng điện thoại GV"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS trả lời phiếu khảo sát ngắn trên máy tính GV: em thấy mình tiến bộ nhất ở việc nào trong học tập, thể thao, việc nhà"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS trả lời phiếu khảo sát ngắn trên máy tính."
     }
    ],
    "note": ""
@@ -159,21 +123,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Lớp trưởng dùng bảng theo dõi thi đua trên máy tính GV để tổng kết tuần: nhập số liệu từng tổ"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS chiếu ảnh chụp mình đang làm việc nhà như nấu cơm, quét nhà, gấp quần áo"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -221,17 +170,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Cân bằng cảm xúc”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Cân bằng cảm xúc”: trang trình chiếu, đoạn ghi âm."
     },
     {
      "code": "KNS",
@@ -255,21 +194,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Thực hành cân bằng cảm xúc”: nhập số"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -309,19 +233,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Thể hiện cảm xúc phù hợp”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     },
     {
      "code": "KNS",
@@ -345,21 +259,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Khả năng kiểm soát cảm xúc”: nhập số"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -401,17 +300,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Các vấn đề nảy sinh trong mối quan hệ bạn bè và cách giải quyết”:"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Các vấn đề nảy sinh trong mối quan hệ bạn bè và cách giải quyết”."
     },
     {
      "code": "QPAN",
@@ -434,23 +323,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Thực hành giải quyết vấn đề nảy sinh"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -486,17 +359,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "Ở chủ đề những vấn đề nảy sinh giữa bạn bè, GV chiếu các tình huống thường gặp gồm cả hiểu lầm khi nhắn tin"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu quy trình bốn bước xử lí mâu thuẫn: bình tĩnh, nghe bạn nói, nói cảm nhận của mình, cùng tìm cách"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi nhắn tin hay bình luận, các em không nói lời xúc phạm"
+     "text": "Ở chủ đề những vấn đề nảy sinh giữa bạn bè, GV chiếu các tình huống thường gặp gồm cả hiểu lầm."
     }
    ],
    "note": ""
@@ -556,17 +419,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Giữ gìn tình bạn”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Giữ gìn tình bạn”: trang trình chiếu, đoạn ghi âm."
     }
    ],
    "note": ""
@@ -584,23 +437,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Nuôi dưỡng tình bạn”: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -640,19 +477,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động lập kế hoạch “Cùng làm nên kỉ niệm”, GV mở khung kế hoạch trên máy gồm tên hoạt động, thời gian, người phụ trách"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu bảng phân công theo nhóm để các em tự nhận việc và ghi tên vào đúng ô; nhìn bảng chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản kế hoạch chỉ ghi việc của lớp, không ghi số điện thoại hay địa chỉ của ai"
+     "text": "Chiếu bảng phân công theo nhóm."
     },
     {
      "code": "KNS",
@@ -717,17 +544,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Sự kiện truyền thống tôn sư trọng đạo”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Sự kiện truyền thống tôn sư trọng đạo”."
     },
     {
      "code": "QPAN",
@@ -751,21 +568,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Giới thiệu truyền thống nhà trường”: nhập số"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -811,19 +613,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Tâm sự thầy - trò”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     }
    ],
    "note": ""
@@ -841,23 +633,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Giải quyết một số vấn đề nảy sinh"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -899,17 +675,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Vun đắp tình thầy trò”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Vun đắp tình thầy trò”: trang trình chiếu, đoạn ghi."
     }
    ],
    "note": ""
@@ -928,21 +694,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Sản phẩm tri ân thầy cô”: nhập số"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -982,19 +733,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Chuẩn bị chào mừng ngày nhà giáo Việt Nam 20-11”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     }
    ],
    "note": ""
@@ -1054,17 +795,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Sổ tay ghi chép chi tiêu trong gia đình”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Sổ tay ghi chép chi tiêu trong gia đình”."
     },
     {
      "code": "KNS",
@@ -1088,21 +819,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Ghi chép chi tiêu”: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1148,19 +864,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Ý tưởng kinh doanh”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     }
    ],
    "note": ""
@@ -1178,23 +884,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Thực hiện khảo sát nhu cầu khách hàng”:"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1236,17 +926,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Việc cần làm để thực hiện kế hoạch kinh doanh”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Việc cần làm để thực hiện kế hoạch kinh doanh”."
     },
     {
      "code": "KNS",
@@ -1269,23 +949,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Kinh doanh hiệu quả”: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1319,19 +983,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Xây dụng kế hoạch kinh doanh”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     },
     {
      "code": "KNS",
@@ -1396,17 +1050,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Trách nhiệm của em trong gia đình”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Trách nhiệm của em trong gia đình”: trang trình chiếu."
     }
    ],
    "note": ""
@@ -1424,23 +1068,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Thể hiện trách nhiệm với gia đình”: nhập"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1480,19 +1108,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Tiết 2 - Sinh hoạt chủ đề BIẾT ƠN NGƯỜI THÂN TRONG GIA ĐÌNH”: trang"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     },
     {
      "code": "QPAN",
@@ -1516,21 +1134,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Thể hiện lòng biết ơn với người thân”:"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -1572,17 +1175,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Gia đình là tổ ấm”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Gia đình là tổ ấm”: trang trình chiếu, đoạn ghi."
     }
    ],
    "note": ""
@@ -1600,23 +1193,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Vun đắp tình cảm gia đình”: nhập số"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1650,19 +1227,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Ngày cuối tuần vui vẻ, đầm ấm”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     }
    ],
    "note": ""
@@ -1680,23 +1247,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Buổi tối nhà em”: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1738,17 +1289,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Nhận diện môi trường học tập mới”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Nhận diện môi trường học tập mới”: trang trình chiếu."
     },
     {
      "code": "QPAN",
@@ -1772,21 +1313,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Trải nghiệm môi trường học tập mới”: nhập"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -1825,6 +1351,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Khám phá chủ đề “Các đức tính cần thiết trong môi trường học tập mới”."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -1888,17 +1419,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Ứng xử theo quy tắc tự chủ và"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
+     "text": "Hướng dẫn HS dùng bảng theo dõi trên máy."
     },
     {
      "code": "KNS",
@@ -1945,6 +1466,16 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "QTE",
+     "level": "",
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
@@ -1969,17 +1500,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Tiết 2 - Sinh hoạt chủ đề NGUYÊN NHÂN VÀ CÁCH PHÒNG CHỐNG HOẢ HOẠN”:"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Tiết 2 - Sinh hoạt chủ đề NGUYÊN NHÂN VÀ CÁCH PHÒNG CHỐNG HOẢ HOẠN”."
     }
    ],
    "note": ""
@@ -1997,23 +1518,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Thực hành thoát hiểm”: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2053,19 +1558,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Tiết 2 – Tham gia lễ hội truyền thống địa phương”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     },
     {
      "code": "QPAN",
@@ -2089,21 +1584,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Tái hiện lễ hội truyền thống”: nhập số"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2156,17 +1636,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Tham gia hoạt động xã hội”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Tham gia hoạt động xã hội”: trang trình chiếu, đoạn."
     }
    ],
    "note": ""
@@ -2186,24 +1656,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Chung tay vì cộng đồng”: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -2239,19 +1699,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Thân thiện với người xung quanh”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     }
    ],
    "note": ""
@@ -2269,23 +1719,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Đánh giá việc tham gia hoạt động xã"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2332,17 +1766,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Tự hào về cảnh quan thiên nhiên của quê hương, đất nước”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Tự hào về cảnh quan thiên nhiên của quê hương, đất nước”."
     },
     {
      "code": "QPAN",
@@ -2366,21 +1790,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Việt Nam trong mắt em”: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2426,19 +1835,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Biện pháp bảo tồn cảnh quan thiên nhiên”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     },
     {
      "code": "QPAN",
@@ -2462,21 +1861,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Tuyên truyền về việc bảo tồn cảnh quan"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2524,17 +1908,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Lập kế hoạch khảo sát thực trạng môi trường quanh em”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Lập kế hoạch khảo sát thực trạng môi trường quanh em”: trang trình chiếu."
     },
     {
      "code": "QPAN",
@@ -2558,21 +1932,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Chúng tôi lên tiếng vì môi trường”: nhập"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2612,19 +1971,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Chung tay bảo vệ môi trường quanh ta”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     },
     {
      "code": "QPAN",
@@ -2647,23 +1996,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Mỗi hành động- một chiếc lá”: nhập số"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2705,17 +2038,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Nghề em mơ ước”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Nghề em mơ ước”: trang trình chiếu, đoạn ghi âm."
     },
     {
      "code": "KNS",
@@ -2739,21 +2062,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Câu chuyện của người làm nghề”: nhập số"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2799,19 +2107,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “An toàn nghề nghiệp”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     },
     {
      "code": "KNS",
@@ -2835,21 +2133,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Thiết bị bảo hộ lao động”: nhập số"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2897,17 +2180,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Ước mơ nghề nghiệp của em”: trang trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "Hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Ước mơ nghề nghiệp của em”: trang trình chiếu, đoạn."
     },
     {
      "code": "KNS",
@@ -2930,23 +2203,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Tấm danh thiếp tương lai”: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2986,19 +2243,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Hồ sơ trải nghiệm”: trang trình chiếu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ."
     },
     {
      "code": "KNS",
@@ -3022,21 +2269,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Chia tay trường tiểu học”: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -3318,8 +2550,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Hoat dong trai nghiem - Lop 5.docx",
   "name": "Hoat dong trai nghiem - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47874,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 46427,
+  "updated": "2026-09-08"
  }
 }

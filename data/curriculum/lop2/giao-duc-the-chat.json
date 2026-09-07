@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát theo Sách giáo viên (07/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 86
+  "integrations": 54
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu trên tivi sơ đồ nhìn từ trên xuống có mũi tên chỉ đường đi khi “Chuyển đội hình hàng dọc thành đội hình vòng tròn và"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Sau lượt tập đầu, GV chiếu lại sơ đồ và cho HS chỉ tay vị trí tổ mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem sơ đồ xong phải cất thiết bị; khi di chuyển HS phải nhìn đường và nhìn bạn"
+     "text": "Chiếu trên tivi sơ đồ nhìn từ trên xuống có mũi tên chỉ đường đi khi “Chuyển đội hình hàng dọc thành đội hình vòng tròn và ngược lại”."
     },
     {
      "code": "KNS",
@@ -137,17 +127,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu sơ đồ nhìn từ trên xuống có mũi tên chỉ đường đi khi thực hiện “Chuyển đội hình hàng ngang thành đội hình vòng tròn và"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS chỉ tay trên sơ đồ vị trí của tổ mình rồi mới ra sân thực hiện; sau lượt đầu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem sơ đồ xong phải cất thiết bị; khi di chuyển HS phải nhìn đường và nhìn bạn"
+     "text": "Chiếu sơ đồ nhìn từ trên xuống có mũi tên chỉ đường đi khi thực hiện “Chuyển đội hình hàng ngang thành đội hình vòng tròn và ngược lại”."
     },
     {
      "code": "KNS",
@@ -218,17 +198,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Giậm chân tại chỗ, đứng lại” đã chọn sẵn, cho chạy chậm và dừng lại ở từng nhịp để HS nhìn rõ vị trí"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Giậm chân tại chỗ, đứng lại” đã chọn sẵn, cho chạy chậm."
     },
     {
      "code": "KNS",
@@ -297,19 +267,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu video mẫu động tác vươn thở và động tác tay của bài thể dục, cho chạy chậm và dừng hình ở nhịp hít vào"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV quay nhanh một lượt tập của từng tổ rồi chiếu lại cho cả lớp xem; HS chỉ ra bạn nào tay chưa thẳng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi quay, clip chỉ mở trong giờ học rồi xoá"
+     "text": "Quay nhanh một lượt tập của từng tổ."
     },
     {
      "code": "KNS",
@@ -380,17 +340,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video mẫu động tác chân, động tác lườn và động tác bụng của bài thể dục, cho chạy chậm và dừng hình ở nhịp khuỵu gối"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV quay nhanh một lượt tập của từng tổ rồi chiếu lại cho cả lớp xem; HS chỉ ra bạn nào chưa duỗi thẳng chân"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi quay, clip chỉ mở trong giờ học rồi xoá"
+     "text": "Chiếu video mẫu động tác chân, động tác lườn và động tác bụng của bài thể dục, cho chạy chậm."
     },
     {
      "code": "KNS",
@@ -481,17 +431,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Động tác phối hợp, động tác nhảy, động tác điều hòa” đã chọn sẵn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Động tác phối hợp, động tác nhảy, động tác điều hòa” đã chọn sẵn, cho chạy chậm."
     }
    ],
    "note": ""
@@ -545,17 +485,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Bài tập di chuyển theo vạch kẻ thẳng” đã chọn sẵn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Bài tập di chuyển theo vạch kẻ thẳng” đã chọn sẵn, cho chạy chậm."
     }
    ],
    "note": ""
@@ -599,17 +529,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Bài tập phối hợp di chuyển vòng trái, vòng phải” đã chọn sẵn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Bài tập phối hợp di chuyển vòng trái, vòng phải” đã chọn sẵn, cho chạy chậm."
     },
     {
      "code": "KNS",
@@ -658,17 +578,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ thẳng” đã chọn sẵn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ thẳng” đã chọn sẵn, cho chạy chậm và."
     },
     {
      "code": "KNS",
@@ -717,17 +627,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ sang trái và sang phải” đã chọn sẵn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ sang trái và sang phải” đã chọn sẵn."
     },
     {
      "code": "KNS",
@@ -776,17 +676,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Các động tác quỳ, ngồi cơ bản” đã chọn sẵn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Các động tác quỳ, ngồi cơ bản” đã chọn sẵn, cho chạy chậm."
     },
     {
      "code": "KNS",
@@ -835,17 +725,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Bài tập phối hợp các động tác quỳ, ngồi cơ bản” đã chọn sẵn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Bài tập phối hợp các động tác quỳ, ngồi cơ bản” đã chọn sẵn, cho chạy chậm."
     },
     {
      "code": "KNS",
@@ -952,19 +832,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Động tác di chuyển không bóng” đã chọn sẵn, cho chạy chậm và dừng lại ở từng nhịp để HS nhìn rõ vị trí"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Ở phần Luyện tập, GV quay lại lượt di chuyển của vài."
     },
     {
      "code": "KNS",
@@ -1145,17 +1015,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Động tác dẫn bóng” đã chọn sẵn, cho chạy chậm và dừng lại ở từng nhịp để HS nhìn rõ vị trí tay, chân"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Ở phần Hình thành kiến thức bài “Động tác dẫn bóng” của chủ đề Bóng rổ, GV chiếu trên tivi video mẫu."
     },
     {
      "code": "KNS",
@@ -1322,17 +1182,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Động tác tung và bắt bóng bằng hai tay” đã chọn sẵn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Động tác tung và bắt bóng bằng hai tay” đã chọn sẵn, cho chạy chậm."
     }
    ],
    "note": ""
@@ -1466,17 +1316,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu clip mẫu “Động tác ném rổ bằng hai tay trước ngực” đã chọn sẵn"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hỏi HS chỉ ra một chi tiết trong clip mà lớp mình hay làm sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Clip chỉ xem 1-2 phút rồi tắt, phần lớn thời gian vẫn dành cho vận động thật"
+     "text": "Chiếu clip mẫu “Động tác ném rổ bằng hai tay trước ngực” đã chọn sẵn, cho chạy chậm."
     }
    ],
    "note": ""
@@ -1882,8 +1722,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Giao duc the chat - Lop 2.docx",
   "name": "Giao duc the chat - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43785,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 43400,
+  "updated": "2026-09-08"
  }
 }

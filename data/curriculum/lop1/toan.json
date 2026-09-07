@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 115
+  "integrations": 52
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to tranh bài “TIẾT HỌC ĐẦU TIÊN”: nhóm nhân vật đồng hành trong sách và hình từng đồ dùng học Toán như que tính"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở trên máy chiếu bài tập tương tác đơn giản đầu tiên: hiện ảnh một đồ dùng học Toán"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chiếu, máy tính của lớp do GV điều khiển; HS không tự ý chạm vào máy"
+     "text": "Chiếu phóng to tranh bài “TIẾT HỌC ĐẦU TIÊN”."
     }
    ],
    "note": ""
@@ -62,23 +52,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng trang trình chiếu đếm động cho bài “CÁC SỐ 0, 1, 2, 3, 4"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác trên máy chiếu: hiện nhóm cá hoặc chấm tròn, HS giơ thẻ số từ 0 đến 5 trong bộ đồ dùng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trò chơi trên màn hình do GV bấm; HS chờ đến lượt được mời lên"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -128,19 +102,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng trang trình chiếu đếm động cho bài “CÁC SỐ 6, 7, 8, 9, 10”: con ong, con chim, bông hoa"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác đếm bánh trên máy chiếu: hiện đĩa bánh, HS đếm rồi giơ thẻ số 6 đến 10"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trò chơi trên màn hình do GV bấm; HS chờ đến lượt được mời lên"
+     "text": "Mở bài tập tương tác đếm bánh trên máy chiếu."
     }
    ],
    "note": ""
@@ -194,17 +158,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình động nối một - một hai nhóm đồ vật: từng cặp nối lại rồi mờ đi, phần còn thừa hiện rõ trên màn hình"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS chơi trò so sánh trên màn hình: chọn nhóm nhiều hơn, nhóm ít hơn, nhóm bằng nhau; máy báo đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trò chơi trên màn hình do GV bấm; HS chờ đến lượt được mời"
+     "text": "Chiếu hình động nối một - một hai nhóm đồ vật."
     },
     {
      "code": "KNS",
@@ -245,19 +199,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu hình động cho bài “SO SÁNH SỐ”: hai nhóm đồ vật xếp thành cột cạnh nhau, cột nào cao hơn thì dấu lớn hơn"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV cho HS chọn dấu lớn hơn, bé hơn, bằng nhau điền vào chỗ trống ngay trên màn hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chỉ dùng để kiểm tra sau khi HS đã tự nghĩ và chọn dấu"
+     "text": "Cho HS chọn dấu lớn hơn, bé hơn, bằng nhau điền vào chỗ trống ngay trên màn hình; máy hiện đáp án."
     }
    ],
    "note": ""
@@ -339,17 +283,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình động tách - gộp: một nhóm đồ vật tách thành hai phần rồi gộp lại"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS chơi trò kéo thả trên màn hình: tìm đủ các cách tách một số thành hai phần"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS vẫn phải tách - gộp được bằng que tính thật trên bàn"
+     "text": "Chiếu hình động tách - gộp."
     }
    ],
    "note": ""
@@ -401,19 +335,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở tiết luyện tập chung, GV chiếu ảnh những nơi có chữ số quen thuộc như mặt đồng hồ, biển số xe, số trang sách"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác đếm đồ vật rồi kéo đúng thẻ số vào ô trống; máy báo đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+     "text": "Mở bài tập tương tác đếm đồ vật."
     }
    ],
    "note": ""
@@ -495,17 +419,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình vuông, hình tròn, hình tam giác, hình chữ nhật xoay được và đổi kích thước trên màn hình để HS nhận ra hình vẫn là"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS chơi trò kéo thả phân loại hình và ghép hình trên màn hình; máy báo đúng, sai ngay để HS tự sửa."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS vẫn phải nhận dạng và vẽ được hình bằng tay trên bảng con"
+     "text": "Chiếu hình vuông, hình tròn, hình tam giác, hình chữ nhật xoay được."
     }
    ],
    "note": ""
@@ -546,19 +460,9 @@
      "text": "Bài học STEM \"Thực hành trang trí lớp học bằng các hình hình học\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: lớp học bằng các hình hình học."
     },
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu video hướng dẫn từng bước làm sản phẩm của bài “THỰC HÀNH TRANG TRÍ LỚP HỌC BẰNG CÁC HÌNH HÌNH HỌC”"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV chụp ảnh sản phẩm của từng nhóm, chiếu lên màn hình thành một triển lãm nhỏ để cả lớp cùng nhận xét sản phẩm nào chắc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi chụp ảnh sản phẩm thì tránh chụp mặt bạn nếu bạn chưa đồng ý"
+     "text": "Chụp ảnh sản phẩm của từng nhóm, chiếu lên màn hình thành một triển lãm nhỏ."
     },
     {
      "code": "KNS",
@@ -607,17 +511,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở tiết luyện tập chung về hình, GV chiếu ảnh đồ vật quen thuộc trong lớp rồi bấm cho viền hình sáng lên: mặt đồng hồ thành hình"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác xếp ghép hình và tìm hình còn thiếu trong dãy theo quy luật; máy báo đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+     "text": "Ở tiết luyện tập chung về hình, GV chiếu ảnh đồ vật quen thuộc trong lớp."
     }
    ],
    "note": ""
@@ -635,23 +529,7 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng động cho bài “PHÉP CỘNG TRONG PHẠM VI 10”: các chấm tròn gộp lại, thêm vào hoặc tách ra"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng cộng, bảng trừ dạng tương tác: bấm vào một ô thì hiện phép tính tương ứng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Công cụ trên màn hình chỉ để hiểu bản chất phép tính"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -749,19 +627,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng động cho bài “PHÉP TRỪ TRONG PHẠM VI 10”: các chấm tròn gộp lại, thêm vào hoặc tách ra"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bảng cộng, bảng trừ dạng tương tác: bấm vào một ô thì hiện phép tính tương ứng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Công cụ trên màn hình chỉ để hiểu bản chất phép tính"
+     "text": "Chiếu bảng cộng, bảng trừ dạng tương tác."
     }
    ],
    "note": ""
@@ -863,17 +731,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng động cho bài “BẢNG CỘNG, BẢNG TRỪ TRONG PHẠM VI 10”: các chấm tròn gộp lại, thêm vào hoặc tách ra"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng cộng, bảng trừ dạng tương tác: bấm vào một ô thì hiện phép tính tương ứng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Công cụ trên màn hình chỉ để hiểu bản chất phép tính"
+     "text": "Chiếu mô phỏng động cho bài “BẢNG CỘNG, BẢNG TRỪ TRONG PHẠM VI 10”."
     },
     {
      "code": "KNS",
@@ -941,19 +799,9 @@
      "text": "Bài học STEM \"Dụng cụ tính cộng, tính trừ\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: dụng cụ tính cộng, tính trừ."
     },
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu video hướng dẫn từng bước làm sản phẩm của bài “DỤNG CỤ TÍNH CỘNG, TÍNH TRỪ”"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV chụp ảnh sản phẩm của từng nhóm, chiếu lên màn hình thành một triển lãm nhỏ để cả lớp cùng nhận xét sản phẩm nào chắc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi chụp ảnh sản phẩm thì tránh chụp mặt bạn nếu bạn chưa đồng ý"
+     "text": "Chụp ảnh sản phẩm của từng nhóm, chiếu lên màn hình thành một triển lãm nhỏ."
     }
    ],
    "note": ""
@@ -1019,17 +867,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp các đồ vật quen thuộc (hộp sữa, viên xúc xắc, hộp bánh, tủ lạnh, hộp quà) phóng to trên màn hình"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại chụp ảnh các đồ vật HS tìm được trong lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS vẫn phải cầm, sờ khối thật để nhận biết các mặt"
+     "text": "Chiếu ảnh chụp các đồ vật quen thuộc (hộp sữa, viên xúc xắc, hộp bánh, tủ lạnh, hộp quà) phóng to trên màn hình."
     }
    ],
    "note": ""
@@ -1065,19 +903,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu hình động về vị trí: một nhân vật di chuyển sang trái, sang phải, lên trên, xuống dưới theo lời của HS"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV cho HS lần lượt ra lệnh cho nhân vật đi theo một đường trên lưới ô vuông bằng các lệnh trái - phải - tiến"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS ra lệnh bằng lời, GV là người thao tác trên máy"
+     "text": "Cho HS lần lượt ra lệnh cho nhân vật đi theo một đường trên lưới ô vuông bằng các lệnh trái."
     }
    ],
    "note": ""
@@ -1111,23 +939,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV dùng bộ bài tập tương tác tự chấm trên máy chiếu cho bài “LUYỆN TẬP CHUNG”: HS giơ thẻ chọn đáp án"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu lại theo thứ tự các hình động, bảng số và mô phỏng đã dùng trong chủ đề để HS tự hệ thống lại kiến thức đã"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chỉ dùng để kiểm tra lại sau khi HS đã tự làm ra nháp"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1243,17 +1055,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bảng các số từ 1 đến 100 dạng tương tác cho bài “SỐ CÓ HAI CHỮ SỐ”: bấm vào một số thì số đó sáng lên"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV dùng hình động thanh chục và khối đơn vị: kéo đủ 10 khối đơn vị lại thì chúng tự bó thành một thanh chục"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS vẫn phải tự đọc, tự viết được số vào bảng con"
+     "text": "Chiếu bảng các số từ 1 đến 100 dạng tương tác cho bài “SỐ CÓ HAI CHỮ SỐ”."
     }
    ],
    "note": ""
@@ -1353,19 +1155,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng các số từ 1 đến 100 dạng tương tác cho bài “SO SÁNH SỐ CÓ HAI CHỮ SỐ”: bấm vào một số thì số đó"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV dùng hình động thanh chục và khối đơn vị: kéo đủ 10 khối đơn vị lại thì chúng tự bó thành một thanh chục"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS vẫn phải tự đọc, tự viết được số vào bảng con"
+     "text": "Dùng hình động thanh chục và khối đơn vị."
     }
    ],
    "note": ""
@@ -1424,17 +1216,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bảng các số từ 1 đến 100 dạng tương tác cho bài “BẢNG CÁC SỐ TỪ 1 ĐẾN 100”: bấm vào một số thì số đó"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV dùng hình động thanh chục và khối đơn vị: kéo đủ 10 khối đơn vị lại thì chúng tự bó thành một thanh chục"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS vẫn phải tự đọc, tự viết được số vào bảng con"
+     "text": "Chiếu bảng các số từ 1 đến 100 dạng tương tác cho bài “BẢNG CÁC SỐ TỪ 1 ĐẾN 100”."
     },
     {
      "code": "KNS",
@@ -1462,21 +1244,6 @@
      "code": "STEM",
      "level": "",
      "text": "Bài học STEM \"Bảng các số từ 1 đến 100\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: bảng các số từ 1 đến 100."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu video hướng dẫn từng bước làm sản phẩm của bài “BẢNG CÁC SỐ TỪ 1 ĐẾN 100”"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh sản phẩm của từng nhóm, chiếu lên màn hình thành một triển lãm nhỏ để cả lớp cùng nhận xét sản phẩm nào chắc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi chụp ảnh sản phẩm thì tránh chụp mặt bạn nếu bạn chưa đồng ý"
     },
     {
      "code": "KNS",
@@ -1517,19 +1284,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu thước kẻ phóng to trên màn hình cho bài “DÀI HƠN, NGẮN HƠN”"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "HS ước lượng trước rồi đo thật bằng thước của mình; sau đó GV chiếu kết quả đo mẫu để cả lớp đối chiếu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS phải tự đo bằng thước thật rồi mới đối chiếu với kết quả trên màn hình"
+     "text": "HS ước lượng trước rồi đo thật bằng thước của mình; sau đó GV chiếu kết quả đo mẫu."
     }
    ],
    "note": ""
@@ -1563,23 +1320,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu thước kẻ phóng to trên màn hình cho bài “ĐƠN VỊ ĐO ĐỘ DÀI”"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS ước lượng trước rồi đo thật bằng thước của mình; sau đó GV chiếu kết quả đo mẫu để cả lớp đối chiếu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS phải tự đo bằng thước thật rồi mới đối chiếu với kết quả trên màn hình"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1615,17 +1356,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu thước kẻ phóng to trên màn hình cho bài “THỰC HÀNH ƯỚC LƯỢNG VÀ ĐO ĐỘ DÀI”"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS ước lượng trước rồi đo thật bằng thước của mình; sau đó GV chiếu kết quả đo mẫu để cả lớp đối chiếu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS phải tự đo bằng thước thật rồi mới đối chiếu với kết quả trên màn hình"
+     "text": "Chiếu thước kẻ phóng to trên màn hình cho bài “THỰC HÀNH ƯỚC LƯỢNG VÀ ĐO ĐỘ DÀI”, kéo vật cần đo đặt sát vạch 0."
     }
    ],
    "note": ""
@@ -1663,17 +1394,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV dùng bộ bài tập tương tác tự chấm trên máy chiếu cho bài “LUYỆN TẬP CHUNG”: HS giơ thẻ chọn đáp án"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu lại theo thứ tự các hình động, bảng số và mô phỏng đã dùng trong chủ đề để HS tự hệ thống lại kiến thức đã"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chỉ dùng để kiểm tra lại sau khi HS đã tự làm ra nháp"
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác so sánh độ dài: máy hiện hai vật."
     }
    ],
    "note": ""
@@ -1739,7 +1460,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá bài “Phép cộng số có hai chữ số với số có hai chữ số”."
+    }
+   ],
    "note": ""
   },
   {
@@ -1771,7 +1498,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện phép trừ, HS chọn kết quả rồi bấm kiểm tra."
+    }
+   ],
    "note": ""
   },
   {
@@ -1819,7 +1552,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá bài “Phép trừ số có hai chữ số cho số có hai chữ số”, GV chiếu hình."
+    }
+   ],
    "note": ""
   },
   {
@@ -1874,19 +1613,9 @@
      "text": "Bài học STEM \"Mô hình tính hàng dọc\" (CV 909/BGDĐT-GDTH, CV 3132/SGD&ĐT) — thời lượng lấy từ tiết luyện tập, thực hành của bài; sản phẩm: mô hình tính hàng dọc."
     },
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu video hướng dẫn từng bước làm sản phẩm của bài “MÔ HÌNH TÍNH HÀNG DỌC”"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV chụp ảnh sản phẩm của từng nhóm, chiếu lên màn hình thành một triển lãm nhỏ để cả lớp cùng nhận xét sản phẩm nào chắc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi chụp ảnh sản phẩm thì tránh chụp mặt bạn nếu bạn chưa đồng ý"
+     "text": "Chụp ảnh sản phẩm của từng nhóm, chiếu lên màn hình thành một triển lãm nhỏ."
     }
    ],
    "note": ""
@@ -1967,17 +1696,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video hướng dẫn từng bước làm sản phẩm của bài “ĐỒNG HỒ TIỆN ÍCH”"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh sản phẩm của từng nhóm, chiếu lên màn hình thành một triển lãm nhỏ để cả lớp cùng nhận xét sản phẩm nào chắc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi chụp ảnh sản phẩm thì tránh chụp mặt bạn nếu bạn chưa đồng ý"
+     "text": "Chiếu video hướng dẫn từng bước làm sản phẩm của bài “ĐỒNG HỒ TIỆN ÍCH”, dừng lại ở mỗi bước."
     },
     {
      "code": "KNS",
@@ -2024,19 +1743,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng đồng hồ động trên màn hình cho bài “CÁC NGÀY TRONG TUẦN”: kéo kim phút thì kim giờ nhích theo"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở lịch trên máy tính, chiếu tháng hiện tại để HS tìm thứ và ngày hôm nay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem giờ trên điện thoại thì nhanh nhưng HS vẫn phải đọc được giờ trên đồng hồ kim"
+     "text": "Mở lịch trên máy tính, chiếu tháng hiện tại."
     },
     {
      "code": "KNS",
@@ -2077,21 +1786,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng đồng hồ động trên màn hình cho bài “THỰC HÀNH XEM LỊCH VÀ GIỜ”: kéo kim phút thì kim giờ nhích theo"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở lịch trên máy tính, chiếu tháng hiện tại để HS tìm thứ và ngày hôm nay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem giờ trên điện thoại thì nhanh nhưng HS vẫn phải đọc được giờ trên đồng hồ kim"
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
@@ -2130,19 +1824,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV dùng bộ bài tập tương tác tự chấm trên máy chiếu cho bài “LUYỆN TẬP CHUNG”: HS giơ thẻ chọn đáp án"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu lại theo thứ tự các hình động, bảng số và mô phỏng đã dùng trong chủ đề để HS tự hệ thống lại kiến thức đã"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy chỉ dùng để kiểm tra lại sau khi HS đã tự làm ra nháp"
+     "text": "Chiếu lại theo thứ tự các hình động, bảng số và mô phỏng đã dùng trong chủ đề."
     },
     {
      "code": "KNS",
@@ -2585,8 +2269,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Toan - Lop 1.docx",
   "name": "Toan - Lop 1.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47424,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 45368,
+  "updated": "2026-09-08"
  }
 }

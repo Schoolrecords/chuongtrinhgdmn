@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 56
+  "integrations": 26
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở video bài hát Quê hương tươi đẹp vào bài “Vẻ đẹp quê hương em”, gõ tên xã"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh cảnh thiên nhiên quê hương do GV và phụ huynh chụp cùng ảnh đảo Trường Sa và bộ đội hải quân"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh đưa vào bài chỉ chụp cảnh vật, không chụp cận mặt người khác khi chưa xin phép"
+     "text": "Mở video bài hát Quê hương tươi đẹp vào bài “Vẻ đẹp quê hương em”, gõ tên xã, phường."
     },
     {
      "code": "QPAN",
@@ -85,19 +75,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở video bài hát “Màu xanh quê hương” và chiếu bộ ảnh cảnh vật quê mình như cánh đồng, con đường làng, mái trường, dòng sông"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Khi kể lại câu chuyện “Tình quê” theo tranh chiếu trên màn hình, HS kể nối tiếp trong nhóm rồi một nhóm kể trước lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Video và ảnh do cô mở, HS ngồi tại chỗ xem; ảnh quê hương chỉ dùng để học"
+     "text": "Khi kể lại câu chuyện “Tình quê” theo tranh chiếu trên màn hình."
     },
     {
      "code": "QPAN",
@@ -156,17 +136,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Sau khi nghe bài hát “Bông hồng tặng cô”, GV chiếu bộ ảnh việc làm thể hiện lòng kính trọng thầy cô như chào hỏi lễ phép"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu vài tình huống trên màn hình và cho HS chọn cách ứng xử phù hợp khi gặp thầy cô ở sân trường, khi mắc lỗi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lớp chỉ dùng ảnh, tình huống do cô chuẩn bị"
+     "text": "Sau khi nghe bài hát “Bông hồng tặng cô”, GV chiếu bộ ảnh việc làm thể hiện lòng kính trọng thầy cô."
     }
    ],
    "note": ""
@@ -202,19 +172,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Sau khi hát bài “Lớp chúng ta đoàn kết”, GV chiếu bộ ảnh việc làm thể hiện tình bạn như cho bạn mượn bút, đỡ bạn khi ngã"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu vài tình huống trên màn hình như bạn quên đồ dùng, bạn bị ngã ở sân, bạn buồn vì bị trêu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lớp chỉ dùng ảnh, tình huống do cô chuẩn bị"
+     "text": "Chiếu vài tình huống trên màn hình như bạn quên đồ dùng, bạn bị ngã ở sân, bạn buồn vì bị trêu."
     }
    ],
    "note": ""
@@ -266,19 +226,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu đồng hồ bấm giờ trên máy để HS thấy rõ một phút dài bao nhiêu: bấm giờ khi một bạn cất sách vở"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bảng ghi thời gian một số việc thường ngày của trẻ em (ăn cơm, làm bài, xem ti vi, xem clip, chơi trò chơi trên máy)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nói thẳng vấn đề của lứa tuổi: xem ti vi, xem clip"
+     "text": "Chiếu bảng ghi thời gian một số việc thường ngày của trẻ em (ăn cơm, làm bài, xem ti vi, xem clip, chơi trò chơi trên máy)."
     },
     {
      "code": "KNS",
@@ -319,19 +269,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Nhận lỗi và sửa lỗi”, GV chiếu các đoạn phim tình huống ngắn về bạn nhỏ làm hỏng đồ của bạn, quên làm bài"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu các cách ứng xử trên màn hình cho HS chọn cách đúng gồm nhận lỗi, xin lỗi, sửa lỗi; máy báo đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lớp chỉ dùng tình huống do cô chuẩn bị"
+     "text": "Chiếu các cách ứng xử trên màn hình cho HS chọn cách đúng gồm nhận lỗi, xin lỗi, sửa lỗi."
     },
     {
      "code": "KNS",
@@ -374,17 +314,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chụp ảnh cặp sách, hộp bút, giày dép của vài HS lúc đầu giờ rồi chiếu lên màn hình để cả lớp cùng nhận xét đồ nào"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV cùng HS làm bảng nhắc việc bảo quản đồ dùng trên máy (bọc vở, cất bút sau khi dùng, để giày đúng chỗ)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ chụp đồ dùng, không chụp mặt HS và không chiếu ảnh để chê bạn nào"
+     "text": "Chụp ảnh cặp sách, hộp bút, giày dép của vài HS lúc đầu giờ rồi chiếu lên màn hình."
     },
     {
      "code": "KNS",
@@ -425,19 +355,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trong nhà nay có nhiều đồ dùng chạy điện và có màn hình: GV chiếu phóng to tờ hướng dẫn sử dụng cùng các kí hiệu in trên"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu các tình huống có thật: điện thoại bị rơi, máy tính bảng bị ướt, đồ dùng bị cắm sạc suốt đêm, quạt bị bám bụi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhắc HS lớp 2: không tự cắm hay rút phích điện, không tự sạc điện thoại"
+     "text": "Chiếu các tình huống có thật."
     },
     {
      "code": "KNS",
@@ -496,17 +416,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bảng biểu tượng cảm xúc quen thuộc trên điện thoại (mặt cười, mặt buồn, mặt giận) đặt cạnh ảnh khuôn mặt thật tương ứng"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV lập bảng cảm xúc của lớp trên máy: mỗi HS chọn một biểu tượng hợp với tâm trạng hôm nay để GV bấm vào bảng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng cảm xúc của lớp chỉ dùng trong lớp, không chụp gửi ra ngoài"
+     "text": "Chiếu bảng biểu tượng cảm xúc quen thuộc trên điện thoại (mặt cười, mặt buồn, mặt giận) đặt cạnh ảnh khuôn mặt thật tương ứng."
     },
     {
      "code": "KNS",
@@ -549,17 +459,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tình huống có thật với trẻ em: bị bạn trêu, thua trò chơi trên máy, bị nói lời khó nghe trong nhóm trò chuyện"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim ngắn hướng dẫn cách hít thở làm dịu cơn giận"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV dạy HS: khi có ai nói lời khó nghe hoặc gửi hình ảnh làm mình sợ"
+     "text": "Chiếu tình huống có thật với trẻ em."
     },
     {
      "code": "KNS",
@@ -618,17 +518,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Ở nhà một mình, chiếc điện thoại là công cụ cầu cứu thật sự: GV chiếu ảnh màn hình điện thoại phóng to"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu các tình huống trong nhà (cửa khoá không mở được, người lạ gõ cửa, bị đứt tay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhấn mạnh: chỉ gọi số khẩn cấp khi thật sự cần, không gọi đùa"
+     "text": "Ở nhà một mình, chiếc điện thoại là công cụ cầu cứu thật sự."
     }
    ],
    "note": ""
@@ -682,17 +572,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu sơ đồ trường học trên máy và bấm sáng những nơi HS có thể tới nhờ giúp: phòng y tế, phòng bảo vệ, phòng giáo viên"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu vài mẫu câu nhờ giúp đỡ lịch sự và cùng HS sửa những câu nói cộc lốc thành câu tử tế"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhắc HS: bị bạn trêu chọc, bị bắt nạt hay thấy bạn khác bị bắt nạt thì"
+     "text": "Chiếu sơ đồ trường học trên máy và bấm sáng những nơi."
     }
    ],
    "note": ""
@@ -730,17 +610,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp thật những nơi công cộng quen thuộc (siêu thị, công viên, bến xe) và bấm khoanh vào quầy loa phát thanh, chú bảo vệ"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS nói lời cầu cứu ngắn gọn qua loa hoặc qua điện thoại của người lớn giúp mình: cháu tên gì, đi cùng ai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhấn mạnh: người lạ dù cho quà, dù nói quen bố mẹ"
+     "text": "Chiếu ảnh chụp thật những nơi công cộng quen thuộc (siêu thị, công viên, bến xe)."
     },
     {
      "code": "QPAN",
@@ -765,19 +635,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp thật các biển nội quy, biển cấm ở nơi công cộng (công viên, bảo tàng, thư viện, bến xe, thang máy)"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh một nơi công cộng rồi cho HS bấm chỉ những người đang làm đúng và làm sai quy định; mỗi lần HS chỉ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhắc HS: nơi có biển cấm quay phim, chụp ảnh thì phải cất thiết bị"
+     "text": "Chiếu ảnh một nơi công cộng."
     },
     {
      "code": "QPAN",
@@ -820,17 +680,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV nêu tình huống: em thấy một bạn khóc, một cụ già bị ngã ở nơi công cộng và có người rút điện thoại ra quay lại"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV cùng HS làm một tấm bảng nội quy của lớp khi đi tham quan, sinh hoạt nơi công cộng: HS nêu từng điều"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhắc HS: đưa ảnh hay đoạn phim quay người khác lên mạng khi họ chưa đồng ý"
+     "text": "Nêu tình huống: em thấy một bạn khóc, một cụ già bị ngã ở nơi công cộng và có người rút điện thoại ra quay lại."
     },
     {
      "code": "QPAN",
@@ -1145,8 +995,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Dao duc - Lop 2.docx",
   "name": "Dao duc - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44842,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 43122,
+  "updated": "2026-09-08"
  }
 }

@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 93
+  "integrations": 51
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Trong “Bài 1. Họ hàng và những ngày kỉ niệm của gia đình” tiết 1"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS tập chào hỏi, xưng hô đúng với ông bà, cô dì, chú bác ở xa qua điện thoại: chào, xưng tên"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh gia đình, ngày sinh của người thân là thông tin riêng: HS không đưa lên mạng"
+     "text": "Trong “Bài 1. Họ hàng và những ngày kỉ niệm của gia đình” tiết 1."
     },
     {
      "code": "STEM",
@@ -108,17 +98,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "Trong “Bài 2. Phòng tránh hỏa hoạn khi ở nhà”, GV chiếu 4 tranh nguyên nhân cháy nhà phóng to và video mô phỏng đám cháy trong bếp"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS học thuộc và thực hành gọi số 114: bấm số, nói rõ cháy ở địa chỉ nhà em, cháy ở đâu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số 114 là số gọi cứu hoả, chỉ gọi khi thật sự có cháy"
+     "text": "Trong “Bài 2. Phòng tránh hỏa hoạn khi ở nhà”, GV chiếu 4 tranh nguyên nhân cháy nhà phóng to."
     },
     {
      "code": "KNS",
@@ -171,17 +151,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở bài “Vệ sinh xung quanh nhà”, GV chiếu bộ ảnh hai khu vực quanh nhà: một nơi sạch sẽ, một nơi có rác ứ đọng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu từng tình huống quanh nhà và cho HS chọn cách xử lí trên màn hình như đổ nước đọng trong lốp xe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chỉ dọn vệ sinh vừa sức, có người lớn hướng dẫn"
+     "text": "Ở bài “Vệ sinh xung quanh nhà”, GV chiếu bộ ảnh hai khu vực quanh nhà."
     },
     {
      "code": "KNS",
@@ -254,19 +224,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Hoạt động kết nối với cộng đồng”, GV chiếu phóng to hình trong sách và thêm ảnh vài hoạt động có thật ở trường như quyên"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV gõ lên màn hình tên các hoạt động mà từng nhóm kể được, xếp thành bảng hai cột việc trường làm và việc em tham gia"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh hoạt động chỉ dùng ảnh nhà trường cho phép"
+     "text": "Gõ lên màn hình tên các hoạt động mà từng nhóm kể được."
     },
     {
      "code": "QPAN",
@@ -309,17 +269,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV cùng HS làm một tấm áp phích số giới thiệu hoạt động cộng đồng và truyền thống trường: GV mở sẵn khung trình chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu trang thông tin của trường hoặc của xã, phường và hướng dẫn HS đọc tìm hai chi tiết: trường thành lập năm nào"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh có mặt bạn bè, thầy cô chỉ được dùng khi mọi người đồng ý"
+     "text": "Cùng HS làm một tấm áp phích số giới thiệu hoạt động cộng đồng."
     },
     {
      "code": "QPAN",
@@ -367,17 +317,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp chính các góc trong trường mình (cầu thang, sân sau, khu vệ sinh, hành lang tầng hai"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV nêu tình huống: em nhìn thấy một bạn bị ngã ở cầu thang. HS thực hành nói lời báo tin cho thầy cô: nói rõ bạn nào"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không dùng điện thoại quay cảnh bạn ngã"
+     "text": "Chiếu ảnh chụp chính các góc trong trường mình (cầu thang, sân sau, khu vệ sinh, hành lang tầng hai, khu để xe)."
     },
     {
      "code": "QPAN",
@@ -473,17 +413,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở bài “Hoạt động sản xuất nông nghiệp”, GV chiếu bộ ảnh và clip ngắn về trồng lúa, trồng rau, nuôi gà, nuôi cá ở địa phương"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng hai cột sản phẩm và nơi làm ra, cho HS kéo mỗi sản phẩm về đúng cột; máy báo đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh và clip do thầy cô chuẩn bị, không quay người dân khi chưa xin phép"
+     "text": "Ở bài “Hoạt động sản xuất nông nghiệp”, GV chiếu bộ ảnh và clip ngắn về trồng lúa, trồng rau, nuôi gà."
     },
     {
      "code": "QPAN",
@@ -545,19 +475,9 @@
      "text": "HS thực hiện việc bảo vệ môi trường ở địa phương và tham gia các hoạt động BVMT."
     },
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu video quy trình thật: từ hạt lúa – gieo mạ – cấy – gặt – xay xát – hạt gạo"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV cho HS sắp xếp lại thứ tự các bức ảnh chụp từng công đoạn (GV chiếu ảnh xáo trộn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Video, hình ảnh về nghề nghiệp phải lấy từ nguồn tin cậy vì trên mạng có nhiều clip"
+     "text": "Cho HS sắp xếp lại thứ tự các bức ảnh chụp từng công đoạn (GV chiếu ảnh xáo trộn, HS lên kéo thả hoặc cầm thẻ ảnh xếp trên bảng)."
     }
    ],
    "note": ""
@@ -626,17 +546,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản đồ số, dùng chế độ xem đường phố hoặc ảnh 360 độ để “dẫn” cả lớp đi một vòng quanh một di tích của tỉnh"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV giao mỗi nhóm làm “hướng dẫn viên nhí”: dựa vào ảnh vừa xem, nhóm nói ba câu giới thiệu di tích cho khách tham quan"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi đi tham quan di tích thật, HS không sờ"
+     "text": "Mở bản đồ số, dùng chế độ xem đường phố."
     },
     {
      "code": "QPAN",
@@ -709,19 +619,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video tua nhanh hạt đậu nảy mầm, rễ đâm xuống, thân vươn lên"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh phóng to (ảnh chụp qua kính hiển vi hoặc ảnh cận cảnh) mặt dưới của lá, bộ rễ, chân côn trùng, mang cá"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem cây và con vật qua màn hình là để hiểu bài"
+     "text": "Ở hoạt động phân loại, GV chiếu bảng hai cột “Rễ cọc – Rễ chùm” còn trống."
     },
     {
      "code": "STEM",
@@ -780,17 +680,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video tua nhanh hạt đậu nảy mầm, rễ đâm xuống, thân vươn lên"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh phóng to (ảnh chụp qua kính hiển vi hoặc ảnh cận cảnh) mặt dưới của lá, bộ rễ, chân côn trùng, mang cá"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem cây và con vật qua màn hình là để hiểu bài"
+     "text": "Ở hoạt động Khám phá bài “Chức năng một số bộ phận của thực vật”."
     }
    ],
    "note": ""
@@ -858,19 +748,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video tua nhanh hạt đậu nảy mầm, rễ đâm xuống, thân vươn lên"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh phóng to (ảnh chụp qua kính hiển vi hoặc ảnh cận cảnh) mặt dưới của lá, bộ rễ, chân côn trùng, mang cá"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem cây và con vật qua màn hình là để hiểu bài"
+     "text": "Ở hoạt động nhóm 4, GV chiếu bảng chung “Tên con vật – Lớp bao phủ – Cơ quan di chuyển”."
     }
    ],
    "note": ""
@@ -924,17 +804,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video tua nhanh hạt đậu nảy mầm, rễ đâm xuống, thân vươn lên"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh phóng to (ảnh chụp qua kính hiển vi hoặc ảnh cận cảnh) mặt dưới của lá, bộ rễ, chân côn trùng, mang cá"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem cây và con vật qua màn hình là để hiểu bài"
+     "text": "Chiếu video tua nhanh hạt đậu nảy mầm, rễ đâm xuống, thân vươn lên, lá xoè ra trong 30 giây."
     }
    ],
    "note": ""
@@ -1002,19 +872,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô hình 3 chiều cơ thể người trên máy tính, xoay và tách từng lớp để HS nhìn thấy vị trí thật của các cơ quan"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV cho HS vừa nghe hoạt hình mô phỏng vừa đặt tay lên ngực đếm nhịp tim của chính mình trong 15 giây trước và sau khi bật"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình ảnh bên trong cơ thể trên mạng có nhiều hình đáng sợ hoặc sai lệch"
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện sơ đồ trống, HS kéo tên các bộ phận."
     },
     {
      "code": "STEM",
@@ -1060,6 +920,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá bài “Chăm sóc và bảo vệ cơ quan tiêu hoá”, GV chiếu bộ ảnh thức ăn."
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
@@ -1098,19 +963,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô hình 3 chiều cơ thể người trên máy tính, xoay và tách từng lớp để HS nhìn thấy vị trí thật của các cơ quan"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV cho HS vừa nghe hoạt hình mô phỏng vừa đặt tay lên ngực đếm nhịp tim của chính mình trong 15 giây trước và sau khi bật"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình ảnh bên trong cơ thể trên mạng có nhiều hình đáng sợ hoặc sai lệch"
+     "text": "Ở hoạt động Luyện tập, HS đặt tay lên ngực đếm nhịp tim của mình trong một phút, GV ghi kết quả."
     },
     {
      "code": "QPAN",
@@ -1151,6 +1006,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá bài “Chăm sóc và bảo vệ cơ quan tuần hoàn”, GV chiếu ảnh so sánh lối sống."
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
@@ -1189,19 +1049,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô hình 3 chiều cơ thể người trên máy tính, xoay và tách từng lớp để HS nhìn thấy vị trí thật của các cơ quan"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV cho HS vừa nghe hoạt hình mô phỏng vừa đặt tay lên ngực đếm nhịp tim của chính mình trong 15 giây trước và sau khi bật"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình ảnh bên trong cơ thể trên mạng có nhiều hình đáng sợ hoặc sai lệch"
+     "text": "Cho HS vừa nghe hoạt hình mô phỏng vừa đặt tay lên ngực đếm nhịp tim của chính mình trong 15 giây."
     },
     {
      "code": "QPAN",
@@ -1244,17 +1094,7 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "GV nối bài học với thói quen dùng thiết bị của chính HS: cho mỗi em tự đếm hôm qua mình xem ti vi"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV cho các nhóm lập “Bản giao hẹn với màn hình” gồm 3 việc HS tự đặt ra (ví dụ: xem không quá 30 phút mỗi lần"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xem điện thoại, ti vi quá lâu và xem sát giờ đi ngủ làm hại mắt và làm"
+     "text": "Nối bài học với thói quen dùng thiết bị của chính."
     },
     {
      "code": "QPAN",
@@ -1297,17 +1137,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Đây đúng là bài dạy cách khai thác thông tin. GV làm mẫu ba nguồn cho cùng một câu hỏi “Vì sao khói thuốc lá có hại?”: hỏi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu một tin đồn thường gặp (ví dụ “uống nước ngọt có ga giúp tiêu cơm nhanh”) đặt cạnh thông tin từ trang y tế chính thức"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trên mạng có nhiều quảng cáo và tin đồn về đồ ăn, thuốc men không đúng sự thật"
+     "text": "Đây đúng là bài dạy cách khai thác thông tin."
     }
    ],
    "note": ""
@@ -1343,19 +1173,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng Trái Đất quay quanh mình và quay quanh Mặt Trời, tua nhanh một ngày đêm rồi một năm"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở ứng dụng la bàn trên điện thoại, cầm ra giữa lớp cho HS xem kim chỉ hướng bắc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "La bàn trên điện thoại có thể chỉ sai khi ở gần vật kim loại hoặc khi máy"
+     "text": "Ở hoạt động Luyện tập, GV chiếu sơ đồ lớp học."
     }
    ],
    "note": ""
@@ -1393,17 +1213,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng Trái Đất quay quanh mình và quay quanh Mặt Trời, tua nhanh một ngày đêm rồi một năm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở ứng dụng la bàn trên điện thoại, cầm ra giữa lớp cho HS xem kim chỉ hướng bắc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "La bàn trên điện thoại có thể chỉ sai khi ở gần vật kim loại hoặc khi máy"
+     "text": "Ở hoạt động Khám phá bài “Trái Đất và các đới khí hậu”, GV chiếu quả địa cầu quay chậm trên màn hình."
     }
    ],
    "note": ""
@@ -1439,19 +1249,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng Trái Đất quay quanh mình và quay quanh Mặt Trời, tua nhanh một ngày đêm rồi một năm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở ứng dụng la bàn trên điện thoại, cầm ra giữa lớp cho HS xem kim chỉ hướng bắc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "La bàn trên điện thoại có thể chỉ sai khi ở gần vật kim loại hoặc khi máy"
+     "text": "Ở hoạt động Luyện tập, GV mở bảng chung “Dạng địa hình – Đặc điểm – Nơi em từng thấy”."
     },
     {
      "code": "STEM",
@@ -1510,17 +1310,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng Trái Đất quay quanh mình và quay quanh Mặt Trời, tua nhanh một ngày đêm rồi một năm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở ứng dụng la bàn trên điện thoại, cầm ra giữa lớp cho HS xem kim chỉ hướng bắc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "La bàn trên điện thoại có thể chỉ sai khi ở gần vật kim loại hoặc khi máy"
+     "text": "Ở hoạt động Khám phá bài “Mặt Trời, Trái Đất, Mặt Trăng”, GV chiếu mô phỏng Trái Đất quay quanh Mặt Trời."
     },
     {
      "code": "STEM",
@@ -1899,8 +1689,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.docx",
   "name": "Tu nhien va Xa hoi - Lop 3.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46234,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 44839,
+  "updated": "2026-09-08"
  }
 }

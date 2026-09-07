@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 45
+  "integrations": 21
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản thu mẫu bài “Dàn nhạc trong vườn” từ học liệu số, chiếu tên bài và dòng “Nhạc và lời: Tô Đông Hải”"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại thu âm cả lớp hát “Dàn nhạc trong vườn” kết hợp gõ đệm theo phách rồi mở lại ngay trên loa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu bài “Dàn nhạc trong vườn” chỉ lấy từ học liệu của bộ sách hoặc kênh chính"
+     "text": "Mở bản thu mẫu bài “Dàn nhạc trong vườn” từ học liệu số, chiếu tên bài và dòng “Nhạc và lời: Tô Đông Hải”."
     }
    ],
    "note": ""
@@ -80,19 +70,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng đàn phím điện tử hoặc phần mềm đàn phím trên máy tính để lấy cao độ chuẩn cho “Bài số 1”: bấm từng nốt cho HS"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở trò chơi nghe nốt trên máy: máy phát một nốt, HS giơ kí hiệu bàn tay tương ứng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV thao tác đàn và máy tính, HS chỉ nghe và đọc theo"
+     "text": "Mở trò chơi nghe nốt trên máy."
     }
    ],
    "note": ""
@@ -130,17 +110,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản thu mẫu bài “Con chim chích choè” lấy từ học liệu điện tử của bộ sách hoặc kênh chính thức của nhà xuất bản"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại thu âm phần hát bài “Con chim chích choè” của cả lớp rồi mở lại ngay cho HS nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu bài “Con chim chích choè” chỉ lấy từ học liệu của bộ sách hoặc kênh chính"
+     "text": "Mở bản thu mẫu bài “Con chim chích choè” lấy từ học liệu điện tử của bộ sách."
     }
    ],
    "note": ""
@@ -176,19 +146,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim quay cận cảnh cho nội dung “Đàn bầu Việt Nam”: nhìn rõ hình dáng, chất liệu, số dây hoặc số lỗ"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "HS làm bài tập nghe tương tác có chấm ngay: GV mở lần lượt vài đoạn nhạc ngắn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về “Đàn bầu Việt Nam” phải lấy từ trang của nhà xuất bản, nhà hát"
+     "text": "HS làm bài tập nghe tương tác có chấm ngay."
     },
     {
      "code": "QPAN",
@@ -215,17 +175,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở chủ đề “Em yêu làn điệu dân ca”, GV mở bản thu bài Con chim chích choè và một hai làn điệu dân ca quen thuộc cho"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Sau khi các nhóm biểu diễn, GV quay lại tiết mục rồi chiếu cho cả lớp cùng xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi quay, bản quay chỉ mở trong lớp rồi xoá"
+     "text": "Ở chủ đề “Em yêu làn điệu dân ca”."
     },
     {
      "code": "KNS",
@@ -250,19 +200,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản thu mẫu bài “Học sinh lớp Hai chăm ngoan” lấy từ học liệu điện tử của bộ sách hoặc kênh chính thức của nhà xuất"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại thu âm phần hát bài “Học sinh lớp Hai chăm ngoan” của cả lớp rồi mở lại ngay cho HS nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu bài “Học sinh lớp Hai chăm ngoan” chỉ lấy từ học liệu của bộ sách hoặc"
+     "text": "Dùng điện thoại thu âm phần hát bài “Học sinh lớp Hai chăm ngoan” của cả lớp."
     }
    ],
    "note": ""
@@ -332,17 +272,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản thu mẫu bài “Chú chim nhỏ dễ thương” lấy từ học liệu điện tử của bộ sách hoặc kênh chính thức của nhà xuất bản"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại thu âm phần hát bài “Chú chim nhỏ dễ thương” của cả lớp rồi mở lại ngay cho HS nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu bài “Chú chim nhỏ dễ thương” chỉ lấy từ học liệu của bộ sách hoặc kênh"
+     "text": "Mở bản thu mẫu bài “Chú chim nhỏ dễ thương” lấy từ học liệu điện tử của bộ sách."
     }
    ],
    "note": ""
@@ -377,6 +307,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Vận dụng – Sáng tạo, GV dùng điện thoại ghi âm phần hoà tấu của từng nhóm."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -450,17 +385,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản thu mẫu bài “Hoa lá mùa xuân” lấy từ học liệu điện tử của bộ sách hoặc kênh chính thức của nhà xuất bản"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại thu âm phần hát bài “Hoa lá mùa xuân” của cả lớp rồi mở lại ngay cho HS nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu bài “Hoa lá mùa xuân” chỉ lấy từ học liệu của bộ sách hoặc kênh chính"
+     "text": "Mở bản thu mẫu bài “Hoa lá mùa xuân” lấy từ học liệu điện tử của bộ sách."
     }
    ],
    "note": ""
@@ -528,19 +453,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản thu mẫu bài “Mẹ ơi có biết” lấy từ học liệu điện tử của bộ sách hoặc kênh chính thức của nhà xuất bản"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại thu âm phần hát bài “Mẹ ơi có biết” của cả lớp rồi mở lại ngay cho HS nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu bài “Mẹ ơi có biết” chỉ lấy từ học liệu của bộ sách hoặc kênh chính"
+     "text": "Dùng điện thoại thu âm phần hát bài “Mẹ ơi có biết” của cả lớp."
     }
    ],
    "note": ""
@@ -578,17 +493,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim quay cận cảnh cho nội dung “Giới thiệu nhạc cụ Ma-ra-cát”: nhìn rõ hình dáng, chất liệu, số dây hoặc số lỗ"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS làm bài tập nghe tương tác có chấm ngay: GV mở lần lượt vài đoạn nhạc ngắn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về “Giới thiệu nhạc cụ Ma-ra-cát” phải lấy từ trang của nhà xuất bản, nhà hát"
+     "text": "Chiếu đoạn phim quay cận cảnh cho nội dung “Giới thiệu nhạc cụ Ma-ra-cát”."
     },
     {
      "code": "KNS",
@@ -612,6 +517,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở phần Biểu diễn, GV ghi âm phần hát kết hợp gõ đệm của từng tổ."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -637,17 +547,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản thu mẫu bài “Trang trại vui vẻ” lấy từ học liệu điện tử của bộ sách hoặc kênh chính thức của nhà xuất bản"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại thu âm phần hát bài “Trang trại vui vẻ” của cả lớp rồi mở lại ngay cho HS nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu bài “Trang trại vui vẻ” chỉ lấy từ học liệu của bộ sách hoặc kênh chính"
+     "text": "Mở bản thu mẫu bài “Trang trại vui vẻ” lấy từ học liệu điện tử của bộ sách."
     }
    ],
    "note": ""
@@ -715,19 +615,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản thu mẫu bài “Ngày hè vui” lấy từ học liệu điện tử của bộ sách hoặc kênh chính thức của nhà xuất bản"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại thu âm phần hát bài “Ngày hè vui” của cả lớp rồi mở lại ngay cho HS nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu bài “Ngày hè vui” chỉ lấy từ học liệu của bộ sách hoặc kênh chính thức"
+     "text": "Dùng điện thoại thu âm phần hát bài “Ngày hè vui” của cả lớp."
     }
    ],
    "note": ""
@@ -765,17 +655,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản ghi hình buổi biểu diễn tác phẩm “Mùa hè ước mong” để HS vừa nghe vừa nhìn thấy người nghệ sĩ đang chơi nhạc cụ"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS đọc phần chú thích dưới đoạn phim: tên tác phẩm, tên tác giả, tên người biểu diễn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn và tải sẵn đoạn phim về “Mùa hè ước mong” trước giờ học rồi mở ngoại"
+     "text": "Mở bản ghi hình buổi biểu diễn tác phẩm “Mùa hè ước mong”."
     },
     {
      "code": "KNS",
@@ -1090,8 +970,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Am nhac - Lop 2.docx",
   "name": "Am nhac - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43418,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42819,
+  "updated": "2026-09-08"
  }
 }

@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 175,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 133
+  "integrations": 28
  },
  "lessons": [
   {
@@ -114,17 +114,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu tranh và bóng nói của Mai, Rô-bốt lên máy chiếu, hiện dãy số để HS phát hiện số chẵn có chữ số tận cùng 0, 2"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS làm bài tập tương tác trên máy tính lớp về “Số chẵn, số lẻ”: kéo các số như 52, 39, 597, 250 vào hai nhóm chẵn, lẻ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu phải lấy từ trang của cơ quan nhà nước và ghi rõ năm công bố"
+     "text": "Chiếu tranh và bóng nói của Mai, Rô-bốt lên máy chiếu, hiện dãy số."
     }
    ],
    "note": ""
@@ -142,23 +132,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu hình bài 1 con ong bay theo đường số chẵn hoặc lẻ; HS lên kéo bút màu vẽ đường bay; chiếu dãy số nhà bài 2"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS làm bài tương tác trên máy tính: điền tiếp dãy số chẵn, số lẻ liên tiếp; máy báo sai thì kiểm tra lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu lấy từ trang cơ quan nhà nước; máy chỉ kiểm tra sau khi tự làm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -174,23 +148,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu tình huống gấp thuyền của Nam, Việt, Mai và Rô-bốt lên máy chiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS làm bài tập tương tác về “Biểu thức chứa chữ”: tính 125 : m với m = 5"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tự trình bày bài giải trước, chỉ dùng máy để kiểm tra lại kết quả"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -206,23 +164,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bảng chiều dài, chiều rộng bài 1 cùng công thức P = (a + b) x 2; GV nhập từng cặp số, máy tính chu vi"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS đo mặt bàn, bảng con, nhập vào bảng tính có công thức trên máy tính lớp, đối chiếu tính tay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tự trình bày bài giải trước, máy chỉ kiểm tra lại; không chụp đề nhờ giải hộ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -238,23 +180,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng sơ đồ đoạn thẳng vẽ trên máy cho “Biểu thức chứa chữ”: kéo thay đổi số liệu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS nhập một dãy số liệu thật của lớp (số sách đã đọc, số phút tập thể dục, chiều cao) vào bảng tính rồi tính tổng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tự trình bày bài giải trước, chỉ dùng máy để kiểm tra lại kết quả"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -274,17 +200,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "Ở bài “Giải bài toán có ba bước tính”, GV dùng sơ đồ đoạn thẳng vẽ trên máy: kéo thay đổi số cây mỗi đội trồng thì sơ"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu đề bài phóng to, tô màu từng dữ kiện rồi nối với đoạn tương ứng trên sơ đồ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy do thầy cô điều khiển, HS chờ đến lượt được mời lên kéo sơ đồ"
+     "text": "Ở bài “Giải bài toán có ba bước tính”, GV dùng sơ đồ đoạn thẳng vẽ trên máy."
     }
    ],
    "note": ""
@@ -302,23 +218,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết luyện tập giải bài toán có ba bước tính, GV chiếu bài giải mẫu rồi ẩn lần lượt từng bước để HS nói bước còn thiếu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ba đề bài cùng dạng nhưng khác cách hỏi, tô màu câu hỏi cuối của mỗi đề; HS đối chiếu để nhận ra đề hỏi tổng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chờ đến lượt được mời lên bảng tương tác, chạm nhẹ và tay khô"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -334,23 +234,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết luyện tập chung, GV cho HS làm bộ bài tập tương tác có chấm tự động: sau mỗi câu các em biết ngay đúng hay sai"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bảng giá hàng hoá của bài toán, tô màu từng dòng theo lời HS đọc đề; các em học cách đọc bảng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài tập tương tác do thầy cô mở, HS làm đúng phần được giao"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -366,23 +250,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở phần ôn số có năm chữ số, GV chiếu bảng hàng và bấm hiện dần từng chữ số của mỗi số; HS đọc số"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV mở bài tập tương tác làm tròn số đến hàng chục và hàng chục nghìn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chờ đến lượt được mời lên chạm màn hình, chạm nhẹ bằng đầu ngón tay"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -398,23 +266,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm hình học động cho “Đo góc, đơn vị đo góc”: kéo một cạnh để góc mở rộng dần"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS vẽ lại hình của bài trên phần mềm vẽ đơn giản, ghi số đo góc và độ dài cạnh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Phần mềm chỉ để quan sát và kiểm tra, HS vẫn phải tự vẽ, tự đo bằng thước"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -450,17 +302,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm hình học động cho “Góc nhọn, góc tù, góc bẹt”: kéo một cạnh để góc mở rộng dần"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS vẽ lại hình của bài trên phần mềm vẽ đơn giản, ghi số đo góc và độ dài cạnh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Phần mềm chỉ để quan sát và kiểm tra, HS vẫn phải tự vẽ, tự đo bằng thước"
+     "text": "Dùng phần mềm hình học động cho “Góc nhọn, góc tù, góc bẹt”."
     }
    ],
    "note": ""
@@ -510,23 +352,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -562,17 +388,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV lấy số liệu thật từ nguồn chính thống (dân số một tỉnh, diện tích một vùng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tự làm, HS dùng máy tính cầm tay hoặc bảng tính để kiểm lại kết quả đọc – viết – so sánh của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu phải lấy từ trang của cơ quan nhà nước và ghi rõ năm công bố"
+     "text": "Lấy số liệu thật từ nguồn chính thống (dân số một tỉnh."
     }
    ],
    "note": ""
@@ -606,23 +422,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV lấy số liệu thật từ nguồn chính thống (dân số một tỉnh, diện tích một vùng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tự làm, HS dùng máy tính cầm tay hoặc bảng tính để kiểm lại kết quả đọc – viết – so sánh của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu phải lấy từ trang của cơ quan nhà nước và ghi rõ năm công bố"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -674,17 +474,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV lấy số liệu thật từ nguồn chính thống (dân số một tỉnh, diện tích một vùng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tự làm, HS dùng máy tính cầm tay hoặc bảng tính để kiểm lại kết quả đọc – viết – so sánh của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu phải lấy từ trang của cơ quan nhà nước và ghi rõ năm công bố"
+     "text": "Lấy số liệu thật từ nguồn chính thống (dân số một tỉnh."
     }
    ],
    "note": ""
@@ -734,23 +524,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV lấy số liệu thật từ nguồn chính thống (dân số một tỉnh, diện tích một vùng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tự làm, HS dùng máy tính cầm tay hoặc bảng tính để kiểm lại kết quả đọc – viết – so sánh của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu phải lấy từ trang của cơ quan nhà nước và ghi rõ năm công bố"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -770,17 +544,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV lấy số liệu thật từ nguồn chính thống (dân số một tỉnh, diện tích một vùng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tự làm, HS dùng máy tính cầm tay hoặc bảng tính để kiểm lại kết quả đọc – viết – so sánh của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu phải lấy từ trang của cơ quan nhà nước và ghi rõ năm công bố"
+     "text": "Lấy số liệu thật từ nguồn chính thống (dân số một tỉnh."
     }
    ],
    "note": ""
@@ -814,23 +578,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV lấy số liệu thật từ nguồn chính thống (dân số một tỉnh, diện tích một vùng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tự làm, HS dùng máy tính cầm tay hoặc bảng tính để kiểm lại kết quả đọc – viết – so sánh của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu phải lấy từ trang của cơ quan nhà nước và ghi rõ năm công bố"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -862,23 +610,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -914,17 +646,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của GV để đo khối lượng, độ dài, diện tích"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS lập bảng quy đổi đơn vị và dùng máy tính cầm tay kiểm lại các phép đổi khó (tấn – tạ – yến – ki-lô-gam"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng thiết bị của GV trong phần đo, đo xong trả lại ngay; không chụp ảnh"
+     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của."
     }
    ],
    "note": ""
@@ -974,23 +696,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của GV để đo khối lượng, độ dài, diện tích"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS lập bảng quy đổi đơn vị và dùng máy tính cầm tay kiểm lại các phép đổi khó (tấn – tạ – yến – ki-lô-gam"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng thiết bị của GV trong phần đo, đo xong trả lại ngay; không chụp ảnh"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1058,17 +764,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của GV để đo khối lượng, độ dài, diện tích"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS lập bảng quy đổi đơn vị và dùng máy tính cầm tay kiểm lại các phép đổi khó (tấn – tạ – yến – ki-lô-gam"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng thiết bị của GV trong phần đo, đo xong trả lại ngay; không chụp ảnh"
+     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của."
     },
     {
      "code": "STEM",
@@ -1127,17 +823,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của GV để đo khối lượng, độ dài, diện tích"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS lập bảng quy đổi đơn vị và dùng máy tính cầm tay kiểm lại các phép đổi khó (tấn – tạ – yến – ki-lô-gam"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng thiết bị của GV trong phần đo, đo xong trả lại ngay; không chụp ảnh"
+     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của."
     }
    ],
    "note": ""
@@ -1187,23 +873,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1235,7 +905,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài phép cộng các số có nhiều chữ số, GV chiếu bảng hàng phóng to."
+    }
+   ],
    "note": ""
   },
   {
@@ -1299,7 +975,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài tính chất giao hoán và kết hợp của phép cộng, GV chiếu bảng số liệu."
+    }
+   ],
    "note": ""
   },
   {
@@ -1383,17 +1065,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
+     "text": "Ở tiết luyện tập chung có dạng toán tìm hai số khi biết tổng."
     }
    ],
    "note": ""
@@ -1443,23 +1115,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm hình học động cho “Hai đường thẳng vuông góc”: kéo một cạnh để góc mở rộng dần"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS vẽ lại hình của bài trên phần mềm vẽ đơn giản, ghi số đo góc và độ dài cạnh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Phần mềm chỉ để quan sát và kiểm tra, HS vẫn phải tự vẽ, tự đo bằng thước"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1493,9 +1149,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Dùng công cụ số đơn giản để đo, vẽ, trình bày kết quả thực hành (có hướng dẫn)."
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài thực hành vẽ hai đường thẳng vuông góc, GV dùng phần mềm hình học chiếu từng bước vẽ."
     }
    ],
    "note": ""
@@ -1529,23 +1185,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm hình học động cho “Hai đường thẳng song song”: kéo một cạnh để góc mở rộng dần"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS vẽ lại hình của bài trên phần mềm vẽ đơn giản, ghi số đo góc và độ dài cạnh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Phần mềm chỉ để quan sát và kiểm tra, HS vẫn phải tự vẽ, tự đo bằng thước"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1577,13 +1217,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "Dùng công cụ số đơn giản để đo, vẽ, trình bày kết quả thực hành (có hướng dẫn)."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1619,17 +1253,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm hình học động cho “Hình bình hành, hình thoi”: kéo một cạnh để góc mở rộng dần"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS vẽ lại hình của bài trên phần mềm vẽ đơn giản, ghi số đo góc và độ dài cạnh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Phần mềm chỉ để quan sát và kiểm tra, HS vẫn phải tự vẽ, tự đo bằng thước"
+     "text": "Dùng phần mềm hình học động cho “Hình bình hành, hình thoi”."
     }
    ],
    "note": ""
@@ -1679,23 +1303,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2247,6 +1855,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Dùng sơ đồ đoạn thẳng vẽ trên máy cho “Thực hành và trải nghiệm ước lượng trong tính toán”."
+    },
+    {
      "code": "STEM",
      "level": "",
      "text": "Thực hành ước lượng (Toán – Mĩ thuật) — dạy thay cho tiết này."
@@ -2303,17 +1916,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng sơ đồ đoạn thẳng vẽ trên máy cho “Bài toán liên quan đến rút về đơn vị”: kéo thay đổi số liệu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS nhập một dãy số liệu thật của lớp (số sách đã đọc, số phút tập thể dục, chiều cao) vào bảng tính rồi tính tổng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tự trình bày bài giải trước, chỉ dùng máy để kiểm tra lại kết quả"
+     "text": "Dùng sơ đồ đoạn thẳng vẽ trên máy cho “Bài toán liên quan đến rút về đơn vị”."
     }
    ],
    "note": ""
@@ -2347,23 +1950,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2415,17 +2002,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thu thập số liệu thật trong lớp phục vụ “Dãy số liệu thống kê” (môn thể thao yêu thích, số phút đọc sách mỗi ngày"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS đọc biểu đồ máy vẽ để trả lời câu hỏi của bài; thử đổi cách sắp xếp cột hoặc đổi kiểu biểu đồ rồi nhận xét cách"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (địa chỉ, hoàn cảnh gia đình, điểm số"
+     "text": "HS thu thập số liệu thật trong lớp phục vụ “Dãy số liệu thống kê” (môn thể thao yêu thích."
     }
    ],
    "note": ""
@@ -2459,23 +2036,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thu thập số liệu thật trong lớp phục vụ “Biểu đồ cột” (môn thể thao yêu thích, số phút đọc sách mỗi ngày"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS đọc biểu đồ máy vẽ để trả lời câu hỏi của bài; thử đổi cách sắp xếp cột hoặc đổi kiểu biểu đồ rồi nhận xét cách"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (địa chỉ, hoàn cảnh gia đình, điểm số"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2511,17 +2072,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS thu thập số liệu thật trong lớp phục vụ “Số lần xuất hiện của một sự kiện” (môn thể thao yêu thích"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS đọc biểu đồ máy vẽ để trả lời câu hỏi của bài; thử đổi cách sắp xếp cột hoặc đổi kiểu biểu đồ rồi nhận xét cách"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (địa chỉ, hoàn cảnh gia đình, điểm số"
+     "text": "HS thu thập số liệu thật trong lớp phục vụ “Số lần xuất hiện của một sự kiện” (môn thể thao yêu thích.."
     }
    ],
    "note": ""
@@ -2555,23 +2106,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thu thập số liệu thật trong lớp phục vụ “Luyện tập chung” (môn thể thao yêu thích, số phút đọc sách mỗi ngày"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS đọc biểu đồ máy vẽ để trả lời câu hỏi của bài; thử đổi cách sắp xếp cột hoặc đổi kiểu biểu đồ rồi nhận xét cách"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (địa chỉ, hoàn cảnh gia đình, điểm số"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2587,23 +2122,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng học liệu tương tác cho “Khái niệm phân số”: kéo để chia hình tròn, băng giấy, thanh phân số thành 2, 4"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS dùng thanh phân số động để so sánh hai phân số khác mẫu số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Học liệu chỉ giúp nhìn thấy, HS vẫn phải viết và giải thích bằng lời trong vở"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2639,17 +2158,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng học liệu tương tác cho “Phân số và phép chia số tự nhiên”: kéo để chia hình tròn, băng giấy, thanh phân số thành 2, 4"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS dùng thanh phân số động để so sánh hai phân số khác mẫu số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Học liệu chỉ giúp nhìn thấy, HS vẫn phải viết và giải thích bằng lời trong vở"
+     "text": "Dùng học liệu tương tác cho “Phân số và phép chia số tự nhiên”."
     }
    ],
    "note": ""
@@ -2684,21 +2193,6 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng học liệu tương tác cho “Tính chất cơ bản của phân số”: kéo để chia hình tròn, băng giấy, thanh phân số thành 2, 4"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS dùng thanh phân số động để so sánh hai phân số khác mẫu số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Học liệu chỉ giúp nhìn thấy, HS vẫn phải viết và giải thích bằng lời trong vở"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2816,7 +2310,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Dùng học liệu tương tác cho “So sánh phân số”."
+    }
+   ],
    "note": ""
   },
   {
@@ -2868,17 +2368,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
+     "text": "Cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”."
     }
    ],
    "note": ""
@@ -3028,17 +2518,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
+     "text": "Cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”."
     }
    ],
    "note": ""
@@ -3204,17 +2684,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
+     "text": "Cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”."
     }
    ],
    "note": ""
@@ -3248,23 +2718,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”: sau mỗi câu HS biết ngay đúng hay sai và xem"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS ghép cặp, mỗi bạn chọn một bài khó để giảng lại cho bạn nghe trên bảng nhóm hoặc trên màn hình chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Làm hết bài rồi mới xem đáp án, xem đáp án để hiểu chứ không chép"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3802,8 +3256,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Toan - Lop 4.docx",
   "name": "Toan - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48974,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 46303,
+  "updated": "2026-09-08"
  }
 }

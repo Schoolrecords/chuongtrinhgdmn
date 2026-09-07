@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 44
+  "integrations": 26
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh chụp mảng chạm khắc gỗ và tượng tròn ở đình làng lên máy chiếu, phóng to chi tiết hình rồng, người"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS xem thêm đoạn phim ngắn giới thiệu một ngôi đình trên tivi, ghi vào phiếu tên đình, nơi có đình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh tư liệu di sản phải lấy từ trang của bảo tàng"
+     "text": "Chiếu ảnh chụp mảng chạm khắc gỗ và tượng tròn ở đình làng lên máy chiếu, phóng to chi tiết hình rồng, người, hoa lá."
     }
    ],
    "note": ""
@@ -120,17 +110,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bộ sưu tập số tranh Đông Hồ, Hàng Trống trên trang của bảo tàng"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS so sánh một bức Đông Hồ với một bức Hàng Trống và ghi vào phiếu hai điểm khác nhau về màu và về nét."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tranh dân gian là di sản và mỗi bản chụp đều thuộc về nơi lưu giữ"
+     "text": "Mở bộ sưu tập số tranh Đông Hồ, Hàng Trống trên trang của bảo tàng."
     }
    ],
    "note": ""
@@ -206,17 +186,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS dùng bản đồ số và ảnh toàn cảnh để xem lại một địa danh ở quê mình từ trên cao và từ mặt đất"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS chọn một địa danh, thu thập hai đến ba ảnh và ghi lại nguồn từng ảnh vào phiếu tư liệu."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tra cứu trong ứng dụng bản đồ và trang tư liệu GV chỉ định"
+     "text": "HS dùng bản đồ số và ảnh toàn cảnh."
     },
     {
      "code": "QPAN",
@@ -314,17 +284,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu loạt ảnh chụp người lao động đang làm việc: bác nông dân, cô lao công, chú thợ xây, người bán hàng"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS chọn một ảnh, mô tả dáng người và đoán người trong ảnh đang nghĩ gì, cảm thấy thế nào."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chụp người lao động do GV lấy từ nguồn tư liệu có ghi tác giả"
+     "text": "Chiếu loạt ảnh chụp người lao động đang làm việc."
     }
    ],
    "note": ""
@@ -416,17 +376,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu bộ ảnh kỉ niệm của lớp chụp trong năm học cùng vài ảnh tư liệu về các cách người ta lưu giữ kỉ niệm: album ảnh"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS chọn một bức ảnh kỉ niệm và chỉ ra nhân vật chính, bối cảnh và điều gì làm bức ảnh ấy đáng nhớ."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh kỉ niệm của lớp chỉ dùng trong lớp; trước khi đưa ảnh có mặt bạn vào bài"
+     "text": "Chiếu bộ ảnh kỉ niệm của lớp chụp trong năm học cùng vài ảnh tư liệu về các cách người ta lưu giữ kỉ niệm."
     }
    ],
    "note": ""
@@ -502,17 +452,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS dùng thiết bị của lớp chụp lại các góc của trường: cổng, hành lang, sân sau, gốc cây"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS giải thích vì sao góc mình chọn là đẹp: có mảng chính, có đường dẫn mắt, có khoảng trống hợp lí."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đi chụp theo nhóm và theo lộ trình GV giao, không leo trèo"
+     "text": "HS dùng thiết bị của lớp chụp lại các góc của trường."
     }
    ],
    "note": ""
@@ -588,17 +528,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS xem bộ ảnh chụp cùng một địa điểm trước và sau khi bị rác thải xâm chiếm"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS ghi lại một số liệu mình thấy ấn tượng nhất cùng tên trang đã cung cấp số liệu đó để đưa vào tranh cổ động."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu về môi trường phải lấy từ trang của cơ quan nhà nước hoặc tổ chức có"
+     "text": "HS xem bộ ảnh chụp cùng một địa điểm trước và sau khi bị rác thải xâm chiếm."
     }
    ],
    "note": ""
@@ -674,17 +604,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS xem bộ tranh và ảnh về cuộc sống làng quê ở các vùng miền"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS chọn hai tác phẩm khác vùng miền và ghi vào phiếu điểm giống nhau về cảm xúc, điểm khác nhau về cảnh vật."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi đưa ảnh tham khảo vào phiếu tư liệu, HS ghi tên tác giả và nơi lấy ảnh"
+     "text": "HS xem bộ tranh và ảnh về cuộc sống làng quê ở các vùng miền, chú ý cách các tác giả chọn khoảnh khắc yên bình."
     },
     {
      "code": "QPAN",
@@ -798,17 +718,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS cùng GV dựng một trang triển lãm số cuối năm chia theo tám chủ đề đã học, mỗi chủ đề chọn vài sản phẩm tiêu biểu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS đóng vai người thuyết minh, giới thiệu một chủ đề trong triển lãm cho khách tham quan là các bạn lớp khác và cha mẹ."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Triển lãm ghi đủ tên tác giả cho từng sản phẩm và ghi nguồn cho mọi hình ảnh"
+     "text": "HS cùng GV dựng một trang triển lãm số cuối năm chia theo tám chủ đề đã học."
     },
     {
      "code": "KNS",
@@ -1091,8 +1001,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Mi thuat - Lop 4.docx",
   "name": "Mi thuat - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43387,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42402,
+  "updated": "2026-09-08"
  }
 }

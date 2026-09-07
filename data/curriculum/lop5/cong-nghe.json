@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 50
+  "integrations": 33
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Từ Hình 1 SGK, mỗi nhóm chọn một sản phẩm công nghệ trong nhà như quạt điện, nồi cơm điện, đèn học"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 5.A2.2",
-     "text": "GV dùng công cụ trí tuệ nhân tạo tạo hình ảnh cùng một công việc, ví dụ giặt quần áo"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tôn trọng bản quyền, không chép nguyên thiết kế của người khác rồi nhận là của mình"
+     "text": "Từ Hình 1 SGK, mỗi nhóm chọn một sản phẩm công nghệ trong nhà như quạt điện, nồi cơm điện, đèn học."
     }
    ],
    "note": ""
@@ -82,17 +72,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Ở bài “Nhà sáng chế”, GV chiếu ảnh và mốc thời gian của vài sáng chế quen thuộc như bóng đèn, điện thoại, bút bi"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng công cụ vẽ trên máy để phác bản thiết kế ý tưởng của nhóm: vẽ hình dạng sản phẩm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chỉ dùng phần mềm thầy cô mở, không tự cài đặt hay tải nội dung khác"
+     "text": "Ở bài “Nhà sáng chế”, GV chiếu ảnh và mốc thời gian của vài sáng chế quen thuộc như bóng đèn, điện thoại, bút bi."
     }
    ],
    "note": ""
@@ -162,17 +142,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng công cụ vẽ trên máy để phác thảo bản thiết kế trong bài “Tìm hiểu thiết kế”: vẽ hình dạng, ghi kích thước"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem vài mẫu thiết kế do công cụ trí tuệ nhân tạo tạo ra"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tôn trọng bản quyền, không chép nguyên thiết kế của người khác rồi nhận là của mình"
+     "text": "Hướng dẫn HS dùng công cụ vẽ trên máy."
     }
    ],
    "note": ""
@@ -208,19 +178,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng công cụ vẽ trên máy để phác thảo bản thiết kế trong bài “Thiết kế sản phẩm”: vẽ hình dạng, ghi kích thước"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem vài mẫu thiết kế do công cụ trí tuệ nhân tạo tạo ra"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tôn trọng bản quyền, không chép nguyên thiết kế của người khác rồi nhận là của mình"
+     "level": "Nhận biết",
+     "text": "Cho HS xem vài mẫu thiết kế do công cụ trí tuệ nhân tạo tạo ra."
     }
    ],
    "note": ""
@@ -290,17 +250,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "Bài “Sử dụng điện thoại” chính là bài hình thành năng lực số trực tiếp: HS thực hành gọi, nghe, nhắn tin, lưu danh bạ"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: hiện có thủ đoạn dùng giọng nói giả do trí tuệ nhân tạo tạo ra để giả người thân gọi xin tiền"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không cài ứng dụng lạ, không bấm vào đường liên kết trong tin nhắn lạ; không nạp tiền"
+     "text": "Bài “Sử dụng điện thoại” chính là bài hình thành năng lực số trực tiếp."
     },
     {
      "code": "KNS",
@@ -425,12 +375,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu video, hình ảnh minh hoạ cấu tạo và cách sử dụng an toàn “Sử dụng tủ lạnh”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự tháo lắp thiết bị điện trong nhà"
+     "text": "Chiếu video, hình ảnh minh hoạ cấu tạo và cách sử dụng an toàn “Sử dụng tủ lạnh”."
     },
     {
      "code": "KNS",
@@ -514,19 +459,9 @@
      "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     },
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video hướng dẫn lắp ráp “Lắp mô hình xe điện chạy bằng pin” theo từng bước"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS chụp ảnh sản phẩm ở từng công đoạn rồi ghép thành bản báo cáo quy trình trên máy"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng pin và dụng cụ theo hướng dẫn của GV"
+     "text": "HS chụp ảnh sản phẩm ở từng công đoạn rồi ghép thành bản báo cáo quy trình trên máy; nếu mô hình."
     },
     {
      "code": "STEM",
@@ -624,17 +559,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu video hướng dẫn lắp ráp “Mô hình máy phát điện gió” theo từng bước"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp ảnh sản phẩm ở từng công đoạn rồi ghép thành bản báo cáo quy trình trên máy"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng pin và dụng cụ theo hướng dẫn của GV"
+     "text": "Chiếu video hướng dẫn lắp ráp “Mô hình máy phát điện gió” theo từng bước, cho HS tua chậm."
     },
     {
      "code": "STEM",
@@ -730,19 +655,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video hướng dẫn lắp ráp “Mô hình điện Mặt Trời” theo từng bước, cho HS tua chậm hoặc xem lại đoạn khó trước khi tự làm."
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS chụp ảnh sản phẩm ở từng công đoạn rồi ghép thành bản báo cáo quy trình trên máy"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng pin và dụng cụ theo hướng dẫn của GV"
+     "text": "HS chụp ảnh sản phẩm ở từng công đoạn rồi ghép thành bản báo cáo quy trình trên máy; nếu mô hình."
     },
     {
      "code": "KNS",
@@ -1123,8 +1038,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Cong nghe - Lop 5.docx",
   "name": "Cong nghe - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42852,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42346,
+  "updated": "2026-09-08"
  }
 }

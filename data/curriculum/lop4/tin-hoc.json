@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 54
+  "integrations": 19
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV cho HS chỉ trên máy tính lớp đâu là phần cứng như thân máy, màn hình, bàn phím, chuột"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS quan sát ảnh các thiết bị trên máy chiếu, phân loại vào hai cột phần cứng và phần mềm, ghép cột A với cột B"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tháo, không cắm rút dây thiết bị khi máy đang bật"
+     "text": "Cho HS chỉ trên máy tính lớp đâu là phần cứng như thân máy, màn hình, bàn phím, chuột."
     }
    ],
    "note": ""
@@ -82,17 +72,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Ở bài “Gõ bàn phím đúng cách”, GV hướng dẫn HS đặt tay đúng hàng phím cơ sở và gõ bằng mười ngón"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu hai ảnh tư thế ngồi máy: một đúng, một sai; HS chỉ ra chỗ khác nhau ở lưng, khoảng cách mắt"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS ngồi thẳng lưng, mắt cách màn hình khoảng một cánh tay"
+     "text": "Ở bài “Gõ bàn phím đúng cách”."
     }
    ],
    "note": ""
@@ -130,17 +110,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở một trang web dành cho thiếu nhi, chỉ cho HS các thành phần: ô địa chỉ, tiêu đề trang, khối văn bản, hình ảnh, liên kết"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS tập đọc địa chỉ trang để đoán trang đó của ai (báo dành cho thiếu nhi, trường học, cơ quan nhà nước"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không bấm vào quảng cáo, cửa sổ tự hiện lên hay nút “tải về” lạ"
+     "text": "Mở một trang web dành cho thiếu nhi, chỉ cho HS các thành phần."
     }
    ],
    "note": ""
@@ -176,24 +146,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS chọn từ khoá ngắn, đúng trọng tâm cho một câu hỏi cụ thể; HS gõ từ khoá"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS đối chiếu thông tin tìm được ở ít nhất hai trang và với SGK"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV chỉ cho HS thấy phần trả lời tóm tắt do máy tự sinh đặt ở đầu trang kết quả"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tìm kiếm với từ khoá phục vụ bài học; không tải tệp lạ về máy"
+     "level": "Nhận biết",
+     "text": "Chỉ cho HS thấy phần trả lời tóm tắt do máy tự sinh đặt ở đầu trang kết quả."
     }
    ],
    "note": ""
@@ -231,17 +186,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS tạo thư mục riêng mang tên mình, đặt tên tệp dễ hiểu, sao chép – di chuyển – đổi tên – xoá tệp"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự nghĩ một cách sắp xếp thư mục (theo môn học hoặc theo tháng) và giải thích vì sao cách đó giúp mình tìm bài nhanh hơn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ thao tác trong thư mục của mình, không mở, không sửa"
+     "text": "Hướng dẫn HS tạo thư mục riêng mang tên mình, đặt tên tệp dễ hiểu, sao chép."
     }
    ],
    "note": ""
@@ -279,17 +224,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV cho HS quan sát cửa sổ giấy phép hiện ra khi cài một phần mềm, chỉ chỗ ghi phần mềm dùng miễn phí hay phải mua"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV nêu công sức của người viết phần mềm, người vẽ tranh, người viết truyện"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng phần mềm được thầy cô, cha mẹ cho phép"
+     "text": "Cho HS quan sát cửa sổ giấy phép hiện ra khi cài một phần mềm, chỉ chỗ ghi phần mềm dùng miễn phí hay phải mua."
     }
    ],
    "note": ""
@@ -311,17 +246,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS thực hiện “Tạo bài trình chiếu”: mở phần mềm, thêm trang chiếu, nhập tiêu đề và nội dung ngắn gọn, chèn ảnh minh hoạ"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu bài của mình cho nhóm xem, nghe bạn góp ý xem chữ có dễ đọc không, ảnh có đúng nội dung không"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng ảnh do mình chụp, mình vẽ hoặc ảnh được phép dùng và ghi rõ nguồn"
+     "text": "Hướng dẫn HS thực hiện “Tạo bài trình chiếu”."
     },
     {
      "code": "STEM",
@@ -364,17 +289,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV cho HS so sánh hai trang chiếu cùng nội dung: một trang chữ nhỏ, nhiều màu loè loẹt và một trang chữ to, màu tương phản rõ"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS định dạng lại bài trình chiếu của mình: chỉnh cỡ chữ tiêu đề và nội dung, chọn màu chữ nổi trên nền, căn lề cho thẳng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chép nguyên đoạn văn của người khác vào trang chiếu rồi nhận là của mình"
+     "text": "Cho HS so sánh hai trang chiếu cùng nội dung."
     }
    ],
    "note": ""
@@ -410,19 +325,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS đặt hiệu ứng chuyển trang cho bài trình chiếu và chỉnh thời gian chuyển"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS trình bày bài hoàn chỉnh trước lớp, tập nói theo trang chiếu chứ không đọc nguyên chữ trên màn hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hiệu ứng chỉ là phần phụ, nội dung mới là chính — không lạm dụng hiệu ứng nhấp"
+     "text": "HS trình bày bài hoàn chỉnh trước lớp, tập nói theo trang chiếu chứ không đọc nguyên chữ trên màn hình."
     }
    ],
    "note": ""
@@ -492,17 +397,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS mở phần mềm soạn thảo, gõ một đoạn văn ngắn của mình, đặt tên tệp và lưu vào thư mục riêng"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS gõ đúng quy tắc trình bày tiếng Việt: viết hoa đầu câu, một dấu cách sau dấu chấm và dấu phẩy"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài viết phải do chính HS nghĩ và gõ ra; chỉ lưu bài vào thư mục của mình"
+     "text": "Hướng dẫn HS mở phần mềm soạn thảo, gõ một đoạn văn ngắn của mình."
     }
    ],
    "note": ""
@@ -538,19 +433,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS chỉnh sửa văn bản: chọn khối chữ, xoá, chèn thêm, sao chép, di chuyển đoạn, huỷ thao tác vừa làm"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS dùng chức năng gợi ý lỗi chính tả của phần mềm để soát lại bài; GV lưu ý máy chỉ báo chỗ nghi ngờ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉnh sửa trên bài của chính mình, không mở và sửa bài của bạn"
+     "text": "HS dùng chức năng gợi ý lỗi chính tả của phần mềm."
     }
    ],
    "note": ""
@@ -588,17 +473,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS đặt tay đúng hàng phím cơ sở và gõ bằng mười ngón; HS gõ một đoạn ngắn cho sẵn"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS dùng phần mềm luyện gõ có chấm điểm để biết tốc độ và số lỗi sau mỗi lần luyện"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ngồi đúng tư thế, cổ tay thẳng, không tì mạnh"
+     "text": "Hướng dẫn HS đặt tay đúng hàng phím cơ sở."
     }
    ],
    "note": ""
@@ -636,17 +511,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV chọn phần mềm trò chơi mang tính học tập (xếp hình, luyện gõ, giải đố, tìm đường)"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS thoả thuận với bạn luật chơi và thứ tự lượt khi dùng chung một máy; giữ thái độ vui vẻ khi thắng, bình tĩnh khi thua"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đặt giới hạn thời gian chơi và dừng đúng giờ"
+     "text": "Chọn phần mềm trò chơi mang tính học tập (xếp hình, luyện gõ, giải đố, tìm đường)."
     }
    ],
    "note": ""
@@ -684,17 +549,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV giới thiệu màn hình phần mềm lập trình trực quan: khu vực khối lệnh, khu vực ghép lệnh, sân khấu và nhân vật"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS thử đổi thứ tự các khối lệnh rồi chạy lại để thấy máy làm đúng theo thứ tự mình xếp — sai ở đâu sửa ở đó"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở phần mềm và dự án GV chỉ định; lưu dự án vào thư mục của mình"
+     "text": "Giới thiệu màn hình phần mềm lập trình trực quan."
     }
    ],
    "note": ""
@@ -732,22 +587,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS diễn tả một ý tưởng của mình thành chương trình cho “Tạo chương trình máy tính để diễn tả ý tưởng”: chọn nhân vật, phông nền"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Khi chương trình chạy chưa đúng, HS chia nhỏ để tìm lỗi: chạy từng phần, kiểm tra thứ tự lệnh, đổi giá trị thời gian và bước đi"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS giới thiệu chương trình của mình trước lớp, nghe bạn góp ý và ghi lại một điều mình sẽ cải tiến ở lần sau."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ý tưởng và lời thoại trong chương trình phải do HS tự nghĩ; nhân vật"
+     "text": "HS diễn tả một ý tưởng của mình thành chương trình cho “Tạo chương trình máy tính để diễn tả ý tưởng”."
     }
    ],
    "note": ""
@@ -788,24 +628,9 @@
      "text": "Bài học STEM."
     },
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS diễn tả một ý tưởng của mình thành chương trình cho “Chương trình của em”: chọn nhân vật, phông nền"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "Khi chương trình chạy chưa đúng, HS chia nhỏ để tìm lỗi: chạy từng phần, kiểm tra thứ tự lệnh, đổi giá trị thời gian và bước đi"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS giới thiệu chương trình của mình trước lớp, nghe bạn góp ý và ghi lại một điều mình sẽ cải tiến ở lần sau."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ý tưởng và lời thoại trong chương trình phải do HS tự nghĩ; nhân vật"
+     "text": "Khi chương trình chạy chưa đúng, HS chia nhỏ để tìm lỗi."
     }
    ],
    "note": ""
@@ -1137,8 +962,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Tin hoc - Lop 4.docx",
   "name": "Tin hoc - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44592,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42764,
+  "updated": "2026-09-08"
  }
 }

@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 96
+  "integrations": 38
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản hát mẫu bài “Vào rừng hoa” từ học liệu số của bộ sách"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm phần cả lớp hát kết hợp vỗ tay theo phách rồi mở lại qua loa ngay tại lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu chỉ lấy từ học liệu của bộ sách hoặc kênh chính thức"
+     "text": "Mở bản hát mẫu bài “Vào rừng hoa” từ học liệu số của bộ sách, chiếu màn hình."
     }
    ],
    "note": ""
@@ -64,19 +54,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở lần lượt các đoạn âm thanh tự nhiên (chim hót, gió, mưa, suối chảy) và âm thanh nhạc cụ (trống, đàn) từ học liệu số"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV ghi âm phần cả lớp tạo \"cơn mưa rừng\" bằng tay chân, mở lại qua loa; HS nghe và nhận xét đoạn nào nghe giống mưa nhỏ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Các tệp âm thanh lấy từ học liệu của bộ sách hoặc kho âm thanh miễn phí có"
+     "text": "Ghi âm phần cả lớp tạo \"cơn mưa rừng\" bằng tay chân, mở lại qua loa."
     }
    ],
    "note": ""
@@ -98,17 +78,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình bậc thang Đô – Rê – Mi từ học liệu số"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV quay đoạn ngắn cả lớp đọc Đô – Rê – Mi kết hợp kí hiệu bàn tay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình ảnh và âm thanh lấy từ học liệu của bộ sách; đoạn quay chỉ dùng tại lớp"
+     "text": "Chiếu hình bậc thang Đô – Rê."
     }
    ],
    "note": ""
@@ -130,17 +100,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm phần cả lớp đọc Đô – Rê – Mi lần to, lần nhỏ rồi mở lại qua loa"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở một đoạn nhạc ngắn từ học liệu số có chỗ to, chỗ nhỏ, chiếu hình \"loa to\" – \"loa nhỏ\" thay đổi theo nhạc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉnh âm lượng loa vừa phải, không tăng quá to khi minh họa \"to\""
+     "text": "Dùng điện thoại ghi âm phần cả lớp đọc Đô."
     },
     {
      "code": "KNS",
@@ -167,17 +127,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản hát mẫu bài “Tổ quốc ta” từ học liệu số của bộ sách"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm phần cả lớp hát kết hợp gõ phách rồi mở lại qua loa ngay tại lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu chỉ lấy từ học liệu của bộ sách hoặc kênh chính thức"
+     "text": "Mở bản hát mẫu bài “Tổ quốc ta” từ học liệu số của bộ sách."
     },
     {
      "code": "QPAN",
@@ -202,19 +152,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở đoạn phim ngắn từ học liệu số về đội trống của thiếu nhi (đeo trống, cầm dùi, gõ đều)"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV ghi âm phần nhóm gõ trống con theo hình tiết tấu và mở lại qua loa; HS nghe xem tiếng gõ đã đều chưa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đoạn phim lấy từ học liệu của bộ sách hoặc kênh chính thức, GV xem trước"
+     "text": "Ghi âm phần nhóm gõ trống con theo hình tiết tấu."
     },
     {
      "code": "QPAN",
@@ -241,17 +181,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản thu Quốc ca từ học liệu chính thức, chiếu hình lá cờ Tổ quốc và tên nhạc sĩ Văn Cao"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm phần nhóm hát Tổ quốc ta có gõ trống con đệm theo phách, mở lại qua loa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản Quốc ca phải lấy từ nguồn chính thức, không dùng bản phối lạ"
+     "text": "Mở bản thu Quốc ca từ học liệu chính thức, chiếu hình lá cờ Tổ quốc."
     },
     {
      "code": "QPAN",
@@ -276,19 +206,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở từ học liệu số các đoạn âm thanh cao – thấp (tiếng chim, tiếng bò, tiếng sáo, tiếng trống) và tiếng đàn các nốt"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV ghi âm phần cả lớp hát \"la\" nhắc lại mẫu cao – thấp và mở lại qua loa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Âm thanh lấy từ học liệu của bộ sách hoặc kho âm thanh có ghi rõ nguồn"
+     "text": "Ghi âm phần cả lớp hát \"la\" nhắc lại mẫu cao."
     },
     {
      "code": "QPAN",
@@ -315,17 +235,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản hát mẫu bài “Lớp Một thân yêu” từ học liệu số của bộ sách"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm phần cả lớp hát kết hợp vỗ tay theo phách rồi mở lại qua loa ngay tại lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu chỉ lấy từ học liệu của bộ sách hoặc kênh chính thức"
+     "text": "Mở bản hát mẫu bài “Lớp Một thân yêu” từ học liệu số của bộ sách."
     }
    ],
    "note": ""
@@ -345,19 +255,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu hình ba kí hiệu bàn tay Đô – Rê – Mi lấy từ học liệu số của bộ sách"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại quay ngắn phần “ban nhạc Đô – Rê – Mi” của một nhóm rồi mở lại trên màn hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Âm mẫu và hình kí hiệu bàn tay lấy từ học liệu của bộ sách"
+     "text": "Dùng điện thoại quay ngắn phần “ban nhạc Đô – Rê – Mi” của một nhóm."
     }
    ],
    "note": ""
@@ -379,17 +279,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản thu bài “Những bông hoa những bài ca” từ học liệu số"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "GV dùng phần mềm đàn phím trên máy tính bật từng nốt Đô, Rê, Mi để HS đọc lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu lấy từ học liệu của bộ sách hoặc kênh chính thức, nêu rõ tên tác giả"
+     "text": "Mở bản thu bài “Những bông hoa những bài ca” từ học liệu số, chiếu màn hình."
     }
    ],
    "note": ""
@@ -409,19 +299,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở ứng dụng ghi âm có hình sóng âm trên màn hình, cho cả lớp đọc “la” to rồi nhỏ"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV ghi âm một nhóm đọc câu nhạc Đô – Rê – Mi to – nhỏ theo hình, mở lại qua loa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không để HS hét quá to vào micro; loa mở vừa đủ nghe, không để sát tai"
+     "text": "Ghi âm một nhóm đọc câu nhạc Đô."
     },
     {
      "code": "KNS",
@@ -448,17 +328,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản hát mẫu bài “Chào người bạn mới đến” từ học liệu số, chiếu màn hình có tên bài và tên tác giả Lương Bằng Vinh"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại quay đoạn cả lớp hát kết hợp động tác chào bạn, mở lại trên màn hình để HS xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản hát mẫu lấy từ học liệu của bộ sách hoặc kênh chính thức"
+     "text": "Mở bản hát mẫu bài “Chào người bạn mới đến” từ học liệu số, chiếu màn hình."
     }
    ],
    "note": ""
@@ -478,19 +348,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở video ngắn từ học liệu số giới thiệu cách cầm và gõ trống con"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm phần cả lớp hát kết hợp gõ trống đệm theo phách, mở lại qua loa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Video và âm thanh mẫu lấy từ học liệu của bộ sách; loa mở vừa đủ nghe"
+     "text": "Dùng điện thoại ghi âm phần cả lớp hát kết hợp gõ trống đệm theo phách, mở lại qua loa."
     }
    ],
    "note": ""
@@ -512,17 +372,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình và video ngắn trống cái ở trường học, lễ hội lấy từ học liệu số"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "GV chuẩn bị trước một đoạn giới thiệu ngắn 2–3 câu về đàn thiên nga trong vở ba lê Hồ thiên nga do trợ lí AI đọc bằng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình, video, bản thu lấy từ học liệu của bộ sách hoặc kênh chính thức"
+     "text": "Chiếu hình và video ngắn trống cái ở trường học, lễ hội lấy từ học liệu số, bật lần lượt tiếng trống."
     }
    ],
    "note": ""
@@ -574,19 +424,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản hát mẫu bài “Xúc xắc xúc xẻ” từ học liệu số, chiếu màn hình có tên bài"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm cả lớp hát kết hợp gõ đệm theo phách rồi mở lại qua loa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu chỉ lấy từ học liệu của bộ sách hoặc kênh chính thức"
+     "text": "Dùng điện thoại ghi âm cả lớp hát kết hợp gõ đệm theo phách."
     }
    ],
    "note": ""
@@ -608,17 +448,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình 5 nốt Đô – Rê – Mi – Pha – Son kèm kí hiệu bàn tay trên màn hình"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV quay đoạn video ngắn cả lớp đọc bài Những người bạn của Đô – Rê – Mi kết hợp kí hiệu bàn tay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Video của lớp chỉ dùng xem tại lớp"
+     "text": "Chiếu hình 5 nốt Đô – Rê."
     }
    ],
    "note": ""
@@ -638,19 +468,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu chân dung Mô-da và tranh minh họa câu chuyện trên màn hình, mở bản Khát vọng mùa xuân từ học liệu số"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "GV dùng một ứng dụng AI đọc to đoạn ngắn kể về tuổi thơ Mô-da bằng giọng máy"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình ảnh, bản nhạc lấy từ học liệu bộ sách hoặc kênh chính thức"
+     "level": "Nhận biết",
+     "text": "Dùng một ứng dụng AI đọc to đoạn ngắn kể về tuổi thơ Mô-da bằng giọng máy, hỏi."
     }
    ],
    "note": ""
@@ -672,17 +492,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở từ học liệu số các đoạn âm thanh dài – ngắn (tiếng còi tàu, tiếng chim hót, tiếng chuông)"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm phần “hót” của các bạn trong trò chơi Ai hót dài hơn?"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Âm thanh lấy từ học liệu bộ sách; bản ghi giọng HS chỉ dùng tại lớp"
+     "text": "Mở từ học liệu số các đoạn âm thanh dài – ngắn (tiếng còi tàu, tiếng chim hót, tiếng chuông), chiếu."
     },
     {
      "code": "KNS",
@@ -707,19 +517,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản hát mẫu bài “Gà gáy” từ học liệu số, chiếu màn hình có tên bài"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm cả lớp hát kết hợp gõ đệm rồi mở lại qua loa; HS nghe và chỉ ra chỗ ngân chưa đủ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu chỉ lấy từ học liệu bộ sách hoặc kênh chính thức"
+     "text": "Dùng điện thoại ghi âm cả lớp hát kết hợp gõ đệm."
     }
    ],
    "note": ""
@@ -741,17 +541,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tranh minh họa câu chuyện về thanh phách và mở đoạn âm thanh tiếng phách gõ"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "GV mở một ứng dụng AI tạo hình ảnh, nhập yêu cầu vẽ “hai thanh phách bằng tre”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình do máy vẽ chỉ để so sánh, thanh phách thật mới là chuẩn; âm thanh"
+     "text": "Chiếu tranh minh họa câu chuyện về thanh phách và mở đoạn âm thanh tiếng phách gõ, đoạn hát dân ca có."
     }
    ],
    "note": ""
@@ -771,19 +561,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu hình tiết tấu 1, 2 trên màn hình, bấm phát tiếng phách mẫu theo từng hình để HS nghe rồi gõ theo"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV ghi âm cả lớp hát Gà gáy kết hợp gõ thanh phách rồi mở lại qua loa; HS nghe và nhận xét tiếng phách đã đều"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS ngồi cách màn hình đủ xa, không nhìn quá lâu; loa mở vừa đủ nghe"
+     "text": "Ghi âm cả lớp hát Gà gáy kết hợp gõ thanh phách."
     }
    ],
    "note": ""
@@ -805,17 +585,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở từ học liệu số các tiếng gà gáy dài – ngắn khác nhau kèm hình nét dài – nét ngắn trên màn hình"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm cả lớp gáy “ò ó o” thật hay và nói lời chào buổi sáng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lời nhắn chỉ có giọng cả lớp, không nêu tên riêng, không kèm hình mặt HS"
+     "text": "Mở từ học liệu số các tiếng gà gáy dài."
     },
     {
      "code": "KNS",
@@ -840,19 +610,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản hát mẫu bài “Cây gia đình” từ học liệu số, chiếu màn hình có tên bài"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm cả lớp hát bài Cây gia đình kết hợp gõ đệm, mở lại qua loa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu chỉ lấy từ học liệu bộ sách hoặc kênh chính thức"
+     "text": "Dùng điện thoại ghi âm cả lớp hát bài Cây gia đình kết hợp gõ đệm, mở lại qua loa."
     }
    ],
    "note": ""
@@ -874,17 +634,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản đọc nhạc mẫu Hát cùng Đô – Rê – Mi – Pha – Son từ học liệu số"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại quay đoạn ngắn cả lớp đọc nhạc kết hợp kí hiệu bàn tay, mở lại trên màn hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản đọc nhạc mẫu lấy từ học liệu của bộ sách, không tải từ trang lạ"
+     "text": "Mở bản đọc nhạc mẫu Hát cùng Đô – Rê – Mi – Pha – Son từ học liệu số, chiếu hình."
     }
    ],
    "note": ""
@@ -904,19 +654,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản thu Con chim vành khuyên từ học liệu số, chiếu tranh minh họa cùng tên bài, tên nhạc sĩ Hoàng Vân"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV gửi bản thu bài hát lên nhóm lớp (Zalo) để cha mẹ mở cho HS nghe lại ở nhà và kể lại nội dung bài"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu lấy từ học liệu bộ sách, không tải từ trang lạ"
+     "text": "Gửi bản thu bài hát lên nhóm lớp (Zalo) để cha mẹ mở cho HS nghe lại ở nhà."
     }
    ],
    "note": ""
@@ -938,17 +678,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại quay đoạn ngắn trò chơi Ban nhạc “Những người bạn”, mở lại trên màn hình; HS xem lại"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở hai bản thu Cây gia đình và Con chim vành khuyên từ học liệu số, chiếu tranh minh họa từng bài; HS nghe đoạn đầu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đoạn quay chỉ để xem tại lớp, không đăng lên mạng khi chưa được cha mẹ đồng ý"
+     "text": "Dùng điện thoại quay đoạn ngắn trò chơi Ban nhạc “Những người bạn”, mở lại trên màn hình."
     },
     {
      "code": "KNS",
@@ -975,17 +705,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản hát mẫu Ngôi sao lấp lánh từ học liệu số, chiếu tên bài cùng dòng “Nhạc nước ngoài"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm lớp hát kết hợp vỗ tay theo phách, mở lại qua loa; HS nghe, chỉ ra chỗ hát chưa rõ lời"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản thu lấy từ học liệu bộ sách hoặc kênh chính thức"
+     "text": "Mở bản hát mẫu Ngôi sao lấp lánh từ học liệu số, chiếu tên bài cùng dòng “Nhạc nước ngoài, lời Việt: Thanh Vân sưu tầm và biên soạn”."
     }
    ],
    "note": ""
@@ -1005,19 +725,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh hoặc đoạn video ngắn từ học liệu số về trai-en-gô trong dàn nhạc, mở âm thanh mẫu"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV ghi âm nhóm gõ đệm trai-en-gô cho bài hát, mở lại qua loa; HS nghe, nói tiếng gõ đã đều phách chưa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV dặn HS không gõ dùi hay nhạc cụ lên máy tính, loa"
+     "text": "Ghi âm nhóm gõ đệm trai-en-gô cho bài hát, mở lại qua loa."
     }
    ],
    "note": ""
@@ -1359,8 +1069,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Am nhac - Lop 1.docx",
   "name": "Am nhac - Lop 1.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45110,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 43291,
+  "updated": "2026-09-08"
  }
 }

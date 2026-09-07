@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 32
+  "integrations": 17
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trong “Bài 1. Chào cờ và hát quốc ca”, GV mở bài hát Lá cờ Việt Nam rồi chiếu ảnh Quốc kì và đoạn video lễ chào cờ"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản thu Quốc ca chính thức để cả lớp cùng hát đúng nhịp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Quốc ca và Quốc kì là biểu tượng thiêng liêng của đất nước: không được chế lời"
+     "text": "Trong “Bài 1. Chào cờ và hát quốc ca”, GV mở bài hát Lá cờ Việt Nam."
     },
     {
      "code": "QPAN",
@@ -85,19 +75,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Tự hào Tổ quốc Việt Nam”, GV mở bản đồ Việt Nam trên máy tính và phóng to lần lượt Thủ đô Hà Nội"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Sau khi nghe bài hát “Việt Nam ơi” và xem ảnh, HS lần lượt nói trước lớp một câu về niềm tự hào của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh và bản đồ do thầy cô mở, HS ngồi tại chỗ quan sát"
+     "text": "Sau khi nghe bài hát “Việt Nam ơi”."
     },
     {
      "code": "QPAN",
@@ -156,17 +136,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở bài “Quan tâm hàng xóm láng giềng”, GV chiếu bộ ảnh việc làm quen thuộc trong xóm như trông giúp nhà bên, đưa cụ già qua đường"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu các tình huống trên màn hình và cho HS chọn cách ứng xử phù hợp khi nhà hàng xóm có việc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi ở nhà một mình, HS không mở cửa cho người lạ dù người đó nói là quen"
+     "text": "Ở bài “Quan tâm hàng xóm láng giềng”, GV chiếu bộ ảnh việc làm quen thuộc trong xóm như trông giúp nhà."
     }
    ],
    "note": ""
@@ -250,19 +220,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV lấy một câu hỏi thật của HS trong lớp (ví dụ “Vì sao con tắc kè đổi màu?”)"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "GV gõ câu hỏi ấy vào một công cụ trí tuệ nhân tạo cho HS quan sát màn hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS lớp 3 chưa tự dùng máy tính, điện thoại để tra cứu một mình"
+     "level": "Nhận biết",
+     "text": "Gõ câu hỏi ấy vào một công cụ trí tuệ nhân tạo cho HS quan sát màn hình."
     }
    ],
    "note": ""
@@ -316,17 +276,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở bài “Giữ lời hứa”, GV chiếu các đoạn phim tình huống ngắn về việc hứa rồi quên, hứa rồi thực hiện"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV gõ lên màn hình những lời hứa mà HS muốn thực hiện trong tuần, thành bảng chung của lớp; cả lớp cùng đọc lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng chung chỉ ghi lời hứa về việc học và việc tốt, không ghi chuyện riêng"
+     "text": "Ở bài “Giữ lời hứa”, GV chiếu các đoạn phim tình huống ngắn về việc hứa."
     }
    ],
    "note": ""
@@ -392,7 +342,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "Bài 6 học vắt sang đầu HKII; tổ chuyên môn chủ động bố trí",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Tìm hiểu ý nghĩa, GV chiếu hai tình huống."
+    }
+   ],
    "note": ""
   },
   {
@@ -444,17 +400,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Sau khi HS liệt kê được điểm mạnh, điểm yếu của mình, GV hướng dẫn cả lớp cùng làm “Tấm thẻ giới thiệu em” trên màn hình: GV"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "GV đưa danh sách 8 thông tin và cho HS phân loại thành hai nhóm: điều có thể nói cho bạn bè biết (sở thích"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Điểm mạnh, sở thích thì kể được cho bạn nghe; còn địa chỉ nhà"
+     "text": "Sau khi HS liệt kê được điểm mạnh, điểm yếu của mình."
     }
    ],
    "note": ""
@@ -556,17 +502,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Bên cạnh các tình huống bất hoà ở lớp, GV chiếu một tình huống nhắn tin: bạn A nhắn cho bạn B câu “Cậu chơi dở lắm”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "GV nêu tình huống hai bạn giận nhau rồi một bạn rủ cả nhóm “đừng nói chuyện với bạn ấy nữa”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không nhắn tin, gửi hình chê bai, chế giễu bạn; không lập nhóm để tẩy chay một bạn"
+     "text": "Bên cạnh các tình huống bất hoà ở lớp, GV chiếu một tình huống nhắn tin."
     }
    ],
    "note": ""
@@ -641,22 +577,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video mô phỏng một ngã tư có đèn tín hiệu và vạch kẻ dành cho người đi bộ"
+     "text": "Ở hoạt động Khám phá bài “Đi bộ an toàn”, GV chiếu ảnh chụp đoạn đường trước cổng trường mình."
     },
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ba ảnh tình huống: một bạn vừa đi bộ qua đường vừa nhìn điện thoại, một bạn đeo tai nghe khi qua đường"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "ATGT",
      "level": "",
-     "text": "Vừa đi đường vừa nhìn điện thoại hoặc đeo tai nghe là rất nguy hiểm vì không nghe"
+     "text": ""
     },
     {
-     "code": "KNS",
+     "code": "ATGT",
      "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
+     "text": "đi bộ trên vỉa hè hoặc sát lề bên phải, qua đường ở vạch kẻ và khi có tín hiệu cho phép; quan sát kĩ hai bên trước khi bước."
     }
    ],
    "note": ""
@@ -692,24 +623,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu video mô phỏng một ngã tư có đèn tín hiệu và vạch kẻ dành cho người đi bộ"
-    },
-    {
      "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ba ảnh tình huống: một bạn vừa đi bộ qua đường vừa nhìn điện thoại, một bạn đeo tai nghe khi qua đường"
+     "text": "Chiếu ba ảnh tình huống: một bạn vừa đi bộ qua đường vừa nhìn điện thoại, một bạn đeo tai nghe khi."
     },
     {
-     "code": "NLS-AT",
+     "code": "ATGT",
      "level": "",
-     "text": "Vừa đi đường vừa nhìn điện thoại hoặc đeo tai nghe là rất nguy hiểm vì không nghe"
+     "text": ""
     },
     {
-     "code": "KNS",
+     "code": "ATGT",
      "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
+     "text": "đi bộ trên vỉa hè hoặc sát lề bên phải, qua đường ở vạch kẻ và khi có tín hiệu cho phép; quan sát kĩ hai bên trước khi bước."
     }
    ],
    "note": ""
@@ -1019,8 +945,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
   "name": "Dao duc - Lop 3.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43604,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42695,
+  "updated": "2026-09-08"
  }
 }

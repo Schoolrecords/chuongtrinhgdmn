@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 61
+  "integrations": 32
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu khuông nhạc, khoá Son và vị trí các nốt Đô, Rê, Mi, Pha, Son"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS làm bài tập tương tác trên máy tính lớp: kéo nốt vào đúng dòng, khe của khuông nhạc, chọn tên nốt đúng với âm thanh vừa nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở học liệu và phần mềm GV đã chuẩn bị sẵn trên máy của lớp"
+     "text": "Chiếu khuông nhạc, khoá Son và vị trí các nốt Đô, Rê, Mi, Pha, Son, La lên màn hình khi dạy “Làm quen với kí hiệu ghi nhạc”."
     }
    ],
    "note": ""
@@ -64,19 +54,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu bài hát “Chuông gió leng keng” (Nhạc và lời: Lê Vinh Phúc) trên máy tính lớp"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Sau khi tập, mỗi tổ dùng điện thoại của GV thu âm phần hát kết hợp vỗ tay theo phách của tổ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+     "text": "Sau khi tập, mỗi tổ dùng điện thoại của GV thu âm phần hát kết hợp vỗ tay theo phách của tổ."
     }
    ],
    "note": ""
@@ -112,19 +92,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết Vận dụng – Sáng tạo tổng kết chủ đề “Âm thanh ngày mới”"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "Cả lớp xem lại bản quay và nhận xét theo ba tiêu chí chiếu sẵn trên màn hình: hát đúng giai điệu, gõ đệm đúng phách"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi quay"
+     "text": "Cả lớp xem lại bản quay và nhận xét theo ba tiêu chí chiếu sẵn trên màn hình."
     },
     {
      "code": "KNS",
@@ -151,17 +121,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu bài “Chim sáo” từ học liệu điện tử của bộ sách"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Chim sáo” bằng điện thoại hoặc máy tính của lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+     "text": "Mở bản thu mẫu bài “Chim sáo” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi tác giả “Dân ca Khơ-me – Nam Bộ, sưu tầm: Đặng Nguyễn”."
     },
     {
      "code": "QPAN",
@@ -202,19 +162,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu đoạn phim quay cận cảnh cho nội dung “Giới thiệu đàn tranh”: nhìn rõ hình dáng, chất liệu, số dây hoặc số lỗ"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS làm bài tập nghe tương tác có chấm ngay: GV mở lần lượt vài đoạn nhạc ngắn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về “Giới thiệu đàn tranh” phải lấy từ trang của nhà xuất bản, nhà hát"
+     "text": "HS làm bài tập nghe tương tác có chấm ngay."
     },
     {
      "code": "QPAN",
@@ -241,17 +191,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Ở tiết tổng kết chủ đề “Giai điệu quê hương”, GV mở bản thu các bài đã học và một vài trích đoạn dân ca cùng vùng miền"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm, vận động; GV quay lại rồi chiếu cho cả lớp xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi quay, bản quay chỉ mở trong lớp rồi xoá"
+     "text": "Ở tiết tổng kết chủ đề “Giai điệu quê hương”."
     },
     {
      "code": "QPAN",
@@ -276,19 +216,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV dùng học liệu số về Giới thiệu các hình nốt: khuông nhạc hiện trên màn hình"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS làm bộ bài tập tương tác có chấm ngay về Giới thiệu các hình nốt: đặt nốt vào đúng vị trí trên khuông"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở học liệu và phần mềm GV đã chuẩn bị sẵn trên máy của lớp"
+     "text": "HS làm bộ bài tập tương tác có chấm ngay về Giới thiệu các hình nốt."
     }
    ],
    "note": ""
@@ -310,17 +240,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu bài “Nếu em là...” từ học liệu điện tử của bộ sách"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Nếu em là...” bằng điện thoại hoặc máy tính của lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+     "text": "Mở bản thu mẫu bài “Nếu em là...” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi tác."
     }
    ],
    "note": ""
@@ -356,19 +276,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết tổng kết chủ đề “Thầy cô với chúng em”, GV mở bản thu các bài đã học trong chủ đề cho HS nghe đoán tên bài"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm và vận động; GV quay lại rồi chiếu cho cả lớp xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi quay, bản quay chỉ mở trong lớp rồi xoá"
+     "text": "Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm và vận động; GV quay lại."
     },
     {
      "code": "KNS",
@@ -395,17 +305,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu bài “Tết là Tết” từ học liệu điện tử của bộ sách"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Tết là Tết” bằng điện thoại hoặc máy tính của lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+     "text": "Mở bản thu mẫu bài “Tết là Tết” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi tác."
     }
    ],
    "note": ""
@@ -441,19 +341,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV mở bản kể chuyện có nhạc minh hoạ cho “Câu chuyện âm nhạc Pi-tơ và chó sói (Phỏng theo: Séc-gây Pơ-rô-cô-phi-ép)”"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS làm bài tập tương tác có chấm ngay về “Câu chuyện âm nhạc Pi-tơ và chó sói (Phỏng theo: Séc-gây Pơ-rô-cô-phi-ép)”: nghe đoạn nhạc rồi chọn đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về “Câu chuyện âm nhạc Pi-tơ và chó sói (Phỏng theo: Séc-gây Pơ-rô-cô-phi-ép)” phải lấy từ"
+     "text": "HS làm bài tập tương tác có chấm ngay về “Câu chuyện âm nhạc Pi-tơ và chó sói (Phỏng theo: Séc-gây Pơ-rô-cô-phi-ép)”: nghe đoạn nhạc."
     }
    ],
    "note": ""
@@ -472,6 +362,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Khởi động tổng kết chủ đề “Vui đón Tết”, GV mở lần lượt các đoạn giai điệu đã học từ."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -527,19 +422,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV dùng học liệu số về Dấu lặng: khuông nhạc hiện trên màn hình, GV kéo nốt lên xuống thì máy phát ngay âm thanh tương ứng"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS làm bộ bài tập tương tác có chấm ngay về Dấu lặng: đặt nốt vào đúng vị trí trên khuông"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở học liệu và phần mềm GV đã chuẩn bị sẵn trên máy của lớp"
+     "text": "HS làm bộ bài tập tương tác có chấm ngay về Dấu lặng."
     }
    ],
    "note": ""
@@ -561,17 +446,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu bài “Hạt mưa kể chuyện” từ học liệu điện tử của bộ sách"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Hạt mưa kể chuyện” bằng điện thoại hoặc máy tính của lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+     "text": "Mở bản thu mẫu bài “Hạt mưa kể chuyện” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi."
     }
    ],
    "note": ""
@@ -607,6 +482,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Vận dụng – Sáng tạo, GV quay tiết mục của từng nhóm bằng điện thoại."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
@@ -631,17 +511,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu bài “Tình bạn tuổi thơ” từ học liệu điện tử của bộ sách"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Tình bạn tuổi thơ” bằng điện thoại hoặc máy tính của lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+     "text": "Mở bản thu mẫu bài “Tình bạn tuổi thơ” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi."
     }
    ],
    "note": ""
@@ -675,7 +545,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Luyện tập, GV ghi âm phần hoà tấu của từng nhóm."
+    }
+   ],
    "note": ""
   },
   {
@@ -692,6 +568,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Khởi động tổng kết chủ đề “Tình bạn tuổi thơ”, GV mở lần lượt các đoạn giai điệu đã học."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -731,19 +612,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu bài “Miền quê em” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi tác giả “Nhạc: Ka-ba-lép-xki – Nga"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Miền quê em” bằng điện thoại hoặc máy tính của lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Miền quê em” bằng điện thoại hoặc máy tính của lớp, nghe lại."
     }
    ],
    "note": ""
@@ -779,6 +650,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần Khởi động tổng kết chủ đề “Âm nhạc nước ngoài”, GV mở lần lượt các đoạn giai điệu đã học."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
@@ -801,19 +677,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu bài “Em yêu mùa hè quê em” từ học liệu điện tử của bộ sách"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Em yêu mùa hè quê em” bằng điện thoại hoặc máy tính của lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Em yêu mùa hè quê em” bằng điện thoại."
     }
    ],
    "note": ""
@@ -851,17 +717,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bản ghi hình buổi biểu diễn tác phẩm “Khúc ca vào hè” (Trương Tuyết Mai)"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV mở thêm một đoạn nhạc do máy tự sinh theo phong cách gần giống rồi cho HS nghe đối chiếu với bản do nghệ sĩ biểu diễn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản ghi hình “Khúc ca vào hè” phải lấy từ kênh chính thức của nhà hát"
+     "text": "Mở bản ghi hình buổi biểu diễn tác phẩm “Khúc ca vào hè” (Trương Tuyết Mai)."
     },
     {
      "code": "KNS",
@@ -1176,8 +1032,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Am nhac - Lop 4.docx",
   "name": "Am nhac - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43973,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 43304,
+  "updated": "2026-09-08"
  }
 }

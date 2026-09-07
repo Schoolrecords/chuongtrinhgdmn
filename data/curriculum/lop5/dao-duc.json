@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 32
+  "integrations": 19
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Mở đầu bài “Biết ơn những người có công với quê hương, đất nước”"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động quan sát ảnh, GV chiếu lần lượt ảnh các nhân vật có công trên tivi, nhóm thảo luận nêu tên và đóng góp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh, video về nhân vật lịch sử lấy từ SGK"
+     "text": "Mở đầu bài “Biết ơn những người có công với quê hương, đất nước”, GV chiếu video bài hát Biết ơn chị."
     },
     {
      "code": "QPAN",
@@ -131,17 +121,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu các tình huống ứng xử trên mạng gắn với “Tôn trọng sự khác biệt của người khác”: bình luận chê bai ngoại hình bạn"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: mạng xã hội dùng trí tuệ nhân tạo để đẩy những nội dung gây tranh cãi lên trước vì thu hút nhiều người xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nghĩ trước khi gõ — điều không dám nói trực tiếp thì không viết lên mạng"
+     "text": "Chiếu các tình huống ứng xử trên mạng gắn với “Tôn trọng sự khác biệt của người khác”."
     },
     {
      "code": "KNS",
@@ -222,17 +202,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Ở bài “Vượt qua khó khăn”, GV chiếu một hai câu chuyện có thật về tấm gương vượt khó do thầy cô chọn từ nguồn tin cậy"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV gõ lên màn hình những khó khăn HS nêu cùng cách khắc phục mà các bạn góp ý, thành bảng hai cột"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng chung không ghi tên bạn gặp khó khăn nếu bạn không muốn"
+     "text": "Ở bài “Vượt qua khó khăn”, GV chiếu một hai câu chuyện có thật về tấm gương vượt khó do thầy cô."
     }
    ],
    "note": ""
@@ -302,17 +272,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu các tình huống ứng xử trên mạng gắn với “Bảo vệ cái đúng, cái tốt”: bình luận chê bai ngoại hình bạn"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: mạng xã hội dùng trí tuệ nhân tạo để đẩy những nội dung gây tranh cãi lên trước vì thu hút nhiều người xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nghĩ trước khi gõ — điều không dám nói trực tiếp thì không viết lên mạng"
+     "text": "Chiếu các tình huống ứng xử trên mạng gắn với “Bảo vệ cái đúng, cái tốt”."
     }
    ],
    "note": ""
@@ -372,17 +332,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS làm một sản phẩm số tuyên truyền cho “Bảo vệ môi trường sồng”: áp phích"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS tra cứu ở nguồn GV chỉ định một số liệu về rác thải nhựa hoặc cây xanh của địa phương"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi đưa hình ảnh người khác vào sản phẩm"
+     "text": "Hướng dẫn HS làm một sản phẩm số tuyên truyền cho “Bảo vệ môi trường sồng”."
     }
    ],
    "note": ""
@@ -468,12 +418,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng ứng dụng lịch hoặc danh sách việc cần làm trên máy để lập “Lập kế hoạch cá nhân”: đặt việc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đặt giới hạn thời gian dùng thiết bị và nghỉ mắt sau mỗi 20 phút"
+     "text": "Hướng dẫn HS dùng ứng dụng lịch hoặc danh sách việc cần làm trên máy."
     },
     {
      "code": "KNS",
@@ -548,17 +493,7 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 2",
-     "text": "Bài “Phòng, tránh xâm hại” gắn trực tiếp với an toàn trên mạng: GV cho HS phân tích các tình huống người lạ kết bạn rồi tỏ ra"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: kẻ xấu có thể dùng ảnh và giọng nói giả do trí tuệ nhân tạo tạo ra để giả làm người quen"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không kết bạn với người lạ trên mạng; không gửi ảnh riêng tư cho bất kì ai"
+     "text": "Bài “Phòng, tránh xâm hại” gắn trực tiếp."
     }
    ],
    "note": ""
@@ -577,6 +512,16 @@
    "lessonPeriods": 5,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "QTE",
+     "level": "",
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được bảo vệ, được an toàn; biết nói không, rời khỏi nơi nguy hiểm và kể ngay với người lớn tin cậy."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -666,17 +611,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV cho HS nhận diện các hình thức tiêu tiền trên môi trường số liên quan “Sử dụng tiền hợp lý”: mua hàng qua mạng"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: quảng cáo trên mạng được trí tuệ nhân tạo chọn riêng cho từng người nên rất trúng ý, khiến ta dễ muốn mua ngay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự ý nạp tiền trong trò chơi"
+     "text": "Cho HS nhận diện các hình thức tiêu tiền trên môi trường số liên quan “Sử dụng tiền hợp lý”."
     },
     {
      "code": "KNS",
@@ -1023,8 +958,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Dao duc - Lop 5.docx",
   "name": "Dao duc - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43535,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42815,
+  "updated": "2026-09-08"
  }
 }

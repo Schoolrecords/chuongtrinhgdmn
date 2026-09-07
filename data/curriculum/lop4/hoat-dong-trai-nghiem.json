@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 277
+  "integrations": 115
  },
  "lessons": [
   {
@@ -56,17 +56,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm bông hoa năm cánh bằng bìa ghi đặc điểm đáng yêu của bản thân; GV chụp ảnh hoa của từng em"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Nhóm 4 xem ảnh hoa của các bạn trên màn hình, đếm những đặc điểm chung như chăm chỉ, lễ phép"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Sản phẩm giới thiệu bản thân không đưa địa chỉ nhà, số điện thoại, tên lớp đầy đủ"
+     "text": "HS làm bông hoa năm cánh bằng bìa ghi đặc điểm đáng yêu của bản thân."
     },
     {
      "code": "KNS",
@@ -90,21 +80,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức đánh giá tuần trên bảng theo dõi thi đua mở trên máy tính lớp: lớp trưởng điều hành, tổ trưởng đọc kết quả nền nếp"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở phần sinh hoạt chủ đề “Tự hào thể hiện khả năng của bản thân”, HS thể hiện một khả năng như hát, kể chuyện"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -144,19 +119,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS ghi những việc làm đáng tự hào của bản thân như thực hiện đúng thời gian biểu, tổ chức sinh nhật mẹ"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS nghe bạn giới thiệu qua màn hình rồi hỏi thêm bạn một câu và nói một lời động viên cụ thể"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Sản phẩm giới thiệu bản thân không đưa địa chỉ nhà, số điện thoại, tên lớp đầy đủ"
+     "text": "HS nghe bạn giới thiệu qua màn hình."
     },
     {
      "code": "KNS",
@@ -180,21 +145,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV mở bảng theo dõi thi đua trên máy tính lớp để lớp trưởng điều hành đánh giá tuần; tổ trưởng báo kết quả nền nếp, cờ đỏ"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở phần sinh hoạt chủ đề “Niềm tự hào trong tim”, HS chia sẻ theo cặp kết quả thực hiện việc làm đáng tự hào đã dự kiến"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -236,17 +186,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Ở chủ đề “Nhận diện bản thân”, HS làm một trang chiếu nhỏ giới thiệu mình gồm ba mục: sở thích"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Khi chia sẻ tình huống khiến mình có cảm xúc tích cực hay tiêu cực"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trang chiếu chỉ nói về sở thích và khả năng, không ghi địa chỉ, số điện thoại"
+     "text": "Ở chủ đề “Nhận diện bản thân”, HS làm một trang chiếu nhỏ giới thiệu mình gồm ba mục."
     },
     {
      "code": "KNS",
@@ -269,23 +209,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Điều chỉnh cảm xúc”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -319,19 +243,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm một sản phẩm số nhỏ giới thiệu bản thân: trang chiếu “Em là ai” gồm ba ảnh về sở thích"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS nhận xét về bạn bằng lời tích cực và cụ thể; GV hướng dẫn cách khen"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Sản phẩm giới thiệu bản thân không đưa địa chỉ nhà, số điện thoại, tên lớp đầy đủ"
+     "text": "HS nhận xét về bạn bằng lời tích cực."
     },
     {
      "code": "KNS",
@@ -354,23 +268,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Nghĩ tích cực, sống vui tươi”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -406,17 +304,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Ở chủ đề “Nếp sống và tư duy khoa học”, GV mở khung thời gian biểu trên máy chia theo buổi"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu hai thời gian biểu: một cái cân đối, một cái dồn việc vào buổi tối và thiếu giờ ngủ; HS so sánh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Thời gian biểu chỉ ghi việc học và sinh hoạt chung, không ghi chuyện riêng của gia đình"
+     "text": "Ở chủ đề “Nếp sống và tư duy khoa học”, GV mở khung thời gian biểu trên máy chia theo buổi."
     }
    ],
    "note": ""
@@ -434,23 +322,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Giúp nhau thực hiện nền nếp sinh hoạt”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -486,17 +358,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "Ở chủ đề “Nếp sống và tư duy khoa học”, GV chiếu các câu đố và tình huống cần suy luận lên màn hình"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV gõ các cách giải mà từng nhóm nêu lên màn hình thành bảng chung, kể cả cách chưa đúng; cả lớp cùng nhìn bảng để so sánh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng chung ghi cách làm chứ không ghi tên bạn trả lời sai"
+     "text": "Ở chủ đề “Nếp sống và tư duy khoa học”, GV chiếu các câu đố."
     }
    ],
    "note": ""
@@ -514,23 +376,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Rèn luyện tư duy khoa học”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -564,19 +410,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở chủ đề “Nếp sống và tư duy khoa học”, GV chiếu bảng ghi thời gian thật mà HS dùng cho từng việc trong ngày"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "GV gõ các cách tiết kiệm thời gian mà từng nhóm nêu lên màn hình thành bảng chung; cả lớp cùng đọc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng chung chỉ ghi việc học và sinh hoạt, không ghi chuyện riêng của gia đình"
+     "text": "Gõ các cách tiết kiệm thời gian mà từng nhóm nêu lên màn hình thành bảng chung."
     }
    ],
    "note": ""
@@ -594,23 +430,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho hoạt động “Triển lãm sơ đồ tư duy”, HS tổng hợp kết quả của tổ mình vào bảng theo dõi của lớp: nhập số liệu hoặc chụp"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Đại diện các tổ trình chiếu kết quả trước lớp, các bạn khác đặt câu hỏi và góp ý"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (hoàn cảnh gia đình, điểm số"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -646,17 +466,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng công cụ vẽ sơ đồ tư duy trên máy để sắp xếp các việc trong ngày hoặc các bước giải quyết một việc"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS ghi thời gian làm từng việc trong một ngày vào bảng, cộng lại theo nhóm việc (học, giúp việc nhà, vận động, xem màn hình)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tính cả thời gian xem điện thoại, ti vi, chơi trò chơi vào bảng theo dõi"
+     "text": "Hướng dẫn HS dùng công cụ vẽ sơ đồ tư duy trên máy."
     }
    ],
    "note": ""
@@ -674,23 +484,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho hoạt động “Tự đánh giá việc rèn luyện tư duy khoa học”, HS tổng hợp kết quả của tổ mình vào bảng theo dõi của lớp: nhập"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Đại diện các tổ trình chiếu kết quả trước lớp, các bạn khác đặt câu hỏi và góp ý"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (hoàn cảnh gia đình, điểm số"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -724,19 +518,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở chủ đề “Yêu trường, mến lớp”, mỗi nhóm làm một trang giới thiệu góc đẹp của trường mình: chọn ảnh do thầy cô cung cấp hoặc tranh"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "GV gõ lên màn hình những việc HS nêu để giữ trường lớp đẹp hơn, thành bảng chung; cả lớp cùng đọc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chỉ chụp cảnh trường, không chụp mặt bạn khi bạn chưa đồng ý"
+     "text": "Gõ lên màn hình những việc HS nêu."
     }
    ],
    "note": ""
@@ -754,23 +538,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho hoạt động “Khảo sát thực trạng vệ sinh trường lớp”, HS tổng hợp kết quả của tổ mình vào bảng theo dõi của lớp: nhập số liệu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Đại diện các tổ trình chiếu kết quả trước lớp, các bạn khác đặt câu hỏi và góp ý"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (hoàn cảnh gia đình, điểm số"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -806,17 +574,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Ở chủ đề “Yêu trường, mến lớp”, GV chiếu ảnh sân trường, hành lang, khu vệ sinh trước và sau khi được dọn dẹp"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Mỗi nhóm thiết kế một tấm biển nhắc nhở giữ vệ sinh: chọn hình, viết khẩu hiệu ngắn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chỉ chụp cảnh trường, không chụp bạn đang lao động khi chưa hỏi ý kiến"
+     "text": "Ở chủ đề “Yêu trường, mến lớp”, GV chiếu ảnh sân trường, hành lang, khu vệ sinh trước."
     }
    ],
    "note": ""
@@ -834,23 +592,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Hành động giữ gìn trường học xanh, sạch, đẹp”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -892,17 +634,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "Ở hoạt động chia sẻ về bạn mình, GV gõ lên màn hình những điều tốt mà HS nói về bạn, thành bảng chung của lớp"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Mỗi nhóm làm một tấm thẻ giới thiệu bạn gồm một điểm mạnh, một sở thích và một lời chúc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Thẻ chỉ ghi điểm tốt và sở thích, không ghi khuyết điểm hay chuyện riêng của bạn"
+     "text": "Ở hoạt động chia sẻ về bạn mình, GV gõ lên màn hình những điều tốt mà HS nói về bạn."
     }
    ],
    "note": ""
@@ -920,23 +652,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Cam kết tình bạn”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -972,17 +688,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS khảo sát thực trạng vệ sinh, cảnh quan trường lớp bằng phiếu quan sát và ảnh chụp"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm bản tin ảnh hoặc trang chiếu “Trường em xanh – sạch – đẹp” gồm ảnh trước và sau khi lớp ra tay dọn dẹp, trang trí"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh bạn và thầy cô"
+     "text": "HS khảo sát thực trạng vệ sinh, cảnh quan trường lớp bằng phiếu quan sát."
     }
    ],
    "note": ""
@@ -1000,23 +706,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Tổ chức hoạt động”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1052,17 +742,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Ở chủ đề “Tự lực thực hiện nhiệm vụ”, GV mở khung kế hoạch cá nhân trên máy gồm việc cần làm, thời gian, cách làm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu vài tình huống gặp khó khi tự làm nhiệm vụ như quên dụng cụ, làm mãi chưa xong; HS đề xuất cách xử lí"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Kế hoạch chỉ ghi việc học và việc nhà vừa sức; việc dùng bếp, điện"
+     "text": "Ở chủ đề “Tự lực thực hiện nhiệm vụ”, GV mở khung kế hoạch cá nhân trên máy gồm việc cần làm."
     }
    ],
    "note": ""
@@ -1080,23 +760,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Chủ động thực hiện nhiệm vụ đọc sách”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1138,17 +802,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "Ở chủ đề “Tự lực thực hiện nhiệm vụ”, GV chiếu bảng ghi các bước làm một nhiệm vụ gồm hiểu việc, chuẩn bị, làm, kiểm tra lại"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV gõ lên màn hình khó khăn mà từng nhóm gặp khi tự làm nhiệm vụ và cách khắc phục các bạn góp ý, thành bảng chung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng chung chỉ ghi việc học và việc nhà vừa sức; việc dùng điện, bếp"
+     "text": "Ở chủ đề “Tự lực thực hiện nhiệm vụ”, GV chiếu bảng ghi các bước làm một nhiệm vụ gồm hiểu việc."
     }
    ],
    "note": ""
@@ -1167,21 +821,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Hợp tác thực hiện nhiệm vụ”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1227,19 +866,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng danh sách việc cần làm hoặc lịch trên máy tính, điện thoại của gia đình: đặt tên việc, đặt hạn hoàn thành"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS phân công công việc nhóm trên một bảng theo dõi chung, mỗi bạn tự cập nhật phần việc của mình để cả nhóm cùng biết tiến độ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Dùng thiết bị của gia đình phải xin phép; không cài ứng dụng lạ"
+     "text": "Ở hoạt động Chia sẻ về những nhiệm vụ được giao của chủ đề “Tự lực thực hiện nhiệm vụ”."
     }
    ],
    "note": ""
@@ -1257,23 +886,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho hoạt động “Báo cáo về việc tự lực thực hiện nhiệm vụ”, HS tổng hợp kết quả của tổ mình vào bảng theo dõi của lớp: nhập"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Đại diện các tổ trình chiếu kết quả trước lớp, các bạn khác đặt câu hỏi và góp ý"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (hoàn cảnh gia đình, điểm số"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1309,17 +922,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng danh sách việc cần làm hoặc lịch trên máy tính, điện thoại của gia đình: đặt tên việc, đặt hạn hoàn thành"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS phân công công việc nhóm trên một bảng theo dõi chung, mỗi bạn tự cập nhật phần việc của mình để cả nhóm cùng biết tiến độ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Dùng thiết bị của gia đình phải xin phép; không cài ứng dụng lạ"
+     "text": "Hướng dẫn HS dùng danh sách việc cần làm hoặc lịch trên máy tính, điện thoại của gia đình."
     }
    ],
    "note": ""
@@ -1337,23 +940,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho hoạt động “Đánh giá về khả năng tự lực thực hiện công việc ở nhà”"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Đại diện các tổ trình chiếu kết quả trước lớp, các bạn khác đặt câu hỏi và góp ý"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (hoàn cảnh gia đình, điểm số"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1387,19 +974,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chọn ảnh gia đình, ghép thành album kỉ niệm hoặc thiệp điện tử tặng người thân"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS gọi điện hoặc gọi video hỏi thăm ông bà, người thân ở xa: tập mở đầu, hỏi thăm sức khoẻ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép người thân trước khi dùng ảnh của họ"
+     "text": "Ở hoạt động Khám phá chủ đề “Mái ấm gia đình”, GV chiếu bảng chung “Việc làm gắn kết gia đình – Người cùng làm – Khi nào làm”."
     }
    ],
    "note": ""
@@ -1417,23 +994,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Ngày cuối tuần yêu thương”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1473,19 +1034,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS chọn ảnh gia đình, ghép thành album kỉ niệm hoặc thiệp điện tử tặng người thân"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS gọi điện hoặc gọi video hỏi thăm ông bà, người thân ở xa: tập mở đầu, hỏi thăm sức khoẻ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép người thân trước khi dùng ảnh của họ"
+     "text": "Chiếu lại kế hoạch tuần trước bên cạnh kết quả thực tế, các nhóm so hai cột."
     }
    ],
    "note": ""
@@ -1503,23 +1054,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Những khoảnh khắc hạnh phúc”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1553,19 +1088,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS chọn ảnh gia đình, ghép thành album kỉ niệm hoặc thiệp điện tử tặng người thân"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS gọi điện hoặc gọi video hỏi thăm ông bà, người thân ở xa: tập mở đầu, hỏi thăm sức khoẻ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép người thân trước khi dùng ảnh của họ"
+     "text": "Ở hoạt động Khám phá chủ đề “Mái ấm gia đình”, GV chiếu sơ đồ các nguồn tiền của gia đình."
     }
    ],
    "note": ""
@@ -1584,21 +1109,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS lập bảng chi tiêu của mình trong tuần trên bảng tính hoặc phiếu kẻ sẵn, chia thành ba cột “cần – muốn – có thể chờ”"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các trang bán hàng và mạng xã hội dùng trí tuệ nhân tạo để chọn quảng cáo đúng thứ ta hay xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự đặt mua hàng trên mạng, không nạp tiền vào trò chơi"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1640,17 +1150,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS chọn ảnh gia đình, ghép thành album kỉ niệm hoặc thiệp điện tử tặng người thân"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS gọi điện hoặc gọi video hỏi thăm ông bà, người thân ở xa: tập mở đầu, hỏi thăm sức khoẻ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép người thân trước khi dùng ảnh của họ"
+     "text": "Ở hoạt động Khám phá chủ đề “Mái ấm gia đình”, GV mở bảng ghi chi tiêu trên máy tính lớp có."
     }
    ],
    "note": ""
@@ -1668,23 +1168,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS lập bảng chi tiêu của mình trong tuần trên bảng tính hoặc phiếu kẻ sẵn, chia thành ba cột “cần – muốn – có thể chờ”"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các trang bán hàng và mạng xã hội dùng trí tuệ nhân tạo để chọn quảng cáo đúng thứ ta hay xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự đặt mua hàng trên mạng, không nạp tiền vào trò chơi"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1720,27 +1204,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV cho HS nhận diện các tình huống nguy hiểm trên môi trường mạng: người lạ kết bạn rồi khen ngợi, hứa tặng quà, xin ảnh"
+     "text": "Ở hoạt động Khám phá chủ đề “Phòng tránh bị xâm hại”, GV chiếu sơ đồ vùng riêng tư trên cơ thể."
     },
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hành các bước tự bảo vệ: từ chối dứt khoát và ngừng trả lời, chụp màn hình lưu bằng chứng, chặn và báo cáo tài khoản"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: hiện đã có công cụ trí tuệ nhân tạo tạo được ảnh và giọng nói giả rất giống thật"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "QTE",
      "level": "",
-     "text": "Không gửi ảnh riêng tư cho bất kì ai, kể cả người quen"
+     "text": ""
     },
     {
-     "code": "KNS",
+     "code": "QTE",
      "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
     }
    ],
    "note": ""
@@ -1760,19 +1234,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức cho HS chia sẻ trong nhóm nhỏ về những tình huống khó nói đã gặp trên mạng: bị người lạ nhắn tin làm quen"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS cùng lập bảng “Ba việc phải làm ngay” dán ở góc lớp: dừng trả lời và chặn – chụp màn hình lưu bằng chứng – kể với"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "QTE",
      "level": "",
-     "text": "Chuyện bạn kể trong giờ sinh hoạt lớp phải giữ kín"
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
     },
     {
      "code": "KNS",
@@ -1797,6 +1266,16 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "QTE",
+     "level": "",
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
@@ -1819,29 +1298,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV cho HS nhận diện các tình huống nguy hiểm trên môi trường mạng: người lạ kết bạn rồi khen ngợi, hứa tặng quà, xin ảnh"
+     "text": "Ở hoạt động thực hành gọi điện tìm trợ giúp, GV chiếu mẫu lời nói gồm tên mình, nơi mình đang ở, việc đang xảy ra."
     },
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hành các bước tự bảo vệ: từ chối dứt khoát và ngừng trả lời, chụp màn hình lưu bằng chứng, chặn và báo cáo tài khoản"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: hiện đã có công cụ trí tuệ nhân tạo tạo được ảnh và giọng nói giả rất giống thật"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "QTE",
      "level": "",
-     "text": "Không gửi ảnh riêng tư cho bất kì ai, kể cả người quen"
+     "text": ""
     },
     {
-     "code": "KNS",
+     "code": "QTE",
      "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
     }
    ],
    "note": ""
@@ -1861,19 +1330,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức cho HS chia sẻ trong nhóm nhỏ về những tình huống khó nói đã gặp trên mạng: bị người lạ nhắn tin làm quen"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS cùng lập bảng “Ba việc phải làm ngay” dán ở góc lớp: dừng trả lời và chặn – chụp màn hình lưu bằng chứng – kể với"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "QTE",
      "level": "",
-     "text": "Chuyện bạn kể trong giờ sinh hoạt lớp phải giữ kín"
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
     },
     {
      "code": "KNS",
@@ -1916,27 +1380,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV cho HS nhận diện các tình huống nguy hiểm trên môi trường mạng: người lạ kết bạn rồi khen ngợi, hứa tặng quà, xin ảnh"
+     "text": "Ở hoạt động Khám phá chủ đề “Phòng tránh bị xâm hại”, GV chiếu các tình huống xâm hại tinh thần."
     },
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hành các bước tự bảo vệ: từ chối dứt khoát và ngừng trả lời, chụp màn hình lưu bằng chứng, chặn và báo cáo tài khoản"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: hiện đã có công cụ trí tuệ nhân tạo tạo được ảnh và giọng nói giả rất giống thật"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "QTE",
      "level": "",
-     "text": "Không gửi ảnh riêng tư cho bất kì ai, kể cả người quen"
+     "text": ""
     },
     {
-     "code": "KNS",
+     "code": "QTE",
      "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
     }
    ],
    "note": ""
@@ -1955,21 +1409,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức cho HS chia sẻ trong nhóm nhỏ về những tình huống khó nói đã gặp trên mạng: bị người lạ nhắn tin làm quen"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS cùng lập bảng “Ba việc phải làm ngay” dán ở góc lớp: dừng trả lời và chặn – chụp màn hình lưu bằng chứng – kể với"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chuyện bạn kể trong giờ sinh hoạt lớp phải giữ kín"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1993,6 +1432,16 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "QTE",
+     "level": "",
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
@@ -2015,29 +1464,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV cho HS nhận diện các tình huống nguy hiểm trên môi trường mạng: người lạ kết bạn rồi khen ngợi, hứa tặng quà, xin ảnh"
+     "text": "Ở hoạt động Luyện tập, GV chiếu các tình huống ở lớp, ở nhà."
     },
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hành các bước tự bảo vệ: từ chối dứt khoát và ngừng trả lời, chụp màn hình lưu bằng chứng, chặn và báo cáo tài khoản"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: hiện đã có công cụ trí tuệ nhân tạo tạo được ảnh và giọng nói giả rất giống thật"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "QTE",
      "level": "",
-     "text": "Không gửi ảnh riêng tư cho bất kì ai, kể cả người quen"
+     "text": ""
     },
     {
-     "code": "KNS",
+     "code": "QTE",
      "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
     }
    ],
    "note": ""
@@ -2057,19 +1496,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức cho HS chia sẻ trong nhóm nhỏ về những tình huống khó nói đã gặp trên mạng: bị người lạ nhắn tin làm quen"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS cùng lập bảng “Ba việc phải làm ngay” dán ở góc lớp: dừng trả lời và chặn – chụp màn hình lưu bằng chứng – kể với"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "QTE",
      "level": "",
-     "text": "Chuyện bạn kể trong giờ sinh hoạt lớp phải giữ kín"
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
     },
     {
      "code": "KNS",
@@ -2118,17 +1552,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tìm hiểu các hoạt động thiện nguyện, đền ơn đáp nghĩa đang diễn ra ở địa phương qua trang thông tin của xã"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm áp phích hoặc trang chiếu kêu gọi các bạn tham gia hoạt động cộng đồng của lớp, nêu rõ làm việc gì, khi nào"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tin và tham gia các hoạt động quyên góp do nhà trường"
+     "text": "Ở hoạt động Khám phá chủ đề “Kết nối cộng đồng”, GV chiếu ảnh các hoạt động cộng đồng ở địa phương."
     },
     {
      "code": "QPAN",
@@ -2153,24 +1577,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Cộng đồng cùng hành động”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -2222,19 +1636,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS tìm hiểu các hoạt động thiện nguyện, đền ơn đáp nghĩa đang diễn ra ở địa phương qua trang thông tin của xã"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm áp phích hoặc trang chiếu kêu gọi các bạn tham gia hoạt động cộng đồng của lớp, nêu rõ làm việc gì, khi nào"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tin và tham gia các hoạt động quyên góp do nhà trường"
+     "text": "Ở hoạt động Luyện tập."
     },
     {
      "code": "QPAN",
@@ -2258,21 +1662,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Uống nước nhớ nguồn”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2325,17 +1714,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tìm hiểu các hoạt động thiện nguyện, đền ơn đáp nghĩa đang diễn ra ở địa phương qua trang thông tin của xã"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm áp phích hoặc trang chiếu kêu gọi các bạn tham gia hoạt động cộng đồng của lớp, nêu rõ làm việc gì, khi nào"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tin và tham gia các hoạt động quyên góp do nhà trường"
+     "text": "HS tìm hiểu các hoạt động thiện nguyện, đền ơn đáp nghĩa đang diễn ra ở địa phương qua trang thông tin."
     },
     {
      "code": "QPAN",
@@ -2360,24 +1739,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Cộng đồng văn minh”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -2419,19 +1788,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS dùng bản đồ số xác định vị trí một cảnh quan thiên nhiên của địa phương, xem ảnh thực địa và đường đi tới đó"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS chụp ảnh hoặc quay đoạn phim ngắn giới thiệu một cảnh quan quê mình, ghép cùng lời thuyết minh tự viết thành sản phẩm giới thiệu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép khi chụp ảnh có mặt người khác"
+     "text": "Ở hoạt động Luyện tập."
     },
     {
      "code": "QPAN",
@@ -2455,21 +1814,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Hành trình trải nghiệm”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2517,17 +1861,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS dùng bản đồ số xác định vị trí một cảnh quan thiên nhiên của địa phương, xem ảnh thực địa và đường đi tới đó"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp ảnh hoặc quay đoạn phim ngắn giới thiệu một cảnh quan quê mình, ghép cùng lời thuyết minh tự viết thành sản phẩm giới thiệu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép khi chụp ảnh có mặt người khác"
+     "text": "Ở hoạt động Khám phá chủ đề “Quê hương em tươi đẹp”, GV chiếu bộ ảnh cảnh thiên nhiên của địa phương."
     },
     {
      "code": "QPAN",
@@ -2551,21 +1885,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu chuỗi ảnh chụp cảnh quan địa phương trước và sau khi lớp tham gia chăm sóc, dọn dẹp"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Cả lớp cùng soạn một lời kêu gọi ngắn gửi tới các lớp khác qua bản tin nhà trường, chú ý viết câu rõ ràng, lịch sự"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh có mặt bạn và người dân"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2611,19 +1930,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS dùng bản đồ số xác định vị trí một cảnh quan thiên nhiên của địa phương, xem ảnh thực địa và đường đi tới đó"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp ảnh hoặc quay đoạn phim ngắn giới thiệu một cảnh quan quê mình, ghép cùng lời thuyết minh tự viết thành sản phẩm giới thiệu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép khi chụp ảnh có mặt người khác"
+     "text": "Ở hoạt động Luyện tập, GV mở bảng chung “Hành vi xâm hại – Hậu quả – Điều lớp em kêu gọi”."
     },
     {
      "code": "QPAN",
@@ -2647,21 +1956,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho hoạt động “Kết quả khảo sát thực trạng cảnh quan thiên nhiên”, HS tổng hợp kết quả của tổ mình vào bảng theo dõi của lớp: nhập"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Đại diện các tổ trình chiếu kết quả trước lớp, các bạn khác đặt câu hỏi và góp ý"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không đưa thông tin riêng tư của bạn (hoàn cảnh gia đình, điểm số"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2709,17 +2003,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS dùng bản đồ số xác định vị trí một cảnh quan thiên nhiên của địa phương, xem ảnh thực địa và đường đi tới đó"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp ảnh hoặc quay đoạn phim ngắn giới thiệu một cảnh quan quê mình, ghép cùng lời thuyết minh tự viết thành sản phẩm giới thiệu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép khi chụp ảnh có mặt người khác"
+     "text": "HS dùng bản đồ số xác định vị trí một cảnh quan thiên nhiên của địa phương, xem ảnh thực địa."
     },
     {
      "code": "QPAN",
@@ -2744,24 +2028,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu chuỗi ảnh chụp cảnh quan địa phương trước và sau khi lớp tham gia chăm sóc, dọn dẹp"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Cả lớp cùng soạn một lời kêu gọi ngắn gửi tới các lớp khác qua bản tin nhà trường, chú ý viết câu rõ ràng, lịch sự"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi chụp ảnh có mặt bạn và người dân"
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
     }
    ],
    "note": ""
@@ -2803,24 +2077,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS tìm hiểu một nghề truyền thống ở địa phương qua ảnh, phim tư liệu và trang thông tin của làng nghề"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS phỏng vấn nghệ nhân hoặc người thân đang làm nghề, ghi âm sau khi xin phép"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: nhiều làng nghề nay có máy móc và thiết bị điều khiển tự động hỗ trợ nên làm nhanh hơn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi ghi âm, chụp ảnh nghệ nhân và sản phẩm của họ"
+     "text": "Ở hoạt động Luyện tập, GV mở bảng chung “Công đoạn – Dụng cụ – Điều khó nhất”."
     },
     {
      "code": "QPAN",
@@ -2845,24 +2104,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình bày sản phẩm giới thiệu nghề truyền thống của nhóm bằng chuỗi ảnh, đoạn ghi âm phỏng vấn hoặc trang chiếu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Các nhóm nhận xét chéo bằng phiếu: điều gì làm em nhớ nhất, chỗ nào cần bổ sung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng ảnh, ghi âm đã được nghệ nhân và người thân cho phép"
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
     }
    ],
    "note": ""
@@ -2906,22 +2155,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tìm hiểu một nghề truyền thống ở địa phương qua ảnh, phim tư liệu và trang thông tin của làng nghề"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS phỏng vấn nghệ nhân hoặc người thân đang làm nghề, ghi âm sau khi xin phép"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: nhiều làng nghề nay có máy móc và thiết bị điều khiển tự động hỗ trợ nên làm nhanh hơn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi ghi âm, chụp ảnh nghệ nhân và sản phẩm của họ"
+     "text": "Ở hoạt động Khởi động chủ đề “Trải nghiệm nghề truyền thống”, GV chiếu phim ngắn về nghề làm gốm."
     },
     {
      "code": "QPAN",
@@ -2946,24 +2180,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình bày sản phẩm giới thiệu nghề truyền thống của nhóm bằng chuỗi ảnh, đoạn ghi âm phỏng vấn hoặc trang chiếu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Các nhóm nhận xét chéo bằng phiếu: điều gì làm em nhớ nhất, chỗ nào cần bổ sung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng ảnh, ghi âm đã được nghệ nhân và người thân cho phép"
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
     }
    ],
    "note": ""
@@ -3005,24 +2229,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS tìm hiểu một nghề truyền thống ở địa phương qua ảnh, phim tư liệu và trang thông tin của làng nghề"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS phỏng vấn nghệ nhân hoặc người thân đang làm nghề, ghi âm sau khi xin phép"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: nhiều làng nghề nay có máy móc và thiết bị điều khiển tự động hỗ trợ nên làm nhanh hơn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi ghi âm, chụp ảnh nghệ nhân và sản phẩm của họ"
+     "text": "Ở hoạt động Trưng bày, các nhóm chụp sản phẩm của mình."
     },
     {
      "code": "KNS",
@@ -3047,24 +2256,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình bày sản phẩm giới thiệu nghề truyền thống của nhóm bằng chuỗi ảnh, đoạn ghi âm phỏng vấn hoặc trang chiếu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Các nhóm nhận xét chéo bằng phiếu: điều gì làm em nhớ nhất, chỗ nào cần bổ sung"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng ảnh, ghi âm đã được nghệ nhân và người thân cho phép"
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được vui chơi, được kết bạn và được lắng nghe; tôn trọng ý kiến, sự khác biệt của bạn trong lớp."
     }
    ],
    "note": ""
@@ -3108,22 +2312,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tìm hiểu một nghề truyền thống ở địa phương qua ảnh, phim tư liệu và trang thông tin của làng nghề"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS phỏng vấn nghệ nhân hoặc người thân đang làm nghề, ghi âm sau khi xin phép"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: nhiều làng nghề nay có máy móc và thiết bị điều khiển tự động hỗ trợ nên làm nhanh hơn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi ghi âm, chụp ảnh nghệ nhân và sản phẩm của họ"
+     "text": "Ở hoạt động Khởi động chủ đề “Trải nghiệm nghề truyền thống”, GV chiếu lại bộ ảnh những buổi trải nghiệm của."
     },
     {
      "code": "QPAN",
@@ -3147,21 +2336,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Chia sẻ yêu thương”: dùng bảng theo dõi thi đua trên máy"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -3443,8 +2617,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Hoat dong trai nghiem - Lop 4.docx",
   "name": "Hoat dong trai nghiem - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 51367,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 47496,
+  "updated": "2026-09-08"
  }
 }

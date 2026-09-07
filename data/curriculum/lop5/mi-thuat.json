@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 28
+  "integrations": 12
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu hình minh hoạ trong SGK Mĩ thuật 5 và ảnh tác phẩm cho chủ đề “Yếu tố tạo hình trong thực hành"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS lập phiếu tư liệu trên máy hoặc trên giấy gồm ba hình đã chọn, mỗi hình ghi yếu tố tạo hình nổi bật nhất"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tìm trong các trang GV đã chỉ định, không tự vào trang lạ"
+     "text": "Chiếu hình minh hoạ trong SGK Mĩ thuật 5 và ảnh tác phẩm cho chủ đề “Yếu tố tạo hình trong thực hành, sáng tạo theo chủ đề”."
     }
    ],
    "note": ""
@@ -114,17 +104,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tìm hiểu về một anh hùng dân tộc qua tư liệu số ở trang của bảo tàng và thư viện tỉnh: tượng đài, tranh chân dung"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS ghi vào phiếu tên nhân vật, chi tiết tạo hình đặc trưng và tên hai nguồn đã đối chiếu."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Thông tin lịch sử phải lấy từ bảo tàng"
+     "text": "HS tìm hiểu về một anh hùng dân tộc qua tư liệu số ở trang của bảo tàng."
     },
     {
      "code": "QPAN",
@@ -199,17 +179,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS xem bộ tranh đề tài gia đình của các hoạ sĩ Việt Nam trên bảo tàng số"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS ghi lại một cách sắp xếp nhân vật mình muốn học hỏi cùng tên bức tranh và tên hoạ sĩ."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tranh của hoạ sĩ thuộc bản quyền của tác giả và nơi lưu giữ"
+     "text": "HS xem bộ tranh đề tài gia đình của các hoạ sĩ Việt Nam trên bảo tàng số, phóng to."
     }
    ],
    "note": ""
@@ -277,19 +247,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS xem lại kho ảnh và clip các hoạt động của trường trong năm như hội khoẻ, văn nghệ, lao động, câu lạc bộ"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS chọn một hoạt động, liệt kê các nhân vật và đồ vật cần có rồi phác sơ đồ bố cục trước khi vẽ."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Kho ảnh của trường chỉ dùng trong nhà trường"
+     "text": "HS chọn một hoạt động, liệt kê các nhân vật."
     }
    ],
    "note": ""
@@ -375,17 +335,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tìm trên báo dành cho thiếu nhi và trang của cơ quan nhà nước những câu chuyện về việc làm tử tế của người bình thường"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS ghi vào phiếu câu chuyện, nhân vật, nguồn tin và chi tiết nào có thể chuyển thành hình ảnh trong tranh."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trên mạng có nhiều câu chuyện cảm động được dựng lên hoặc do máy viết ra để câu"
+     "text": "HS tìm trên báo dành cho thiếu nhi và trang của cơ quan nhà nước những câu chuyện về việc làm tử."
     }
    ],
    "note": ""
@@ -455,17 +405,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS dùng bản đồ số và ảnh toàn cảnh xem lại một vùng của quê mình từ nhiều góc, nhận ra lớp cảnh gần"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS ghi vào phiếu tư liệu ba lớp cảnh mình sẽ đưa vào tranh và nguồn của ảnh tham khảo."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tra cứu trong ứng dụng bản đồ GV chỉ định"
+     "text": "HS dùng bản đồ số và ảnh toàn cảnh xem lại một vùng của quê mình từ nhiều góc, nhận ra lớp."
     },
     {
      "code": "QPAN",
@@ -540,17 +480,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tìm tư liệu về trang phục, lễ hội, kiến trúc của một vùng miền trên trang của bảo tàng và cổng thông tin địa phương"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS lập phiếu tư liệu ghi tên vùng miền, dân tộc, chi tiết đặc trưng và nguồn của từng thông tin."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trang phục và hoa văn của mỗi dân tộc gắn với văn hoá của cộng đồng ấy nên"
+     "text": "HS tìm tư liệu về trang phục, lễ hội, kiến trúc của một vùng miền trên trang của bảo tàng."
     },
     {
      "code": "QPAN",
@@ -625,17 +555,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS xem các tác phẩm mĩ thuật Việt Nam và thế giới về đề tài hoà bình như chim bồ câu, vòng tay, cánh đồng, trẻ em"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS chọn một biểu tượng, ghi lại ý nghĩa của nó và tên tác phẩm đã dùng biểu tượng ấy."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Biểu tượng hoà bình được nhiều tác giả sử dụng nên HS học cách dùng biểu tượng chứ"
+     "text": "HS xem các tác phẩm mĩ thuật Việt Nam và thế giới về đề tài hoà bình như chim bồ câu, vòng."
     }
    ],
    "note": ""
@@ -999,8 +919,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Mi thuat - Lop 5.docx",
   "name": "Mi thuat - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43000,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42194,
+  "updated": "2026-09-08"
  }
 }

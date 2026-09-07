@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 350,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 257,
-  "integrations": 160
+  "integrations": 87
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở hoạt động đọc văn bản bài “Tôi là học sinh lớp 2”, GV chiếu tranh minh hoạ phóng to và mở bản đọc mẫu trên tivi"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ở phần luyện đọc lại, GV dùng điện thoại ghi âm một nhóm đọc phân vai lời người kể và lời nói trực tiếp của bạn nhỏ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản ghi âm chỉ dùng trong tiết học, GV xoá sau khi nghe"
+     "text": "Ở hoạt động đọc văn bản bài “Tôi là học sinh lớp 2”, GV chiếu tranh minh hoạ phóng to."
     },
     {
      "code": "KNS",
@@ -100,21 +90,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động đọc văn bản bài “Ngày hôm qua đâu rồi?”, GV chiếu tranh tờ lịch và mở bản đọc mẫu bài thơ trên tivi"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở phần đọc hiểu, khi liên hệ về quý trọng thời gian, GV mở bài tập tương tác trên tivi có các tranh việc học, việc nhà"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhắc HS quý thời gian thì cũng không dành quá nhiều giờ xem tivi, điện thoại"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -184,23 +159,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh bìa vài cuốn sách, bài thơ viết về trẻ em cho HS chọn bài đọc mở rộng; HS nói tên sách, tên tác giả mình chọn"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS chia sẻ trước lớp điều thú vị vừa đọc, GV chiếu trang sách bạn giới thiệu để cả lớp cùng xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ đọc sách, báo dành cho thiếu nhi do thầy cô, cha mẹ chọn; giới thiệu sách phải nói rõ tên sách và tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -218,19 +177,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở phần khởi động và đọc văn bản bài “Niềm vui của Bi và Bống”"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Ở phần liên hệ cách quan tâm người thân, GV gợi ý HS nói một lời yêu thương với anh chị em hoặc ông bà ở xa mà"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Gửi tin nhắn, gọi hình phải có bố mẹ bên cạnh và dùng điện thoại của người lớn"
+     "text": "Ở phần liên hệ cách quan tâm người thân."
     },
     {
      "code": "KNS",
@@ -286,21 +235,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động đọc văn bản bài “Làm việc thật là vui”, GV chiếu tranh và mở đoạn âm thanh đồng hồ tích tắc, gà gáy"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở phần liên hệ sắp xếp việc học, việc chơi, việc nhà, GV chiếu hình đồng hồ báo thức"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhắc HS thiết bị thông minh chỉ giúp nhắc việc; không dùng điện thoại để chơi quá giờ"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -370,23 +304,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở sẵn vài bài viết ngắn về hoạt động của thiếu nhi trên báo Nhi đồng bản điện tử; HS chọn một bài, đọc và nói việc bạn nhỏ trong bài đã làm"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS kể lại trước lớp, GV chiếu ảnh minh hoạ của bài viết để cả lớp cùng theo dõi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ đọc trang báo thiếu nhi thầy cô mở sẵn, không tự tìm trên mạng; nói rõ bài viết lấy từ đâu."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -406,17 +324,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to tranh minh hoạ bài đọc “Em có xinh không?” và mở bản đọc mẫu để HS vừa nhìn tranh vừa nghe giọng đọc lời"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm một, hai lượt HS đọc lời nhân vật rồi mở lại cho cả lớp nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+     "text": "Chiếu phóng to tranh minh hoạ bài đọc “Em có xinh không?”."
     },
     {
      "code": "KNS",
@@ -472,21 +380,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to tranh minh hoạ bài đọc “Một giờ học” và mở bản đọc mẫu lời thầy giáo, lời bạn Quang"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc phân vai của một nhóm rồi mở lại cho cả lớp nghe; các em nhận ra giọng thầy giáo phải chậm và ấm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -574,19 +467,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “Cây xấu hổ” tả cảnh vật mà nhiều HS chưa từng nhìn thấy ngoài đời: đúng lúc HS đi tìm từ ngữ tả cảnh"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm giọng đọc diễn cảm bài “Cây xấu hổ” của 2-3 HS rồi phát lại cho cả lớp nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ ghi âm giọng đọc khi HS đồng ý"
+     "text": "Dùng điện thoại ghi âm giọng đọc diễn cảm bài “Cây xấu hổ” của 2-3."
     },
     {
      "code": "KNS",
@@ -642,21 +525,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Cầu thủ dự bị”, GV chiếu tranh minh hoạ phóng to và một đoạn phim ngắn về trận bóng của thiếu nhi để HS gọi"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc phân vai của một nhóm rồi mở lại cho cả lớp nghe; các em nhận ra chỗ nào là lời người kể"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -746,22 +614,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Vào chủ điểm mới với bài đọc “Cô giáo lớp em”, GV chiếu tranh minh hoạ phóng to và mở bản đọc mẫu bài thơ"
+     "text": "Vào chủ điểm mới với bài đọc “Cô giáo lớp em”, GV chiếu tranh minh hoạ phóng to."
     },
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc thuộc lòng một khổ thơ của vài HS rồi mở lại cho cả lớp nghe"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "QTE",
      "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+     "text": ""
     },
     {
-     "code": "KNS",
+     "code": "QTE",
      "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+     "text": "liên hệ quyền được học tập, vui chơi và được yêu thương của trẻ em qua nhân vật, chi tiết trong bài đọc."
     }
    ],
    "note": ""
@@ -812,21 +675,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Sau phần đọc hiểu bài “Thời khoá biểu”, GV chiếu ảnh chụp thời khoá biểu điện tử của nhà trường và một bảng thời khoá biểu lập bằng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV nêu một câu hỏi mà bài “Thời khoá biểu” chưa trả lời hết"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài “Thời khoá biểu” dễ khiến HS tò mò muốn tra thêm: GV dặn HS lớp 2 chưa"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -914,19 +762,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Cái trống trường em”, GV mở đoạn ghi âm tiếng trống trường và chiếu ảnh chiếc trống ở sân trường mình"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc thuộc một khổ thơ của vài HS rồi mở lại cho cả lớp nghe; các em nhận ra chỗ ngắt nhịp chưa đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+     "text": "Ghi âm lượt đọc thuộc một khổ thơ của vài."
     },
     {
      "code": "KNS",
@@ -982,21 +820,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Sau phần đọc hiểu bài “Danh sách học sinh”, GV chiếu một bản danh sách lập bằng bảng trên máy tính"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV nêu một câu hỏi mà bài “Danh sách học sinh” chưa trả lời hết"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài “Danh sách học sinh” dễ khiến HS tò mò muốn tra thêm: GV dặn HS lớp 2"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1086,17 +909,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Yêu lắm trường ơi!”, GV chiếu ảnh chính ngôi trường mình: cổng trường, sân chơi, lớp học, thư viện"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc thuộc một khổ thơ của vài HS rồi mở lại cho cả lớp nghe; các em nhận ra chỗ ngắt nhịp chưa đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh trường chỉ dùng trong giờ học, không chụp mặt bạn để đưa lên màn hình"
+     "text": "Trước bài đọc “Yêu lắm trường ơi!”, GV chiếu ảnh chính ngôi trường mình."
     },
     {
      "code": "KNS",
@@ -1152,21 +965,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Em học vẽ”, GV chiếu vài bức tranh thiếu nhi vẽ cảnh vật, con vật và phóng to từng mảng màu"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Sau khi đọc, HS vẽ lại một hình ảnh mình thích trong bài; GV chụp ảnh các bài vẽ rồi chiếu thành phòng tranh của lớp để mỗi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ chụp bài vẽ, không chụp mặt HS"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1254,19 +1052,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Sau phần đọc hiểu bài “Cuốn sách của em”, GV chiếu ảnh bìa, tên tác giả"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV nêu một câu hỏi mà bài “Cuốn sách của em” chưa trả lời hết"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài “Cuốn sách của em” dễ khiến HS tò mò muốn tra thêm: GV dặn HS lớp 2"
+     "text": "Nêu một câu hỏi mà bài “Cuốn sách của em” chưa trả lời hết."
     },
     {
      "code": "KNS",
@@ -1322,21 +1110,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Khi trang sách mở ra”, GV chiếu bìa một số cuốn sách thiếu nhi quen thuộc và ảnh góc thư viện của trường"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc thuộc một khổ thơ của vài HS rồi mở lại cho cả lớp nghe; các em nhận ra chỗ ngắt nhịp chưa đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1506,17 +1279,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Bài “Gọi bạn” tả cảnh vật mà nhiều HS chưa từng nhìn thấy ngoài đời: đúng lúc HS đi tìm từ ngữ tả cảnh"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm giọng đọc diễn cảm bài “Gọi bạn” của 2-3 HS rồi phát lại cho cả lớp nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ ghi âm giọng đọc khi HS đồng ý"
+     "text": "Bài “Gọi bạn” tả cảnh vật mà nhiều HS chưa từng nhìn thấy ngoài đời."
     },
     {
      "code": "KNS",
@@ -1572,21 +1335,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Tớ nhớ cậu”, GV chiếu tranh minh hoạ phóng to và mở bản đọc mẫu"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc phân vai của một nhóm rồi mở lại cho cả lớp nghe; các em nhận ra chỗ nào là lời người kể"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1674,19 +1422,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Chữ A và những người bạn”, GV chiếu bảng chữ cái phóng to và tranh minh hoạ bài đọc"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc phân vai của một nhóm rồi mở lại cho cả lớp nghe; các em nhận ra chỗ nào là lời người kể"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+     "text": "Ghi âm lượt đọc phân vai của một nhóm."
     },
     {
      "code": "KNS",
@@ -1742,21 +1480,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Nhím nâu kết bạn”, GV chiếu tranh minh hoạ phóng to và ảnh thật con nhím; HS nói đặc điểm bộ lông nhím"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc của vài HS rồi mở lại cho cả lớp nghe; các em nhận ra chỗ đọc còn nhỏ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1830,17 +1553,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Bài “Thả diều” tả cảnh vật mà nhiều HS chưa từng nhìn thấy ngoài đời: đúng lúc HS đi tìm từ ngữ tả cảnh"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm giọng đọc diễn cảm bài “Thả diều” của 2-3 HS rồi phát lại cho cả lớp nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ ghi âm giọng đọc khi HS đồng ý"
+     "text": "Bài “Thả diều” tả cảnh vật mà nhiều HS chưa từng nhìn thấy ngoài đời."
     },
     {
      "code": "KNS",
@@ -1896,21 +1609,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Sau phần đọc hiểu bài “Tớ là Lê-gô”, GV chiếu phim ngắn quay các mô hình lắp ghép và hình mô phỏng trên máy chỉ cách ghép từng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV nêu một câu hỏi mà bài “Tớ là Lê-gô” chưa trả lời hết"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài “Tớ là Lê-gô” dễ khiến HS tò mò muốn tra thêm: GV dặn HS lớp 2 chưa"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1982,19 +1680,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “Rồng rắn lên mây” tả cảnh vật mà nhiều HS chưa từng nhìn thấy ngoài đời: đúng lúc HS đi tìm từ ngữ tả cảnh"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại ghi âm giọng đọc diễn cảm bài “Rồng rắn lên mây” của 2-3 HS rồi phát lại cho cả lớp nghe"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ ghi âm giọng đọc khi HS đồng ý"
+     "text": "Dùng điện thoại ghi âm giọng đọc diễn cảm bài “Rồng rắn lên mây” của 2-3."
     },
     {
      "code": "KNS",
@@ -2050,21 +1738,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Nặn đồ chơi”, GV chiếu ảnh các món đồ chơi nặn bằng đất và một đoạn phim ngắn cảnh nghệ nhân nặn tò he"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc thuộc một khổ thơ của vài HS rồi mở lại cho cả lớp nghe; các em nhận ra chỗ ngắt nhịp chưa đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2138,17 +1811,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp thật khóm hoa tỉ muội nhiều bông chụm vào nhau"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "GV mở sẵn một bức tranh do công cụ trí tuệ nhân tạo vẽ theo nội dung truyện “Sự tích hoa tỉ muội”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nói rõ với HS: bức tranh do máy vẽ chỉ là hình tưởng tượng về “Sự tích"
+     "text": "Chiếu ảnh chụp thật khóm hoa tỉ muội nhiều bông chụm vào nhau."
     },
     {
      "code": "KNS",
@@ -2204,21 +1867,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước bài đọc “Em mang về yêu thương”, GV chiếu tranh khởi động phóng to và vài ảnh gia đình đón em bé mới sinh"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV ghi âm lượt đọc thuộc một khổ thơ của vài HS rồi mở lại cho cả lớp nghe; các em nhận ra chỗ ngắt nhịp chưa đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh dùng trong bài là ảnh minh hoạ chung do cô chuẩn bị"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2289,6 +1937,11 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Đọc hiểu, GV chiếu sơ đồ còn."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2430,19 +2083,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chụp bài viết đoạn của vài HS trong đợt ôn tập rồi chiếu lên màn hình để cả lớp cùng chữa chung: soát lỗi viết hoa đầu"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu phiếu tự đánh giá dựng sẵn trên máy (đọc trôi chảy chưa, viết đúng chính tả chưa, nói trước lớp đã rõ chưa)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài viết chỉ chiếu khi bạn đó đồng ý và chỉ để cùng chữa, không phải để chê"
+     "text": "Ở hoạt động Đọc văn bản bài thơ “Cánh cửa nhớ bà”, GV chiếu tranh minh hoạ phóng to."
     },
     {
      "code": "KNS",
@@ -2498,21 +2141,6 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp bài viết đoạn của vài HS trong đợt ôn tập rồi chiếu lên màn hình để cả lớp cùng chữa chung: soát lỗi viết hoa đầu"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu phiếu tự đánh giá dựng sẵn trên máy (đọc trôi chảy chưa, viết đúng chính tả chưa, nói trước lớp đã rõ chưa)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài viết chỉ chiếu khi bạn đó đồng ý và chỉ để cùng chữa, không phải để chê"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2599,6 +2227,11 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Đọc hiểu, GV chiếu sơ đồ còn trống về việc Ê-đi-xơn đã làm."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -5266,8 +4899,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Tieng Viet - Lop 2.docx",
   "name": "Tieng Viet - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 53561,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 50753,
+  "updated": "2026-09-08"
  }
 }

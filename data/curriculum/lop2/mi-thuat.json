@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 87
+  "integrations": 47
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh phóng to các hình thức của “Mĩ thuật trong cuộc sống” như SGK trang 5–7: pa-nô, áp phích ngày lễ"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu hai nhóm ảnh cạnh nhau cho trò chơi Tranh và tượng, HS lên chỉ nhanh trên màn hình đâu là tranh, đâu là tượng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV mở đúng tập ảnh đã chuẩn bị trước"
+     "text": "Chiếu ảnh phóng to các hình thức của “Mĩ thuật trong cuộc sống” như SGK trang 5–7."
     }
    ],
    "note": ""
@@ -66,17 +56,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình trang 8–9 SGK phóng to cùng ảnh chụp gần vài đồ vật có nét trang trí cho bài “Sự thú vị của nét”"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Khi chơi Đoán tên của nét, GV dùng công cụ vẽ trên máy chiếu vẽ nhanh từng nét cho các nhóm gọi tên; trước khi thực hành"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV thao tác trên máy, HS ngồi tại chỗ quan sát; xem ảnh trên màn hình xong"
+     "text": "Chiếu hình trang 8–9 SGK phóng to cùng ảnh chụp gần vài đồ vật có nét trang trí cho bài “Sự thú vị của nét”."
     }
    ],
    "note": ""
@@ -98,17 +78,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV mở một trang trình chiếu, vẽ một hoạ tiết rồi dùng lệnh sao chép và dán cho hoạ tiết ấy lặp lại thành đường diềm dài"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS quan sát cạnh đó ảnh đường diềm trên khăn, trên bát đĩa để đối chiếu với đường diềm vừa dựng trên máy."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV thao tác sao chép, dán; HS quan sát và nêu ý kiến rồi tự vẽ đường diềm"
+     "text": "Mở một trang trình chiếu, vẽ một hoạ tiết."
     },
     {
      "code": "KNS",
@@ -135,17 +105,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh ngôi nhà, ô tô, tàu thuỷ rồi bấm cho từng hình cơ bản tách rời ra khỏi ảnh: mái nhà là hình tam giác"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS chọn một đồ vật có trong lớp và kể ra đồ vật đó gồm những hình cơ bản nào."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV để máy chiếu ở độ sáng vừa phải và nhắc HS không nhìn thẳng vào bóng đèn"
+     "text": "Chiếu ảnh ngôi nhà, ô tô, tàu thuỷ."
     }
    ],
    "note": ""
@@ -165,19 +125,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở chủ đề “Sự kết hợp của các hình cơ bản”, GV chiếu ảnh các đồ vật quen thuộc rồi bấm tách dần thành hình tròn, vuông"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Làm xong sản phẩm ba chiều, GV chụp ảnh từ hai phía rồi chiếu lên màn hình thành bộ sưu tập của lớp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS; ảnh lưu trong máy của cô"
+     "text": "Làm xong sản phẩm ba chiều, GV chụp ảnh từ hai phía rồi chiếu lên màn hình thành bộ sưu tập của lớp."
     }
    ],
    "note": ""
@@ -199,17 +149,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bản chụp rõ nét bức tranh của hoạ sĩ Pôn Cli, phóng to từng mảng để HS thấy hoạ sĩ đã xếp các hình vuông"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chỉ dòng chữ ghi tên tranh và tên hoạ sĩ đặt cạnh bức tranh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bức tranh này là của hoạ sĩ, ta chỉ xem để học cách hoạ sĩ ghép hình chứ"
+     "text": "Chiếu bản chụp rõ nét bức tranh của hoạ sĩ Pôn Cli, phóng to từng mảng."
     },
     {
      "code": "KNS",
@@ -236,17 +176,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu một bảng màu số và di chuyển ô chọn để HS thấy màu chuyển dần từ đỏ sang cam rồi sang vàng"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS chỉ trên bảng màu hai màu đứng cạnh nhau nhìn hoà hợp và hai màu đứng xa nhau nhìn tương phản mạnh."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV thao tác trên máy; màu trên màn hình sáng hơn màu sáp trên giấy nên HS phải"
+     "text": "Chiếu một bảng màu số và di chuyển ô chọn."
     }
    ],
    "note": ""
@@ -268,17 +198,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở một bức ảnh trong phần mềm xem ảnh rồi kéo thanh chỉnh độ sáng để cả bức chuyển từ đậm sang nhạt ngay trước mắt HS"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS chỉ ra trong ảnh chỗ nào đậm nhất, chỗ nào nhạt nhất và nói chỗ đậm đã làm hình nổi lên thế nào."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV điều khiển thanh chỉnh sáng; sau đó HS pha thêm nước hoặc tô chồng lớp trên giấy"
+     "text": "Mở một bức ảnh trong phần mềm xem ảnh."
     }
    ],
    "note": ""
@@ -298,19 +218,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh đồ vật quen thuộc được trang trí bằng mảng màu: cặp sách, hộp bút, chiếc quạt giấy, tấm rèm"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV nêu rõ mỗi mẫu trang trí đều do một người nghĩ ra; HS xem để lấy ý tưởng rồi tự nghĩ cách sắp xếp mảng màu của"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh mẫu do GV chọn sẵn, HS không xin chụp lại ảnh mẫu bằng điện thoại"
+     "text": "Nêu rõ mỗi mẫu trang trí đều do một người nghĩ ra; HS xem."
     },
     {
      "code": "KNS",
@@ -337,17 +247,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô hình ba chiều một con vật, một chiếc xe và xoay chậm, đồng thời tách dần từng khối cầu, khối trụ"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS chọn một đồ vật trong lớp và đoán đồ vật đó gồm những khối nào."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV thao tác xoay và tách khối; xem xong HS cầm hộp giấy, quả bóng"
+     "text": "Chiếu mô hình ba chiều một con vật, một chiếc xe và xoay chậm, đồng thời tách dần từng khối cầu, khối."
     }
    ],
    "note": ""
@@ -367,19 +267,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở chủ đề “Sự kết hợp thú vị của khối”, GV chiếu ảnh đồ vật ba chiều rồi bấm tách dần thành các khối lập phương, khối hộp"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Sắp xếp xong, GV chụp ảnh sản phẩm của từng nhóm từ hai phía rồi chiếu lên màn hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS; khi ghép khối, các em dùng kéo mũi tròn"
+     "text": "Sắp xếp xong, GV chụp ảnh sản phẩm của từng nhóm từ hai phía rồi chiếu lên màn hình."
     }
    ],
    "note": ""
@@ -401,17 +291,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp từ trên cao một khu vườn, một góc phố để nhóm HS thấy cách người ta sắp xếp: chỗ nào cao, chỗ nào thấp"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Mỗi nhóm bàn nhau chọn một cách sắp xếp và phân công ai làm khối nào"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chụp mô hình chỉ dùng để nhóm tự chỉnh sản phẩm, không đưa ra ngoài lớp"
+     "text": "Chiếu ảnh chụp từ trên cao một khu vườn, một góc phố."
     },
     {
      "code": "KNS",
@@ -438,17 +318,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim tua nhanh một cây thay lá qua bốn mùa: xanh non, xanh đậm, vàng, trơ cành"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS gọi tên màu chủ đạo của từng mùa và liên hệ với cây cối ở quê mình."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV mở đúng đoạn phim đã tải sẵn"
+     "text": "Chiếu đoạn phim tua nhanh một cây thay lá qua bốn mùa."
     }
    ],
    "note": ""
@@ -468,19 +338,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở chủ đề “Sắc màu thiên nhiên”, GV chiếu ảnh phong cảnh bốn mùa và phóng to từng mảng màu trời, cây, nước; HS gọi tên màu"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Vẽ xong, GV chụp ảnh tranh của cả lớp rồi chiếu thành phòng tranh trên màn hình; mỗi em giới thiệu bức của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ chụp tranh, không chụp mặt HS"
+     "text": "Vẽ xong, GV chụp ảnh tranh của cả lớp rồi chiếu thành phòng tranh trên màn hình."
     }
    ],
    "note": ""
@@ -498,7 +358,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá kĩ thuật in của chủ đề “Sắc màu thiên nhiên”, GV chiếu ảnh chụp gần mặt sau."
+    }
+   ],
    "note": ""
   },
   {
@@ -514,7 +380,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Trưng bày, GV chụp sản phẩm của các nhóm rồi chiếu thành một bộ sưu tập nhỏ trên màn hình."
+    }
+   ],
    "note": ""
   },
   {
@@ -550,17 +422,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu một bức ảnh chân dung và dùng công cụ vẽ kẻ trục dọc"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS soi gương hoặc nhìn bạn cùng bàn để kiểm tra lại nhận xét ấy trên khuôn mặt thật."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ dùng ảnh chân dung đã chuẩn bị sẵn hoặc ảnh của chính GV"
+     "text": "Chiếu một bức ảnh chân dung và dùng công cụ vẽ kẻ trục dọc, trục ngang lên ảnh."
     }
    ],
    "note": ""
@@ -578,7 +440,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Trưng bày, GV chụp sản phẩm của các nhóm từ hai góc rồi chiếu lên màn hình."
+    }
+   ],
    "note": ""
   },
   {
@@ -595,6 +463,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá đắp nổi chân dung của chủ đề “Gương mặt thân quen”, GV chiếu ảnh chụp nghiêng hai."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -620,17 +493,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV chụp các bức chân dung đắp nổi từ hướng chếch để thấy rõ độ nổi"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS đoán xem mỗi bức chân dung vẽ ai; bạn được vẽ nghe lời khen thì nói lời cảm ơn."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ chụp sản phẩm, không chụp mặt bạn khi bạn chưa đồng ý"
+     "text": "Chụp các bức chân dung đắp nổi từ hướng chếch."
     },
     {
      "code": "KNS",
@@ -657,17 +520,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh bữa cơm của các gia đình ở nhiều vùng miền: mâm cơm đồng bằng, mâm cơm miền núi, mâm cơm ngày Tết"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS kể lại bữa cơm nhà mình: ai ngồi cạnh ai, mâm cơm đặt ở đâu, thường có món gì."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV dùng ảnh tư liệu đã chuẩn bị"
+     "text": "Chiếu bộ ảnh bữa cơm của các gia đình ở nhiều vùng miền."
     }
    ],
    "note": ""
@@ -685,7 +538,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Trưng bày, GV chụp sản phẩm mâm cơm ba chiều của các nhóm rồi chiếu lên màn hình."
+    }
+   ],
    "note": ""
   },
   {
@@ -702,6 +561,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khởi động chủ đề “Bữa cơm gia đình”, GV chiếu ảnh chụp một lọ hoa đã trang trí bên."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -727,17 +591,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV xếp các lọ hoa của HS lên một mặt bàn có phông nền sạch, chụp cả nhóm rồi chụp riêng từng chiếc"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS nói cho cả lớp nghe mình đã tận dụng vỏ chai, vỏ hộp gì để làm lọ hoa."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không dùng chai lọ thuỷ tinh vỡ hay sắc cạnh; đặt sản phẩm chắc chắn rồi mới chụp"
+     "text": "Xếp các lọ hoa của HS lên một mặt bàn có phông nền sạch, chụp cả nhóm."
     },
     {
      "code": "KNS",
@@ -764,17 +618,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh và đoạn phim ngắn về công việc hằng ngày của thầy cô: soạn bài, chấm bài, hướng dẫn HS tập thể dục"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS chọn một việc trong phim để đưa vào tranh của mình và tả lại việc đó bằng lời."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Phim, ảnh về thầy cô do nhà trường và GV cung cấp; HS không tự quay"
+     "text": "Chiếu bộ ảnh và đoạn phim ngắn về công việc hằng ngày của thầy cô."
     },
     {
      "code": "QPAN",
@@ -798,6 +642,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Trưng bày, GV chụp bài của các nhóm rồi chiếu lên màn hình."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -823,17 +672,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim hướng dẫn gấp hoa giấy, làm thiếp nổi, dừng lại và tua chậm ở bước khó để HS xem lại vài lần trước khi"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS làm theo từng bước; bạn nào làm được trước thì quay sang giúp bạn bên cạnh."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Cẩn thận với kéo và keo dán khi làm theo phim"
+     "text": "Chiếu đoạn phim hướng dẫn gấp hoa giấy, làm thiếp nổi, dừng lại."
     },
     {
      "code": "QPAN",
@@ -860,17 +699,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV chụp món quà của HS kèm tấm thiếp ghi lời chúc, ghép thành một trang trưng bày của lớp để tặng thầy cô xem."
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS đọc to lời chúc của mình, cả lớp góp ý để lời chúc chân thành và lễ phép hơn."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trang trưng bày chỉ gửi tới thầy cô trong trường, không đăng lên mạng"
+     "text": "Chụp món quà của HS kèm tấm thiếp ghi lời chúc, ghép thành một trang trưng bày của lớp."
     },
     {
      "code": "QPAN",
@@ -897,17 +726,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phim tư liệu về đồ chơi dân gian Việt Nam: mặt nạ giấy bồi, tò he, đèn ông sao, con giống bột"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS gọi tên các đồ chơi trong phim và nói món nào mình đã từng chơi."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV mở đoạn phim đã tải sẵn; HS xem để hiểu công sức của người thợ làm ra"
+     "text": "Chiếu phim tư liệu về đồ chơi dân gian Việt Nam."
     }
    ],
    "note": ""
@@ -927,19 +746,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu phim hướng dẫn biến vỏ chai, hộp giấy, nắp chai thành con vật"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
      "text": "HS trong nhóm cùng bàn xem nhóm mình làm con vật gì, ai lo phần thân, ai lo phần đầu."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Vỏ chai, vỏ hộp phải rửa sạch và để khô trước khi dùng"
     }
    ],
    "note": ""
@@ -958,6 +767,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Thảo luận chủ đề “Đồ chơi từ tạo hình con vật”, GV chiếu ảnh hộp bút lộn xộn bên."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -983,17 +797,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV bày các đồ chơi của lớp thành một góc trưng bày rồi quay một đoạn phim ngắn đi vòng quanh góc ấy để cả lớp xem lại"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS lần lượt cầm sản phẩm giới thiệu trước lớp: đây là con vật gì, làm từ vật liệu gì, chơi ra sao."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đoạn phim chỉ quay sản phẩm và bàn tay"
+     "text": "Bày các đồ chơi của lớp thành một góc trưng bày rồi quay một đoạn phim ngắn đi vòng quanh góc ấy."
     },
     {
      "code": "KNS",
@@ -1314,8 +1118,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Mi thuat - Lop 2.docx",
   "name": "Mi thuat - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45789,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 43536,
+  "updated": "2026-09-08"
  }
 }

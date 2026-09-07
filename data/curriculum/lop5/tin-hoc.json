@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 54
+  "integrations": 21
  },
  "lessons": [
   {
@@ -33,18 +33,8 @@
    "integrations": [
     {
      "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2, TT 02: 5.2.CB2a",
-     "text": "GV chiếu đoạn phim ngắn về người dùng máy tính trong học tập, công việc, đời sống để mở bài “Em có thể làm gì với máy tính?”"
-    },
-    {
-     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS mở các tệp mẫu trong thư mục của lớp gồm một văn bản, một bảng tính, một bức vẽ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đăng nhập bằng tài khoản GV cấp, không dùng tài khoản của bạn và không lưu mật khẩu"
+     "text": "Chiếu đoạn phim ngắn về người dùng máy tính trong học tập, công việc, đời sống."
     }
    ],
    "note": ""
@@ -82,17 +72,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tự nhập địa chỉ một website GV cung cấp, quan sát các thành phần của trang — thanh địa chỉ, mục lục, khối nội dung"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS dùng mục lục và ô tìm kiếm ngay trong website để đi thẳng tới phần mình cần thay vì lướt hết cả trang"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ truy cập website GV cho phép; không nháy vào quảng cáo"
+     "text": "HS tự nhập địa chỉ một website GV cung cấp, quan sát các thành phần của trang — thanh địa chỉ, mục."
     }
    ],
    "note": ""
@@ -130,17 +110,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS nhận một vấn đề thật của lớp — chọn cây trồng cho góc lớp"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS đối chiếu thông tin tìm được với sách giáo khoa và với một trang chính thống khác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tìm kiếm với từ khoá phục vụ vấn đề đang giải quyết"
+     "text": "HS nhận một vấn đề thật của lớp."
     }
    ],
    "note": ""
@@ -176,19 +146,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự mở cửa sổ quản lí tệp, đi lên đi xuống trong cây thư mục"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS đọc các thông tin đi kèm mỗi tệp — kiểu tệp, dung lượng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở xem, không sửa, không di chuyển tệp của người khác và của máy"
+     "text": "HS đọc các thông tin đi kèm mỗi tệp — kiểu tệp, dung lượng, ngày sửa gần nhất."
     }
    ],
    "note": ""
@@ -224,19 +184,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu cùng một tấm ảnh ở hai nơi: một nơi ghi rõ tác giả và giấy phép sử dụng, một nơi đăng lại mà không ghi gì"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS tìm một hình ảnh hoặc đoạn nhạc được phép dùng cho bài học của mình, chép lại tên tác giả"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng tư liệu có ghi rõ được phép sử dụng và phải ghi nguồn; không tải"
+     "text": "HS tìm một hình ảnh hoặc đoạn nhạc được phép dùng cho bài học của mình, chép lại tên tác giả, tên."
     }
    ],
    "note": ""
@@ -272,19 +222,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS tự định dạng một văn bản cho sẵn: chọn phông, cỡ chữ, kiểu chữ đậm nghiêng, màu chữ"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS thử ba cách trình bày khác nhau cho cùng một đoạn rồi hỏi bạn ngồi cạnh xem cách nào dễ đọc nhất từ khoảng cách một mét"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lưu bài vào đúng thư mục của mình sau mỗi lần sửa lớn"
+     "text": "HS thử ba cách trình bày khác nhau cho cùng một đoạn rồi hỏi bạn ngồi cạnh xem cách nào dễ đọc."
     }
    ],
    "note": ""
@@ -322,17 +262,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS soạn một văn bản hoàn chỉnh của riêng mình — bản tin lớp"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS dùng chức năng soát lỗi chính tả của phần mềm để tìm chỗ nghi ngờ rồi tự đọc lại từng chỗ mà quyết định sửa hay giữ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài viết phải do chính HS nghĩ và gõ ra, có tham khảo thì ghi rõ nguồn"
+     "text": "HS soạn một văn bản hoàn chỉnh của riêng mình."
     }
    ],
    "note": ""
@@ -370,17 +300,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tự khám phá các công cụ của phần mềm đồ hoạ: chọn bút, chọn hình khối, chọn màu, tô màu, tẩy, phóng to thu nhỏ"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS vẽ một hình đơn giản theo ý mình, đặt tên tệp dễ hiểu và lưu vào thư mục riêng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở phần mềm GV chỉ định, không cài thêm phần mềm đồ hoạ lạ tải trên mạng"
+     "text": "HS tự khám phá các công cụ của phần mềm đồ hoạ."
     }
    ],
    "note": ""
@@ -450,22 +370,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS tạo một sản phẩm số hoàn chỉnh bằng phần mềm đồ hoạ theo chủ đề của lớp — áp phích kêu gọi giữ vệ sinh trường"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS đưa bản nháp cho hai bạn xem thử ở khoảng cách xa như khi treo lên tường"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV giới thiệu công cụ tạo ảnh từ mô tả bằng lời và cho HS xem một ví dụ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu đưa vào sản phẩm phải do HS tự vẽ"
+     "text": "HS tạo một sản phẩm số hoàn chỉnh bằng phần mềm đồ hoạ theo chủ đề của lớp."
     }
    ],
    "note": ""
@@ -487,17 +392,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tự ghép một chương trình tuần tự trong môi trường lập trình trực quan: chọn nhân vật, kéo các khối lệnh di chuyển, xoay"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS đọc kịch bản cho sẵn — một đoạn hội thoại ngắn giữa hai nhân vật — rồi chuyển từng câu trong kịch bản thành khối lệnh tương"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở phần mềm lập trình và dự án GV chỉ định"
+     "text": "HS tự ghép một chương trình tuần tự trong môi trường lập trình trực quan."
     }
    ],
    "note": ""
@@ -533,19 +428,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS viết một chương trình vẽ hình bằng cách lặp lại một nhóm lệnh: vẽ hình vuông bằng bốn lần tiến và quay"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tìm những việc lặp đi lặp lại quanh mình — đèn nhấp nháy, băng chuyền"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở dự án GV chỉ định, không cài thêm phần mềm lạ"
+     "text": "HS tìm những việc lặp đi lặp lại quanh mình."
     }
    ],
    "note": ""
@@ -583,17 +468,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS nhận một nhiệm vụ cụ thể — vẽ một dãy hình, cho nhân vật đi hết một vòng sân khấu — rồi tự phân tích: phần nào"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS đọc chương trình mẫu của GV trước khi tự viết, chỉ ra khối lặp nằm ở đâu và các giá trị bước đi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng dự án và học liệu GV chỉ định"
+     "text": "HS nhận một nhiệm vụ cụ thể."
     }
    ],
    "note": ""
@@ -629,19 +504,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS viết một chương trình có rẽ nhánh: nếu chạm vào cạnh sân khấu thì nhân vật quay lại, nếu không thì đi tiếp"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS đọc và diễn đạt lại điều kiện trong chương trình bằng lời — điều gì được kiểm tra, khi đúng thì làm gì"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ mở dự án GV chỉ định; kiểm tra kĩ điều kiện trước khi chạy để chương trình"
+     "text": "HS đọc và diễn đạt lại điều kiện trong chương trình bằng lời — điều gì được kiểm tra, khi đúng thì."
     }
    ],
    "note": ""
@@ -679,17 +544,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tạo một biến để ghi điểm hoặc ghi số lần thực hiện trong chương trình của mình"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS đọc một chương trình có nhiều biến, chỉ ra mỗi biến đang giữ dữ liệu gì và giá trị của nó thay đổi ở những khối lệnh"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đặt tên biến bằng nội dung công việc"
+     "text": "HS tạo một biến để ghi điểm hoặc ghi số lần thực hiện trong chương trình của mình, đặt tên biến cho dễ hiểu."
     }
    ],
    "note": ""
@@ -736,19 +591,9 @@
      "text": "Bài học STEM."
     },
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS dùng biểu thức trong chương trình để máy tự tính: tính tổng điểm qua các vòng, tính chu vi hình theo số đo người dùng nhập"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS đối chiếu kết quả chương trình mình viết với kết quả tính bằng tay hoặc bằng máy tính cầm tay cho vài bộ số liệu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Kiểm tra lại kết quả máy tính ra bằng cách tính thử vài bộ số liệu"
+     "text": "HS đối chiếu kết quả chương trình mình viết với kết quả tính bằng tay hoặc bằng máy tính cầm tay cho vài bộ số liệu."
     }
    ],
    "note": ""
@@ -797,17 +642,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS tự nghĩ một ý tưởng rồi viết thành kịch bản: có mấy nhân vật, mỗi nhân vật nói gì, làm gì, theo thứ tự nào"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS chia chương trình lớn thành từng phần nhỏ theo cảnh, làm xong phần nào chạy thử phần đó rồi mới ghép tiếp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ý tưởng và lời thoại phải do HS tự nghĩ; nhân vật"
+     "text": "HS tự nghĩ một ý tưởng."
     }
    ],
    "note": ""
@@ -1139,8 +974,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Tin hoc - Lop 5.docx",
   "name": "Tin hoc - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44303,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42600,
+  "updated": "2026-09-08"
  }
 }

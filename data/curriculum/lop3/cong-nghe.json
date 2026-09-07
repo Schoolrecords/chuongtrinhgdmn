@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 34
+  "integrations": 23
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trong “Bài 1. Tự nhiên và công nghệ”, GV chiếu lần lượt ảnh các đối tượng như hòn đá, cây chuối, con gà, đèn học, quạt điện"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp trong lớp học, ngoài sân trường và nêu yêu cầu: tìm trong ảnh sản phẩm công nghệ và đối tượng tự nhiên"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Sản phẩm công nghệ nào cắm điện đều có thể gây điện giật"
+     "text": "Trong “Bài 1. Tự nhiên và công nghệ”, GV chiếu lần lượt ảnh các đối tượng như hòn đá, cây chuối, con."
     }
    ],
    "note": ""
@@ -80,19 +70,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Sử dụng đèn học”, GV chiếu phóng to ảnh các loại đèn học phổ biến và ảnh chụp một chiếc đèn có chú thích từng bộ"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hai ảnh cùng một góc học tập, một ảnh đặt đèn bên trái, một ảnh đặt bên phải người viết"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đèn học chỉ được người lớn cắm điện; HS không tự cắm, rút phích"
+     "text": "Chiếu hai ảnh cùng một góc học tập, một ảnh đặt đèn bên trái, một ảnh đặt bên phải người viết."
     },
     {
      "code": "KNS",
@@ -135,17 +115,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV cho HS quan sát bảng điều khiển quạt điện thật và đọc các kí hiệu trên nút: số 0–1–2–3, chữ OFF, nút quay"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV nêu tình huống: quạt đang chạy bỗng kêu to và rung mạnh; HS thảo luận theo cặp chọn việc nên làm trong ba việc GV đưa (tắt"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không thò tay, thò bút hay que vào lồng quạt khi quạt đang quay"
+     "text": "Cho HS quan sát bảng điều khiển quạt điện thật và đọc các kí hiệu trên nút: số 0–1–2–3, chữ OFF, nút quay."
     },
     {
      "code": "KNS",
@@ -186,19 +156,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Đây là bài HS lần đầu tự lấy thông tin từ một thiết bị"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV chia lớp thành các nhóm 4, mỗi nhóm cử một bạn “phát thanh viên” đọc lại bản tin thời tiết vừa nghe cho nhóm mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không mở máy thu thanh quá to vì hại tai và làm phiền người khác"
+     "text": "Chia lớp thành các nhóm 4, mỗi nhóm cử một bạn “phát thanh viên” đọc lại bản tin thời tiết vừa nghe cho nhóm mình."
     },
     {
      "code": "KNS",
@@ -273,17 +233,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp màn hình lịch phát sóng của một kênh truyền hình cho thiếu nhi và hướng dẫn HS đọc theo cột: mấy giờ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "GV nêu tình huống thật: em đang xem thì màn hình hiện một đoạn quảng cáo dọa nạt hoặc một cảnh đánh nhau đáng sợ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ xem ti vi khoảng 30 phút mỗi lần rồi nghỉ cho mắt"
+     "text": "Chiếu ảnh chụp màn hình lịch phát sóng của một kênh truyền hình cho thiếu nhi."
     },
     {
      "code": "STEM",
@@ -369,17 +319,7 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu lần lượt 6 ảnh tình huống trong nhà: ổ điện cắm chồng nhiều phích, dây sạc điện thoại vắt qua lối đi"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV cho các nhóm lập “Bảng nội quy an toàn góc thiết bị điện tử của gia đình em” gồm 4 dòng do chính HS đề xuất (ví"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Điện thoại, máy tính bảng đang sạc thì rất nóng: không để trên chăn gối"
+     "text": "Chiếu lần lượt 6 ảnh tình huống trong nhà."
     },
     {
      "code": "KNS",
@@ -490,6 +430,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Mở đầu bài “Dụng cụ và vật liệu làm thủ công”, GV chiếu ảnh chụp gần kéo, bút chì."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
@@ -527,6 +472,11 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Thực hành, GV chiếu lại đúng bước mà nhiều bạn còn lúng túng, dừng hình."
+    },
     {
      "code": "STEM",
      "level": "",
@@ -589,17 +539,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trước khi HS cắt dán, GV chiếu ảnh chụp biển báo thật lấy từ trang thông tin của cơ quan giao thông và ảnh biển báo trong sách"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Sau khi sản phẩm hoàn thành, GV dùng điện thoại chụp ảnh biển báo của từng nhóm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chụp sản phẩm chỉ để dùng trong lớp"
+     "text": "Trước khi HS cắt dán, GV chiếu ảnh chụp biển báo thật lấy từ trang thông tin của cơ quan giao thông."
     },
     {
      "code": "KNS",
@@ -671,6 +611,11 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Thực hành, GV chiếu lại đúng bước mà nhiều bạn còn lúng túng."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1032,8 +977,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Cong nghe - Lop 3.docx",
   "name": "Cong nghe - Lop 3.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43130,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42440,
+  "updated": "2026-09-08"
  }
 }

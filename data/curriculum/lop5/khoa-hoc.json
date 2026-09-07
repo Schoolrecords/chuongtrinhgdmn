@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 91
+  "integrations": 43
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở video thí nghiệm thả cục đất vào cốc nước thấy bọt khí, đun đất thấy hơi nước để HS nhận ra trong đất có không khí"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Nhóm 4 làm thí nghiệm với mẫu đất thật, GV chụp ảnh từng bước bằng điện thoại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh và tin về thiên tai, ô nhiễm trên mạng có khi là ảnh cũ chụp nơi khác"
+     "text": "Mở video thí nghiệm thả cục đất vào cốc nước thấy bọt khí, đun đất thấy hơi nước."
     }
    ],
    "note": ""
@@ -80,19 +70,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh bãi rác, ruộng phun thuốc trừ sâu, nước thải nhà máy đổ ra đất và video ngắn về đất nhiễm bẩn để HS tìm nguyên"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Nhóm làm một áp phích hoặc trang trình chiếu ngắn về phân loại rác thải sinh hoạt tại gia đình: ảnh thùng rác hữu cơ, tái chế"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh và tin về thiên tai, ô nhiễm trên mạng có khi là ảnh cũ chụp nơi khác"
+     "text": "Nhóm làm một áp phích hoặc trang trình chiếu ngắn về phân loại rác thải sinh hoạt tại gia đình."
     },
     {
      "code": "KNS",
@@ -151,17 +131,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Ở bài “Hỗn hợp và dung dịch”, GV chiếu mô phỏng phóng to các hạt trong nước đường, nước muối so với hỗn hợp cát và nước"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau thí nghiệm thật, HS ghi kết quả bốn cốc nước vào bảng chiếu trên màn hình rồi cùng đối chiếu; khi kết quả các nhóm khác nhau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chất dùng trong thí nghiệm chỉ là đường, muối, cát do thầy cô chuẩn bị; HS không nếm"
+     "text": "Ở bài “Hỗn hợp và dung dịch”, GV chiếu mô phỏng phóng to các hạt trong nước đường, nước muối so với."
     }
    ],
    "note": ""
@@ -205,12 +175,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV chiếu mô phỏng chuyển động của các hạt ở thể rắn – lỏng – khí và mô phỏng biến đổi liên quan “Đặc điểm của chất ở"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Mô phỏng trên máy không thay thí nghiệm thật"
+     "text": "Chiếu mô phỏng chuyển động của các hạt ở thể rắn."
     }
    ],
    "note": ""
@@ -248,12 +213,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV chiếu mô phỏng chuyển động của các hạt ở thể rắn – lỏng – khí và mô phỏng biến đổi liên quan “Sự biến đổi hóa học"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Mô phỏng trên máy không thay thí nghiệm thật"
+     "text": "Chiếu mô phỏng chuyển động của các hạt ở thể rắn."
     }
    ],
    "note": ""
@@ -311,19 +271,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm mô phỏng mạch điện để HS thử lắp, đóng – ngắt"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS đọc chỉ số công tơ điện hoặc hoá đơn tiền điện nhà mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ thí nghiệm với pin và đèn nhỏ theo hướng dẫn của GV"
+     "text": "HS đọc chỉ số công tơ điện hoặc hoá đơn tiền điện nhà mình, nhập vào bảng tính để so sánh mức."
     },
     {
      "code": "KNS",
@@ -366,17 +316,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm mô phỏng mạch điện để HS thử lắp, đóng – ngắt"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS đọc chỉ số công tơ điện hoặc hoá đơn tiền điện nhà mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ thí nghiệm với pin và đèn nhỏ theo hướng dẫn của GV"
+     "text": "Dùng phần mềm mô phỏng mạch điện."
     },
     {
      "code": "KNS",
@@ -444,19 +384,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm mô phỏng mạch điện để HS thử lắp, đóng – ngắt"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS đọc chỉ số công tơ điện hoặc hoá đơn tiền điện nhà mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ thí nghiệm với pin và đèn nhỏ theo hướng dẫn của GV"
+     "text": "HS đọc chỉ số công tơ điện hoặc hoá đơn tiền điện nhà mình, nhập vào bảng tính để so sánh mức."
     }
    ],
    "note": ""
@@ -494,17 +424,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm mô phỏng mạch điện để HS thử lắp, đóng – ngắt"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS đọc chỉ số công tơ điện hoặc hoá đơn tiền điện nhà mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ thí nghiệm với pin và đèn nhỏ theo hướng dẫn của GV"
+     "text": "Dùng phần mềm mô phỏng mạch điện."
     },
     {
      "code": "KNS",
@@ -545,19 +465,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm mô phỏng mạch điện để HS thử lắp, đóng – ngắt"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS đọc chỉ số công tơ điện hoặc hoá đơn tiền điện nhà mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ thí nghiệm với pin và đèn nhỏ theo hướng dẫn của GV"
+     "text": "HS đọc chỉ số công tơ điện hoặc hoá đơn tiền điện nhà mình, nhập vào bảng tính để so sánh mức."
     },
     {
      "code": "KNS",
@@ -636,24 +546,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video tua nhanh về “Sinh sản của thực vật có hoa” — quá trình kéo dài nhiều ngày, nhiều tuần được nén lại trong vài phút"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS chụp ảnh theo dõi cây trồng hoặc vật nuôi qua từng ngày, ghép thành chuỗi ảnh kèm bảng theo dõi trên máy để trình bày trước lớp."
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS thử dùng ứng dụng nhận diện cây, con vật qua ảnh chụp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tra cứu ở nguồn GV chỉ định"
+     "text": "HS chụp ảnh theo dõi cây trồng hoặc vật nuôi qua từng ngày."
     }
    ],
    "note": ""
@@ -691,22 +586,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu video tua nhanh về “Sự phát triển của cây con- tiết 1” — quá trình kéo dài nhiều ngày"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp ảnh theo dõi cây trồng hoặc vật nuôi qua từng ngày, ghép thành chuỗi ảnh kèm bảng theo dõi trên máy để trình bày trước lớp."
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS thử dùng ứng dụng nhận diện cây, con vật qua ảnh chụp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tra cứu ở nguồn GV chỉ định"
+     "text": "Chiếu video tua nhanh về “Sự phát triển của cây con- tiết 1”."
     },
     {
      "code": "STEM",
@@ -763,24 +643,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu video tua nhanh về “Sự sinh sản của động vật” — quá trình kéo dài nhiều ngày, nhiều tuần được nén lại trong vài phút"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS chụp ảnh theo dõi cây trồng hoặc vật nuôi qua từng ngày, ghép thành chuỗi ảnh kèm bảng theo dõi trên máy để trình bày trước lớp."
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS thử dùng ứng dụng nhận diện cây, con vật qua ảnh chụp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tra cứu ở nguồn GV chỉ định"
+     "text": "HS chụp ảnh theo dõi cây trồng hoặc vật nuôi qua từng ngày."
     }
    ],
    "note": ""
@@ -818,22 +683,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu video tua nhanh về “Vòng đời và sự phát triển của động vật” — quá trình kéo dài nhiều ngày"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp ảnh theo dõi cây trồng hoặc vật nuôi qua từng ngày, ghép thành chuỗi ảnh kèm bảng theo dõi trên máy để trình bày trước lớp."
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS thử dùng ứng dụng nhận diện cây, con vật qua ảnh chụp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ tra cứu ở nguồn GV chỉ định"
+     "text": "Chiếu video tua nhanh về “Vòng đời và sự phát triển của động vật”."
     },
     {
      "code": "STEM",
@@ -922,19 +772,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh và video quay qua kính hiển vi về “VI KHUẨN XUNG QUANH CHÚNG TA Tiết 1” — HS quan sát được thứ mắt thường không"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nhờ công cụ trí tuệ nhân tạo mô tả cách phòng bệnh do vi khuẩn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự tra mạng để chẩn đoán bệnh hay tự dùng thuốc"
+     "level": "Nhận biết",
+     "text": "Nhờ công cụ trí tuệ nhân tạo mô tả cách phòng bệnh do vi khuẩn."
     }
    ],
    "note": ""
@@ -956,17 +796,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh và video quay qua kính hiển vi về “VI khuẩn có ích trong chế biến thực phẩm” — HS quan sát được thứ mắt thường"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nhờ công cụ trí tuệ nhân tạo mô tả cách phòng bệnh do vi khuẩn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự tra mạng để chẩn đoán bệnh hay tự dùng thuốc"
+     "text": "Chiếu ảnh và video quay qua kính hiển vi về “VI khuẩn có ích trong chế biến thực phẩm”."
     }
    ],
    "note": ""
@@ -1024,19 +854,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh và video quay qua kính hiển vi về “VI khuẩn gây bệnh ở người và cách phòng tránh” — HS quan sát được thứ mắt"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nhờ công cụ trí tuệ nhân tạo mô tả cách phòng bệnh do vi khuẩn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự tra mạng để chẩn đoán bệnh hay tự dùng thuốc"
+     "level": "Nhận biết",
+     "text": "Nhờ công cụ trí tuệ nhân tạo mô tả cách phòng bệnh do vi khuẩn."
     },
     {
      "code": "KNS",
@@ -1095,12 +915,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu sơ đồ động, video mô phỏng về “Sự hình thành cơ thể người” — quá trình kéo dài nhiều năm được trình bày gọn trong vài"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không nhập thông tin sức khoẻ cá nhân vào ứng dụng lạ"
+     "text": "Chiếu sơ đồ động, video mô phỏng về “Sự hình thành cơ thể người”."
     },
     {
      "code": "KNS",
@@ -1143,12 +958,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu sơ đồ động, video mô phỏng về “Các giai đoạn phát triển chính của con người” — quá trình kéo dài nhiều năm được trình bày"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không nhập thông tin sức khoẻ cá nhân vào ứng dụng lạ"
+     "text": "Chiếu sơ đồ động, video mô phỏng về “Các giai đoạn phát triển chính của con người”."
     }
    ],
    "note": ""
@@ -1202,17 +1012,7 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 2",
-     "text": "Đây là bài gắn trực tiếp với an toàn trên mạng: GV cho HS nhận diện các tình huống nguy hiểm qua môi trường số khi học “Nam"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: hiện đã có công cụ trí tuệ nhân tạo tạo được ảnh và giọng nói giả rất giống thật"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tuyệt đối không gửi ảnh riêng tư cho bất kì ai, kể cả người xưng là bạn quen"
+     "text": "Đây là bài gắn trực tiếp với an toàn trên mạng."
     }
    ],
    "note": ""
@@ -1248,19 +1048,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "Đây là bài gắn trực tiếp với an toàn trên mạng: GV cho HS nhận diện các tình huống nguy hiểm qua môi trường số khi học “Chăm"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: hiện đã có công cụ trí tuệ nhân tạo tạo được ảnh và giọng nói giả rất giống thật"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tuyệt đối không gửi ảnh riêng tư cho bất kì ai, kể cả người xưng là bạn quen"
+     "level": "Nhận biết",
+     "text": "Nêu: hiện đã có công cụ trí tuệ nhân tạo tạo được ảnh."
     },
     {
      "code": "STEM",
@@ -1340,17 +1130,7 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 2",
-     "text": "Đây là bài gắn trực tiếp với an toàn trên mạng: GV cho HS nhận diện các tình huống nguy hiểm qua môi trường số khi học “Phòng"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: hiện đã có công cụ trí tuệ nhân tạo tạo được ảnh và giọng nói giả rất giống thật"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tuyệt đối không gửi ảnh riêng tư cho bất kì ai, kể cả người xưng là bạn quen"
+     "text": "Đây là bài gắn trực tiếp với an toàn trên mạng."
     }
    ],
    "note": ""
@@ -1436,17 +1216,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh vệ tinh chụp cùng một khu vực ở hai thời điểm cách nhau nhiều năm để HS thấy rừng bị thu hẹp"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm một sản phẩm số nhỏ tuyên truyền bảo vệ môi trường: áp phích, trang trình chiếu hoặc đoạn ghi âm lời kêu gọi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh và tin về thiên tai, ô nhiễm trên mạng có khi là ảnh cũ chụp nơi khác"
+     "text": "Chiếu ảnh vệ tinh chụp cùng một khu vực ở hai thời điểm cách nhau nhiều năm."
     },
     {
      "code": "KNS",
@@ -1503,19 +1273,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh vệ tinh chụp cùng một khu vực ở hai thời điểm cách nhau nhiều năm để HS thấy rừng bị thu hẹp"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm một sản phẩm số nhỏ tuyên truyền bảo vệ môi trường: áp phích, trang trình chiếu hoặc đoạn ghi âm lời kêu gọi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh và tin về thiên tai, ô nhiễm trên mạng có khi là ảnh cũ chụp nơi khác"
+     "text": "HS làm một sản phẩm số nhỏ tuyên truyền bảo vệ môi trường: áp phích, trang trình chiếu hoặc đoạn ghi âm lời kêu gọi."
     },
     {
      "code": "KNS",
@@ -1894,8 +1654,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Khoa hoc - Lop 5.docx",
   "name": "Khoa hoc - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45298,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 44207,
+  "updated": "2026-09-08"
  }
 }

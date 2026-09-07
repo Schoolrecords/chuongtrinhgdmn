@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 33
+  "integrations": 17
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu video bài hát “Lớn lên em sẽ làm gì?” và hình ảnh người lao động trong bài “Biết ơn người lao động (Tiết 1)”: chị lao"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Trong trò chơi Giải đố về nghề nghiệp, GV chiếu câu đố và ba hình gợi ý lên tivi, đội chơi chọn hình nghề đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ xem video, hình ảnh GV đã chọn; ảnh HS chỉ chiếu trong lớp"
+     "text": "Chiếu video bài hát “Lớn lên em sẽ làm gì?” và hình ảnh người lao động trong bài “Biết ơn người lao động (Tiết 1)”."
     },
     {
      "code": "QPAN",
@@ -117,19 +107,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu một lời kêu gọi giúp đỡ hoàn cảnh khó khăn đang lan truyền trên mạng; HS tìm dấu hiệu đáng tin: có tên nhà trường"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS cùng nhóm soạn một lời nhắn động viên gửi bạn đang gặp khó khăn (tin nhắn trong nhóm lớp hoặc thiệp điện tử)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không tự chuyển tiền, không nhắn số tài khoản của gia đình theo lời kêu gọi trên mạng"
+     "text": "HS cùng nhóm soạn một lời nhắn động viên gửi bạn đang gặp khó khăn (tin nhắn trong nhóm lớp hoặc thiệp điện tử)."
     },
     {
      "code": "QPAN",
@@ -220,17 +200,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Ở bài “Yêu lao động”, GV chiếu bộ ảnh người lao động ở nhiều nghề và ảnh HS làm việc vừa sức như trực nhật, tưới cây"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "GV gõ lên màn hình những việc HS kể thành bảng hai cột việc ở nhà và việc ở trường; cả lớp cùng đọc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chọn việc vừa sức, có người lớn hướng dẫn khi dùng dụng cụ"
+     "text": "Ở bài “Yêu lao động”, GV chiếu bộ ảnh người lao động ở nhiều nghề."
     },
     {
      "code": "KNS",
@@ -305,17 +275,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV mở rộng khái niệm tài sản sang tài sản số: tệp bài làm, ảnh, tài khoản học tập, điện thoại và máy tính của người khác"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS thực hành ghi tên tác giả, tên trang khi dùng ảnh hoặc đoạn viết của người khác trong sản phẩm của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không mở máy, điện thoại, tài khoản của người khác khi chưa được phép"
+     "text": "Mở rộng khái niệm tài sản sang tài sản số."
     },
     {
      "code": "KNS",
@@ -372,19 +332,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS kể tên tài sản chung ở trường có gắn với thiết bị số: máy tính phòng tin học, ti vi, máy chiếu, loa"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "HS cùng xây dựng bản quy ước sử dụng phòng máy và bảng phân công trực nhật, mỗi tổ theo dõi và nhắc nhau thực hiện trong tuần."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không xoá, không sửa dữ liệu trên máy dùng chung"
+     "text": "HS cùng xây dựng bản quy ước sử dụng phòng máy và bảng phân công trực nhật, mỗi tổ theo dõi và."
     }
    ],
    "note": ""
@@ -458,19 +408,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV cho HS phân tích cách kết bạn và giữ tình bạn khi trao đổi qua tin nhắn, nhóm lớp: chào hỏi, viết câu rõ ràng"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS tập viết lại một tin nhắn dễ gây hiểu lầm thành tin nhắn tử tế, rõ ý"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ kết bạn trên mạng với người mình biết ngoài đời"
+     "text": "Ở hoạt động Khám phá bài “Thiết lập quan hệ bạn bè”, GV chiếu các tình huống làm quen bằng tranh và."
     }
    ],
    "note": ""
@@ -508,17 +448,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 2",
-     "text": "GV cho HS phân tích cách kết bạn và giữ tình bạn khi trao đổi qua tin nhắn, nhóm lớp: chào hỏi, viết câu rõ ràng"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS tập viết lại một tin nhắn dễ gây hiểu lầm thành tin nhắn tử tế, rõ ý"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ kết bạn trên mạng với người mình biết ngoài đời"
+     "text": "Cho HS phân tích cách kết bạn và giữ tình bạn khi trao đổi qua tin nhắn, nhóm lớp."
     }
    ],
    "note": ""
@@ -572,17 +502,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV cho HS quan sát các cách tiêu tiền trên môi trường số: mua hàng qua mạng, nạp tiền vào trò chơi, mua vật phẩm ảo"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: quảng cáo hiện ra trên điện thoại được trí tuệ nhân tạo chọn theo những thứ ta hay xem nên rất “đúng ý”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không nạp tiền vào trò chơi, không nhập số thẻ ngân hàng của cha mẹ"
+     "text": "Cho HS quan sát các cách tiêu tiền trên môi trường số: mua hàng qua mạng, nạp tiền vào trò chơi, mua."
     }
    ],
    "note": ""
@@ -674,17 +594,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV giới thiệu quyền của trẻ em gắn với môi trường mạng: quyền được học, được vui chơi, được bảo vệ"
+     "text": "Giới thiệu quyền của trẻ em gắn với môi trường mạng."
     },
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "HS thực hành nói lời từ chối khi bị đòi ảnh, đòi thông tin cá nhân"
-    },
-    {
-     "code": "NLS-AT",
+     "code": "QTE",
      "level": "",
-     "text": "Không cho ai địa chỉ nhà, tên trường lớp, giờ tan học, ảnh riêng tư; không nhận quà"
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được bày tỏ ý kiến và được người lớn lắng nghe về những việc liên quan đến mình (Luật Trẻ em 2016)."
     }
    ],
    "note": ""
@@ -1026,8 +946,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Dao duc - Lop 4.docx",
   "name": "Dao duc - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43485,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42682,
+  "updated": "2026-09-08"
  }
 }

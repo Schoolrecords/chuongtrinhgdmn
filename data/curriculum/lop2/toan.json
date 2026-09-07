@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 175,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 174,
-  "integrations": 191
+  "integrations": 56
  },
  "lessons": [
   {
@@ -82,17 +82,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tranh SGK rô-bốt xếp các quả táo ghi số từ 0 đến 10 cho bài “Tia số. Số liền trước, số liền sau”"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu tia số tương tác: kéo con trỏ tới vạch nào số đó hiện lên, dịch trái, phải là thấy số liền trước, liền sau"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy giúp nhìn thấy quy luật của số, còn đọc số, viết số"
+     "text": "Chiếu tranh SGK rô-bốt xếp các quả táo ghi số từ 0 đến 10 cho bài “Tia số. Số liền trước, số liền sau”."
     }
    ],
    "note": ""
@@ -134,19 +124,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động khám phá bài “Số hạng, tổng”, GV chiếu tranh bể cá trên tivi"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "Ở bài 1, sau khi HS làm phiếu, GV mở bảng số tương tác trên tivi, mời HS lên chạm chọn số điền vào ô tổng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Mỗi lần chỉ một HS lên thao tác, chạm nhẹ màn hình, không kéo dây điện"
+     "text": "Ở bài 1, sau khi HS làm phiếu, GV mở bảng số tương tác trên tivi."
     }
    ],
    "note": ""
@@ -196,23 +176,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu tranh phần khám phá bài “Hơn, kém nhau bao nhiêu” phóng to trên máy chiếu: đàn gà, vịt, ngỗng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bài 1 với hình chim ở cành trên, cành dưới, hỏi HS đâu là cái đã biết"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Sơ đồ trên máy chỉ giúp hiểu đề"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -296,17 +260,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở bài luyện tập chung, GV chiếu tia số phóng to lên màn hình và chỉ theo từng vạch khi cả lớp đếm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác viết số thành tổng các chục và đơn vị; máy báo đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chờ đến lượt được mời lên chạm màn hình, chạm nhẹ bằng đầu ngón tay"
+     "text": "Ở bài luyện tập chung, GV chiếu tia số phóng to lên màn hình và chỉ theo từng vạch khi cả lớp."
     }
    ],
    "note": ""
@@ -342,19 +296,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài phép cộng qua 10 trong phạm vi 20, GV chiếu khung mười ô phóng to: bấm cho 9 chấm tròn hiện ra rồi thêm 5 chấm"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "GV gõ phép tính 9 cộng 5 cho công cụ trí tuệ nhân tạo và chiếu câu trả lời của máy"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy do cô giáo gõ, HS chỉ xem và không nhập tên hay ảnh của mình vào máy"
+     "level": "Nhận biết",
+     "text": "Gõ phép tính 9 cộng 5 cho công cụ trí tuệ nhân tạo."
     },
     {
      "code": "STEM",
@@ -445,17 +389,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở bài “Bảng cộng qua 10”, GV chiếu bảng cộng trên màn hình rồi bấm hiện dần từng dòng theo thứ tự HS nêu; nhìn bảng lớn"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở trò chơi luyện bảng cộng có tự chấm: mỗi em trả lời rồi nhìn máy báo đúng, sai ngay để biết phép nào mình còn chậm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trò chơi do cô bấm, HS chờ đến lượt được mời lên chạm màn hình"
+     "text": "Ở bài “Bảng cộng qua 10”, GV chiếu bảng cộng trên màn hình."
     },
     {
      "code": "KNS",
@@ -494,23 +428,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu sơ đồ đoạn thẳng động cho đúng bài toán của tiết: đoạn thẳng dài thêm ra khi thêm, ngắn lại khi bớt"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu đề toán kèm hình ảnh tình huống thật và cho HS lần lượt chỉ ra đâu là cái đã biết, đâu là câu hỏi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Sơ đồ trên máy chỉ giúp hiểu đề"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -542,23 +460,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở tiết luyện tập chung, GV chiếu bộ câu hỏi có tự chấm gồm điền số, tính nhẩm và bài toán thêm, bớt"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to bài toán có lời văn, dùng bút màu gạch chân số liệu và từ khoá thêm, còn lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS ngồi tại chỗ giơ bảng con, không tranh nhau lên bảng"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -592,19 +494,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài phép trừ qua 10 trong phạm vi 20, GV chiếu khung mười ô phóng to: bấm cho 11 chấm tròn hiện ra rồi bớt dần"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác cho HS kéo chấm tròn để thực hiện phép trừ rồi chọn kết quả; máy báo đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+     "text": "Mở bài tập tương tác cho HS kéo chấm tròn."
     }
    ],
    "note": ""
@@ -690,17 +582,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở bài “Bảng trừ qua 10”, GV chiếu bảng trừ trên màn hình rồi bấm hiện dần từng dòng theo thứ tự HS nêu; nhìn bảng lớn"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở trò chơi luyện bảng trừ có tự chấm: mỗi em trả lời rồi nhìn máy báo đúng, sai ngay để biết phép nào mình còn chậm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trò chơi do cô bấm, HS chờ đến lượt được mời lên chạm màn hình"
+     "text": "Ở bài “Bảng trừ qua 10”, GV chiếu bảng trừ trên màn hình."
     },
     {
      "code": "KNS",
@@ -739,23 +621,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV đặt hai băng giấy ảo song song trên màn hình rồi kéo cho băng thứ hai dài hơn hoặc ngắn hơn đúng số đơn vị đề bài"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV đổi số liệu ngay trên đề chiếu, sơ đồ tự vẽ lại theo số mới; HS nhận ra dạng toán không đổi dù số thay đổi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhắc HS phải tự đọc kĩ đề rồi mới nhìn sơ đồ"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -791,17 +657,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu trò chơi tách - gộp trên máy: khi cộng qua 10, các chấm tròn tự tách ra cho đủ chục rồi gộp phần còn lại"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Sau mỗi vòng chơi, GV chiếu bảng đếm số câu đúng của từng tổ theo dạng bài (cộng qua 10, trừ qua 10, tìm số còn thiếu)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng đếm điểm chỉ ghi theo tổ, không nêu tên HS làm sai để không bạn nào ngại"
+     "text": "Chiếu trò chơi tách - gộp trên máy."
     }
    ],
    "note": ""
@@ -851,23 +707,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mang cân điện tử tới lớp, cân một vài đồ vật trước lớp cho HS đọc số hiện trên màn hình cân"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Trước mỗi lần cân, GV cho HS ước lượng vật nặng khoảng mấy ki-lô-gam rồi mới cân kiểm chứng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Cân điện tử cho số rất nhanh nhưng HS phải biết ước lượng và đọc được cân đĩa"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -919,17 +759,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phim quay cảnh rót nước từ một chai 1 lít sang các cốc, vừa rót vừa đếm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bài tập đong ảo trên máy: kéo can, chai, cốc để đong đủ số lít đề yêu cầu; HS nêu cách đong"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài tập đong trên máy chỉ để luyện, HS vẫn phải tự đong bằng chai"
+     "text": "Chiếu phim quay cảnh rót nước từ một chai 1 lít sang các cốc, vừa rót vừa đếm."
     }
    ],
    "note": ""
@@ -963,23 +793,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Các nhóm cân, đong thật rồi đọc số liệu cho GV nhập vào bảng trên máy; bấm một nút"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh cách các nhóm đặt vật lên cân, đặt ca lên mặt phẳng rồi chiếu lên màn hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chỉ chụp tay và dụng cụ, không lấy khuôn mặt HS"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1013,19 +827,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở tiết luyện tập chung về ki-lô-gam và lít, GV chiếu ảnh phóng to mặt cân đồng hồ và ca đong có vạch chia"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác chọn số đo phù hợp cho từng đồ vật và tính phép cộng, trừ có đơn vị kg, l; máy báo đúng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+     "text": "Mở bài tập tương tác chọn số đo phù hợp cho từng đồ vật."
     }
    ],
    "note": ""
@@ -1043,23 +847,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài phép cộng có nhớ số có hai chữ số với số có một chữ số"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác đặt tính rồi tính, máy báo đúng, sai ngay và chỉ ra chỗ viết lệch cột"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài tập trên màn hình do cô mở, HS chờ đến lượt được mời lên chạm"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1107,23 +895,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở bài cộng có nhớ số có hai chữ số với số có hai chữ số, GV mở bài tập tương tác đặt tính rồi tính"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá tất cả, cả hai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1189,19 +961,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở tiết luyện tập chung về phép cộng có nhớ, GV mở bộ bài tập tương tác có chấm tự động; sau mỗi câu máy báo đúng"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá tất cả, cả hai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+     "text": "Chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá tất cả, cả hai."
     }
    ],
    "note": ""
@@ -1237,19 +999,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài phép trừ có nhớ số có hai chữ số cho số có một chữ số"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV mở bài tập tương tác đặt tính rồi tính, máy báo đúng, sai ngay và chỉ chỗ sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+     "text": "Mở bài tập tương tác đặt tính."
     }
    ],
    "note": ""
@@ -1315,23 +1067,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở bài trừ có nhớ số có hai chữ số cho số có hai chữ số, GV mở bài tập tương tác đặt tính rồi tính"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá còn lại, ít hơn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1413,19 +1149,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở tiết luyện tập chung về phép trừ có nhớ, GV mở bộ bài tập tương tác có chấm tự động; sau mỗi câu máy báo đúng"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá còn lại, ít hơn"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên chạm"
+     "text": "Chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá còn lại, ít hơn."
     }
    ],
    "note": ""
@@ -1461,19 +1187,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng phần mềm hình học động: kéo một điểm cho đoạn thẳng dài ra rồi ngắn lại"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV cho HS phán đoán trước ba điểm trên màn hình có thẳng hàng không, sau đó mới bấm cho máy kẻ đường kiểm chứng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy giúp nhìn cho rõ, nhưng HS vẫn phải tự dùng thước kẻ và tự vẽ trong vở"
+     "text": "Cho HS phán đoán trước ba điểm trên màn hình có thẳng hàng không."
     }
    ],
    "note": ""
@@ -1507,23 +1223,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV kéo từng đỉnh của đường gấp khúc trên máy, số đoạn thẳng và độ dài mỗi đoạn hiện ngay bên cạnh"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu một hình vẽ có nhiều hình tứ giác lồng nhau, HS đếm rồi chỉ từng hình để GV bấm tô màu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy tô màu giúp khỏi đếm sót, nhưng khi làm bài HS vẫn phải tự đánh dấu bằng"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1559,17 +1259,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim quay cận cảnh và chiếu chậm từng nếp gấp, từng nhát cắt"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Làm xong, GV dùng điện thoại chụp sản phẩm của từng nhóm và chiếu thành một triển lãm trên màn hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ chụp sản phẩm, hạn chế lấy khuôn mặt HS vào ảnh"
+     "text": "Chiếu đoạn phim quay cận cảnh và chiếu chậm từng nếp gấp, từng nhát cắt, dừng hình ở bước khó."
     }
    ],
    "note": ""
@@ -1603,23 +1293,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng đặt tính dọc trên máy: khi cộng đủ 10 ở hàng đơn vị thì ô nhớ tự sáng lên và số 1 chạy sang"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu các phép tính đặt sai (quên nhớ, viết lệch cột) và cho HS tìm lỗi; GV bấm sửa theo lời HS"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Mô phỏng chỉ để hiểu chỗ nhớ; khi làm bài HS vẫn phải tự đặt tính thẳng cột"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1636,21 +1310,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu đồng hồ mô phỏng trên máy và kéo kim phút chạy nhanh để HS thấy kim giờ nhích theo"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim tua nhanh một ngày của bạn nhỏ, dừng ở từng việc (thức dậy, vào lớp, ăn trưa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đồng hồ trên điện thoại chỉ để xem giờ"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1696,19 +1355,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở ứng dụng lịch trên máy tính hoặc điện thoại, chiếu tháng hiện tại lên màn hình; cả lớp cùng tìm ngày hôm nay, ngày mai"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV đặt một lời nhắc trên lịch cho việc chung của lớp (nộp sản phẩm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lịch trên điện thoại chỉ để xem ngày và ghi nhớ việc"
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác về lịch."
     },
     {
      "code": "KNS",
@@ -1760,21 +1409,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở ứng dụng lịch trên máy tính hoặc điện thoại, chiếu tháng hiện tại lên màn hình; cả lớp cùng tìm ngày hôm nay, ngày mai"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV đặt một lời nhắc trên lịch cho việc chung của lớp (nộp sản phẩm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lịch trên điện thoại chỉ để xem ngày và ghi nhớ việc"
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
@@ -1818,21 +1452,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng đặt tính dọc trên máy: khi cộng đủ 10 ở hàng đơn vị thì ô nhớ tự sáng lên và số 1 chạy sang"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu các phép tính đặt sai (quên nhớ, viết lệch cột) và cho HS tìm lỗi; GV bấm sửa theo lời HS"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Mô phỏng chỉ để hiểu chỗ nhớ; khi làm bài HS vẫn phải tự đặt tính thẳng cột"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2018,17 +1637,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình động: các nhóm đồ vật bằng nhau lần lượt xuất hiện (2 quả một đĩa, 5 bông một bó)"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV bấm đổi số nhóm hoặc số vật trong mỗi nhóm; thừa số và tích trên màn hình đổi theo ngay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy viết phép nhân rất nhanh nhưng HS phải hiểu vì sao viết được như vậy"
+     "text": "Ở hoạt động Hình thành kiến thức bài “Phép nhân”, GV chiếu hình động nhóm các đồ vật thành từng nhóm bằng."
     }
    ],
    "note": ""
@@ -2062,23 +1671,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu hình động: các nhóm đồ vật bằng nhau lần lượt xuất hiện (2 quả một đĩa, 5 bông một bó)"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV bấm đổi số nhóm hoặc số vật trong mỗi nhóm; thừa số và tích trên màn hình đổi theo ngay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy viết phép nhân rất nhanh nhưng HS phải hiểu vì sao viết được như vậy"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2111,21 +1704,6 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng 100 và bấm tô màu các số đếm thêm 2, đếm thêm 5; HS nhìn thấy các số trong bảng nhân nằm thành hàng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV dùng bảng nhân tương tác: che một ô bất kì cho HS đoán kết quả rồi mở ra kiểm tra"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Thuộc bảng nhân là việc HS phải tự làm bằng trí nhớ: trò chơi trên máy chỉ để"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2165,19 +1743,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng 100 và bấm tô màu các số đếm thêm 2, đếm thêm 5; HS nhìn thấy các số trong bảng nhân nằm thành hàng"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV dùng bảng nhân tương tác: che một ô bất kì cho HS đoán kết quả rồi mở ra kiểm tra"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Thuộc bảng nhân là việc HS phải tự làm bằng trí nhớ: trò chơi trên máy chỉ để"
+     "text": "Ở hoạt động Luyện tập, GV mở trò chơi tương tác luyện bảng nhân 5."
     },
     {
      "code": "KNS",
@@ -2216,23 +1784,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng chia đều: một số đồ vật tự chạy vào các rổ"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV bấm đổi số đồ vật hoặc số rổ, HS gọi tên số bị chia, số chia"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Mô phỏng chia đồ vật giúp HS hiểu nghĩa của phép chia"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2268,17 +1820,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng chia đều: một số đồ vật tự chạy vào các rổ"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV bấm đổi số đồ vật hoặc số rổ, HS gọi tên số bị chia, số chia"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Mô phỏng chia đồ vật giúp HS hiểu nghĩa của phép chia"
+     "text": "Chiếu mô phỏng chia đều: một số đồ vật tự chạy vào các rổ."
     }
    ],
    "note": ""
@@ -2313,21 +1855,6 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng nhân và bảng chia đặt cạnh nhau trên máy: bấm vào một phép nhân thì hai phép chia tương ứng cùng sáng lên"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu trò chơi ghép ba số thành một gia đình phép tính (hai phép nhân và hai phép chia); HS nêu cách ghép"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trò chơi giúp luyện nhanh nhưng HS phải tự thuộc bảng chia bằng trí nhớ"
-    },
     {
      "code": "STEM",
      "level": "",
@@ -2371,21 +1898,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng nhân và bảng chia đặt cạnh nhau trên máy: bấm vào một phép nhân thì hai phép chia tương ứng cùng sáng lên"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu trò chơi ghép ba số thành một gia đình phép tính (hai phép nhân và hai phép chia); HS nêu cách ghép"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trò chơi giúp luyện nhanh nhưng HS phải tự thuộc bảng chia bằng trí nhớ"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2433,17 +1945,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu trò chơi luyện bảng nhân, bảng chia có tính giờ: mỗi phép tính hiện lên trong ít giây, HS nêu kết quả"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng nhân, bảng chia đầy đủ và tô màu những phép mà lớp còn hay nhầm sau vòng chơi; HS nhìn bảng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trò chơi chỉ để luyện cho nhanh, việc thuộc bảng nhân bảng chia vẫn phải bằng trí nhớ"
+     "text": "Chiếu trò chơi luyện bảng nhân, bảng chia."
     }
    ],
    "note": ""
@@ -2529,17 +2031,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô hình ba chiều khối trụ, khối cầu trên máy, xoay đủ mọi phía và bổ đôi khối để HS nhìn thấy mặt cắt"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS xếp công trình từ các khối, GV chụp ảnh từng công trình rồi ghép thành bức tranh thành phố hình học của lớp chiếu lên màn hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ chụp công trình, không chụp mặt HS khi chưa hỏi ý kiến"
+     "text": "Chiếu mô hình ba chiều khối trụ, khối cầu trên máy, xoay đủ mọi phía."
     },
     {
      "code": "STEM",
@@ -2602,19 +2094,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng bộ khối lập phương ảo trên máy: một khối nhỏ là đơn vị, một thanh là chục, một tấm là trăm; khi gộp đủ 10 tấm"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV kéo thêm hoặc bớt các tấm trăm, thanh chục để số trên màn hình đổi theo; HS đọc số vừa hiện rồi sắp các số tròn trăm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy đổi mười chục thành một trăm rất nhanh"
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện nhóm khối ô vuông, HS chọn số tương ứng rồi bấm kiểm tra."
     }
    ],
    "note": ""
@@ -2648,23 +2130,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng bộ khối lập phương ảo trên máy: một khối nhỏ là đơn vị, một thanh là chục, một tấm là trăm; khi gộp đủ 10 tấm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV kéo thêm hoặc bớt các tấm trăm, thanh chục để số trên màn hình đổi theo; HS đọc số vừa hiện rồi sắp các số tròn trăm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy đổi mười chục thành một trăm rất nhanh"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2696,23 +2162,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dùng bộ khối lập phương ảo trên máy: một khối nhỏ là đơn vị, một thanh là chục, một tấm là trăm; khi gộp đủ 10 tấm"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV kéo thêm hoặc bớt các tấm trăm, thanh chục để số trên màn hình đổi theo; HS đọc số vừa hiện rồi sắp các số tròn trăm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy đổi mười chục thành một trăm rất nhanh"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2746,19 +2196,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu trò chơi so sánh hai số có ba chữ số: HS chọn dấu lớn hơn, bé hơn, bằng nhau"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV đặt hai số cần so sánh lên tia số phóng to trên màn hình; HS nhìn thấy số nào đứng trước"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy báo sai thì sửa lại, không ai bị chê cười"
+     "text": "Ở hoạt động Hình thành kiến thức bài “Số có ba chữ số”, GV chiếu bảng hàng trăm, chục."
     },
     {
      "code": "STEM",
@@ -2813,23 +2253,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng ba cột trăm - chục - đơn vị trên máy: gõ một chữ số vào cột nào thì giá trị của chữ số đó hiện"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV bấm nút tách số: số có ba chữ số trên màn hình tự tách thành tổng các trăm, chục, đơn vị rồi gộp lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy tách số giúp nhìn cho rõ, nhưng khi làm bài HS phải tự viết được số thành"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2865,17 +2289,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu trò chơi so sánh hai số có ba chữ số: HS chọn dấu lớn hơn, bé hơn, bằng nhau"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV đặt hai số cần so sánh lên tia số phóng to trên màn hình; HS nhìn thấy số nào đứng trước"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy báo sai thì sửa lại, không ai bị chê cười"
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác điền dấu: máy hiện cặp số, HS chọn dấu lớn hơn."
     },
     {
      "code": "STEM",
@@ -2914,23 +2328,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bài tập tương tác đặt tính theo cột với số có ba chữ số: HS nêu chữ số cho từng hàng, GV gõ vào"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước khi tính, GV cho HS ước lượng kết quả bằng cách làm tròn trăm rồi mới cho máy hiện kết quả đúng; HS đối chiếu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhấn mạnh: ước lượng trước - tính sau là cách tự kiểm tra bài của chính mình"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2966,17 +2364,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu thước ảo phóng to rồi kéo dần từ 1 đề-xi-mét ra 1 mét ngay trên màn hình để HS thấy quan hệ giữa hai đơn vị"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản đồ số, dùng công cụ đo quãng đường từ trường tới một địa điểm quen thuộc trong xã, phường"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản đồ số đo quãng đường rất nhanh nhưng người đi vẫn phải quan sát bằng mắt"
+     "text": "Ở hoạt động Khám phá bài “Đề-xi-mét. Mét. Ki-lô-mét”, GV chiếu hình thước một đề-xi-mét đặt cạnh thước xăng-ti-mét."
     },
     {
      "code": "KNS",
@@ -3033,21 +2421,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh phóng to các tờ tiền Việt Nam, chỉ vào số ghi mệnh giá và dòng chữ trên tờ tiền để HS đọc đúng giá trị"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bài toán mua hàng có hình các tờ tiền; HS chọn tổ hợp tờ tiền phải trả và số tiền được trả lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhấn mạnh: tiền mặt hay tiền trên màn hình điện thoại đều là tiền của gia đình"
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
@@ -3069,21 +2442,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu thước ảo phóng to rồi kéo dần từ 1 đề-xi-mét ra 1 mét ngay trên màn hình để HS thấy quan hệ giữa hai đơn vị"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản đồ số, dùng công cụ đo quãng đường từ trường tới một địa điểm quen thuộc trong xã, phường"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bản đồ số đo quãng đường rất nhanh nhưng người đi vẫn phải quan sát bằng mắt"
-    },
     {
      "code": "STEM",
      "level": "",
@@ -3125,17 +2483,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bài tập tương tác đặt tính theo cột với số có ba chữ số: HS nêu chữ số cho từng hàng, GV gõ vào"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước khi tính, GV cho HS ước lượng kết quả bằng cách làm tròn trăm rồi mới cho máy hiện kết quả đúng; HS đối chiếu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhấn mạnh: ước lượng trước - tính sau là cách tự kiểm tra bài của chính mình"
+     "text": "Ở phần luyện tập, GV mở bài tập tương tác đổi đơn vị."
     }
    ],
    "note": ""
@@ -3201,7 +2549,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Khám phá bài “Phép cộng có nhớ trong phạm vi 1 000”."
+    }
+   ],
    "note": ""
   },
   {
@@ -3297,7 +2651,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác."
+    }
+   ],
    "note": ""
   },
   {
@@ -3363,19 +2723,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bài tập tương tác đặt tính theo cột với số có ba chữ số: HS nêu chữ số cho từng hàng, GV gõ vào"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trước khi tính, GV cho HS ước lượng kết quả bằng cách làm tròn trăm rồi mới cho máy hiện kết quả đúng; HS đối chiếu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhấn mạnh: ước lượng trước - tính sau là cách tự kiểm tra bài của chính mình"
+     "text": "Trước khi tính, GV cho HS ước lượng kết quả bằng cách làm tròn trăm."
     }
    ],
    "note": ""
@@ -3409,23 +2759,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV cùng HS kiểm đếm số liệu thật của lớp (số bạn thích mỗi loại quả"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV sửa thử một số liệu trong bảng, biểu đồ tranh trên màn hình đổi theo ngay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu thu thập trong lớp là chuyện riêng của các bạn: chỉ ghi con số"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3441,23 +2775,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV cùng HS kiểm đếm số liệu thật của lớp (số bạn thích mỗi loại quả"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV sửa thử một số liệu trong bảng, biểu đồ tranh trên màn hình đổi theo ngay"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu thu thập trong lớp là chuyện riêng của các bạn: chỉ ghi con số"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3493,17 +2811,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV dùng công cụ mô phỏng trên máy quay vòng xoay hoặc tung đồng xu hàng chục lần chỉ trong ít phút"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng kết quả vừa chạy được, HS đọc bảng và dùng đúng các từ chắc chắn, có thể, không thể để nói về từng khả năng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy quay hộ hàng chục lượt trong vài phút, nhưng HS vẫn phải tự quay"
+     "text": "Dùng công cụ mô phỏng trên máy quay vòng xoay hoặc tung đồng xu hàng chục lần chỉ trong ít phút, máy."
     },
     {
      "code": "STEM",
@@ -4090,8 +3398,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Toan - Lop 2.docx",
   "name": "Toan - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 52466,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 47840,
+  "updated": "2026-09-08"
  }
 }

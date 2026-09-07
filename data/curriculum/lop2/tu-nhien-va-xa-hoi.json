@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 105
+  "integrations": 56
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV chiếu sơ đồ thế hệ dựng sẵn trên máy cho bài “Các thế hệ trong gia đình”; HS đọc tên ông bà, bố mẹ"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu hình 1 trang 6 SGK về gia đình bạn Hoa, kéo thêm hoặc bớt một tầng trên sơ đồ để HS thấy gia đình hai thế"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh gia đình là chuyện riêng của mỗi nhà: GV chỉ chụp lại khi HS và gia đình"
+     "text": "Chiếu sơ đồ thế hệ dựng sẵn trên máy cho bài “Các thế hệ trong gia đình”."
     },
     {
      "code": "KNS",
@@ -87,17 +77,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh và đoạn phim ngắn về những nghề của bài “Nghề nghiệp của người lớn trong gia đình”: ngư dân, bộ đội hải quân"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Trong trò chơi Phóng viên nhỏ tuổi, GV mời một phụ huynh làm nghề có trong bài trò chuyện với lớp qua cuộc gọi có hình hoặc chiếu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV xin phép phụ huynh trước khi gọi hoặc chiếu đoạn ghi hình, không ghi lại cuộc gọi"
+     "text": "Chiếu bộ ảnh và đoạn phim ngắn về những nghề của bài “Nghề nghiệp của người lớn trong gia đình”."
     },
     {
      "code": "STEM",
@@ -143,19 +123,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Phòng tránh ngộ độc khi ở nhà”, GV chiếu phóng to hình bác sĩ trao đổi với các bạn nhỏ trong sách"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu lần lượt các tình huống trong nhà và cho HS chọn nhanh trên màn hình: thứ nào trẻ em được cầm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Lớp chỉ xem ảnh trên màn hình, tuyệt đối không mang thuốc, hoá chất thật vào lớp"
+     "text": "Chiếu lần lượt các tình huống trong nhà và cho HS chọn nhanh trên màn hình."
     },
     {
      "code": "QPAN",
@@ -198,17 +168,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Giữ sạch nhà ở”, GV chiếu phóng to tranh trong sách và thêm cặp ảnh một góc bếp"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim ngắn về rô-bốt hút bụi đang chạy trong nhà và giải thích máy tự đi được là nhờ có trí tuệ nhân tạo"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chỉ xem phim, không tự bật hay chạm vào máy móc trong nhà"
+     "text": "Ở hoạt động Khám phá bài “Giữ sạch nhà ở”, GV chiếu phóng to tranh trong sách."
     },
     {
      "code": "STEM",
@@ -302,19 +262,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Chào đón ngày khai giảng”, GV chiếu ảnh và clip ngắn lễ khai giảng của chính trường mình do nhà trường cung cấp"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV gõ lên màn hình những việc HS kể được thành bảng chung theo thứ tự diễn ra trong buổi lễ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng ảnh, clip nhà trường cho phép"
+     "text": "Gõ lên màn hình những việc HS kể được thành bảng chung theo thứ tự diễn ra trong buổi lễ."
     },
     {
      "code": "QPAN",
@@ -357,17 +307,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video/hình ảnh thực tế về “Ngày hội đọc sách của chúng em - tiết 1” từ nguồn đã kiểm duyệt để HS quan sát hiện tượng"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV thao tác mẫu việc tra cứu hình ảnh/thông tin về “Ngày hội đọc sách của chúng em - tiết 1”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn sẵn nguồn học liệu; HS không tự truy cập Internet"
+     "text": "Chiếu video/hình ảnh thực tế về “Ngày hội đọc sách của chúng em - tiết 1” từ nguồn đã kiểm duyệt."
     }
    ],
    "note": ""
@@ -405,17 +345,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim ngắn quay các tình huống thật ở sân trường, cầu thang, hành lang rồi dừng hình đúng lúc nguy hiểm"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu sơ đồ trường học vẽ trên máy, bấm tô màu những chỗ dễ xảy ra tai nạn (bậc thang, sân ướt"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chiếu và cho HS đọc to số 114 chữa cháy"
+     "text": "Chiếu đoạn phim ngắn quay các tình huống thật ở sân trường, cầu thang, hành lang."
     },
     {
      "code": "QPAN",
@@ -458,17 +388,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Ở bài “Giữ vệ sinh trường học”, GV chiếu ảnh hoặc clip ngắn sân trường sau một buổi hoạt động tập thể và ảnh sân trường sau khi"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu các tình huống ở trường rồi cho HS chọn cách xử lí như bỏ vỏ sữa vào thùng rác, nhắc bạn không vứt giấy ra sân"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Khi nhặt rác, HS đeo găng tay, chỉ nhặt giấy, vỏ hộp"
+     "text": "Ở bài “Giữ vệ sinh trường học”, GV chiếu ảnh hoặc clip ngắn sân trường sau một buổi hoạt động tập thể."
     },
     {
      "code": "QPAN",
@@ -568,19 +488,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp thật một số nơi mua bán quen thuộc (chợ, siêu thị"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phóng to nhãn hàng hoá để HS đọc tên hàng, giá tiền, hạn sử dụng, mã vạch"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhắc HS: hàng bán trên mạng có ảnh rất đẹp nhưng không phải lúc nào cũng giống"
+     "text": "Chiếu phóng to nhãn hàng hoá."
     },
     {
      "code": "QPAN",
@@ -623,17 +533,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video/hình ảnh thực tế về “Thực hành mua bán hàng hóa” từ nguồn đã kiểm duyệt để HS quan sát hiện tượng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV thao tác mẫu việc tra cứu hình ảnh/thông tin về “Thực hành mua bán hàng hóa”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn sẵn nguồn học liệu; HS không tự truy cập Internet"
+     "text": "Chiếu video/hình ảnh thực tế về “Thực hành mua bán hàng hóa” từ nguồn đã kiểm duyệt."
     }
    ],
    "note": ""
@@ -653,21 +553,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh và phim ngắn về các loại đường và phương tiện giao thông ở nơi HS chưa từng tới: đường sắt, đường thuỷ"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản đồ số, phóng to xã, phường mình rồi chuyển sang chế độ ảnh đường phố để HS nhận ra các loại đường có ở địa"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhắc HS: bản đồ và ảnh đường phố trên máy là để học"
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Các loại đường và phương tiện giao thông (TNXH – Mĩ thuật) — dạy thay cho tiết này."
@@ -676,6 +561,16 @@
      "code": "QPAN",
      "level": "",
      "text": "Liên hệ công việc giữ gìn an ninh, trật tự, cứu hộ – cứu nạn của bộ đội, công an; nhắc HS chấp hành quy định an toàn."
+    },
+    {
+     "code": "ATGT",
+     "level": "",
+     "text": ""
+    },
+    {
+     "code": "ATGT",
+     "level": "",
+     "text": "nhận biết một số biển báo và phương tiện giao thông quen thuộc; nêu việc cần làm để đi lại an toàn ở nơi mình sống."
     }
    ],
    "note": ""
@@ -713,17 +608,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản đồ số kèm ảnh đường phố, cùng HS đi theo đường từ trường về nhà một vài bạn ngay trên màn hình và chỉ ra"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim quay cảnh tham gia giao thông thật, dừng hình đúng lúc nguy hiểm và hỏi bạn nhỏ trong phim làm vậy đúng hay sai"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhắc HS: bản đồ trên máy chỉ đường nhưng người đi vẫn phải quan sát bằng mắt"
+     "text": "Mở bản đồ số kèm ảnh đường phố."
     },
     {
      "code": "QPAN",
@@ -812,19 +697,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu phim tài liệu ngắn về cây cối sống ở những nơi rất khác nhau: cây xương rồng giữa sa mạc, cây sen dưới ao"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu trò chơi kéo mỗi cây về đúng nơi sống của nó (trên cạn, dưới nước) trên máy; HS nêu phương án"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nói rõ đoạn phim lấy từ nguồn nào và nhắc HS trên mạng có nhiều ảnh cây"
+     "text": "Chiếu trò chơi kéo mỗi cây về đúng nơi sống của nó (trên cạn, dưới nước) trên máy."
     }
    ],
    "note": ""
@@ -862,22 +737,12 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phim quay động vật ở đúng nơi sống của chúng: cá dưới biển sâu, chim trên vách núi, giun trong đất, lạc đà giữa sa mạc"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở phần bài học"
+     "text": "Chiếu phim quay động vật ở đúng nơi sống của chúng."
     },
     {
      "code": "STEM",
      "level": "",
-     "text": "HS làm mô hình nơi sống của một con vật"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV kiểm tra trước nội dung phim để tránh cảnh săn mồi gây sợ hãi cho HS lớp"
+     "text": "Nơi sống của động vật (TNXH – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -921,17 +786,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu cặp ảnh chụp cùng một khu rừng, một dòng sông lúc còn xanh tốt và lúc bị chặt phá, bị đổ rác; HS quan sát"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV cùng HS làm một tấm áp phích trên máy bằng ảnh và các khẩu hiệu do chính các em nghĩ ra"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh dùng làm áp phích phải là ảnh cảnh vật lấy từ nguồn rõ ràng"
+     "text": "Chiếu cặp ảnh chụp cùng một khu rừng, một dòng sông lúc còn xanh tốt và lúc bị chặt phá, bị đổ rác."
     },
     {
      "code": "KNS",
@@ -990,17 +845,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video/hình ảnh thực tế về “Thực vật và động vật quanh em” từ nguồn đã kiểm duyệt để HS quan sát hiện tượng"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV thao tác mẫu việc tra cứu hình ảnh/thông tin về “Thực vật và động vật quanh em”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn sẵn nguồn học liệu; HS không tự truy cập Internet"
+     "text": "Chiếu video/hình ảnh thực tế về “Thực vật và động vật quanh em” từ nguồn đã kiểm duyệt."
     }
    ],
    "note": ""
@@ -1100,19 +945,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô hình cơ thể người ba chiều trên máy, xoay và bóc từng lớp cho HS nhìn thấy xương, cơ, khớp nằm ở đâu"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV dùng sơ đồ tương tác: HS nêu tên bộ phận, GV bấm thì bộ phận đó sáng lên trên mô hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn hình ảnh cơ thể người phù hợp lứa tuổi"
+     "text": "Dùng sơ đồ tương tác: HS nêu tên bộ phận, GV bấm thì bộ phận đó sáng lên trên mô hình."
     },
     {
      "code": "STEM",
@@ -1160,17 +995,7 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video/hình ảnh thực tế về “Chăm sóc, bảo vệ cơ quan vận động” từ nguồn đã kiểm duyệt để HS quan sát hiện tượng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "GV thao tác mẫu việc tra cứu hình ảnh/thông tin về “Chăm sóc, bảo vệ cơ quan vận động”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn sẵn nguồn học liệu; HS không tự truy cập Internet"
+     "text": "Chiếu video/hình ảnh thực tế về “Chăm sóc, bảo vệ cơ quan vận động” từ nguồn đã kiểm duyệt."
     },
     {
      "code": "QPAN",
@@ -1213,17 +1038,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô hình ba chiều lồng ngực và bật hình động cho hai lá phổi phồng lên - xẹp xuống theo nhịp thở"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng không khí sạch và không khí có khói bụi đi vào phổi để HS thấy vì sao phải tránh khói thuốc, khói bếp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn hình ảnh phù hợp lứa tuổi từ tài liệu học tập chính thức"
+     "text": "Chiếu mô hình ba chiều lồng ngực và bật hình động cho hai lá phổi phồng lên."
     },
     {
      "code": "QPAN",
@@ -1266,17 +1081,7 @@
     {
      "code": "NLS-AT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video/hình ảnh thực tế về “Chăm sóc, bảo vệ cơ quan hô hấp” từ nguồn đã kiểm duyệt để HS quan sát hiện tượng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "GV thao tác mẫu việc tra cứu hình ảnh/thông tin về “Chăm sóc, bảo vệ cơ quan hô hấp”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn sẵn nguồn học liệu; HS không tự truy cập Internet"
+     "text": "Chiếu video/hình ảnh thực tế về “Chăm sóc, bảo vệ cơ quan hô hấp” từ nguồn đã kiểm duyệt."
     },
     {
      "code": "STEM",
@@ -1324,17 +1129,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô hình ba chiều cơ quan bài tiết nước tiểu, xoay để HS nhìn thấy hai quả thận nằm ở đâu trong cơ thể và bật"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV dùng sơ đồ tương tác: HS nêu tên bộ phận, GV bấm cho bộ phận đó sáng lên và hiện dòng chữ nói bộ phận ấy làm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV dùng hình vẽ, mô hình học tập chính thức của lứa tuổi tiểu học"
+     "text": "Chiếu mô hình ba chiều cơ quan bài tiết nước tiểu, xoay."
     },
     {
      "code": "QPAN",
@@ -1377,17 +1172,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video/hình ảnh thực tế về “Chăm sóc, bảo vệ cơ quan bài tiết nước tiểu” từ nguồn đã kiểm duyệt để HS quan sát hiện tượng"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV thao tác mẫu việc tra cứu hình ảnh/thông tin về “Chăm sóc, bảo vệ cơ quan bài tiết nước tiểu”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn sẵn nguồn học liệu; HS không tự truy cập Internet"
+     "text": "Chiếu video/hình ảnh thực tế về “Chăm sóc, bảo vệ cơ quan bài tiết nước tiểu” từ nguồn đã kiểm duyệt."
     },
     {
      "code": "QPAN",
@@ -1484,17 +1269,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phim tua nhanh cảnh một khu vườn, một cánh đồng đổi thay qua bốn mùa chỉ trong vài chục giây — điều mà cả năm quan"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV mở bản tin dự báo thời tiết trên máy, chiếu nhiệt độ và biểu tượng nắng - mưa của địa phương mình trong tuần"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV nhắc HS chỉ tin bản tin thời tiết của cơ quan nhà nước và đài truyền hình"
+     "text": "Chiếu phim tua nhanh cảnh một khu vườn, một cánh đồng đổi thay qua bốn mùa chỉ trong vài chục giây."
     },
     {
      "code": "STEM",
@@ -1535,19 +1310,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu phim tư liệu ngắn về bão, lũ, hạn hán, giông sét để HS thấy sức mạnh của thiên tai mà lời kể không tả hết"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu một bản tin cảnh báo thiên tai thật, chỉ cho HS thấy người ta báo trước bao lâu và khuyên làm những gì"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn đoạn phim vừa sức, tránh cảnh thương vong gây ám ảnh"
+     "text": "Chiếu một bản tin cảnh báo thiên tai thật, chỉ cho HS thấy người ta báo trước bao lâu."
     },
     {
      "code": "QPAN",
@@ -1590,17 +1355,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video/hình ảnh thực tế về “Luyện tập ứng phó với thiên tai” từ nguồn đã kiểm duyệt để HS quan sát hiện tượng"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV thao tác mẫu việc tra cứu hình ảnh/thông tin về “Luyện tập ứng phó với thiên tai”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn sẵn nguồn học liệu; HS không tự truy cập Internet"
+     "text": "Chiếu video/hình ảnh thực tế về “Luyện tập ứng phó với thiên tai” từ nguồn đã kiểm duyệt."
     },
     {
      "code": "QPAN",
@@ -1963,8 +1718,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Tu nhien va Xa hoi - Lop 2.docx",
   "name": "Tu nhien va Xa hoi - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47102,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 44838,
+  "updated": "2026-09-08"
  }
 }

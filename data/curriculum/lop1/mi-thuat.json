@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 32
+  "integrations": 14
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh chụp sản phẩm mĩ thuật có thật trong trường gắn với bài “Mĩ thuật trong nhà trường”: tranh vẽ của HS trên bảng tin"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV mời từng HS lên chỉ tay vào một sản phẩm trên màn hình và nói trước lớp “Em thấy sản phẩm này đẹp vì…”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chụp trong trường chỉ dùng để học, GV giữ trong máy của mình, không đưa lên mạng"
+     "text": "Chiếu bộ ảnh chụp sản phẩm mĩ thuật có thật trong trường gắn với bài “Mĩ thuật trong nhà trường”."
     }
    ],
    "note": ""
@@ -64,19 +54,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh phóng to một bức tranh chấm màu và một tấm vải hoa văn chấm"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "GV gõ vào một công cụ vẽ bằng trí tuệ nhân tạo câu “bông hoa vẽ bằng các chấm màu” cho cả lớp cùng xem máy vẽ ra"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ cô giáo gõ chữ và bấm máy, các em ngồi xem"
+     "level": "Nhận biết",
+     "text": "Gõ vào một công cụ vẽ bằng trí tuệ nhân tạo câu “bông hoa vẽ bằng các chấm màu” cho cả lớp."
     }
    ],
    "note": ""
@@ -146,17 +126,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu hình động vẽ lần lượt từng loại nét: nét thẳng, nét cong, nét gấp khúc, nét xoáy ốc"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dừng hình động ở giữa chừng, hỏi HS đoán nét đang được vẽ là nét gì rồi cho chạy tiếp để cả lớp cùng kiểm tra."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV điều khiển hình động, HS ngồi tại chỗ quan sát"
+     "text": "Chiếu hình động vẽ lần lượt từng loại nét."
     }
    ],
    "note": ""
@@ -210,17 +180,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh đồ vật quen thuộc rồi dùng công cụ vẽ đè chồng hình tròn, hình vuông"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu tiếp một loạt ảnh và cho HS thi gọi nhanh tên hình cơ bản có trong mỗi đồ vật."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV thao tác trên máy, HS ngồi tại chỗ trả lời; khi thi đua chỉ giơ tay"
+     "text": "Chiếu ảnh đồ vật quen thuộc."
     }
    ],
    "note": ""
@@ -290,17 +250,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô phỏng pha màu: kéo giọt màu đỏ chồng lên giọt màu vàng, màu cam hiện ra ngay trên màn hình"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV kéo thêm ít hoặc nhiều màu để HS thấy tỉ lệ khác nhau thì cho ra màu cam đậm hay cam nhạt."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV thao tác trên máy; sau khi xem mô phỏng"
+     "text": "Chiếu mô phỏng pha màu: kéo giọt màu đỏ chồng lên giọt màu vàng, màu cam hiện ra ngay trên màn hình."
     }
    ],
    "note": ""
@@ -370,17 +320,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu mô hình khối lập phương, khối cầu, khối trụ dạng ba chiều và xoay chậm để HS thấy mặt trước, mặt bên"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dừng ở một góc xoay và hỏi HS đoán đó là khối gì, sau đó xoay tiếp cho cả lớp kiểm tra."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV điều khiển việc xoay hình; sau khi xem, HS cầm khối gỗ"
+     "text": "Chiếu mô hình khối lập phương, khối cầu, khối trụ dạng ba chiều."
     }
    ],
    "note": ""
@@ -466,17 +406,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp cận cảnh các loại quả nguyên và quả bổ đôi, phóng to để HS thấy rõ vỏ nhẵn hay sần"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS kể tên loại quả có ở quê mình rồi tìm đúng quả đó trong bộ ảnh trên màn hình."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn sẵn ảnh trước giờ học và chỉ mở đúng tập ảnh đó"
+     "text": "Chiếu ảnh chụp cận cảnh các loại quả nguyên và quả bổ đôi, phóng to."
     }
    ],
    "note": ""
@@ -546,17 +476,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bộ tranh chân dung và tranh gia đình đã chuẩn bị sẵn, phóng to phần khuôn mặt để HS thấy người vẽ đã tả mái tóc"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS nhớ lại và tả bằng lời một nét riêng của người thân mình như tóc bạc, đeo kính, có râu, trước khi bắt tay vào vẽ."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chỉ dùng tranh, ảnh đã chuẩn bị sẵn"
+     "text": "Chiếu bộ tranh chân dung và tranh gia đình đã chuẩn bị sẵn, phóng to phần khuôn mặt."
     },
     {
      "code": "QPAN",
@@ -649,17 +569,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu đoạn phim ngắn quay lại một buổi ra chơi, buổi chào cờ, giờ học của chính lớp mình"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV dừng phim ở một cảnh và cùng HS đếm trong cảnh đó có mấy bạn, các bạn đang làm gì, sân trường có những gì."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Phim do GV quay và giữ trong máy của lớp, không đưa lên mạng"
+     "text": "Chiếu đoạn phim ngắn quay lại một buổi ra chơi, buổi chào cờ, giờ học của chính lớp mình."
     }
    ],
    "note": ""
@@ -1023,8 +933,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Mi thuat - Lop 1.docx",
   "name": "Mi thuat - Lop 1.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43190,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 42200,
+  "updated": "2026-09-08"
  }
 }

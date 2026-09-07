@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-07"
+  "importedAt": "2026-09-08"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 96
+  "integrations": 54
  },
  "lessons": [
   {
@@ -34,17 +34,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Khi dạy “Làm quen với phương tiện học tập môn Lịch sử và Địa lí”"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 4.A3.1",
-     "text": "GV dùng công cụ AI tạo một hình vẽ minh hoạ bản đồ và đặt cạnh ảnh bản đồ thật trong SGK"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng bản đồ do Nhà nước Việt Nam ban hành hoặc nguồn GV chỉ định — một"
+     "text": "Khi dạy “Làm quen với phương tiện học tập môn Lịch sử và Địa lí”, GV chiếu hình 1 SGK."
     }
    ],
    "note": ""
@@ -80,19 +70,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV mở bản đồ hành chính Việt Nam dạng số trên máy chiếu, HS lên chỉ vị trí tỉnh Nghệ An, đọc tên tỉnh và nước tiếp giáp"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Nhóm 4 hoàn thành bảng thông tin về tỉnh tiếp giáp, các mùa trong năm, loại đường giao thông ở Nghệ An trên bảng nhóm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Xin phép trước khi ghi âm, chụp ảnh người khác và nói rõ dùng cho bài học"
+     "text": "Nhóm 4 hoàn thành bảng thông tin về tỉnh tiếp giáp, các mùa trong năm."
     }
    ],
    "note": ""
@@ -130,17 +110,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Ở bài “Lịch sử và văn hoá truyền thống địa phương em”, HS dùng bản đồ số do GV mở để tìm vị trí xã mình"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Khi giới thiệu trang phục, món ăn, lễ hội của địa phương, GV gõ ý kiến từng nhóm vào bảng chiếu trên màn hình theo ba cột"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chỉ dùng bản đồ, ảnh do thầy cô mở và nói rõ nguồn tư liệu"
+     "text": "Ở bài “Lịch sử và văn hoá truyền thống địa phương em”, HS dùng bản đồ số do GV mở."
     },
     {
      "code": "KNS",
@@ -181,19 +151,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV dùng bản đồ số có nhiều lớp để dạy “Thiên nhiên vùng Trung du và miền núi phía Bắc”: bật lớp địa hình xem đồi núi và"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tra bảng số liệu nhiệt độ, lượng mưa của vùng từ nguồn chính thống"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng bản đồ do Nhà nước Việt Nam ban hành"
+     "text": "HS tra bảng số liệu nhiệt độ, lượng mưa của vùng từ nguồn chính thống, nhập vào bảng tính."
     },
     {
      "code": "QPAN",
@@ -252,17 +212,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tra số liệu dân số, mật độ dân cư của vùng trong bài “Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu phim ngắn về hoạt động sản xuất tiêu biểu của vùng (trồng chè, khai thác khoáng sản, đánh bắt và nuôi trồng thuỷ sản, làm muối)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu dân cư, sản xuất phải lấy từ cơ quan nhà nước và ghi rõ năm công"
+     "text": "HS tra số liệu dân số."
     },
     {
      "code": "QPAN",
@@ -319,19 +269,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu phim tư liệu về “Một số lễ hội của đồng bào dân tộc ít người ở tỉnh Nghệ An” do đài truyền hình"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu có ảnh và chú thích"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về lễ hội phải lấy từ nguồn chính thống và ghi rõ nguồn"
+     "text": "HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu."
     }
    ],
    "note": ""
@@ -369,17 +309,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu phim tư liệu về “Giỗ tổ Hùng Vương – lễ hội Đền Cuông” do đài truyền hình, cơ quan văn hoá công bố: phần lễ"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu có ảnh và chú thích"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về lễ hội phải lấy từ nguồn chính thống và ghi rõ nguồn"
+     "text": "Chiếu phim tư liệu về “Giỗ tổ Hùng Vương – lễ hội Đền Cuông” do đài truyền hình, cơ quan văn hoá công bố."
     }
    ],
    "note": ""
@@ -447,19 +377,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV dùng bản đồ số có nhiều lớp để dạy “Thiên nhiên vùng đồng bằng Bắc Bộ”: bật lớp địa hình xem đồi núi và đồng bằng"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tra bảng số liệu nhiệt độ, lượng mưa của vùng từ nguồn chính thống"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng bản đồ do Nhà nước Việt Nam ban hành"
+     "text": "HS tra bảng số liệu nhiệt độ, lượng mưa của vùng từ nguồn chính thống, nhập vào bảng tính."
     }
    ],
    "note": ""
@@ -524,17 +444,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tra số liệu dân số, mật độ dân cư của vùng trong bài “Dân cư và hoạt động sản xuất ở vùng đồng bằng Bắc Bộ” từ"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu phim ngắn về hoạt động sản xuất tiêu biểu của vùng (trồng chè, khai thác khoáng sản, đánh bắt và nuôi trồng thuỷ sản, làm muối)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu dân cư, sản xuất phải lấy từ cơ quan nhà nước và ghi rõ năm công"
+     "text": "HS tra số liệu dân số, mật độ dân cư của vùng trong bài “Dân cư và hoạt động sản xuất ở vùng đồng bằng Bắc Bộ”."
     }
    ],
    "note": ""
@@ -592,19 +502,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu phim tư liệu về “Một số nét văn hóa ở vùng đồng bằng Bắc Bộ” do đài truyền hình"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu có ảnh và chú thích"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về lễ hội phải lấy từ nguồn chính thống và ghi rõ nguồn"
+     "text": "HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu."
     }
    ],
    "note": ""
@@ -648,17 +548,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV cho HS tham quan “Sông Hồng và văn minh Sông Hồng” qua bảo tàng số, ảnh 360 độ hoặc phim tư liệu: HS xoay"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung dựa trên mô tả"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng tư liệu từ bảo tàng, khu di tích, cơ quan lưu trữ và ghi rõ nguồn"
+     "text": "Cho HS tham quan “Sông Hồng và văn minh Sông Hồng” qua bảo tàng số, ảnh 360 độ."
     }
    ],
    "note": ""
@@ -705,19 +595,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS tham quan “Thăng Long – Hà Nội” qua bảo tàng số, ảnh 360 độ hoặc phim tư liệu: HS xoay"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung dựa trên mô tả"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng tư liệu từ bảo tàng, khu di tích, cơ quan lưu trữ và ghi rõ nguồn"
+     "level": "Nhận biết",
+     "text": "Cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung."
     },
     {
      "code": "QPAN",
@@ -782,17 +662,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV cho HS tham quan “Văn Miếu - Quốc Tử Giám” qua bảo tàng số, ảnh 360 độ hoặc phim tư liệu: HS xoay"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung dựa trên mô tả"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng tư liệu từ bảo tàng, khu di tích, cơ quan lưu trữ và ghi rõ nguồn"
+     "text": "Cho HS tham quan “Văn Miếu - Quốc Tử Giám” qua bảo tàng số, ảnh 360 độ."
     }
    ],
    "note": ""
@@ -964,17 +834,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tra số liệu dân số, mật độ dân cư của vùng trong bài “Dân cư,hoạt động sản xuất và một số nét văn hóa ở vùng Bắc"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu phim ngắn về hoạt động sản xuất tiêu biểu của vùng (trồng chè, khai thác khoáng sản, đánh bắt và nuôi trồng thuỷ sản, làm muối)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu dân cư, sản xuất phải lấy từ cơ quan nhà nước và ghi rõ năm công"
+     "text": "Ở hoạt động Khám phá bài “Dân cư và hoạt động sản xuất ở vùng Bắc Trung Bộ và Nam Trung Bộ”."
     }
    ],
    "note": ""
@@ -1051,7 +911,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động nhóm, GV chiếu bảng chung “Di sản – Nơi có – Nét đặc sắc”."
+    }
+   ],
    "note": ""
   },
   {
@@ -1126,7 +992,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Mở đầu bài “Truyền thống yêu nước, cách mạng của đồng bào Bắc Trung Bộ và Nam Trung Bộ”."
+    }
+   ],
    "note": ""
   },
   {
@@ -1144,24 +1016,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS tham quan “Cố đô Huế” qua bảo tàng số, ảnh 360 độ hoặc phim tư liệu: HS xoay"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung dựa trên mô tả"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng tư liệu từ bảo tàng, khu di tích, cơ quan lưu trữ và ghi rõ nguồn"
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
     }
    ],
    "note": ""
@@ -1203,19 +1065,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS tham quan “Phố cổ Hội An” qua bảo tàng số, ảnh 360 độ hoặc phim tư liệu: HS xoay"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung dựa trên mô tả"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng tư liệu từ bảo tàng, khu di tích, cơ quan lưu trữ và ghi rõ nguồn"
+     "level": "Nhận biết",
+     "text": "Cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung."
     }
    ],
    "note": ""
@@ -1269,17 +1121,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu phim tư liệu về “Lễ hội cồng chiêng Tây Nguyên” do đài truyền hình, cơ quan văn hoá công bố: phần lễ, phần hội, trang phục"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu có ảnh và chú thích"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về lễ hội phải lấy từ nguồn chính thống và ghi rõ nguồn"
+     "text": "Chiếu phim tư liệu về “Lễ hội cồng chiêng Tây Nguyên” do đài truyền hình, cơ quan văn hoá công bố."
     }
    ],
    "note": ""
@@ -1326,19 +1168,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV dùng bản đồ số có nhiều lớp để dạy “Thiên nhiên vùng Nam Bộ”: bật lớp địa hình xem đồi núi và đồng bằng"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tra bảng số liệu nhiệt độ, lượng mưa của vùng từ nguồn chính thống"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng bản đồ do Nhà nước Việt Nam ban hành"
+     "text": "HS tra bảng số liệu nhiệt độ, lượng mưa của vùng từ nguồn chính thống, nhập vào bảng tính."
     }
    ],
    "note": ""
@@ -1414,17 +1246,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS tra số liệu dân số, mật độ dân cư của vùng trong bài “Dân cư và hoạt động sản xuất ở vùng Nam Bộ” từ nguồn chính"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu phim ngắn về hoạt động sản xuất tiêu biểu của vùng (trồng chè, khai thác khoáng sản, đánh bắt và nuôi trồng thuỷ sản, làm muối)"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu dân cư, sản xuất phải lấy từ cơ quan nhà nước và ghi rõ năm công"
+     "text": "HS tra số liệu dân số, mật độ dân cư của vùng trong bài “Dân cư và hoạt động sản xuất ở vùng Nam Bộ”."
     }
    ],
    "note": ""
@@ -1471,19 +1293,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu phim tư liệu về “Một số nét văn hóa và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ” do đài truyền hình"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu có ảnh và chú thích"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về lễ hội phải lấy từ nguồn chính thống và ghi rõ nguồn"
+     "text": "HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu."
     }
    ],
    "note": ""
@@ -1532,17 +1344,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV cho HS tham quan “Thành phố Hồ Chí Minh” qua bảo tàng số, ảnh 360 độ hoặc phim tư liệu: HS xoay"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung dựa trên mô tả"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng tư liệu từ bảo tàng, khu di tích, cơ quan lưu trữ và ghi rõ nguồn"
+     "text": "Cho HS tham quan “Thành phố Hồ Chí Minh” qua bảo tàng số, ảnh 360 độ."
     }
    ],
    "note": ""
@@ -1584,19 +1386,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS tham quan “Địa đạo Củ Chi” qua bảo tàng số, ảnh 360 độ hoặc phim tư liệu: HS xoay"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung dựa trên mô tả"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ dùng tư liệu từ bảo tàng, khu di tích, cơ quan lưu trữ và ghi rõ nguồn"
+     "level": "Nhận biết",
+     "text": "Cho HS xem một hình phục dựng công trình hoặc nhân vật do máy tạo, nêu rõ đó chỉ là hình dung."
     }
    ],
    "note": ""
@@ -1928,8 +1720,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.docx",
   "name": "Lich su va Dia li - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45296,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 44309,
+  "updated": "2026-09-08"
  }
 }
