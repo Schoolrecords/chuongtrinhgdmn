@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 75
+  "integrations": 77
  },
  "lessons": [
   {
@@ -96,9 +96,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "AI-NB",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Nhà sáng chế”, GV chiếu ảnh và mốc thời gian của vài sáng chế quen thuộc như bóng đèn, điện thoại, bút bi"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS dùng công cụ vẽ trên máy để phác bản thiết kế ý tưởng của nhóm: vẽ hình dạng sản phẩm"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "liên hệ thiết bị/công cụ thông minh trong đời sống ở mức nhận biết."
+     "text": "HS chỉ dùng phần mềm thầy cô mở, không tự cài đặt hay tải nội dung khác"
     }
    ],
    "note": ""
@@ -1252,7 +1262,7 @@
   "file": "assets/docs/lop5/Cong nghe - Lop 5.docx",
   "name": "Cong nghe - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42475,
+  "size": 42648,
   "updated": "2026-09-07"
  }
 }

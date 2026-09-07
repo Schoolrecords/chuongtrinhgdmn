@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 58
+  "integrations": 60
  },
  "lessons": [
   {
@@ -96,9 +96,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu sơ đồ động Thu nhận → Xử lí → Kết quả, hiện dần từng ô"
+    },
+    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "1.3.CB1a: Xác định được cách tổ chức, lưu trữ và truy xuất dữ liệu, thông tin và nội dung một cách đơn giản trong môi trường số."
+     "text": "GV chiếu ba nguồn thông tin cho cùng một việc đi tham quan: một tấm phiếu ghi giờ tập trung, một biển báo chỉ đường"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ dùng những phiếu, biển báo, bản tin GV đã chuẩn bị"
     }
    ],
    "note": ""
@@ -1172,7 +1182,7 @@
   "file": "assets/docs/lop3/Tin hoc - Lop 3.docx",
   "name": "Tin hoc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42925,
+  "size": 43137,
   "updated": "2026-09-07"
  }
 }

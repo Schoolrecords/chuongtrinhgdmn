@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 18
+  "integrations": 21
  },
  "lessons": [
   {
@@ -99,7 +99,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to ảnh hoa văn trên trang phục của một số dân tộc và các bước trang trí chậu cây trong sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Trang trí xong, GV chụp ảnh chậu cây của từng nhóm, chiếu lên màn hình thành bộ sưu tập của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chỉ chụp sản phẩm, không chụp mặt HS; ảnh lưu trong máy của thầy cô"
+    }
+   ],
    "note": ""
   },
   {
@@ -950,7 +966,7 @@
   "file": "assets/docs/lop3/Mi thuat - Lop 3.docx",
   "name": "Mi thuat - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42617,
+  "size": 42755,
   "updated": "2026-09-07"
  }
 }

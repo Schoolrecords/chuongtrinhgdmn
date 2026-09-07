@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 25
+  "integrations": 28
  },
  "lessons": [
   {
@@ -104,6 +104,21 @@
      "code": "GDĐP",
      "level": "",
      "text": "GD địa phương"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Biết ơn những người có công với quê hương, đất nước”, GV chiếu tư liệu về một số người có công ở địa phương cùng ảnh"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Khi xử lí các tình huống bày tỏ thái độ, GV gõ ý kiến của từng nhóm lên màn hình thành hai cột đồng tình và không đồng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tư liệu về người có công phải lấy từ nguồn nhà trường"
     }
    ],
    "note": ""
@@ -987,7 +1002,7 @@
   "file": "assets/docs/lop5/Dao duc - Lop 5.docx",
   "name": "Dao duc - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42797,
+  "size": 42936,
   "updated": "2026-09-07"
  }
 }

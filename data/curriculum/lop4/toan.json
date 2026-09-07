@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 55
+  "integrations": 66
  },
  "lessons": [
   {
@@ -322,17 +322,17 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV vẽ sơ đồ đoạn thẳng trên máy rồi kéo thay đổi số liệu, sơ đồ dài ngắn theo nhưng cách giải không đổi; HS nêu lại các bước giải bằng lời của mình"
+     "text": "GV dùng sơ đồ đoạn thẳng vẽ trên máy cho “Biểu thức chứa chữ”: kéo thay đổi số liệu"
     },
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "HS nhập một dãy số liệu thật của lớp (số sách đã đọc, số phút tập thể dục) vào bảng tính, tính tổng và trung bình cộng rồi đối chiếu với kết quả tính tay"
+     "text": "HS nhập một dãy số liệu thật của lớp (số sách đã đọc, số phút tập thể dục, chiều cao) vào bảng tính rồi tính tổng"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Tự trình bày bài giải trước, chỉ dùng máy để kiểm tra lại; không chụp đề nhờ máy giải hộ; số liệu về bạn chỉ dùng trong lớp."
+     "text": "Tự trình bày bài giải trước, chỉ dùng máy để kiểm tra lại kết quả"
     }
    ],
    "note": ""
@@ -350,7 +350,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Giải bài toán có ba bước tính”, GV dùng sơ đồ đoạn thẳng vẽ trên máy: kéo thay đổi số cây mỗi đội trồng thì sơ"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu đề bài phóng to, tô màu từng dữ kiện rồi nối với đoạn tương ứng trên sơ đồ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy do thầy cô điều khiển, HS chờ đến lượt được mời lên kéo sơ đồ"
+    }
+   ],
    "note": ""
   },
   {
@@ -366,7 +382,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết luyện tập giải bài toán có ba bước tính, GV chiếu bài giải mẫu rồi ẩn lần lượt từng bước để HS nói bước còn thiếu"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu ba đề bài cùng dạng nhưng khác cách hỏi, tô màu câu hỏi cuối của mỗi đề; HS đối chiếu để nhận ra đề hỏi tổng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chờ đến lượt được mời lên bảng tương tác, chạm nhẹ và tay khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -386,7 +418,17 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+     "text": "Ở tiết luyện tập chung, GV cho HS làm bộ bài tập tương tác có chấm tự động: sau mỗi câu các em biết ngay đúng hay sai"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng giá hàng hoá của bài toán, tô màu từng dòng theo lời HS đọc đề; các em học cách đọc bảng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập tương tác do thầy cô mở, HS làm đúng phần được giao"
     }
    ],
    "note": ""
@@ -404,7 +446,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần ôn số có năm chữ số, GV chiếu bảng hàng và bấm hiện dần từng chữ số của mỗi số; HS đọc số"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài tập tương tác làm tròn số đến hàng chục và hàng chục nghìn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chờ đến lượt được mời lên chạm màn hình, chạm nhẹ bằng đầu ngón tay"
+    }
+   ],
    "note": ""
   },
   {
@@ -756,7 +814,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay.\nSGV 3 tiết; bớt 1 tiết cho kiểm tra định kì"
+     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
     }
    ],
    "note": ""
@@ -2511,7 +2569,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay.\nSGV 3 tiết; bớt 1 tiết cho kiểm tra định kì"
+     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
     }
    ],
    "note": ""
@@ -3400,7 +3458,7 @@
   "file": "assets/docs/lop4/Toan - Lop 4.docx",
   "name": "Toan - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47658,
+  "size": 48046,
   "updated": "2026-09-07"
  }
 }

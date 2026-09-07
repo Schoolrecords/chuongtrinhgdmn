@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 45
+  "integrations": 60
  },
  "lessons": [
   {
@@ -350,7 +350,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Cộng, trừ hai phân số khác mẫu”, GV dùng mô hình phân số kéo thả trên máy: chia hình tròn và băng giấy ảo thành các"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu một bài làm có lỗi cộng thẳng tử với tử, mẫu với mẫu; HS dùng mô hình trên máy kiểm tra lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Mô hình do thầy cô điều khiển, HS chờ đến lượt được mời lên kéo thả"
+    }
+   ],
    "note": ""
   },
   {
@@ -366,7 +382,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết luyện tập cộng, trừ hai phân số khác mẫu, GV mở bài tập tương tác có chấm tự động"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bài toán có lời văn phóng to, tô màu hai phân số cần cộng hoặc trừ và câu hỏi của đề; HS đọc kĩ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập tương tác do thầy cô mở, HS làm đúng phần được giao"
+    }
+   ],
    "note": ""
   },
   {
@@ -382,7 +414,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Hỗn số”, GV dùng mô hình trên máy: hiện hai hình tròn nguyên và một phần của hình thứ ba"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bài tập nối hình vẽ với hỗn số tương ứng; máy chấm ngay nên HS nhận ra mình còn nhầm phần nguyên với tử số"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Mô hình do thầy cô điều khiển, HS chờ đến lượt được mời lên chạm màn hình"
+    }
+   ],
    "note": ""
   },
   {
@@ -398,7 +446,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết luyện tập về hỗn số, GV mở bài tập tương tác viết hỗn số dưới dạng tổng của phần nguyên và phân số; máy báo đúng"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu các hình minh hoạ của bài tập, phóng to phần được tô màu ở mỗi hình; HS đọc hình để nêu hỗn số tương ứng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chờ đến lượt được mời lên chạm màn hình, chạm nhẹ và tay khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -414,7 +478,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài ôn tập hình học và đo lường, GV dùng phần mềm hình học động: kéo một đỉnh cho góc thay đổi và hiện số đo ngay"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài tập tương tác đổi đơn vị đo khối lượng giữa tấn, tạ, yến, ki-lô-gam"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phần mềm do thầy cô điều khiển, HS chờ đến lượt được mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -3341,7 +3421,7 @@
   "file": "assets/docs/lop5/Toan - Lop 5.docx",
   "name": "Toan - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 47547,
+  "size": 48146,
   "updated": "2026-09-07"
  }
 }

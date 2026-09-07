@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 46
+  "integrations": 52
  },
  "lessons": [
   {
@@ -173,7 +173,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video mô phỏng một đám cháy trong nhà bếp lan nhanh thế nào và khói dày ra sao – điều mà không thể cho HS thấy"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS học thuộc và thực hành gọi số 114: bấm số, nói rõ “Cháy ở… (địa chỉ nhà em), nhà cháy ở tầng…"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số 114 là số gọi cứu hoả, chỉ gọi khi thật sự có cháy"
+    }
+   ],
    "note": ""
   },
   {
@@ -199,6 +215,21 @@
      "code": "GDĐP",
      "level": "",
      "text": "Em đã làm gì để cho đường làng ngõ xóm nơi em ở sạch sẽ."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Vệ sinh xung quanh nhà”, GV chiếu bộ ảnh hai khu vực quanh nhà: một nơi sạch sẽ, một nơi có rác ứ đọng"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu từng tình huống quanh nhà và cho HS chọn cách xử lí trên màn hình như đổ nước đọng trong lốp xe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ dọn vệ sinh vừa sức, có người lớn hướng dẫn"
     },
     {
      "code": "KNS",
@@ -1663,7 +1694,7 @@
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.docx",
   "name": "Tu nhien va Xa hoi - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44530,
+  "size": 44818,
   "updated": "2026-09-07"
  }
 }

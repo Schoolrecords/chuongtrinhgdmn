@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 37
+  "integrations": 40
  },
  "lessons": [
   {
@@ -94,7 +94,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu vài đoạn phim ngắn cho nội dung “Hình thức biểu diễn trong ca hát”, mỗi đoạn một cách trình bày khác nhau"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS làm bài tập tương tác có chấm ngay về “Hình thức biểu diễn trong ca hát”: nghe một đoạn rồi chọn đúng tên cách trình bày"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tư liệu về “Hình thức biểu diễn trong ca hát” phải lấy từ trang của nhà xuất bản"
+    }
+   ],
    "note": ""
   },
   {
@@ -1059,7 +1075,7 @@
   "file": "assets/docs/lop4/Am nhac - Lop 4.docx",
   "name": "Am nhac - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43225,
+  "size": 43349,
   "updated": "2026-09-07"
  }
 }

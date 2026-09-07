@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 20
+  "integrations": 23
  },
  "lessons": [
   {
@@ -95,6 +95,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Sử dụng đèn học”, GV chiếu phóng to ảnh các loại đèn học phổ biến và ảnh chụp một chiếc đèn có chú thích từng bộ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hai ảnh cùng một góc học tập, một ảnh đặt đèn bên trái, một ảnh đặt bên phải người viết"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đèn học chỉ được người lớn cắm điện; HS không tự cắm, rút phích"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -964,7 +979,7 @@
   "file": "assets/docs/lop3/Cong nghe - Lop 3.docx",
   "name": "Cong nghe - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42289,
+  "size": 42444,
   "updated": "2026-09-07"
  }
 }

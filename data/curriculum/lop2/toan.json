@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 174,
-  "integrations": 79
+  "integrations": 94
  },
  "lessons": [
   {
@@ -350,7 +350,23 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài ôn tập phép cộng, phép trừ không nhớ trong phạm vi 100"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác cho HS chọn kết quả các phép cộng, trừ số tròn chục; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được mời mới lên chạm màn hình, chạm nhẹ và tay khô"
+    }
+   ],
    "note": ""
   },
   {
@@ -366,7 +382,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "Ở bài tập chọn đúng - sai, GV gõ một phép tính cho công cụ trí tuệ nhân tạo giải rồi chiếu kết quả lên màn hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "HS kiểm tra từng phép tính trong bài, ghi Đ hoặc S và sửa lại phép tính sai; GV chiếu bài làm mẫu lên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Công cụ trí tuệ nhân tạo do cô giáo gõ, HS chỉ xem; các em không nhập tên"
+    }
+   ],
    "note": ""
   },
   {
@@ -382,7 +414,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở bài tìm những phép tính có cùng kết quả, GV chiếu các quả có ghi phép tính lên màn hình rồi kéo những quả cùng kết quả"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to bài toán có lời văn, dùng bút màu gạch chân số liệu và từ khoá thêm, bớt"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên kéo thả"
+    }
+   ],
    "note": ""
   },
   {
@@ -398,7 +446,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài luyện tập chung, GV chiếu tia số phóng to lên màn hình và chỉ theo từng vạch khi cả lớp đếm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác viết số thành tổng các chục và đơn vị; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chờ đến lượt được mời lên chạm màn hình, chạm nhẹ bằng đầu ngón tay"
+    }
+   ],
    "note": ""
   },
   {
@@ -414,7 +478,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở bài chọn câu trả lời đúng, GV chiếu từng câu lên màn hình cho HS giơ bảng con rồi bấm hiện đáp án; máy báo ngay đúng"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to bài ghép số và bài so sánh biểu thức, dùng bút màu đánh dấu hai vế cần so sánh để HS nhìn rõ mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do cô bấm, HS ngồi tại chỗ giơ bảng con; không tranh nhau lên bảng"
+    }
+   ],
    "note": ""
   },
   {
@@ -3521,7 +3601,7 @@
   "file": "assets/docs/lop2/Toan - Lop 2.docx",
   "name": "Toan - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48730,
+  "size": 49359,
   "updated": "2026-09-07"
  }
 }

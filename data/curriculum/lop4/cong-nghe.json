@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 22
+  "integrations": 25
  },
  "lessons": [
   {
@@ -94,7 +94,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu ảnh và đoạn phim ngắn về không gian có hoa, cây cảnh ở công viên, trường học, văn phòng, đường phố"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS chụp ảnh các chậu hoa, cây cảnh ở trường và ở nhà, ghép thành một bộ ảnh “Góc xanh quanh em” kèm chú thích ngắn về ích"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép trước khi chụp ảnh trong nhà người khác hoặc chụp có mặt người khác"
+    }
+   ],
    "note": ""
   },
   {
@@ -973,7 +989,7 @@
   "file": "assets/docs/lop4/Cong nghe - Lop 4.docx",
   "name": "Cong nghe - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42368,
+  "size": 42503,
   "updated": "2026-09-07"
  }
 }

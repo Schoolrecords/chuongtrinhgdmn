@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 15
+  "integrations": 18
  },
  "lessons": [
   {
@@ -100,6 +100,21 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Tự hào Tổ quốc Việt Nam”, GV mở bản đồ Việt Nam trên máy tính và phóng to lần lượt Thủ đô Hà Nội"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Sau khi nghe bài hát “Việt Nam ơi” và xem ảnh, HS lần lượt nói trước lớp một câu về niềm tự hào của mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh và bản đồ do thầy cô mở, HS ngồi tại chỗ quan sát"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -934,7 +949,7 @@
   "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
   "name": "Dao duc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42614,
+  "size": 42779,
   "updated": "2026-09-07"
  }
 }

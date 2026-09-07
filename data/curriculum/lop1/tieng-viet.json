@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 178,
-  "integrations": 50
+  "integrations": 68
  },
  "lessons": [
   {
@@ -380,7 +380,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết “Đàn bò gặm cỏ” của bài chữ o và dấu hỏi, chỉ vào từng con vật"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối tiếng bò, cò, cỏ với đúng hình; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy chiếu và bài tập trên màn hình do cô bấm, HS ngồi tại chỗ nhìn lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -396,7 +412,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết “Bố và Hà đi bộ trên hè phố” của bài chữ ô và thanh nặng"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc từ bố, cô bé, cổ cò của vài HS rồi mở lại cho cả lớp cùng nghe; các em nghe giọng mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm"
+    }
+   ],
    "note": ""
   },
   {
@@ -412,7 +444,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết “Dưới gốc đa, các bạn chơi dung dăng dung dẻ” của bài chữ d, đ, kèm ảnh thật con dê"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV viết mẫu chữ d, đ trên bảng tương tác theo từng nét, tô lại nét mà HS hay viết sai; vài em lên viết thử chữ d"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, chạm nhẹ đầu ngón tay, tay sạch"
+    }
+   ],
    "note": ""
   },
   {
@@ -428,7 +476,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh nhận biết “Tàu dỡ hàng ở cảng” của bài chữ ơ và dấu ngã, thêm vài ảnh thật về bờ đê"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác chọn tiếng viết đúng dấu ngã trong các cặp tiếng dễ lẫn như dỡ và dở, đỡ và đở; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do cô bấm, HS chờ đến lượt được mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -444,7 +508,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bốn tranh truyện “Đàn kiến con ngoan ngoãn” theo đúng thứ tự và mở bản ghi lời kể từng đoạn"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV quay lại một, hai lượt HS kể từng đoạn truyện rồi mở cho cả lớp cùng nghe; các em tự nhận ra chỗ kể nhỏ, kể vấp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, không quay bạn đang bối rối"
+    }
+   ],
    "note": ""
   },
   {
@@ -460,7 +540,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV dùng trò chơi học liệu tương tác ôn đúng các chữ o, ô, d, đ, ơ và dấu hỏi, dấu nặng"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài đọc ôn tập phóng to và dùng con trỏ chỉ theo từng tiếng khi cả lớp đọc đồng thanh"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi trên màn hình do cô bấm, HS chờ đến lượt được mời"
+    }
+   ],
    "note": ""
   },
   {
@@ -3410,7 +3506,7 @@
   "file": "assets/docs/lop1/Tieng Viet - Lop 1.docx",
   "name": "Tieng Viet - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48167,
+  "size": 48936,
   "updated": "2026-09-07"
  }
 }

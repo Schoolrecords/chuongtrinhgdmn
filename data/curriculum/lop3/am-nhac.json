@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 15
+  "integrations": 18
  },
  "lessons": [
   {
@@ -94,7 +94,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Tiết “Chủ đề 1: Lễ hội âm thanh — Ôn đọc nhạc Bài số 1"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò “Nghe tiếng đoán nhạc cụ”: GV chỉ bật tiếng, không cho nhìn hình, HS giơ thẻ tên nhạc cụ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Các video, bản nhạc GV chiếu đều lấy từ nguồn chính thức và được GV xem trước"
+    }
+   ],
    "note": ""
   },
   {
@@ -936,7 +952,7 @@
   "file": "assets/docs/lop3/Am nhac - Lop 3.docx",
   "name": "Am nhac - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42753,
+  "size": 42881,
   "updated": "2026-09-07"
  }
 }

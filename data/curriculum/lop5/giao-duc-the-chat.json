@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 50
+  "integrations": 56
  },
  "lessons": [
   {
@@ -170,6 +170,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu clip mẫu “Bài tập phối hợp đi đều vòng các hướng” và giao cho mỗi tổ một việc quan sát riêng: tổ theo dõi tư thế"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa và tự đặt yêu cầu cho lượt tập sau"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xem clip xong phải cất thiết bị và ra sân, không mang điện thoại vào khu vực tập"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
@@ -191,6 +206,21 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu video bài tập phối hợp đi đều vòng các hướng, dừng hình ở nhịp đổi hướng và ở người làm trụ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV quay lại phần trình diễn của từng nhóm rồi chiếu lại; HS tự chấm theo ba tiêu chí chiếu sẵn là đúng hướng, đều nhịp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV báo trước khi quay, clip chỉ dùng trong giờ học rồi xoá, không đăng lên mạng"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1701,7 +1731,7 @@
   "file": "assets/docs/lop5/Giao duc the chat - Lop 5.docx",
   "name": "Giao duc the chat - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43723,
+  "size": 44057,
   "updated": "2026-09-07"
  }
 }

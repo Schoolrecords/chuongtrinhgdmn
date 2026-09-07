@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 41
+  "integrations": 43
  },
  "lessons": [
   {
@@ -98,7 +98,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+     "text": "GV mở một trang trình chiếu, vẽ một hoạ tiết rồi dùng lệnh sao chép và dán cho hoạ tiết ấy lặp lại thành đường diềm dài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "HS quan sát cạnh đó ảnh đường diềm trên khăn, trên bát đĩa để đối chiếu với đường diềm vừa dựng trên máy."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV thao tác sao chép, dán; HS quan sát và nêu ý kiến rồi tự vẽ đường diềm"
     },
     {
      "code": "KNS",
@@ -1083,7 +1093,7 @@
   "file": "assets/docs/lop2/Mi thuat - Lop 2.docx",
   "name": "Mi thuat - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42934,
+  "size": 43107,
   "updated": "2026-09-07"
  }
 }

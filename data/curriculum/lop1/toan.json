@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 60
+  "integrations": 69
  },
  "lessons": [
   {
@@ -222,7 +222,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng slide đếm động cho bài “CÁC SỐ 6, 7, 8, 9, 10”: các đồ vật xuất hiện lần lượt từng cái một"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò kéo thả trên màn hình: đưa thẻ số về đúng nhóm đồ vật; máy báo đúng, sai ngay để HS tự sửa lại."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi trên màn hình do GV bấm; HS chờ đến lượt được mời lên"
+    }
+   ],
    "note": ""
   },
   {
@@ -239,6 +255,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hình động nối một - một hai nhóm đồ vật: từng cặp nối lại rồi mờ đi, phần còn thừa hiện rõ trên màn hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò so sánh trên màn hình: chọn nhóm nhiều hơn, nhóm ít hơn, nhóm bằng nhau; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi trên màn hình do GV bấm; HS chờ đến lượt được mời"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -260,7 +291,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh bài luyện tập của bài “Nhiều hơn, ít hơn, bằng nhau”"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác cho HS kéo thêm củ cà rốt vào cho bằng số bắp cải; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được mời mới lên chạm màn hình, chạm nhẹ bằng đầu ngón tay"
+    }
+   ],
    "note": ""
   },
   {
@@ -2307,7 +2354,7 @@
   "file": "assets/docs/lop1/Toan - Lop 1.docx",
   "name": "Toan - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45302,
+  "size": 45620,
   "updated": "2026-09-07"
  }
 }

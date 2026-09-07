@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 77
+  "integrations": 91
  },
  "lessons": [
   {
@@ -367,6 +367,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài “Bảng nhân 4, bảng chia 4”, GV chiếu hình các chong chóng bốn cánh và bấm hiện thêm từng chiếc; mỗi lần thêm một chong chóng"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Sau khi lập xong bảng nhân, GV chiếu trò chơi luyện bảng nhân 4 có tự chấm; mỗi em trả lời rồi nhìn máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trò chơi do thầy cô bấm, HS chờ đến lượt được mời"
+    },
+    {
      "code": "STEM",
      "level": "",
      "text": "Bảng nhân, chia (Toán – Mĩ thuật) — dạy thay cho tiết này."
@@ -392,7 +407,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết lập bảng chia 4, GV chiếu 24 chấm tròn rồi bấm cho máy tự chia dần thành từng nhóm 4 chấm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu trò chơi luyện bảng chia 4 có tự chấm; HS chọn kết quả, máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    }
+   ],
    "note": ""
   },
   {
@@ -408,7 +439,23 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở bài ôn tập hình học, GV dùng phần mềm hình học động chiếu lên màn hình rồi kéo một đỉnh của hình chữ nhật cho hình to"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Với bài tính độ dài đường gấp khúc, GV chiếu đường gấp khúc và tô sáng từng đoạn theo lời HS nói"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Phần mềm do thầy cô điều khiển, HS chờ đến lượt được mời lên kéo hình"
+    }
+   ],
    "note": ""
   },
   {
@@ -424,7 +471,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đo lường, GV chiếu ảnh phóng to mặt cân đồng hồ và mặt đồng hồ kim"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác kéo kim đồng hồ về đúng giờ đề bài nêu và chọn số đo phù hợp cho vật cân; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chờ đến lượt được mời lên chạm màn hình, tay khô và sạch; cân"
+    }
+   ],
    "note": ""
   },
   {
@@ -444,7 +507,17 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "HS tự làm vào vở trước, sau đó dùng máy tính kiểm tra lại kết quả; máy chỉ để soát, không làm thay."
+     "text": "Tiết luyện tập chung có nhiều dạng bài nên GV dùng bộ câu hỏi trắc nghiệm chiếu trên màn hình có tự chấm: mỗi câu về so sánh"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá nhiều hơn, ít hơn bằng bút màu trên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bộ câu hỏi do thầy cô bấm, HS giơ thẻ tại chỗ, không tranh nhau lên bảng"
     }
    ],
    "note": ""
@@ -3520,7 +3593,7 @@
   "file": "assets/docs/lop3/Toan - Lop 3.docx",
   "name": "Toan - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48205,
+  "size": 48848,
   "updated": "2026-09-07"
  }
 }

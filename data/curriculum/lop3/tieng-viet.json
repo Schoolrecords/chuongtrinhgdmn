@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 163,
-  "integrations": 141
+  "integrations": 156
  },
  "lessons": [
   {
@@ -377,6 +377,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “NHẬT KÍ TẬP BƠI”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật, khung cảnh có trong bài (bãi biển"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
@@ -397,7 +412,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết bài “Mặt trời nhỏ”, GV chiếu đoạn thơ phóng to và bấm tô màu những chữ dễ viết sai cùng các tiếng bắt đầu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần phân biệt ng và ngh, GV mở bài tập tương tác chọn chữ đúng điền vào chỗ trống; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm; khi viết chính tả"
+    }
+   ],
    "note": ""
   },
   {
@@ -413,7 +444,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “TẬP NẤU ĂN”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật, khung cảnh có trong bài (bãi biển"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    }
+   ],
    "note": ""
   },
   {
@@ -429,7 +476,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết luyện từ và câu về từ chỉ hoạt động, khi HS gặp một từ nấu ăn chưa hiểu như xào, rang, hấp"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác kéo từ chỉ hoạt động ghép với từ chỉ sự vật thành câu nêu hoạt động; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thầy cô là người gõ từ cần tra, HS chỉ xem kết quả"
+    }
+   ],
    "note": ""
   },
   {
@@ -446,6 +509,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi viết đoạn văn nêu các bước làm một món ăn, GV chiếu một công thức nấu ăn đơn giản có đánh số từng bước và ảnh"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV mở khung ba ô trên máy gồm nguyên liệu, các bước làm, thành phẩm; HS nói ý của mình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Đây là bài viết ở lớp, HS không tự nấu nướng ở nhà một mình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3698,7 +3776,7 @@
   "file": "assets/docs/lop3/Tieng Viet - Lop 3.docx",
   "name": "Tieng Viet - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 51581,
+  "size": 52149,
   "updated": "2026-09-07"
  }
 }

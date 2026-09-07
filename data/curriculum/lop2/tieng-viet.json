@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 257,
-  "integrations": 124
+  "integrations": 144
  },
  "lessons": [
   {
@@ -564,6 +564,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh minh hoạ bài đọc “Em có xinh không?” và mở bản đọc mẫu để HS vừa nhìn tranh vừa nghe giọng đọc lời"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm một, hai lượt HS đọc lời nhân vật rồi mở lại cho cả lớp nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -584,7 +599,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu chữ hoa B phóng to, cho hiện lần lượt từng nét theo đúng quy trình viết và tô lại nét móc mà HS hay viết lệch"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ HS được cô mời mới lên chạm màn hình, chạm nhẹ bằng đầu ngón tay"
+    }
+   ],
    "note": ""
   },
   {
@@ -600,7 +626,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bộ tranh kể chuyện “Em có xinh không?” lên màn hình lớn"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV quay lại một nhóm kể chuyện rồi mở cho cả lớp cùng xem; các em nghe lại chính mình để biết chỗ kể còn thiếu ý"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, không quay bạn đang bối rối"
+    }
+   ],
    "note": ""
   },
   {
@@ -617,6 +659,21 @@
    "lessonPeriods": 6,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh minh hoạ bài đọc “Một giờ học” và mở bản đọc mẫu lời thầy giáo, lời bạn Quang"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt đọc phân vai của một nhóm rồi mở lại cho cả lớp nghe; các em nhận ra giọng thầy giáo phải chậm và ấm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -638,7 +695,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi nghe viết đoạn trong bài “Một giờ học”, GV chiếu đoạn chính tả phóng to và bấm tô màu các chữ phải viết hoa cùng những"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở phần ôn bảng chữ cái, GV chiếu bảng chữ cái trên màn hình cho HS kéo từng chữ về đúng vị trí còn trống theo thứ tự"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Màn hình do cô bấm, HS chờ đến lượt được mời lên kéo chữ; khi viết bài"
+    }
+   ],
    "note": ""
   },
   {
@@ -654,7 +727,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu từng cặp ảnh đối nhau trên màn hình như cao và thấp, xanh non và vàng úa, ồn ào và yên tĩnh"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác ghép từ chỉ sự vật với từ chỉ đặc điểm thành câu nêu đặc điểm; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi nói về đặc điểm của bạn trong lớp, HS chỉ dùng lời tích cực"
+    }
+   ],
    "note": ""
   },
   {
@@ -670,7 +759,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Trước khi viết đoạn văn kể việc thường làm, GV chiếu sơ đồ ba ô dựng sẵn trên máy: việc gì, làm thế nào"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đọc mở rộng, GV chiếu bìa và vài trang của mấy cuốn sách"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Sơ đồ trên máy do cô gõ, HS chỉ nói ý của mình"
+    }
+   ],
    "note": ""
   },
   {
@@ -5097,7 +5202,7 @@
   "file": "assets/docs/lop2/Tieng Viet - Lop 2.docx",
   "name": "Tieng Viet - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 52871,
+  "size": 53760,
   "updated": "2026-09-07"
  }
 }

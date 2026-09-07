@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 190
+  "integrations": 200
  },
  "lessons": [
   {
@@ -313,6 +313,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài Unit 1 All about me, GV chiếu tranh kèm tệp ghi âm phần nghe về đất nước, môn thể thao, con vật yêu thích"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt hỏi đáp theo cặp về sở thích rồi mở lại cho cả lớp nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -335,9 +350,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần luyện tập bài Unit 1, GV mở bài tập tương tác nghe và chọn đáp án, điền từ còn thiếu vào câu giới thiệu bản thân"
+    },
+    {
      "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi HS làm một tấm thẻ giới thiệu bản thân bằng tiếng Anh gồm tên, sở thích, môn thể thao yêu thích và một ảnh phù hợp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+     "text": "Thẻ chỉ ghi tên gọi ở lớp và sở thích, không ghi địa chỉ nhà"
     },
     {
      "code": "KNS",
@@ -362,9 +387,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Vào bài Unit 2 Our homes, GV chiếu ảnh các kiểu nhà ở như nhà phố, chung cư, nhà sàn và mở tệp ghi âm mẫu câu hỏi"
+    },
+    {
      "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng khảo sát nhanh của lớp về kiểu nhà ở; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để GV đánh dấu vào bảng"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+     "text": "Bảng khảo sát chỉ ghi kiểu nhà chung, không ghi địa chỉ cụ thể của bạn nào"
     },
     {
      "code": "KNS",
@@ -388,6 +423,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần luyện tập bài Unit 2 Our homes, GV mở trò chơi tương tác ghép câu hỏi với câu trả lời về nơi ở và chọn từ"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt hỏi đáp của vài cặp rồi mở cho cả lớp nghe; các em nhận xét bạn theo tiêu chí nói đủ câu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm và xoá ngay sau tiết học"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3611,7 +3661,7 @@
   "file": "assets/docs/lop5/Tieng Anh - Lop 5.docx",
   "name": "Tieng Anh - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45534,
+  "size": 46111,
   "updated": "2026-09-07"
  }
 }

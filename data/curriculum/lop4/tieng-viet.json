@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 194,
-  "integrations": 123
+  "integrations": 141
  },
  "lessons": [
   {
@@ -429,7 +429,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước khi đọc bài “Thằn lằn xanh và tắc kè”, GV chiếu ảnh thật hai con vật này cùng nơi chúng sống để HS phân biệt được hai"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt đọc diễn cảm của một vài HS rồi mở lại cho cả lớp nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -445,7 +461,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết luyện tập về danh từ, GV mở bài tập tương tác kéo từ vào ba nhóm danh từ chỉ người, chỉ vật"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Khi gặp từ chưa rõ nghĩa, GV mở từ điển tiếng Việt bản điện tử, gõ từ đó cho cả lớp cùng đọc nghĩa và ví dụ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy của lớp do thầy cô điều khiển, HS chỉ tra từ theo yêu cầu bài học"
+    }
+   ],
    "note": ""
   },
   {
@@ -462,6 +494,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Trong tiết trả bài viết đoạn văn nêu ý kiến, sau khi nghe nhận xét chung"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu một đoạn văn mẫu và đoạn văn còn lỗi cạnh nhau, tô màu câu chủ đề ở mỗi đoạn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài của bạn chỉ được chiếu khi bạn đồng ý và nên che tên"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -483,7 +530,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước bài đọc “Nghệ sĩ trống”, GV mở một đoạn nhạc độc tấu và ảnh một số nhạc cụ để HS nhận ra âm sắc của trống giữa"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt đọc diễn cảm phần miêu tả tiết mục của từng nhóm rồi mở lại; HS nghe và nhận xét theo tiêu chí đọc rõ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm và xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -500,6 +563,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bài mẫu cho “Tìm hiểu cách viết báo cáo, thảo luận nhóm” lên màn hình rồi dùng công cụ tô màu"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS so sánh hai bài mẫu chiếu cạnh nhau để tìm điểm giống và khác về bố cục, cách mở đầu, cách kết thúc"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài mẫu chỉ để học cách viết, không chép lại thành bài của mình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -521,7 +599,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS tự ghi âm hoặc quay lại phần kể chuyện “Bốn anh tài” của mình, nghe lại và tự nhận xét: giọng đã rõ chưa"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS kể trước nhóm, các bạn nghe và góp ý theo hai câu hỏi: bạn kể có đủ ý không, chỗ nào làm em nhớ nhất"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép bạn trước khi quay hoặc ghi âm bạn"
+    }
+   ],
    "note": ""
   },
   {
@@ -4085,7 +4179,7 @@
   "file": "assets/docs/lop4/Tieng Viet - Lop 4.docx",
   "name": "Tieng Viet - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 52281,
+  "size": 53002,
   "updated": "2026-09-07"
  }
 }

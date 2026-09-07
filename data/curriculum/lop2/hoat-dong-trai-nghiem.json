@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 94
+  "integrations": 102
  },
  "lessons": [
   {
@@ -237,7 +237,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Theo chủ điểm phát động phong trào “Khéo tay hay làm”, GV chuẩn bị ảnh chụp một số sản phẩm thủ công đẹp của HS trong trường và"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chỉ chụp sản phẩm, không chụp mặt bạn"
+    }
+   ],
    "note": ""
   },
   {
@@ -253,7 +264,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động thử tài khéo léo của chủ đề “Luyện tay cho khéo”"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Làm xong, GV chụp ảnh sản phẩm của từng nhóm và chiếu thành bộ sưu tập của lớp; mỗi nhóm nhìn sản phẩm của mình trên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi làm sản phẩm, HS dùng kéo mũi tròn, cắt hướng ra xa người"
+    }
+   ],
    "note": ""
   },
   {
@@ -269,7 +296,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Trong tiết sơ kết tuần 3, GV chiếu bảng theo dõi thi đua của các tổ ngay trên màn hình và gõ thẳng nhận xét của tổ trưởng"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu lại ảnh sản phẩm “Khéo tay hay làm” các em vừa làm ở tiết trước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nhận xét bạn bằng lời nhẹ nhàng, không chê bai"
+    }
+   ],
    "note": ""
   },
   {
@@ -2505,7 +2548,7 @@
   "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.docx",
   "name": "Hoat dong trai nghiem - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48176,
+  "size": 48528,
   "updated": "2026-09-07"
  }
 }

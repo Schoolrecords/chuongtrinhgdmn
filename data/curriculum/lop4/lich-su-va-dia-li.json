@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 48
+  "integrations": 54
  },
  "lessons": [
   {
@@ -160,6 +160,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Lịch sử và văn hoá truyền thống địa phương em”, HS dùng bản đồ số do GV mở để tìm vị trí xã mình"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Khi giới thiệu trang phục, món ăn, lễ hội của địa phương, GV gõ ý kiến từng nhóm vào bảng chiếu trên màn hình theo ba cột"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ dùng bản đồ, ảnh do thầy cô mở và nói rõ nguồn tư liệu"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tôn trọng sự khác biệt về văn hoá, phong tục giữa các vùng miền, dân tộc."
@@ -180,7 +195,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu đoạn phim ngắn về ngày Tết và tranh minh hoạ truyền thuyết Bánh chưng, bánh giầy; HS xem, chỉ ra nguyên liệu"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi nhóm làm một trang giới thiệu phong tục gói bánh chưng ở địa phương gồm ảnh hoặc tranh vẽ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh gia đình gói bánh chỉ dùng khi người trong ảnh đồng ý"
+    }
+   ],
    "note": ""
   },
   {
@@ -1676,7 +1707,7 @@
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.docx",
   "name": "Lich su va Dia li - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44178,
+  "size": 44490,
   "updated": "2026-09-07"
  }
 }

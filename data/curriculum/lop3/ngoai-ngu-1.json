@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 162
+  "integrations": 174
  },
  "lessons": [
   {
@@ -308,6 +308,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần nghe của bài Unit 1 Hello, GV mở tệp ghi âm câu chào và câu đáp cho HS nghe hai lượt"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt hỏi đáp chào hỏi của vài cặp HS rồi mở lại cho cả lớp nghe"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -329,6 +344,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đọc và viết của bài Unit 1 Hello, GV chiếu câu mẫu hỏi thăm sức khoẻ và câu đáp lên màn hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác nối câu hỏi với câu trả lời đúng và chọn từ còn thiếu điền vào chỗ trống; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài tập trên màn hình do thầy cô bấm, HS chờ đến lượt được mời lên chạm"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -352,6 +382,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Vào bài Unit 2 Our names, GV chiếu tranh và mở tệp ghi âm mẫu câu hỏi tên, trả lời tên"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng tên của lớp lên màn hình, mỗi em lần lượt hỏi tên bạn và gõ hoặc đọc để thầy cô ghi tên bạn vào đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng tên chỉ ghi tên gọi ở lớp, không ghi địa chỉ, số điện thoại của HS"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -373,6 +418,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết luyện tập bài Unit 2 Our names, GV mở trò chơi tương tác ghép câu hỏi tên với câu trả lời và chọn tên viết đúng"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV ghi âm lượt phỏng vấn bạn của một vài cặp rồi mở cho cả lớp nghe; các em nhận ra chỗ hỏi còn thiếu từ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm và xoá ngay sau tiết học"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3468,7 +3528,7 @@
   "file": "assets/docs/lop3/Tieng Anh - Lop 3.docx",
   "name": "Tieng Anh - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45879,
+  "size": 46412,
   "updated": "2026-09-07"
  }
 }

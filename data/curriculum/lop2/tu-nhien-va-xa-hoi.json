@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 59
+  "integrations": 64
  },
  "lessons": [
   {
@@ -175,9 +175,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "xem clip tình huống an toàn trên màn hình, nhận xét cách xử lí đúng."
+     "text": "Ở hoạt động Khám phá bài “Phòng tránh ngộ độc khi ở nhà”, GV chiếu phóng to hình bác sĩ trao đổi với các bạn nhỏ trong sách"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu lần lượt các tình huống trong nhà và cho HS chọn nhanh trên màn hình: thứ nào trẻ em được cầm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lớp chỉ xem ảnh trên màn hình, tuyệt đối không mang thuốc, hoá chất thật vào lớp"
     },
     {
      "code": "QPAN",
@@ -200,7 +210,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to ảnh vỏ hộp sữa, gói bánh và chỉ vào dòng hạn sử dụng, hướng dẫn bảo quản in trên bao bì"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chơi trò kéo thả cất đồ ăn về đúng chỗ: thịt cá vào ngăn đông, rau quả vào ngăn mát"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS chỉ đọc thông tin trên bao bì, không tự nếm thử thức ăn để kiểm tra"
+    }
+   ],
    "note": ""
   },
   {
@@ -1738,7 +1764,7 @@
   "file": "assets/docs/lop2/Tu nhien va Xa hoi - Lop 2.docx",
   "name": "Tu nhien va Xa hoi - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44954,
+  "size": 45305,
   "updated": "2026-09-07"
  }
 }

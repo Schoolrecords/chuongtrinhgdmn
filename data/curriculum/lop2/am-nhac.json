@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 33
+  "integrations": 35
  },
  "lessons": [
   {
@@ -96,9 +96,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV dùng đàn phím điện tử hoặc phần mềm đàn phím trên máy tính để lấy cao độ chuẩn cho “Bài số 1”: bấm từng nốt cho HS"
+    },
+    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "GV mở trò chơi nghe nốt trên máy: máy phát một nốt, HS giơ kí hiệu bàn tay tương ứng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV thao tác đàn và máy tính, HS chỉ nghe và đọc theo"
     }
    ],
    "note": ""
@@ -1039,7 +1049,7 @@
   "file": "assets/docs/lop2/Am nhac - Lop 2.docx",
   "name": "Am nhac - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43009,
+  "size": 43164,
   "updated": "2026-09-07"
  }
 }

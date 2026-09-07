@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 63
+  "integrations": 61
  },
  "lessons": [
   {
@@ -98,27 +98,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "CB2a: Xác định được nhu cầu thông tin."
+     "text": "HS tự nhập địa chỉ một website GV cung cấp, quan sát các thành phần của trang — thanh địa chỉ, mục lục, khối nội dung"
     },
     {
-     "code": "NLS-KT",
+     "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "CB2b: Tìm được dữ liệu, thông tin và nội dung thông qua tìm kiếm đơn giản trong môi trường số."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "1.1.CB2c: Tìm được cách truy cập những dữ liệu, thông tin và nội dung này cũng như điều hướng giữa chúng."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+     "text": "HS dùng mục lục và ô tìm kiếm ngay trong website để đi thẳng tới phần mình cần thay vì lướt hết cả trang"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "khai thác thông tin số đúng nguồn; tôn trọng bản quyền, an toàn khi trao đổi thông tin."
+     "text": "Chỉ truy cập website GV cho phép; không nháy vào quảng cáo"
     }
    ],
    "note": ""
@@ -1195,7 +1185,7 @@
   "file": "assets/docs/lop5/Tin hoc - Lop 5.docx",
   "name": "Tin hoc - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43283,
+  "size": 43430,
   "updated": "2026-09-07"
  }
 }

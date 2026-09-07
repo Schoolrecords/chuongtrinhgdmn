@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 44
+  "integrations": 46
  },
  "lessons": [
   {
@@ -101,9 +101,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "4.3.CB2a: Phân biệt được các cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số (Tư thế, thói quen gõ phím)."
+     "text": "Ở bài “Gõ bàn phím đúng cách”, GV hướng dẫn HS đặt tay đúng hàng phím cơ sở và gõ bằng mười ngón"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu hai ảnh tư thế ngồi máy: một đúng, một sai; HS chỉ ra chỗ khác nhau ở lưng, khoảng cách mắt"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "HS ngồi thẳng lưng, mắt cách màn hình khoảng một cánh tay"
     }
    ],
    "note": ""
@@ -1102,7 +1112,7 @@
   "file": "assets/docs/lop4/Tin hoc - Lop 4.docx",
   "name": "Tin hoc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43207,
+  "size": 43368,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 52
+  "integrations": 58
  },
  "lessons": [
   {
@@ -170,6 +170,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu sơ đồ nhìn từ trên xuống có mũi tên chỉ đường đi khi thực hiện “Chuyển đội hình hàng ngang thành đội hình vòng tròn và"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chỉ tay trên sơ đồ vị trí của tổ mình rồi mới ra sân thực hiện; sau lượt đầu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xem sơ đồ xong phải cất thiết bị; khi di chuyển HS phải nhìn đường và nhìn bạn"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
@@ -191,6 +206,21 @@
    "lessonPeriods": 5,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video mẫu bài “Chuyển đội hình hàng ngang thành đội hình vòng tròn và ngược lại”"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Khi các tổ thi đua, GV dùng điện thoại quay một lượt chuyển đội hình rồi chiếu lại; HS chỉ ra chỗ vòng tròn còn méo"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, clip chỉ mở trong giờ rồi xoá"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1710,7 +1740,7 @@
   "file": "assets/docs/lop2/Giao duc the chat - Lop 2.docx",
   "name": "Giao duc the chat - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43566,
+  "size": 43784,
   "updated": "2026-09-07"
  }
 }

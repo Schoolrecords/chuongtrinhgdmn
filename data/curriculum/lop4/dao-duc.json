@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 20
+  "integrations": 23
  },
  "lessons": [
   {
@@ -99,7 +99,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài “Biết ơn người lao động”, GV chiếu bộ ảnh người lao động ở nhiều nghề tại địa phương như bác nông dân, cô lao công"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi nhóm chọn một nghề, viết lời cảm ơn ngắn và chọn một ảnh phù hợp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh người lao động lấy từ nguồn thầy cô cung cấp hoặc do HS chụp khi đã xin"
+    }
+   ],
    "note": ""
   },
   {
@@ -963,7 +979,7 @@
   "file": "assets/docs/lop4/Dao duc - Lop 4.docx",
   "name": "Dao duc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42732,
+  "size": 42882,
   "updated": "2026-09-07"
  }
 }

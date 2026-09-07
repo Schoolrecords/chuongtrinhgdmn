@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 63
+  "integrations": 71
  },
  "lessons": [
   {
@@ -229,6 +229,16 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Theo chủ điểm giao lưu tài năng học trò, GV chuẩn bị và chiếu lại trong lớp sau lễ chào cờ vài đoạn clip ngắn tiết mục của"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Clip chỉ quay tiết mục biểu diễn khi bạn đồng ý"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
@@ -249,7 +259,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động “Ngôi sao của tôi, ngôi sao của bạn”, GV mở sẵn khung tấm thẻ trên phần mềm trình chiếu"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Khi các bạn kết nhóm theo sở thích, GV chiếu bảng nhóm trên màn hình và ghi tên từng nhóm cùng sản phẩm nhóm định làm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tấm thẻ chỉ ghi sở thích và việc em làm tốt"
+    }
+   ],
    "note": ""
   },
   {
@@ -265,7 +291,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Trong tiết sinh hoạt lớp về sản phẩm theo sở thích, GV chụp ảnh sản phẩm của các nhóm rồi chiếu thành một trang trưng bày của lớp"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng tổng kết tuần lên màn hình và gõ ngay nhận xét của lớp trưởng, của các tổ vào từng dòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh chỉ chụp sản phẩm, không chụp mặt bạn"
+    }
+   ],
    "note": ""
   },
   {
@@ -2325,7 +2367,7 @@
   "file": "assets/docs/lop3/Hoat dong trai nghiem - Lop 3.docx",
   "name": "Hoat dong trai nghiem - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48052,
+  "size": 48388,
   "updated": "2026-09-07"
  }
 }

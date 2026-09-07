@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 93
+  "integrations": 101
  },
  "lessons": [
   {
@@ -219,6 +219,16 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Theo chủ điểm “Niềm vui nhân đôi, nỗi buồn chia nửa”, GV chuẩn bị đoạn clip ngắn hoặc bộ ảnh tiểu phẩm dưới cờ về việc bạn bè"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Clip, ảnh chỉ quay khi các bạn tham gia đồng ý và dùng trong phạm vi nhà trường"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
@@ -241,6 +251,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS làm một sản phẩm số nhỏ cho chủ đề “Cân bằng cảm xúc”: trang trình chiếu"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS thực hiện một khảo sát nhỏ trong lớp bằng phiếu trên máy, xem kết quả tự tổng hợp thành biểu đồ và cùng nhau nhận xét."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
@@ -262,6 +287,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS dùng bảng theo dõi trên máy để tổng kết thi đua tuần gắn với nội dung “Thực hành cân bằng cảm xúc”: nhập số"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS trình chiếu ảnh và sản phẩm của tuần để cả lớp cùng nhìn lại; mỗi bạn nói một lời ghi nhận dành cho bạn khác"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng thống kê chỉ đếm được việc làm được, không đo hết sự cố gắng của bạn"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2502,7 +2542,7 @@
   "file": "assets/docs/lop5/Hoat dong trai nghiem - Lop 5.docx",
   "name": "Hoat dong trai nghiem - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46719,
+  "size": 47046,
   "updated": "2026-09-07"
  }
 }

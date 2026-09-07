@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 46
+  "integrations": 52
  },
  "lessons": [
   {
@@ -188,7 +188,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết về đất và rừng của bài “Thiên nhiên Việt Nam”, GV chiếu lược đồ phân bố các loại đất"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng hai cột vai trò của đất và vai trò của rừng, gõ ý kiến từng nhóm vào bảng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lược đồ, ảnh do thầy cô mở và nói rõ nguồn"
+    }
+   ],
    "note": ""
   },
   {
@@ -204,7 +220,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở tiết về khó khăn của thiên nhiên, GV chiếu ảnh và tư liệu ngắn về bão, lũ, hạn hán, xâm nhập mặn ở nước ta; HS đọc"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng ghép khó khăn với biện pháp phòng chống như trồng rừng phòng hộ, xây hồ chứa nước, làm nhà tránh lũ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tư liệu thiên tai lấy từ nguồn thầy cô giới thiệu và nói rõ nguồn"
+    }
+   ],
    "note": ""
   },
   {
@@ -1667,7 +1699,7 @@
   "file": "assets/docs/lop5/Lich su va Dia li - Lop 5.docx",
   "name": "Lich su va Dia li - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45963,
+  "size": 46249,
   "updated": "2026-09-07"
  }
 }

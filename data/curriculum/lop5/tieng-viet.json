@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 210,
-  "integrations": 189
+  "integrations": 203
  },
  "lessons": [
   {
@@ -424,7 +424,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước bài đọc “Tiếng hạt nảy mầm”, GV mở vài âm thanh quen thuộc cho HS đoán tên sự vật"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt đọc diễn cảm từng khổ thơ của một vài HS rồi mở lại"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm, chỉ mở trong lớp rồi xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -440,7 +456,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS dùng từ điển tiếng Việt điện tử tra nghĩa, tìm từ đồng nghĩa – trái nghĩa phục vụ nội dung “Tiếng hạt nảy mầm”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển điện tử chỉ để tham khảo, HS phải tự chọn nghĩa đúng văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -457,6 +484,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS gõ và trình bày bài “Tiếng hạt nảy mầm” trên phần mềm soạn thảo: chia đoạn, căn lề"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem một đoạn văn do công cụ trí tuệ nhân tạo viết về cùng đề tài và cùng nhận xét: đoạn ấy đúng ngữ pháp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tuyệt đối không chép bài do trí tuệ nhân tạo viết để nộp"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -478,7 +520,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Trước bài đọc “Ngôi sao sân cỏ”, GV chiếu ảnh vài môn thể thao và một đoạn phim ngắn về trận bóng của thiếu nhi"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt đọc phân vai của các nhóm rồi mở lại cho cả lớp nghe; HS nhận xét theo tiêu chí đọc rõ, ngắt nghỉ đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm và xoá sau tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -497,8 +555,18 @@
    "integrations": [
     {
      "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS gõ và trình bày bài “Ngôi sao sân cỏ” trên phần mềm soạn thảo: chia đoạn, căn lề"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV cho HS xem một đoạn văn do công cụ trí tuệ nhân tạo viết về cùng đề tài và cùng nhận xét: đoạn ấy đúng ngữ pháp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Có thể lập bảng/bản nháp báo cáo công việc bằng công cụ số đơn giản dưới sự hướng dẫn của GV."
+     "text": "Tuyệt đối không chép bài do trí tuệ nhân tạo viết để nộp"
     }
    ],
    "note": ""
@@ -519,13 +587,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "",
-     "text": "Đọc mở rộng; ghi tên sách/tác giả/nguồn, chia sẻ ngắn gọn, tôn trọng bản quyền."
+     "level": "Cơ bản 2",
+     "text": "GV hướng dẫn HS tra tìm sách, truyện theo chủ điểm “Ngôi sao sân cỏ” trên thư viện số hoặc trang sách thiếu nhi mà GV đã chọn"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS chụp bìa cuốn sách mình đọc, dựng một trang trình chiếu ngắn có ảnh kèm vài dòng cảm nhận để giới thiệu với cả lớp."
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Đọc mở rộng; ghi tên sách/tác giả/nguồn, chia sẻ ngắn gọn, tôn trọng bản quyền."
+     "text": "Chỉ truy cập trang GV chỉ định; không tải sách từ nguồn lạ"
     },
     {
      "code": "KNS",
@@ -4703,7 +4776,7 @@
   "file": "assets/docs/lop5/Tieng Viet - Lop 5.docx",
   "name": "Tieng Viet - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 53841,
+  "size": 54342,
   "updated": "2026-09-07"
  }
 }

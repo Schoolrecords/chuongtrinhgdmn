@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 162
+  "integrations": 174
  },
  "lessons": [
   {
@@ -308,6 +308,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài Unit 1 My friends, GV mở tệp ghi âm phần hội thoại hỏi bạn đến từ đâu, chiếu tranh kèm lời thoại lên màn hình"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt hỏi đáp theo cặp của HS rồi mở lại; các em nghe và tự đánh giá theo hai tiêu chí chiếu trên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -329,6 +344,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần luyện tập của bài Unit 1 My friends, GV mở bài tập tương tác nghe chọn tranh đúng và điền từ còn thiếu vào câu hỏi"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi nhóm làm một tấm thẻ giới thiệu bạn gồm tên, đất nước và một câu về bạn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thẻ giới thiệu chỉ ghi tên gọi ở lớp và sở thích, không ghi địa chỉ nhà"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -352,6 +382,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Vào bài Unit 2 Time and daily routines, GV chiếu mặt đồng hồ số cùng tranh sinh hoạt trong ngày và mở tệp ghi âm mẫu câu hỏi"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bảng thời gian biểu trống của lớp lên màn hình; từng cặp HS hỏi đáp giờ bạn thức dậy, đi học"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng thời gian biểu chỉ ghi giờ sinh hoạt chung"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
@@ -373,6 +418,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần luyện tập hỏi và nói giờ, GV mở bài tập tương tác nghe rồi đánh dấu tranh đúng và kéo kim đồng hồ về giờ vừa"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV ghi âm lượt hỏi đáp giờ của vài cặp rồi mở cho cả lớp nghe; các em nhận xét bạn theo tiêu chí nói đủ câu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi ghi âm và xoá ngay sau tiết học"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3468,7 +3528,7 @@
   "file": "assets/docs/lop4/Tieng Anh - Lop 4.docx",
   "name": "Tieng Anh - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46269,
+  "size": 46832,
   "updated": "2026-09-07"
  }
 }

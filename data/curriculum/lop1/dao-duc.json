@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 37
+  "integrations": 40
  },
  "lessons": [
   {
@@ -104,7 +104,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu phóng to tranh Khám phá của bài “Em tắm, gội sạch sẽ” cho HS so sánh hai bạn trong tranh"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV mở bài tập tương tác kéo các bước tắm, gội về đúng thứ tự; máy báo đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy do cô giáo bấm, HS chờ đến lượt được mời, không tranh nhau chạm màn hình"
+    }
+   ],
    "note": ""
   },
   {
@@ -1058,7 +1074,7 @@
   "file": "assets/docs/lop1/Dao duc - Lop 1.docx",
   "name": "Dao duc - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43139,
+  "size": 43279,
   "updated": "2026-09-07"
  }
 }

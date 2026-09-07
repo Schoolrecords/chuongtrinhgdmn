@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 11
+  "integrations": 14
  },
  "lessons": [
   {
@@ -94,7 +94,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu các mảnh cắt từ tranh và phóng to từng mảng để HS gọi tên yếu tố tạo hình nổi bật là chấm, nét"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Hoàn thành sản phẩm, HS chụp ảnh bài của mình, viết một câu nêu ý tưởng và yếu tố tạo hình đã dùng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ chụp sản phẩm, không chụp mặt bạn; ảnh lưu trong máy của lớp"
+    }
+   ],
    "note": ""
   },
   {
@@ -912,7 +928,7 @@
   "file": "assets/docs/lop5/Mi thuat - Lop 5.docx",
   "name": "Mi thuat - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42246,
+  "size": 42400,
   "updated": "2026-09-07"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 54
+  "integrations": 60
  },
  "lessons": [
   {
@@ -165,6 +165,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu sơ đồ nhìn từ trên xuống có mũi tên chỉ đường đi của từng tổ khi biến đổi từ một hàng dọc thành hai hàng dọc"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu lại đoạn video mẫu ở pha HS hay sai, dừng hình lúc tách hàng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi xem màn hình ngoài sân, HS đứng đúng vị trí tổ mình, không chen lấn"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
@@ -186,6 +201,21 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu sơ đồ nhìn từ trên xuống cho phần biến đổi từ một hàng dọc thành ba hàng dọc và ngược lại"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV dùng điện thoại quay một lượt biến đổi đội hình của lớp rồi chiếu lại; HS xem và chỉ ra hàng nào còn so le"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV hỏi ý kiến HS trước khi quay, clip chỉ mở trong giờ học rồi xoá"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1723,7 +1753,7 @@
   "file": "assets/docs/lop3/Giao duc the chat - Lop 3.docx",
   "name": "Giao duc the chat - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 43714,
+  "size": 43957,
   "updated": "2026-09-07"
  }
 }

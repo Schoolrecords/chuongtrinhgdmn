@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 94
+  "integrations": 101
  },
  "lessons": [
   {
@@ -239,9 +239,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
+     "text": "Theo chủ điểm giao lưu tài năng học trò “Nụ cười lan toả niềm vui”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Clip chỉ quay tiết mục khi bạn đồng ý, dùng trong phạm vi nhà trường"
     }
    ],
    "note": ""
@@ -260,6 +265,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Ở chủ đề “Nhận diện bản thân”, HS làm một trang chiếu nhỏ giới thiệu mình gồm ba mục: sở thích"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Khi chia sẻ tình huống khiến mình có cảm xúc tích cực hay tiêu cực"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Trang chiếu chỉ nói về sở thích và khả năng, không ghi địa chỉ, số điện thoại"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -281,7 +301,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "GV tổ chức tổng kết tuần gắn với nội dung “Điều chỉnh cảm xúc”: dùng bảng theo dõi thi đua trên máy"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS trình chiếu ảnh, sản phẩm của tuần để cả lớp nhìn lại; mỗi bạn nói một lời ghi nhận cụ thể dành cho một bạn khác."
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nhận xét bạn phải tế nhị, dựa trên việc làm cụ thể chứ không chê con người"
+    }
+   ],
    "note": ""
   },
   {
@@ -2500,7 +2536,7 @@
   "file": "assets/docs/lop4/Hoat dong trai nghiem - Lop 4.docx",
   "name": "Hoat dong trai nghiem - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46812,
+  "size": 47118,
   "updated": "2026-09-07"
  }
 }

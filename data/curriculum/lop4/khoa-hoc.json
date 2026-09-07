@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 38
+  "integrations": 44
  },
  "lessons": [
   {
@@ -170,6 +170,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở bài về ô nhiễm và bảo vệ nguồn nước, GV chiếu ảnh chụp cùng một dòng sông trước và sau khi bị ô nhiễm kèm vài số"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu các tình huống thường gặp như đổ dầu mỡ xuống cống, vứt rác ra kênh, dùng phân bón quá mức"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Số liệu, hình ảnh phải lấy từ nguồn thầy cô giới thiệu và nói rõ lấy ở đâu"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
@@ -190,7 +205,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở phần sử dụng tiết kiệm nước và làm sạch nước, GV chiếu bảng lượng nước một gia đình dùng mỗi ngày và sơ đồ các bước lọc"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu các việc nên và không nên làm khi dùng nước, cho HS chọn rồi giải thích"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thí nghiệm lọc nước chỉ để quan sát, nước sau lọc không được uống"
+    }
+   ],
    "note": ""
   },
   {
@@ -1621,7 +1652,7 @@
   "file": "assets/docs/lop4/Khoa hoc - Lop 4.docx",
   "name": "Khoa hoc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 44313,
+  "size": 44633,
   "updated": "2026-09-07"
  }
 }

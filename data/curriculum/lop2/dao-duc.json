@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 30
+  "integrations": 32
  },
  "lessons": [
   {
@@ -103,7 +103,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "hình ảnh, tư liệu về quê hương/đất nước phải lấy từ nguồn chính thống và đặt trang trọng."
+     "text": "GV mở video bài hát “Màu xanh quê hương” và chiếu bộ ảnh cảnh vật quê mình như cánh đồng, con đường làng, mái trường, dòng sông"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Khi kể lại câu chuyện “Tình quê” theo tranh chiếu trên màn hình, HS kể nối tiếp trong nhóm rồi một nhóm kể trước lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video và ảnh do cô mở, HS ngồi tại chỗ xem; ảnh quê hương chỉ dùng để học"
     },
     {
      "code": "QPAN",
@@ -1017,7 +1027,7 @@
   "file": "assets/docs/lop2/Dao duc - Lop 2.docx",
   "name": "Dao duc - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 42979,
+  "size": 43123,
   "updated": "2026-09-07"
  }
 }
