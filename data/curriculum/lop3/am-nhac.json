@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 21
+  "integrations": 20
  },
  "lessons": [
   {
@@ -104,7 +104,7 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở tiết học hát Quốc ca Việt Nam, GV mở bản thu Quốc ca chính thức và video về ý nghĩa lá cờ Tổ quốc; HS nghe trọn bài một lượt; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở lại bản thu theo từng câu hát, dừng đúng chỗ HS hay hát sai nhịp hoặc sai lời để cả lớp nghe kĩ rồi hát lại theo",
    "integrations": [
     {
      "code": "QPAN",
@@ -126,7 +126,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.2 CB1a: HS chia sẻ cảm nhận của mình trong nhóm, biết nghe bạn nói hết ý rồi mới nêu ý kiến",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở tiết học hát Quốc ca Việt Nam, GV mở bản thu Quốc ca chính thức và video về ý nghĩa lá cờ Tổ quốc; HS nghe trọn bài một lượt; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở lại bản thu theo từng câu hát, dừng đúng chỗ HS hay hát sai nhịp hoặc sai lời để cả lớp nghe kĩ rồi hát lại theo",
    "integrations": [
     {
      "code": "QPAN",
@@ -148,8 +148,13 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở tiết học nhạc cụ ma-ra-cát, GV mở bản thu âm sắc của ma-ra-cát cùng thanh phách, song loan, trống nhỏ cho HS nghe mà không nhìn thấy nhạc cụ; HS gõ ma-ra-cát theo mẫu, khi lệch phách thì GV dừng nhạc đúng chỗ đó cho các em nghe lại và tự…",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu mẫu tiết tấu và mở nhạc nền chậm dần đều"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -197,7 +202,7 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở tiết học bài hát “Vui đến trường”, GV mở bản thu bài hát và chiếu hình tiết tấu phóng to; HS nghe trọn bài một lượt; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở lại bản thu theo từng câu hát, dừng đúng chỗ HS hay hát sai lời hoặc sai nhịp để cả lớp nghe kĩ rồi hát lại theo",
    "integrations": [],
    "note": ""
   },
@@ -213,7 +218,7 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở tiết học bài hát “Vui đến trường”, GV mở bản thu bài hát và chiếu hình tiết tấu phóng to; HS nghe trọn bài một lượt; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở lại bản thu theo từng câu hát, dừng đúng chỗ HS hay hát sai lời hoặc sai nhịp để cả lớp nghe kĩ rồi hát lại theo",
    "integrations": [],
    "note": ""
   },
@@ -272,7 +277,7 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở tiết học bài hát “Khúc nhạc trên nương xa”, GV mở bản thu bài hát và chiếu tranh các nhạc cụ dân tộc; HS nghe trọn bài một lượt; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở lại bản thu theo từng câu hát, dừng đúng chỗ HS hay hát sai lời hoặc sai nhịp để cả lớp nghe kĩ rồi hát lại theo",
    "integrations": [],
    "note": ""
   },
@@ -288,14 +293,8 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Mở nhạc nền rồi dừng đúng chỗ HS gõ lệch phách để cả lớp nghe lại."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở tiết học bài hát “Khúc nhạc trên nương xa”, GV mở bản thu bài hát và chiếu tranh các nhạc cụ dân tộc; HS nghe trọn bài một lượt; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở lại bản thu theo từng câu hát, dừng đúng chỗ HS hay hát sai lời hoặc sai nhịp để cả lớp nghe kĩ rồi hát lại theo",
+   "integrations": [],
    "note": ""
   },
   {
@@ -385,7 +384,7 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động mở đầu bài hát “Đón xuân về”, GV chiếu hình ảnh về ngày Tết và mở bản hát mẫu từ học liệu số của bộ sách; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động luyện hát, GV dùng điện thoại ghi âm phần hát của từng tổ rồi mở lại cho cả lớp nghe",
    "integrations": [],
    "note": ""
   },
@@ -401,7 +400,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động mở đầu bài hát “Đón xuân về”, GV chiếu hình ảnh về ngày Tết và mở bản hát mẫu từ học liệu số của bộ sách; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động luyện hát, GV dùng điện thoại ghi âm phần hát của từng tổ rồi mở lại cho cả lớp nghe",
    "integrations": [],
    "note": ""
   },
@@ -466,7 +465,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động mở đầu bài hát “Đẹp mãi tuổi thơ”, GV mở bản hát mẫu từ học liệu số của bộ sách, cho nghe trọn một lượt rồi nghe lại từng câu; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động luyện hát, GV ghi âm phần hát của từng tổ rồi mở lại cho cả lớp nghe; các em tự nhận ra chỗ hát chưa đúng cao độ hoặc vào nhịp…",
    "integrations": [],
    "note": ""
   },
@@ -482,7 +481,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động mở đầu bài hát “Đẹp mãi tuổi thơ”, GV mở bản hát mẫu từ học liệu số của bộ sách, cho nghe trọn một lượt rồi nghe lại từng câu; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động luyện hát, GV ghi âm phần hát của từng tổ rồi mở lại cho cả lớp nghe; các em tự nhận ra chỗ hát chưa đúng cao độ hoặc vào nhịp…",
    "integrations": [],
    "note": ""
   },
@@ -498,7 +497,7 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động mở đầu trò chơi Ban nhạc lớp Ba, GV trình chiếu các hình tiết tấu đã học kèm hình nhạc cụ minh hoạ; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động luyện tập, GV ghi âm phần gõ đệm của từng nhóm rồi mở lại cho cả lớp nghe; các em tự nhận ra chỗ gõ chưa đều",
    "integrations": [],
    "note": ""
   },
@@ -541,7 +540,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động mở đầu bài hát “Con chim non”, GV mở bản thu bài Chúc mừng kèm hình ảnh minh hoạ để HS nghe, vận động theo nhịp và cảm nhận nhịp ba; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động luyện hát, GV ghi âm phần hát của từng tổ rồi mở lại cho cả lớp nghe; các em tự nhận ra chỗ hát chưa đúng nhịp ba hoặc lấy hơi…",
    "integrations": [],
    "note": ""
   },
@@ -557,7 +556,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động mở đầu bài hát “Con chim non”, GV mở bản thu bài Chúc mừng kèm hình ảnh minh hoạ để HS nghe, vận động theo nhịp và cảm nhận nhịp ba; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động luyện hát, GV ghi âm phần hát của từng tổ rồi mở lại cho cả lớp nghe; các em tự nhận ra chỗ hát chưa đúng nhịp ba hoặc lấy hơi…",
    "integrations": [],
    "note": ""
   },
@@ -616,7 +615,7 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động mở đầu bài hát “Hè về vui quá”, GV mở bản thu bài Mùa hoa phượng nở kèm hình ảnh mùa hè để HS nghe, vỗ tay theo nhịp; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động luyện hát, GV ghi âm phần hát của từng tổ rồi mở lại cho cả lớp nghe; các em tự nhận ra chỗ hát chưa đúng cao độ hoặc lấy hơi…",
    "integrations": [],
    "note": ""
   },
@@ -632,14 +631,8 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động nhạc cụ, GV chiếu hình tiết tấu lên màn hình."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động mở đầu bài hát “Hè về vui quá”, GV mở bản thu bài Mùa hoa phượng nở kèm hình ảnh mùa hè để HS nghe, vỗ tay theo nhịp; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động luyện hát, GV ghi âm phần hát của từng tổ rồi mở lại cho cả lớp nghe; các em tự nhận ra chỗ hát chưa đúng cao độ hoặc lấy hơi…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -970,13 +963,13 @@
   "file": "assets/docs/lop3/Am nhac - Lop 3.docx",
   "name": "Am nhac - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 43033,
+  "size": 43694,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Am nhac - Lop 3.xlsx",
   "name": "Am nhac - Lop 3.xlsx",
-  "size": 8846,
+  "size": 9562,
   "updated": "2026-09-08"
  }
 }

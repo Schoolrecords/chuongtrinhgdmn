@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 26
+  "integrations": 25
  },
  "lessons": [
   {
@@ -203,14 +203,8 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Vượt qua khó khăn”, GV chiếu một hai câu chuyện có thật về tấm gương vượt khó do thầy cô."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài “Vượt qua khó khăn”, GV chiếu một hai câu chuyện có thật về tấm gương vượt khó do thầy cô chọn từ nguồn tin cậy, kèm ảnh minh hoạ; HS đọc; Năng lực số Miền 2 (Cơ bản, bậc 2): GV gõ lên màn hình những khó khăn HS nêu cùng cách khắc phục mà các bạn góp ý, thành bảng hai cột",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1001,13 +995,13 @@
   "file": "assets/docs/lop5/Dao duc - Lop 5.docx",
   "name": "Dao duc - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42670,
+  "size": 42781,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop5/Dao duc - Lop 5.xlsx",
   "name": "Dao duc - Lop 5.xlsx",
-  "size": 8450,
+  "size": 8571,
   "updated": "2026-09-08"
  }
 }

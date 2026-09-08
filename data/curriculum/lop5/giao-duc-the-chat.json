@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 44
+  "integrations": 46
  },
  "lessons": [
   {
@@ -232,8 +232,13 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu video mẫu động tác chân với gậy, cho chạy chậm và dừng hình ở nhịp khuỵu gối, nhịp đưa gậy ngang vai; HS quan sát cách cầm gậy; HS tự chấm theo tiêu chí chiếu sẵn là đúng nhịp, đủ biên độ, gậy giữ ngang",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 5 (Cơ bản, bậc 2): GV quay một lượt tập của từng tổ rồi chiếu lại"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -298,12 +303,12 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu video mẫu động tác nhảy và động tác điều hoà với gậy, cho chạy chậm và dừng hình ở nhịp bật nhảy, nhịp hạ gậy thả lỏng; HS tự chấm theo tiêu chí chiếu sẵn là bật đúng nhịp, tiếp đất êm, gậy giữ ổn định",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Quay một lượt tập của từng tổ."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 5 (Cơ bản, bậc 2): GV quay một lượt tập của từng tổ rồi chiếu lại"
     },
     {
      "code": "KNS",
@@ -363,8 +368,14 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu video mẫu động tác chân với gậy, cho chạy chậm và dừng hình ở nhịp khuỵu gối, nhịp đưa gậy ngang vai; HS quan sát cách cầm gậy; HS tự chấm theo tiêu chí chiếu sẵn là đúng nhịp, đủ biên độ, gậy giữ ngang",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 5 (Cơ bản, bậc 2): GV quay một lượt tập của từng tổ rồi chiếu lại"
+    }
+   ],
    "note": ""
   },
   {
@@ -395,8 +406,14 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu video mẫu động tác toàn thân với gậy, cho chạy chậm và dừng hình ở nhịp gập thân, nhịp đưa gậy lên cao; HS quan sát trình tự phối hợp tay, thân; HS tự chấm theo tiêu chí chiếu sẵn là đúng trình tự, đủ biên độ, gậy giữ đúng hướng",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 5 (Cơ bản, bậc 2): GV quay một lượt tập của từng tổ rồi chiếu lại"
+    }
+   ],
    "note": ""
   },
   {
@@ -427,8 +444,14 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu video mẫu động tác nhảy và động tác điều hoà với gậy, cho chạy chậm và dừng hình ở nhịp bật nhảy, nhịp hạ gậy thả lỏng; HS tự chấm theo tiêu chí chiếu sẵn là bật đúng nhịp, tiếp đất êm, gậy giữ ổn định",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 5 (Cơ bản, bậc 2): GV quay một lượt tập của từng tổ rồi chiếu lại"
+    }
+   ],
    "note": ""
   },
   {
@@ -541,7 +564,7 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hình thành kiến thức bài hoàn thiện phối hợp lăn và lộn xuôi, GV chiếu trên tivi video kĩ thuật; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lại lượt tập của vài HS rồi chiếu chậm; cả nhóm cùng chỉ ra lỗi làm động tác chưa liền mạch như dừng lâu giữa hai động tác",
    "integrations": [
     {
      "code": "KNS",
@@ -585,7 +608,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hình thành kiến thức bài hoàn thiện phối hợp lăn và lộn xuôi, GV chiếu trên tivi video kĩ thuật; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lại lượt tập của vài HS rồi chiếu chậm; cả nhóm cùng chỉ ra lỗi làm động tác chưa liền mạch như dừng lâu giữa hai động tác",
    "integrations": [
     {
      "code": "KNS",
@@ -629,7 +652,7 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hình thành kiến thức của bài “Lộn xuôi: Vận dụng rèn luyện sức khoẻ”, GV chiếu trên tivi đoạn video kĩ thuật lộn xuôi; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lại vài lượt lộn xuôi của HS bằng điện thoại rồi chiếu chậm, cả nhóm cùng chỉ ra lỗi thường gặp như chưa cuộn tròn lưng",
    "integrations": [
     {
      "code": "KNS",
@@ -673,7 +696,7 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hình thành kiến thức bài hoàn thiện phối hợp lăn và lộn xuôi, GV chiếu trên tivi video kĩ thuật; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lại lượt tập của vài HS rồi chiếu chậm; cả nhóm cùng chỉ ra lỗi làm động tác chưa liền mạch như dừng lâu giữa hai động tác",
    "integrations": [
     {
      "code": "KNS",
@@ -717,13 +740,8 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hình thành kiến thức bài hoàn thiện phối hợp lăn và lộn xuôi, GV chiếu trên tivi video kĩ thuật; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lại lượt tập của vài HS rồi chiếu chậm; cả nhóm cùng chỉ ra lỗi làm động tác chưa liền mạch như dừng lâu giữa hai động tác",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Hình thành kiến thức bài hoàn thiện phối hợp lăn và lộn xuôi, GV chiếu trên tivi video kĩ thuật."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -842,7 +860,7 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hình thành kiến thức bài “Leo: Phối hợp leo”, GV chiếu trên tivi video kĩ thuật leo, cho chạy chậm và dừng ở chỗ tay bám; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lại lượt leo của vài HS rồi chiếu chậm; cả nhóm cùng chỉ ra lỗi hay gặp như bám tay quá xa",
    "integrations": [
     {
      "code": "KNS",
@@ -974,7 +992,7 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hình thành kiến thức bài “Trèo: Phối hợp trèo”, GV chiếu trên tivi video kĩ thuật, cho chạy chậm và dừng ở chỗ tay bám; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lượt trèo của vài HS rồi chiếu chậm; cả nhóm cùng chỉ ra lỗi hay gặp như hai tay rời thang cùng lúc, mắt nhìn xuống chân",
    "integrations": [
     {
      "code": "KNS",
@@ -1056,7 +1074,7 @@
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hình thành kiến thức bài “Dẫn bóng di chuyển và dẫn bóng thay đổi tốc độ”, GV chiếu trên tivi video kĩ thuật; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lượt dẫn bóng của vài HS rồi chiếu chậm; cả nhóm cùng chỉ ra lỗi hay gặp như để bóng nảy quá cao khi chạy nhanh",
    "integrations": [],
    "note": ""
   },
@@ -1088,7 +1106,7 @@
    "periodTo": 52,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hoàn thiện dẫn bóng thay đổi tốc độ và theo đường vòng, GV chiếu trên tivi sơ đồ đường vòng nhìn từ trên xuống kèm mũi tên chỉ hướng; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lượt dẫn bóng của vài HS rồi chiếu chậm; cả nhóm cùng chỉ ra lỗi hay gặp như để bóng văng ra ngoài khi ôm vòng",
    "integrations": [],
    "note": ""
   },
@@ -1168,14 +1186,8 @@
    "periodTo": 57,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Làm quen động tác ném rổ bằng một tay trên vai tại chỗ” và giao cho mỗi tổ một việc quan sát riêng."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Hình thành kiến thức bài “Chuyền và bắt bóng bằng hai tay trên cao”, GV chiếu trên tivi video kĩ thuật; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Luyện tập, GV quay lượt chuyền bóng của vài cặp rồi chiếu chậm; cả nhóm cùng chỉ ra lỗi hay gặp như chuyền quá mạnh, tay đón bóng cứng",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1672,13 +1684,13 @@
   "file": "assets/docs/lop5/Giao duc the chat - Lop 5.docx",
   "name": "Giao duc the chat - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 44129,
+  "size": 44821,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop5/Giao duc the chat - Lop 5.xlsx",
   "name": "Giao duc the chat - Lop 5.xlsx",
-  "size": 10587,
+  "size": 11362,
   "updated": "2026-09-08"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 210,
-  "integrations": 104
+  "integrations": 92
  },
  "lessons": [
   {
@@ -89,7 +89,7 @@
    "periodTo": 5,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV mở bản đọc mẫu bài “Cánh đồng hoa” và chiếu vài hình ảnh về làng quê, cánh đồng hoa của người Chăm trên tivi; HS nghe; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần vận dụng, GV chiếu bảng việc nên làm / không nên làm để giữ khu phố sạch đẹp trên bài tập tương tác; HS kéo thả hoặc giơ thẻ chọn",
    "integrations": [],
    "note": ""
   },
@@ -208,7 +208,7 @@
    "periodTo": 12,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV mở bài hát Con sông tuổi thơ tôi rồi bản đọc mẫu bài “Bến sông tuổi thơ” trên tivi; HS nghe, ghi lại từ ngữ tả tâm trạng nhân vật; Năng lực số Miền 5 (Cơ bản, bậc 2): Khi tóm tắt văn bản, GV chiếu sơ đồ bố cục ba phần còn trống trên tivi; HS thảo luận nhóm chia đoạn, đặt tên cho từng phần và ghi vào phiếu",
    "integrations": [],
    "note": ""
   },
@@ -262,14 +262,8 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Trước bài đọc “Tiếng hạt nảy mầm”, GV mở vài âm thanh quen thuộc cho HS đoán tên sự vật."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Tiếng hạt nảy mầm”, GV mở vài âm thanh quen thuộc cho HS đoán tên sự vật, sau đó chiếu tranh minh hoạt và đoạn thơ phóng to; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm từng khổ thơ của một vài HS rồi mở lại; cả lớp nghe và nhận xét theo tiêu chí ngắt nhịp đúng",
+   "integrations": [],
    "note": ""
   },
   {
@@ -328,7 +322,7 @@
    "periodTo": 19,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Ngôi sao sân cỏ”, GV chiếu ảnh vài môn thể thao và một đoạn phim ngắn về trận bóng của thiếu nhi; HS gọi tên môn thể thao mình thích; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc phân vai của các nhóm rồi mở lại cho cả lớp nghe; HS nhận xét theo tiêu chí đọc rõ, ngắt nghỉ đúng",
    "integrations": [],
    "note": ""
   },
@@ -382,13 +376,8 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Bộ sưu tập độc đáo”, GV chiếu tranh minh hoạ phóng to cùng vài ảnh bộ sưu tập quen thuộc như tem, vỏ sò, mô hình; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm của vài HS rồi mở lại cho cả lớp nghe; các em nhận xét theo tiêu chí chiếu sẵn là ngắt nghỉ đúng chỗ",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Ghi âm lượt đọc diễn cảm của vài."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -447,7 +436,7 @@
    "periodTo": 26,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Hành tinh kì lạ”, GV chiếu vài hình ảnh các hành tinh trong hệ Mặt Trời do thầy cô chọn từ nguồn tin cậy; HS quan sát; Năng lực số Miền 6 (Cơ bản, bậc 2): GV gõ cho công cụ trí tuệ nhân tạo vẽ thử một hành tinh theo lời tả của HS rồi chiếu lên",
    "integrations": [],
    "note": ""
   },
@@ -495,14 +484,8 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Vào chủ điểm Thiên nhiên kì thú với bài thơ “Trước cổng trời”, GV chiếu ảnh vùng núi cao, thung lũng và."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào chủ điểm Thiên nhiên kì thú với bài thơ “Trước cổng trời”, GV chiếu ảnh vùng núi cao, thung lũng và rừng già do thầy cô chọn từ nguồn tin cậy; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm từng khổ thơ của một vài HS rồi mở lại; cả lớp nhận xét theo tiêu chí chiếu sẵn là ngắt nhịp thơ đúng",
+   "integrations": [],
    "note": ""
   },
   {
@@ -561,7 +544,7 @@
    "periodTo": 33,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Kì diệu rừng xanh”, GV chiếu đoạn phim ngắn về rừng nguyên sinh với nấm, cây cổ thụ, muông thú; Năng lực số Miền 5 (Cơ bản, bậc 2): Sau bài đọc, GV chiếu bảng hai cột việc làm hại rừng và việc bảo vệ rừng; HS xếp các hành động vào đúng cột",
    "integrations": [],
    "note": ""
   },
@@ -729,14 +712,8 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Trước bài thơ “Mầm non”, GV chiếu một đoạn phim tua nhanh cảnh mầm cây nhú lên khi trời chuyển từ đông sang xuân."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài thơ “Mầm non”, GV chiếu một đoạn phim tua nhanh cảnh mầm cây nhú lên khi trời chuyển từ đông sang xuân; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm từng khổ thơ của vài HS rồi mở lại; cả lớp nhận xét theo tiêu chí chiếu sẵn là ngắt nhịp thơ đúng và thể hiện được…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -849,14 +826,8 @@
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Ghi âm lượt đọc diễn cảm của một vài."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Bài ca về mặt trời”, GV chiếu đoạn phim hoạt hình Thần Gió và Mặt Trời rồi dừng ở cảnh hai nhân vật thi tài; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm của một vài HS rồi mở lại cho cả lớp nghe; các em nhận xét theo tiêu chí chiếu sẵn là ngắt nghỉ đúng và giọng đọc…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1017,7 +988,7 @@
    "periodTo": 61,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Khi ôn về từ đa nghĩa, GV mở từ điển tiếng Việt bản điện tử và gõ một từ nhiều nghĩa như từ chân, từ mắt; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nối câu với nghĩa đúng của từ nhiều nghĩa trong câu đó; máy chấm ngay nên HS nhận ra mình còn nhầm nghĩa chuyển với từ đồng âm",
    "integrations": [],
    "note": ""
   },
@@ -1065,14 +1036,8 @@
    "periodTo": 64,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Ghi âm lượt đọc diễn cảm của vài."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Thư gửi các học sinh”, GV chiếu tranh chủ điểm và ảnh tư liệu ngày khai giảng đầu tiên của nước ta sau năm 1945 do thầy cô chọn từ nguồn…; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm của vài HS rồi mở lại cho cả lớp nghe; các em nhận xét theo tiêu chí chiếu sẵn là đọc trang trọng",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1131,7 +1096,7 @@
    "periodTo": 68,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Tấm gương tự học”, GV chiếu tư liệu ngắn về một vài tấm gương tự học do thầy cô chọn từ nguồn tin cậy; HS đọc; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi HS lập một bảng tự học trong tuần trên máy hoặc trong vở gồm việc cần học, thời gian, kết quả tự đánh giá",
    "integrations": [],
    "note": ""
   },
@@ -1185,14 +1150,8 @@
    "periodTo": 71,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Trước bài đọc “Trải nghiệm để sáng tạo”."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Trải nghiệm để sáng tạo”, GV chiếu vài ví dụ về sản phẩm ra đời từ quan sát thực tế như chiếc dù lấy ý tưởng từ quả bồ công anh; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm của vài HS rồi mở lại cho cả lớp nghe; các em nhận xét theo tiêu chí chiếu sẵn là đọc rõ ý",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1251,7 +1210,7 @@
    "periodTo": 75,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Khổ luyện thành tài”, GV chiếu một vài bức tranh của danh hoạ Lê-ô-na-đô đa Vin-xi cùng bản phác thảo trứng thời ông học vẽ; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi HS lập bảng theo dõi một việc mình muốn luyện trong hai tuần gồm ngày, số lần luyện, kết quả tự nhận xét",
    "integrations": [],
    "note": ""
   },
@@ -1299,14 +1258,8 @@
    "periodTo": 78,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Ghi âm lượt đọc diễn cảm của vài."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Thế giới trong trang sách”, GV chiếu bìa và vài trang minh hoạ của những cuốn sách thiếu nhi quen thuộc; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm của vài HS rồi mở lại cho cả lớp nghe; các em nhận xét theo tiêu chí chiếu sẵn là ngắt nghỉ đúng và giọng đọc thể…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1365,7 +1318,7 @@
    "periodTo": 82,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc “Từ những câu chuyện ấu thơ”, GV chiếu tranh minh hoạ vài truyện cổ tích quen thuộc; HS kể nhanh câu chuyện mình được nghe từ bé và nói bài học…; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi nhóm làm một trang giới thiệu câu chuyện tuổi thơ của mình: chọn tranh minh hoạ, viết ba câu tóm tắt và một câu nêu bài học",
    "integrations": [],
    "note": ""
   },
@@ -1419,14 +1372,8 @@
    "periodTo": 85,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Trước bài giới thiệu sách “Dế Mèn phiêu lưu kí”, GV chiếu bìa sách, vài trang minh hoạ."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài giới thiệu sách “Dế Mèn phiêu lưu kí”, GV chiếu bìa sách, vài trang minh hoạ và thông tin tác giả do thầy cô chuẩn bị; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi nhóm làm một tấm thẻ giới thiệu cuốn sách mình thích gồm tên sách, tác giả, ba câu tóm tắt và một câu mời bạn đọc",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1485,7 +1432,7 @@
    "periodTo": 89,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài đọc về tinh thần học tập, GV chiếu tư liệu ngắn và ảnh về nhân vật trong bài do thầy cô chọn từ nguồn tin cậy; HS đọc; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm của vài HS rồi mở lại cho cả lớp nghe; các em nhận xét theo tiêu chí chiếu sẵn là đọc rõ ý",
    "integrations": [],
    "note": ""
   },
@@ -1533,14 +1480,8 @@
    "periodTo": 92,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Ghi âm lượt đọc diễn cảm từng khổ thơ của vài."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trước bài thơ “Tiếng đàn ba-la-lai-ca trên sông Đà”, GV cho HS nghe một đoạn nhạc đàn ba-la-lai-ca và chiếu ảnh công trình thuỷ điện Hoà Bình do thầy cô chọn từ nguồn tin…; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt đọc diễn cảm từng khổ thơ của vài HS rồi mở lại; cả lớp nhận xét theo tiêu chí chiếu sẵn là ngắt nhịp thơ đúng và thể hiện được…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1599,7 +1540,7 @@
    "periodTo": 96,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 6 (Cơ bản, bậc 2): Ở bài đọc về trí tưởng tượng, GV gõ cho công cụ trí tuệ nhân tạo tả thử một khung cảnh theo ý HS rồi chiếu kết quả; Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu bài đọc phóng to và tô màu những hình ảnh so sánh, nhân hoá trong bài; HS chỉ ra chi tiết nào là quan sát thật, chi tiết nào là tưởng tượng",
    "integrations": [],
    "note": ""
   },
@@ -1653,14 +1594,8 @@
    "periodTo": 99,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Khởi động và Luyện đọc bài “Tranh làng Hồ”, GV chiếu ảnh chụp một số bức tranh dân gian."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khởi động và Luyện đọc bài “Tranh làng Hồ”, GV chiếu ảnh chụp một số bức tranh dân gian làng Hồ như đám cưới chuột, lợn ăn cây ráy; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Đọc hiểu, GV chiếu bảng nối “Chi tiết trong bài; Bức tranh tương ứng”; HS đọc thầm, tìm câu văn tả từng bức rồi lên nối trên màn hình",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1881,13 +1816,8 @@
    "periodTo": 113,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khởi động bài “Một ngôi chùa độc đáo”, GV chiếu ảnh một số công trình kiến trúc kèm chú thích tên và nơi có công trình, phóng to chi tiết mái; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Đọc hiểu, GV chiếu bảng “Chi tiết trong bài; Điều làm nên nét độc đáo”; HS đọc thầm, tìm câu văn tương ứng rồi lên điền",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Khởi động bài “Một ngôi chùa độc đáo”, GV chiếu ảnh một số công trình kiến trúc."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -3417,7 +3347,7 @@
    "periodTo": 210,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Đọc của tiết ôn tập cuối năm, GV chiếu văn bản lên màn hình, tô sáng những từ ngữ cần nhấn giọng và mở bản đọc mẫu để HS nghe cách…; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động đọc hiểu, GV chiếu bảng chung “Chi tiết trong bài; Điều em hiểu được”; các nhóm đọc thầm, tìm chi tiết rồi lên điền",
    "integrations": [
     {
      "code": "KNS",
@@ -3661,7 +3591,7 @@
    "periodTo": 224,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Đọc của tiết ôn tập cuối năm, GV chiếu văn bản lên màn hình, tô sáng những từ ngữ cần nhấn giọng và mở bản đọc mẫu để HS nghe cách…; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động đọc hiểu, GV chiếu bảng chung “Chi tiết trong bài; Điều em hiểu được”; các nhóm đọc thầm, tìm chi tiết rồi lên điền",
    "integrations": [
     {
      "code": "KNS",
@@ -3883,7 +3813,7 @@
    "periodTo": 238,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Đọc của tiết ôn tập cuối năm, GV chiếu văn bản lên màn hình, tô sáng những từ ngữ cần nhấn giọng và mở bản đọc mẫu để HS nghe cách…; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động đọc hiểu, GV chiếu bảng chung “Chi tiết trong bài; Điều em hiểu được”; các nhóm đọc thầm, tìm chi tiết rồi lên điền",
    "integrations": [
     {
      "code": "KNS",
@@ -3927,7 +3857,7 @@
    "periodTo": 240,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Đọc của tiết ôn tập cuối năm, GV chiếu văn bản lên màn hình, tô sáng những từ ngữ cần nhấn giọng và mở bản đọc mẫu để HS nghe cách…; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động đọc hiểu, GV chiếu bảng chung “Chi tiết trong bài; Điều em hiểu được”; các nhóm đọc thầm, tìm chi tiết rồi lên điền",
    "integrations": [],
    "note": ""
   },
@@ -4269,13 +4199,13 @@
   "file": "assets/docs/lop5/Tieng Viet - Lop 5.docx",
   "name": "Tieng Viet - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 50702,
+  "size": 52907,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop5/Tieng Viet - Lop 5.xlsx",
   "name": "Tieng Viet - Lop 5.xlsx",
-  "size": 19536,
+  "size": 21863,
   "updated": "2026-09-08"
  }
 }

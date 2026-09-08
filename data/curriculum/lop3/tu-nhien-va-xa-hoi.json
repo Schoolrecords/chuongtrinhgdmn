@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 25
+  "integrations": 22
  },
  "lessons": [
   {
@@ -136,12 +136,7 @@
     {
      "code": "GDĐP",
      "level": "",
-     "text": "Em đã làm gì để cho đường làng ngõ xóm nơi em ở sạch sẽ."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Vệ sinh xung quanh nhà”, GV chiếu bộ ảnh hai khu vực quanh nhà."
+     "text": "Em đã làm gì để cho đường làng ngõ xóm nơi em ở sạch sẽ.\nNăng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Vệ sinh xung quanh nhà”, GV chiếu bộ ảnh hai khu vực quanh nhà: một nơi sạch sẽ, một nơi có rác ứ đọng, vũng nước tù; HS quan sát\nNăng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu từng tình huống quanh nhà và cho HS chọn cách xử lí trên màn hình như đổ nước đọng trong lốp xe, thu gom rác vào thùng có nắp; máy báo đúng"
     },
     {
      "code": "KNS",
@@ -791,13 +786,8 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Chăm sóc và bảo vệ cơ quan tiêu hoá”, GV chiếu bộ ảnh thức ăn để hở có ruồi đậu, tay chưa rửa cầm thức ăn, nước lã; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác phân loại: máy hiện các việc làm, HS chọn việc giúp bảo vệ cơ quan tiêu hoá hay việc có hại rồi bấm…",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Chăm sóc và bảo vệ cơ quan tiêu hoá”, GV chiếu bộ ảnh thức ăn."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -872,13 +862,8 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Chăm sóc và bảo vệ cơ quan tuần hoàn”, GV chiếu ảnh so sánh lối sống có lợi và có hại cho tim: tập thể dục đều; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV chiếu tình huống bạn nhỏ hay tức ngực, tim đập nhanh sau khi chạy nhiều; HS chọn cách xử lí là nghỉ ngơi, uống nước",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Chăm sóc và bảo vệ cơ quan tuần hoàn”, GV chiếu ảnh so sánh lối sống."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -1553,13 +1538,13 @@
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.docx",
   "name": "Tu nhien va Xa hoi - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 44675,
+  "size": 45050,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.xlsx",
   "name": "Tu nhien va Xa hoi - Lop 3.xlsx",
-  "size": 11124,
+  "size": 11509,
   "updated": "2026-09-08"
  }
 }

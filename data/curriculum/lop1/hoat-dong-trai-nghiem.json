@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 67
+  "integrations": 62
  },
  "lessons": [
   {
@@ -121,7 +121,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần sinh hoạt theo chủ đề của tiết “SINH HOẠT SAO: SƠ KẾT TUẦN 2; PHƯƠNG HƯỚNG TUẦN 3”, GV chiếu ảnh chụp giờ học; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở phần khởi động và đánh giá, GV mở nhạc bài hát Em yêu trường em trên máy để cả lớp hát, vận động",
    "integrations": [
     {
      "code": "KNS",
@@ -462,13 +462,8 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 2 (Cơ bản, bậc 1): Trong giờ Sinh hoạt Sao sơ kết tuần 8, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 8, GV chiếu bảng theo dõi của lớp."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -719,13 +714,8 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 2 (Cơ bản, bậc 1): Trong giờ Sinh hoạt Sao sơ kết tuần 12, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 12, GV chiếu bảng theo dõi của lớp."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -849,14 +839,8 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 14, GV chiếu bảng theo dõi của lớp."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 2 (Cơ bản, bậc 1): Trong giờ Sinh hoạt Sao sơ kết tuần 14, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng",
+   "integrations": [],
    "note": ""
   },
   {
@@ -969,7 +953,7 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần Sơ kết tuần 16, GV chiếu bảng theo dõi thi đua của lớp lên màn hình với các cột đi học đúng giờ, trực nhật, giữ vở sạch; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở phần Phương hướng tuần 17, GV mở bảng chung còn trống trên màn hình, đại diện các tổ lần lượt lên ghi việc tổ mình nhận làm",
    "integrations": [],
    "note": ""
   },
@@ -1071,7 +1055,7 @@
    "periodTo": 54,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần Sơ kết tuần 18, GV chiếu bảng theo dõi thi đua của lớp lên màn hình với các cột đi học đúng giờ, trực nhật, giữ vở sạch; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở phần Phương hướng tuần 19, GV chiếu bộ ảnh bữa ăn hợp vệ sinh và thức ăn để hở ngoài đường gắn với nội dung an toàn thực phẩm",
    "integrations": [],
    "note": ""
   },
@@ -1173,7 +1157,7 @@
    "periodTo": 60,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần Sơ kết tuần 20, GV chiếu bảng theo dõi thi đua của lớp lên màn hình với các cột đi học đúng giờ, trực nhật, giữ vở sạch, giúp bạn; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở phần Phương hướng tuần 21, GV mở bảng chung còn trống trên màn hình, đại diện các tổ lần lượt lên ghi việc tổ mình nhận làm",
    "integrations": [],
    "note": ""
   },
@@ -1287,13 +1271,8 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần Sơ kết tuần 22, GV chiếu bảng theo dõi thi đua của lớp lên màn hình với các cột đi học đúng giờ, trực nhật, giữ vở sạch, giúp bạn; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở phần Phương hướng tuần 23, GV mở bảng chung còn trống trên màn hình, đại diện các tổ lần lượt lên ghi việc tổ mình nhận làm",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở phần Sơ kết tuần 22, GV chiếu bảng theo dõi thi đua của lớp lên màn hình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1406,13 +1385,8 @@
    "periodTo": 72,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần Sơ kết tuần 24, GV chiếu bảng theo dõi thi đua của lớp lên màn hình với các cột đi học đúng giờ, trực nhật, giữ vở sạch, giúp bạn; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở phần Phương hướng tuần 25, GV mở bảng chung còn trống trên màn hình, đại diện các tổ lần lượt lên ghi việc tổ mình nhận làm",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở phần Sơ kết tuần 24, GV chiếu bảng theo dõi thi đua của lớp lên màn hình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1632,7 +1606,7 @@
    "periodTo": 84,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần Sơ kết tuần 28, GV chiếu bảng theo dõi thi đua của lớp lên màn hình với các cột đi học đúng giờ, trực nhật, giữ vở sạch, giúp bạn; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở phần Phương hướng tuần 29, GV mở bảng chung còn trống trên màn hình, đại diện các tổ lần lượt lên ghi việc tổ mình nhận làm",
    "integrations": [],
    "note": ""
   },
@@ -1740,7 +1714,7 @@
    "periodTo": 90,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần Sơ kết tuần 30, GV chiếu bảng theo dõi thi đua của lớp lên màn hình với các cột đi học đúng giờ, trực nhật, giữ vở sạch, chăm sóc cây; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở phần Phương hướng tuần 31, GV mở bảng chung còn trống trên màn hình, đại diện các tổ lần lượt lên ghi việc tổ mình nhận làm",
    "integrations": [
     {
      "code": "KNS",
@@ -2362,13 +2336,13 @@
   "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.docx",
   "name": "Hoat dong trai nghiem - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 47015,
+  "size": 47308,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.xlsx",
   "name": "Hoat dong trai nghiem - Lop 1.xlsx",
-  "size": 13924,
+  "size": 14370,
   "updated": "2026-09-08"
  }
 }

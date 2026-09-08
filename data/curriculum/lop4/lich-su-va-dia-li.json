@@ -401,7 +401,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Bổ sung bài còn thiếu theo mục lục SGK (Tổ CM đối chiếu SGK)",
+   "adjustments": "Bổ sung bài còn thiếu theo mục lục SGK (Tổ CM đối chiếu SGK); Năng lực số Miền 1 (Cơ bản, bậc 2): HS tra số liệu dân số, mật độ dân cư của vùng trong bài “Dân cư và hoạt động sản xuất ở vùng đồng bằng Bắc Bộ” từ nguồn chính thống; Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu phim ngắn về hoạt động sản xuất tiêu biểu của vùng (trồng chè, khai thác khoáng sản, đánh bắt và nuôi trồng thuỷ sản, làm muối)",
    "integrations": [
     {
      "code": "QPAN",
@@ -461,7 +461,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được nét đặc sắc của lễ hội, nét văn hoá vùng miền nhờ phim tư liệu chính thống",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu phim tư liệu về “Một số nét văn hóa ở vùng đồng bằng Bắc Bộ” do đài truyền hình, cơ quan văn hoá công bố: phần lễ, phần hội, trang phục; Năng lực số Miền 3 (Cơ bản, bậc 2): HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu có ảnh và chú thích, hoặc đoạn thuyết minh ghi âm",
    "integrations": [
     {
      "code": "QPAN",
@@ -877,8 +877,14 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Tìm hiểu vùng đất hội tụ nhiều di sản của bài “Một số nét văn hoá ở vùng Bắc Trung Bộ và Nam Trung Bộ”; Nơi có; Nét đặc sắc”; các nhóm lên điền rồi đọc bảng của nhau",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động nhóm, GV chiếu bảng chung “Di sản"
+    }
+   ],
    "note": ""
   },
   {
@@ -909,17 +915,12 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Mở đầu bài “Truyền thống yêu nước, cách mạng của đồng bào Bắc Trung Bộ và Nam Trung Bộ”, GV chiếu trò chơi lật mảnh ghép trên màn hình; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động nhóm, GV chiếu bảng chung “Di tích, nhân vật; Nơi có; Điều đáng nhớ”; các nhóm lên điền rồi đọc bảng của nhau",
    "integrations": [
     {
      "code": "QPAN",
      "level": "",
      "text": "Giáo dục truyền thống dựng nước và giữ nước, tinh thần chống giặc ngoại xâm của dân tộc; bồi dưỡng niềm tự hào dân tộc và lòng biết ơn các anh hùng, liệt sĩ đã hi sinh bảo vệ Tổ quốc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với thiên tai thường gặp ở địa phương."
     }
    ],
    "note": ""
@@ -1576,13 +1577,13 @@
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.docx",
   "name": "Lich su va Dia li - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 44217,
+  "size": 44769,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.xlsx",
   "name": "Lich su va Dia li - Lop 4.xlsx",
-  "size": 10639,
+  "size": 11054,
   "updated": "2026-09-08"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 13
+  "integrations": 5
  },
  "lessons": [
   {
@@ -851,7 +851,7 @@
    "periodTo": 52,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài phép cộng các số có nhiều chữ số, GV chiếu bảng hàng phóng to rồi bấm hiện dần từng bước cộng từ hàng đơn vị sang hàng nghìn; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác đặt tính rồi tính với số có nhiều chữ số; máy chấm ngay và chỉ chỗ sai nên HS nhận ra mình viết lệch hàng hay quên nhớ",
    "integrations": [],
    "note": ""
   },
@@ -883,14 +883,8 @@
    "periodTo": 54,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Mở bài tập tương tác đặt tính."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Mở đầu bài phép trừ các số có nhiều chữ số, GV chiếu số lượt xem của hai đoạn phim thiếu nhi lên màn hình; HS đọc đúng số có sáu chữ số; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác đặt tính rồi tính phép trừ có nhớ nhiều lần; máy chấm ngay và chỉ chỗ sai nên HS nhận ra mình quên trả phần đã mượn hay…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -921,7 +915,7 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài tính chất giao hoán và kết hợp của phép cộng, GV chiếu bảng số liệu rồi bấm đổi chỗ hai số hạng, đổi cách nhóm các số; Năng lực số Miền 5 (Cơ bản, bậc 2): GV chiếu các dãy tính dài rồi cho HS chọn cách nhóm số sao cho tính nhanh nhất; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -1081,7 +1075,7 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài thực hành vẽ hai đường thẳng vuông góc, GV dùng phần mềm hình học chiếu từng bước vẽ: đặt ê ke trùng đường thẳng cho trước, kẻ theo cạnh vuông góc; Năng lực số Miền 5 (Cơ bản, bậc 2): GV chiếu vài hình vẽ có lỗi như đặt ê ke lệch, kẻ chưa qua điểm cho trước; HS chỉ ra lỗi",
    "integrations": [],
    "note": ""
   },
@@ -1145,7 +1139,7 @@
    "periodTo": 70,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động hướng dẫn vẽ của bài “Thực hành vẽ hai đường thẳng song song”, GV chiếu hình động các thao tác đặt ê ke và thước kẻ để vẽ đường thẳng CD…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Vận dụng, GV chiếu hình có sẵn các cặp cạnh, HS dự đoán cặp nào song song rồi kiểm tra lại bằng ê ke trên vở",
    "integrations": [],
    "note": ""
   },
@@ -1487,14 +1481,8 @@
    "periodTo": 91,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Khám phá bài “Nhân với số có một chữ số”, GV chiếu phép nhân đặt tính dọc lên màn."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khám phá bài “Nhân với số có một chữ số”, GV chiếu phép nhân đặt tính dọc lên màn hình và cho hiện dần từng lượt nhân, nhớ; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS đặt tính và tính ra vở trước rồi nhập kết quả vào máy; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1525,14 +1513,8 @@
    "periodTo": 93,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khám phá bài “Chia cho số có một chữ số”, GV chiếu phép chia đặt tính lên màn hình và cho hiện dần từng lượt chia, nhân, trừ; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS đặt tính và tính ra vở trước rồi nhập kết quả vào máy; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1563,7 +1545,7 @@
    "periodTo": 95,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khám phá bài “Tính chất giao hoán và kết hợp của phép nhân”, GV chiếu bảng hai cột giá trị lên màn hình rồi cho máy tính lần lượt a ×…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV chiếu các biểu thức dài, HS chọn cách nhóm thừa số cho tính nhẩm nhanh nhất rồi bấm kiểm tra",
    "integrations": [],
    "note": ""
   },
@@ -1611,14 +1593,8 @@
    "periodTo": 98,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Hình thành kiến thức bài “Nhân, chia với 10, 100, 1 000”, GV chiếu bảng các phép tính 36."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Hình thành kiến thức bài “Nhân, chia với 10, 100, 1 000”, GV chiếu bảng các phép tính 36 × 10, 36 × 100; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác tính nhẩm: HS nhẩm rồi nhập kết quả, máy báo sai thì các em nhìn lại bảng đã tô màu để đếm đúng…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1649,7 +1625,7 @@
    "periodTo": 100,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Hình thành kiến thức bài “Tính chất phân phối của phép nhân đối với phép cộng”, GV chiếu hình đội đồng diễn xếp thành các hàng rồi cho hiện hai cách…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV chiếu các biểu thức, HS chọn cách tính nhanh hơn rồi bấm kiểm tra; máy hiện kết quả cả hai cách để các em so sánh và giải…",
    "integrations": [],
    "note": ""
   },
@@ -1697,14 +1673,8 @@
    "periodTo": 103,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Hình thành kiến thức bài “Nhân số có hai chữ số”, GV chiếu phép nhân đặt tính dọc lên màn hình và cho hiện dần từng tích riêng; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS đặt tính và tính ra vở trước rồi nhập kết quả; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1751,7 +1721,7 @@
    "periodTo": 106,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Hình thành kiến thức bài “Chia cho số có hai chữ số”, GV chiếu tranh những chiếc thuyền và hành khách rồi hiện dần phép chia đặt tính; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS tính ra vở trước rồi nhập kết quả; khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2147,14 +2117,8 @@
    "periodTo": 130,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Khám phá bài “Rút gọn phân số”, GV chiếu hình băng giấy chia phần lên màn hình."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khám phá bài “Rút gọn phân số”, GV chiếu hình băng giấy chia phần lên màn hình rồi gộp dần các phần bằng nhau; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS rút gọn ra vở trước rồi nhập kết quả; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2185,7 +2149,7 @@
    "periodTo": 132,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khám phá bài “Quy đồng mẫu số các phân số”, GV chiếu hai băng giấy chia phần khác nhau lên màn hình rồi chia nhỏ dần cho tới khi hai băng…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS quy đồng ra vở trước rồi nhập kết quả; khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2313,14 +2277,8 @@
    "periodTo": 140,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Khám phá bài “Phép cộng phân số”, GV chiếu băng giấy đã tô màu một phần tám."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khám phá bài “Phép cộng phân số”, GV chiếu băng giấy đã tô màu một phần tám và một phần hai lên màn hình rồi chia nhỏ dần cho tới khi…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS cộng ra vở trước rồi nhập kết quả; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2383,7 +2341,7 @@
    "periodTo": 144,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khám phá bài “Phép trừ phân số”, GV chiếu hình chiếc bánh chia tám phần lên màn hình; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS trừ ra vở trước rồi nhập kết quả; khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2479,7 +2437,7 @@
    "periodTo": 150,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khám phá bài “Phép nhân phân số”, GV chiếu hình chữ nhật chia ô lên màn hình rồi tô màu lần lượt theo chiều dài và chiều rộng; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS nhân ra vở trước rồi nhập kết quả; khi máy báo sai, các em xem lại đã nhân đúng tử với tử",
    "integrations": [],
    "note": ""
   },
@@ -2543,14 +2501,8 @@
    "periodTo": 154,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Khám phá bài “Phép chia phân số”, GV chiếu hình băng giấy chia phần lên màn hình."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khám phá bài “Phép chia phân số”, GV chiếu hình băng giấy chia phần lên màn hình rồi cho thấy chia cho một phân số chính là nhân với phân số…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS chia ra vở trước rồi nhập kết quả; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -3169,13 +3121,13 @@
   "file": "assets/docs/lop4/Toan - Lop 4.docx",
   "name": "Toan - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 47332,
+  "size": 48643,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Toan - Lop 4.xlsx",
   "name": "Toan - Lop 4.xlsx",
-  "size": 15775,
+  "size": 17197,
   "updated": "2026-09-08"
  }
 }

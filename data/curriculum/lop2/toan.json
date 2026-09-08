@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 94
+  "integrations": 92
  },
  "lessons": [
   {
@@ -396,13 +396,8 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Bảng cộng qua 10”, GV chiếu bảng cộng trên màn hình rồi bấm hiện dần từng dòng theo thứ tự HS nêu; nhìn bảng lớn; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở trò chơi luyện bảng cộng có tự chấm: mỗi em trả lời rồi nhìn máy báo đúng, sai ngay để biết phép nào mình còn chậm",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Bảng cộng qua 10”, GV chiếu bảng cộng trên màn hình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -624,13 +619,8 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Bảng trừ qua 10”, GV chiếu bảng trừ trên màn hình rồi bấm hiện dần từng dòng theo thứ tự HS nêu; nhìn bảng lớn; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở trò chơi luyện bảng trừ có tự chấm: mỗi em trả lời rồi nhìn máy báo đúng, sai ngay để biết phép nào mình còn chậm",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Bảng trừ qua 10”, GV chiếu bảng trừ trên màn hình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1016,7 +1006,7 @@
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài cộng có nhớ số có hai chữ số với số có hai chữ số, GV mở bài tập tương tác đặt tính rồi tính; sau mỗi câu máy báo đúng; Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá tất cả, cả hai; HS đọc kĩ đề rồi mới chọn phép tính",
    "integrations": [],
    "note": ""
   },
@@ -1211,7 +1201,7 @@
    "periodTo": 60,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài trừ có nhớ số có hai chữ số cho số có hai chữ số, GV mở bài tập tương tác đặt tính rồi tính; sau mỗi câu máy báo đúng; Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to bài toán có lời văn, gạch chân số liệu và từ khoá còn lại, ít hơn; HS đọc kĩ đề rồi mới chọn phép tính",
    "integrations": [],
    "note": ""
   },
@@ -2294,7 +2284,7 @@
    "periodTo": 114,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu mô hình ba chiều khối trụ, khối cầu trên máy, xoay đủ mọi phía và bổ đôi khối để HS nhìn thấy mặt cắt; Năng lực số Miền 3 (Cơ bản, bậc 1): HS xếp công trình từ các khối, GV chụp ảnh từng công trình rồi ghép thành bức tranh thành phố hình học của lớp chiếu lên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -2310,7 +2300,7 @@
    "periodTo": 115,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu mô hình ba chiều khối trụ, khối cầu trên máy, xoay đủ mọi phía và bổ đôi khối để HS nhìn thấy mặt cắt; Năng lực số Miền 3 (Cơ bản, bậc 1): HS xếp công trình từ các khối, GV chụp ảnh từng công trình rồi ghép thành bức tranh thành phố hình học của lớp chiếu lên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -2833,7 +2823,7 @@
    "periodTo": 144,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Phép trừ không nhớ trong phạm vi 1 000”, GV chiếu phép trừ đặt tính dọc lên màn hình và cho hiện dần từng hàng đơn vị, chục; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS đặt tính và tính ra vở trước rồi nhập kết quả; khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -3053,7 +3043,7 @@
    "periodTo": 157,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV cùng HS kiểm đếm số liệu thật của lớp (số bạn thích mỗi loại quả, số bạn đi bộ; đi xe đạp; đi ô tô) rồi nhập ngay vào bảng trên…; Năng lực số Miền 5 (Cơ bản, bậc 1): GV sửa thử một số liệu trong bảng, biểu đồ tranh trên màn hình đổi theo ngay; HS nhận ra biểu đồ vẽ đúng hay sai là do số liệu nhập vào",
    "integrations": [],
    "note": ""
   },
@@ -3637,13 +3627,13 @@
   "file": "assets/docs/lop2/Toan - Lop 2.docx",
   "name": "Toan - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 55376,
+  "size": 56069,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Toan - Lop 2.xlsx",
   "name": "Toan - Lop 2.xlsx",
-  "size": 23485,
+  "size": 24194,
   "updated": "2026-09-08"
  }
 }

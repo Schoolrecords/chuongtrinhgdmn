@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 28
+  "integrations": 26
  },
  "lessons": [
   {
@@ -1311,7 +1311,7 @@
    "periodTo": 75,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Phép cộng số có hai chữ số với số có một chữ số”, GV chiếu hình các bó que tính và que rời trên màn hình; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện phép cộng, HS chọn kết quả rồi bấm kiểm tra",
    "integrations": [],
    "note": ""
   },
@@ -1343,14 +1343,8 @@
    "periodTo": 77,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Phép cộng số có hai chữ số với số có hai chữ số”."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Phép cộng số có hai chữ số với số có hai chữ số”, GV chiếu hình các bó chục và que rời của hai số trên màn hình; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện phép cộng đặt tính, HS chọn kết quả rồi bấm kiểm tra",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1441,14 +1435,8 @@
    "periodTo": 82,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Phép trừ số có hai chữ số cho số có hai chữ số”, GV chiếu hình."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Phép trừ số có hai chữ số cho số có hai chữ số”, GV chiếu hình các bó chục và que rời trên màn hình rồi bớt dần…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện phép trừ đặt tính, HS chọn kết quả rồi bấm kiểm tra",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2134,13 +2122,13 @@
   "file": "assets/docs/lop1/Toan - Lop 1.docx",
   "name": "Toan - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 46437,
+  "size": 46535,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop1/Toan - Lop 1.xlsx",
   "name": "Toan - Lop 1.xlsx",
-  "size": 13400,
+  "size": 13508,
   "updated": "2026-09-08"
  }
 }

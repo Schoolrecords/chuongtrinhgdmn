@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 22
+  "integrations": 19
  },
  "lessons": [
   {
@@ -142,14 +142,8 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau khi các nhóm làm thí nghiệm với túi ni lông và chậu nước, HS ghi kết quả vào bảng chiếu trên màn hình."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Mở đầu bài “Không khí có ở đâu?”, GV chiếu đoạn phim hoạt hình về không khí xung quanh ta, dừng hình ở cảnh bong bóng khí nổi lên trong nước; Năng lực số Miền 5 (Cơ bản, bậc 2): Sau khi các nhóm làm thí nghiệm với túi ni lông và chậu nước, HS ghi kết quả vào bảng chiếu trên màn hình; khi nhóm nào ra kết quả khác",
+   "integrations": [],
    "note": ""
   },
   {
@@ -443,14 +437,8 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Nhiệt độ và sự truyền nhiệt”, GV chiếu ảnh phóng to mặt nhiệt kế."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài “Nhiệt độ và sự truyền nhiệt”, GV chiếu ảnh phóng to mặt nhiệt kế để cả lớp cùng đọc đúng số chỉ; Năng lực số Miền 5 (Cơ bản, bậc 2): HS ghi kết quả đo vào bảng chiếu trên màn hình rồi cùng đối chiếu; khi số liệu các nhóm khác nhau, cả lớp tìm nguyên nhân là đặt nhiệt kế gần cửa sổ",
+   "integrations": [],
    "note": ""
   },
   {
@@ -481,14 +469,8 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS ghi kết quả thí nghiệm vào bảng chiếu trên màn hình."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài vật dẫn nhiệt tốt và vật dẫn nhiệt kém, GV chiếu mô phỏng nhiệt truyền qua thìa kim loại và thìa gỗ cắm trong cốc nước nóng; Năng lực số Miền 5 (Cơ bản, bậc 2): HS ghi kết quả thí nghiệm vào bảng chiếu trên màn hình rồi đối chiếu với dự đoán; khi kết quả các nhóm khác nhau",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1538,13 +1520,13 @@
   "file": "assets/docs/lop4/Khoa hoc - Lop 4.docx",
   "name": "Khoa hoc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 44625,
+  "size": 44872,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Khoa hoc - Lop 4.xlsx",
   "name": "Khoa hoc - Lop 4.xlsx",
-  "size": 10957,
+  "size": 11240,
   "updated": "2026-09-08"
  }
 }

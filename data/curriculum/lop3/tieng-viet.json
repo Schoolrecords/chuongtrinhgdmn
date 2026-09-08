@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 163,
-  "integrations": 86
+  "integrations": 106
  },
  "lessons": [
   {
@@ -51,8 +51,14 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết: Em yêu mùa hè / -Phân biệt c/k”, GV chiếu tranh đồ vật trên máy chiếu để HS đoán tên chứa c hoặc k; trước khi viết; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt c/k, GV chiếu bài tập tương tác điền c hoặc k vào chỗ trống (…á, …éo, …ính, …on); HS lên bấm chọn",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Khởi động bài “- Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -143,8 +149,14 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết: Cánh rừng trong nắng / -Phân biệt g/gh”, GV mở bài hát cho HS nghe và vận động; trước khi viết; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở phần vận dụng ghi nhật kí, GV chiếu một mẫu nhật kí ngắn trên tivi để HS quan sát cách ghi ngày, việc làm, cảm xúc",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Khởi động bài “- Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -241,7 +253,7 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Mặt trời nhỏ”, GV chiếu đoạn thơ phóng to và bấm tô màu những chữ dễ viết sai cùng các tiếng bắt đầu bằng ng, ngh; HS đọc thầm; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt ng và ngh, GV mở bài tập tương tác chọn chữ đúng điền vào chỗ trống; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -333,7 +345,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Mùa hè lấp lánh”, GV chiếu đoạn thơ phóng to và bấm tô màu các chữ dễ viết sai cùng những tiếng có ch, tr, v, d; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt ch với tr và v với d, GV mở bài tập tương tác chọn chữ đúng điền vào chỗ trống; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -441,7 +453,7 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Đi học vui sao”, GV chiếu đoạn thơ phóng to và bấm tô màu những tiếng có s, x cùng các tiếng mang dấu hỏi, dấu ngã; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt s với x và dấu hỏi với dấu ngã, GV mở bài tập tương tác chọn chữ và dấu thanh đúng; máy báo đúng",
    "integrations": [
     {
      "code": "QTE",
@@ -511,7 +523,7 @@
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi đọc bài “Viết đoạn văn nêu tình cảm, cảm xúc đối với một người mà em yêu quý”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật; Năng lực số Miền 2 (Cơ bản, bậc 1): GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi, nhấn giọng",
    "integrations": [
     {
      "code": "KNS",
@@ -555,7 +567,7 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết đoạn trong bài “Lời giải toán đặc biệt”, GV chiếu đoạn văn phóng to và bấm tô màu các tiếng có r, d, gi cùng những tiếng vần an, ang; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt r với d, gi và an với ang, GV mở bài tập tương tác chọn chữ và vần đúng; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -647,7 +659,7 @@
    "periodTo": 45,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Nghe thầy đọc thơ”, GV chiếu đoạn thơ phóng to và bấm tô màu các tiếng bắt đầu bằng l, n cùng những tiếng có vần ăn, ăng; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt l với n và ăn với ăng, GV mở bài tập tương tác chọn chữ, chọn vần đúng; máy báo đúng",
    "integrations": [
     {
      "code": "KNS",
@@ -745,7 +757,7 @@
    "periodTo": 52,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Thư viện”, GV chiếu đoạn văn phóng to và bấm tô màu các tiếng có ch, tr cùng những tiếng vần ân, âng; HS đọc thầm; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt ch với tr và ân với âng, GV mở bài tập tương tác chọn chữ, chọn vần đúng; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -869,7 +881,7 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Đồ đạc trong nhà”, GV chiếu đoạn thơ phóng to và bấm tô màu các tiếng có vần iêu, ươu cùng những tiếng vần en, eng; HS đọc thầm; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt iêu với ươu và en với eng, GV mở bài tập tương tác chọn vần đúng; máy báo đúng, sai ngay nên HS nhận ra lỗi phát âm của mình",
    "integrations": [],
    "note": ""
   },
@@ -961,7 +973,7 @@
    "periodTo": 73,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Khi cả nhà bé tí”, GV chiếu đoạn thơ phóng to và bấm tô màu các tiếng có vần iu, ưu cùng những tiếng vần iên, iêng; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt iu với ưu và iên với iêng, GV mở bài tập tương tác chọn vần đúng; máy báo đúng, sai ngay nên HS nhận ra lỗi phát âm của mình",
    "integrations": [],
    "note": ""
   },
@@ -1059,7 +1071,7 @@
    "periodTo": 80,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Kho sách của ông bà”, GV chiếu đoạn văn phóng to và bấm tô màu các tiếng có s, x cùng những tiếng vần uôn, uông; HS đọc thầm; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt s với x và uôn với uông, GV mở bài tập tương tác chọn chữ, chọn vần đúng; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -1151,7 +1163,7 @@
    "periodTo": 87,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Tôi yêu em tôi”, GV chiếu đoạn thơ phóng to và bấm tô màu các tiếng có r, d, gi cùng những tiếng vần ươn, ương; HS đọc thầm; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần phân biệt r, d, gi và ươn với ương, GV mở bài tập tương tác chọn chữ, chọn vần đúng; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -1249,7 +1261,7 @@
    "periodTo": 94,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi nghe viết bài “Những bậc đá chạm mây”, GV chiếu đoạn văn phóng to và bấm tô màu những chữ viết hoa cùng các tiếng dễ viết sai; HS đọc thầm; Năng lực số Miền 5 (Cơ bản, bậc 1): Sau khi viết, GV chiếu đoạn văn mẫu cho HS soát lỗi theo từng câu; các em tự đánh dấu chỗ mình sai",
    "integrations": [
     {
      "code": "KNS",
@@ -1347,8 +1359,14 @@
    "periodTo": 101,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài thơ “Trong vườn”, GV chiếu bài thơ phóng to lên màn hình, tô sáng những tiếng dễ viết sai và mở bản đọc mẫu để HS nghe…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt l/n và dấu hỏi, dấu ngã, GV mở bài tập tương tác trên máy chiếu: máy hiện từ còn thiếu",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -1445,8 +1463,14 @@
    "periodTo": 108,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài thơ “Gió”, GV chiếu bài thơ phóng to lên màn hình, tô sáng những tiếng dễ viết sai và mở bản đọc mẫu để HS nghe rõ…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt s/x và ao/au, GV mở bài tập tương tác trên máy chiếu: máy hiện từ còn thiếu chữ, HS chọn s hay x",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -1537,8 +1561,14 @@
    "periodTo": 115,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Người làm đồ chơi”, GV chiếu đoạn văn phóng to lên màn hình, tô sáng các tên riêng cần viết hoa và mở bản đọc mẫu để…; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Viết phiếu mượn sách, GV chiếu mẫu phiếu mượn sách của thư viện trường lên màn hình, cùng HS điền thử từng ô tên sách, tên tác giả",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -1667,8 +1697,14 @@
    "periodTo": 129,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Buổi sáng”, GV chiếu bài thơ phóng to lên màn hình, tô sáng những tiếng dễ viết sai và mở bản đọc mẫu để HS nghe rõ…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt ch/tr và at/ac, GV mở bài tập tương tác: máy hiện từ còn thiếu chữ, HS chọn ch hay tr, at hay ac rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -1759,8 +1795,13 @@
    "periodTo": 136,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "viết đoạn văn “Trăng trên biển”, GV chiếu đoạn văn phóng to lên màn hình, tô sáng những tiếng dễ viết sai và mở bản đọc mẫu để HS…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt s/x và ăt/ăc, GV mở bài tập tương tác: máy hiện từ còn thiếu chữ, HS chọn s hay x, ăt hay ăc rồi bấm kiểm tra",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -1863,8 +1904,14 @@
    "periodTo": 143,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Chim chích bông”, GV chiếu bài viết phóng to lên màn hình, tô sáng các tên riêng địa lí cần viết hoa và mở bản đọc mẫu…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt iêu/ươu và ât/âc, GV mở bài tập tương tác: máy hiện từ còn thiếu vần, HS chọn vần đúng rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -1955,8 +2002,14 @@
    "periodTo": 150,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết ba khổ thơ đầu bài “Mặt trời xanh của tôi”, GV chiếu bài thơ phóng to lên màn hình; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt r/d/gi và in/inh, GV mở bài tập tương tác: máy hiện từ còn thiếu chữ, HS chọn chữ hoặc vần đúng rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nhớ"
+    }
+   ],
    "note": ""
   },
   {
@@ -2053,8 +2106,14 @@
    "periodTo": 157,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Lời kêu gọi toàn dân tập thể dục”, GV chiếu đoạn viết phóng to lên màn hình; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt l/n và dấu hỏi, dấu ngã, GV mở bài tập tương tác: máy hiện từ còn thiếu chữ hoặc dấu thanh, HS chọn rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -2145,8 +2204,14 @@
    "periodTo": 164,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Chuyện bên cửa sổ”, GV chiếu đoạn viết phóng to lên màn hình, tô sáng những tiếng dễ viết sai và mở bản đọc mẫu để HS…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt iu/ưu và im/iêm, GV mở bài tập tương tác: máy hiện từ còn thiếu vần, HS chọn vần đúng rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -2243,8 +2308,14 @@
    "periodTo": 171,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Bài học của gấu”, GV chiếu đoạn viết phóng to lên màn hình, tô sáng những tiếng dễ viết sai và mở bản đọc mẫu để HS…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt s/x và v/d, GV mở bài tập tương tác: máy hiện từ còn thiếu chữ, HS chọn chữ đúng rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -2335,8 +2406,14 @@
    "periodTo": 178,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Ngày như thế nào là đẹp?”, GV chiếu đoạn viết phóng to lên màn hình; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt r/d/gi và dấu hỏi, dấu ngã, GV mở bài tập tương tác: máy hiện từ còn thiếu, HS chọn chữ hoặc dấu thanh đúng rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -2465,8 +2542,13 @@
    "periodTo": 192,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "viết bài “Bản em”, GV chiếu đoạn viết phóng to lên màn hình, tô sáng những tiếng dễ viết sai và mở bản đọc mẫu để HS nghe rõ…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt ch/tr và ươc/ươt, GV mở bài tập tương tác: máy hiện từ còn thiếu, HS chọn chữ hoặc vần đúng rồi bấm kiểm tra",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -2563,8 +2645,14 @@
    "periodTo": 199,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Chợ Hòn Gai”, GV mở bản đồ số của cơ quan Nhà nước chỉ vị trí Hòn Gai cho HS biết địa danh trong bài nằm ở…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập viết hoa tên riêng địa lí, GV mở bài tập tương tác: máy hiện câu có tên riêng viết thường, HS sửa lại cho đúng rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -2672,8 +2760,14 @@
    "periodTo": 206,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Nhà rông”, GV chiếu ảnh nhà rông Tây Nguyên phóng to cùng đoạn viết; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt s/x và dấu hỏi, dấu ngã, GV mở bài tập tương tác: máy hiện từ còn thiếu, HS chọn chữ hoặc dấu thanh đúng rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -2764,8 +2858,14 @@
    "periodTo": 213,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Hai Bà Trưng”, GV chiếu đoạn viết phóng to lên màn hình, tô sáng tên riêng cần viết hoa và mở bản đọc mẫu để HS nghe…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt ch/tr và ai/ay, GV mở bài tập tương tác: máy hiện từ còn thiếu, HS chọn chữ hoặc vần đúng rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -2862,8 +2962,14 @@
    "periodTo": 220,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Ngọn lửa Ô-lim-pích”, GV chiếu đoạn viết phóng to lên màn hình, tô sáng các tên riêng nước ngoài có dấu gạch nối và mở bản đọc…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập viết hoa tên riêng nước ngoài, GV mở bài tập tương tác: máy hiện tên riêng viết thường hoặc thiếu gạch nối, HS sửa lại rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -2948,8 +3054,14 @@
    "periodTo": 227,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Em nghĩ về Trái Đất”, GV chiếu bài thơ phóng to lên màn hình cùng ảnh Trái Đất nhìn từ vũ trụ; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập phân biệt r/d/gi và dấu hỏi, dấu ngã, GV mở bài tập tương tác: máy hiện từ còn thiếu, HS chọn chữ hoặc dấu thanh đúng rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -3046,8 +3158,14 @@
    "periodTo": 234,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "viết bài “Bác sĩ Y-éc-xanh”, GV chiếu đoạn viết phóng to lên màn hình, tô sáng tên riêng nước ngoài có dấu gạch nối và mở bản đọc mẫu…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở bài tập viết hoa tên riêng nước ngoài, GV mở bài tập tương tác: máy hiện tên riêng viết thường hoặc thiếu gạch nối, HS sửa lại rồi bấm kiểm tra",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nghe"
+    }
+   ],
    "note": ""
   },
   {
@@ -3410,13 +3528,13 @@
   "file": "assets/docs/lop3/Tieng Viet - Lop 3.docx",
   "name": "Tieng Viet - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 50311,
+  "size": 52183,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Tieng Viet - Lop 3.xlsx",
   "name": "Tieng Viet - Lop 3.xlsx",
-  "size": 18535,
+  "size": 20481,
   "updated": "2026-09-08"
  }
 }

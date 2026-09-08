@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 23
+  "integrations": 20
  },
  "lessons": [
   {
@@ -436,13 +436,8 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Mở đầu bài “Dụng cụ và vật liệu làm thủ công”, GV chiếu ảnh chụp gần kéo, bút chì, thước, hồ dán, giấy màu; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác nối dụng cụ với công việc: HS kéo kéo về ô cắt, hồ về ô dán",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Mở đầu bài “Dụng cụ và vật liệu làm thủ công”, GV chiếu ảnh chụp gần kéo, bút chì."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -479,13 +474,8 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khởi động bài “Làm đồ dùng học tập”, GV chiếu video hướng dẫn làm một đồ dùng học tập đơn giản, cho chạy chậm và dừng ở từng bước gấp, cắt; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Thực hành, GV chiếu lại đúng bước mà nhiều bạn còn lúng túng, dừng hình để cả lớp nhìn kĩ",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Thực hành, GV chiếu lại đúng bước mà nhiều bạn còn lúng túng, dừng hình."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -613,13 +603,8 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khởi động bài “Làm đồ chơi”, GV chiếu video hướng dẫn làm một món đồ chơi đơn giản, cho chạy chậm và dừng ở từng bước gấp, cắt, dán; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Thực hành, GV chiếu lại đúng bước mà nhiều bạn còn lúng túng và dừng hình; HS đối chiếu sản phẩm của mình với hình trên màn hình để tìm ra…",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Thực hành, GV chiếu lại đúng bước mà nhiều bạn còn lúng túng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -982,13 +967,13 @@
   "file": "assets/docs/lop3/Cong nghe - Lop 3.docx",
   "name": "Cong nghe - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42526,
+  "size": 42736,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Cong nghe - Lop 3.xlsx",
   "name": "Cong nghe - Lop 3.xlsx",
-  "size": 8320,
+  "size": 8555,
   "updated": "2026-09-08"
  }
 }

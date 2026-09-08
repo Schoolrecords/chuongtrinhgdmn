@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 17
+  "integrations": 12
  },
  "lessons": [
   {
@@ -61,12 +61,12 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 3 (Cơ bản, bậc 2): Ở bài “Gõ bàn phím đúng cách”, GV hướng dẫn HS đặt tay đúng hàng phím cơ sở và gõ bằng mười ngón; HS gõ một đoạn ngắn cho sẵn, tự đếm số lỗi; HS chỉ ra chỗ khác nhau ở lưng, khoảng cách mắt",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Gõ bàn phím đúng cách”."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 5 (Cơ bản, bậc 2): GV chiếu hai ảnh tư thế ngồi máy: một đúng, một sai"
     }
    ],
    "note": ""
@@ -137,12 +137,12 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV hướng dẫn HS chọn từ khoá ngắn, đúng trọng tâm cho một câu hỏi cụ thể; HS gõ từ khoá; Năng lực số Miền 1 (Cơ bản, bậc 2): HS đối chiếu thông tin tìm được ở ít nhất hai trang và với SGK; ghi lại tên trang đã lấy thông tin vào phiếu để biết mình đang tin vào nguồn nào; Năng lực số Miền 6 (Cơ bản, bậc 2): GV chỉ cho HS thấy phần trả lời tóm tắt do máy tự sinh đặt ở đầu trang kết quả",
    "integrations": [
     {
      "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Chỉ cho HS thấy phần trả lời tóm tắt do máy tự sinh đặt ở đầu trang kết quả."
+     "level": "",
+     "text": "nêu rõ đó là do trí tuệ nhân tạo viết"
     }
    ],
    "note": ""
@@ -213,14 +213,8 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho HS quan sát cửa sổ giấy phép hiện ra khi cài một phần mềm, chỉ chỗ ghi phần mềm dùng miễn phí hay phải mua."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV cho HS quan sát cửa sổ giấy phép hiện ra khi cài một phần mềm, chỉ chỗ ghi phần mềm dùng miễn phí hay phải mua; Năng lực số Miền 3 (Cơ bản, bậc 2): GV nêu công sức của người viết phần mềm, người vẽ tranh, người viết truyện; HS liên hệ với sản phẩm của chính mình: nếu bài mình làm bị bạn lấy đem nộp thì…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -278,14 +272,8 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Cho HS so sánh hai trang chiếu cùng nội dung."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 3 (Cơ bản, bậc 2): GV cho HS so sánh hai trang chiếu cùng nội dung: một trang chữ nhỏ, nhiều màu loè loẹt và một trang chữ to, màu tương phản rõ; Năng lực số Miền 3 (Cơ bản, bậc 2): HS định dạng lại bài trình chiếu của mình: chỉnh cỡ chữ tiêu đề và nội dung, chọn màu chữ nổi trên nền, căn lề cho thẳng, bỏ bớt chữ thừa",
+   "integrations": [],
    "note": ""
   },
   {
@@ -494,14 +482,8 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Chọn phần mềm trò chơi mang tính học tập (xếp hình, luyện gõ, giải đố, tìm đường)."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): GV chọn phần mềm trò chơi mang tính học tập (xếp hình, luyện gõ, giải đố, tìm đường); HS chơi và nêu trò chơi đó rèn cho mình kĩ năng gì; Năng lực số Miền 2 (Cơ bản, bậc 2): HS thoả thuận với bạn luật chơi và thứ tự lượt khi dùng chung một máy; giữ thái độ vui vẻ khi thắng, bình tĩnh khi thua, không tranh giành chuột và bàn phím",
+   "integrations": [],
    "note": ""
   },
   {
@@ -532,14 +514,8 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Giới thiệu màn hình phần mềm lập trình trực quan."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): GV giới thiệu màn hình phần mềm lập trình trực quan: khu vực khối lệnh, khu vực ghép lệnh, sân khấu và nhân vật; HS kéo thả vài khối lệnh di chuyển, xoay; Năng lực số Miền 5 (Cơ bản, bậc 2): HS thử đổi thứ tự các khối lệnh rồi chạy lại để thấy máy làm đúng theo thứ tự mình xếp; sai ở đâu sửa ở đó, chạy lại không tốn gì",
+   "integrations": [],
    "note": ""
   },
   {
@@ -570,14 +546,8 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS diễn tả một ý tưởng của mình thành chương trình cho “Tạo chương trình máy tính để diễn tả ý tưởng”."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 3 (Cơ bản, bậc 2): HS diễn tả một ý tưởng của mình thành chương trình cho “Tạo chương trình máy tính để diễn tả ý tưởng”: chọn nhân vật, phông nền; Năng lực số Miền 5 (Cơ bản, bậc 2): Khi chương trình chạy chưa đúng, HS chia nhỏ để tìm lỗi: chạy từng phần, kiểm tra thứ tự lệnh, đổi giá trị thời gian và bước đi; Năng lực số Miền 2 (Cơ bản, bậc 2): HS giới thiệu chương trình của mình trước lớp, nghe bạn góp ý và ghi lại một điều mình sẽ cải tiến ở lần sau",
+   "integrations": [],
    "note": ""
   },
   {
@@ -952,13 +922,13 @@
   "file": "assets/docs/lop4/Tin hoc - Lop 4.docx",
   "name": "Tin hoc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42771,
+  "size": 43667,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Tin hoc - Lop 4.xlsx",
   "name": "Tin hoc - Lop 4.xlsx",
-  "size": 8575,
+  "size": 9519,
   "updated": "2026-09-08"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 25
+  "integrations": 21
  },
  "lessons": [
   {
@@ -125,13 +125,8 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài “Vật liệu và dụng cụ trồng hoa, cây cảnh trong chậu”, GV chiếu ảnh phóng to từng loại giá thể, phân bón, chậu và dụng cụ như xẻng nhỏ, bình tưới; Năng lực số Miền 5 (Cơ bản, bậc 2): GV chiếu vài tình huống trồng cây trong chậu và cho HS chọn bộ vật liệu, dụng cụ phù hợp cho từng loại cây; máy báo đúng",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Vật liệu và dụng cụ trồng hoa, cây cảnh trong chậu”, GV chiếu ảnh phóng to từng loại giá thể."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -238,13 +233,8 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài “Chậu hoa và cây cảnh mini”, GV chiếu ảnh phóng to nhiều kiểu chậu mini cùng loại cây phù hợp với từng chậu; HS gọi tên cây; Năng lực số Miền 5 (Cơ bản, bậc 2): GV chiếu vài tình huống chọn chậu và cây cho góc học tập, ban công, lớp học; HS chọn phương án phù hợp rồi giải thích theo điều kiện ánh sáng, không gian",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Chậu hoa và cây cảnh mini”, GV chiếu ảnh phóng to nhiều kiểu chậu mini."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -599,12 +589,7 @@
     {
      "code": "NLS-ST",
      "level": "",
-     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Khởi động bài “Làm đèn lồng”, GV chiếu đoạn phim ngắn về phố đèn lồng."
+     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn).\nNăng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khởi động bài “Làm đèn lồng”, GV chiếu đoạn phim ngắn về phố đèn lồng và ảnh chụp gần vài mẫu đèn, phóng to chỗ nan và chỗ dán\nNăng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Thực hành, GV chiếu lại video ở đúng bước nhiều bạn còn lúng túng và dừng hình; HS đối chiếu sản phẩm của mình với hình để tìm ra chỗ nan…"
     },
     {
      "code": "KNS",
@@ -647,12 +632,7 @@
     {
      "code": "NLS-ST",
      "level": "",
-     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Thực hành, khi chuồn chuồn chưa đứng được, GV chiếu lại hình dừng ở phần mỏ."
+     "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn).\nNăng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Khởi động bài “Làm chuồn chuồn thăng bằng”, GV chiếu ảnh chụp gần chuồn chuồn tre đang đậu trên đầu ngón tay và video quay chậm lúc đặt thăng bằng\nNăng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động Thực hành, khi chuồn chuồn chưa đứng được, GV chiếu lại hình dừng ở phần mỏ và cánh"
     },
     {
      "code": "KNS",
@@ -990,13 +970,13 @@
   "file": "assets/docs/lop4/Cong nghe - Lop 4.docx",
   "name": "Cong nghe - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42669,
+  "size": 43036,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Cong nghe - Lop 4.xlsx",
   "name": "Cong nghe - Lop 4.xlsx",
-  "size": 8483,
+  "size": 8871,
   "updated": "2026-09-08"
  }
 }

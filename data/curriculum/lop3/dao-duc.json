@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 14
+  "integrations": 11
  },
  "lessons": [
   {
@@ -121,14 +121,8 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Quan tâm hàng xóm láng giềng”, GV chiếu bộ ảnh việc làm quen thuộc trong xóm như trông giúp nhà."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Quan tâm hàng xóm láng giềng”, GV chiếu bộ ảnh việc làm quen thuộc trong xóm như trông giúp nhà bên, đưa cụ già qua đường, cùng dọn ngõ sau mưa; Năng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu các tình huống trên màn hình và cho HS chọn cách ứng xử phù hợp khi nhà hàng xóm có việc, khi em ở nhà một mình mà người lạ gọi cửa",
+   "integrations": [],
    "note": ""
   },
   {
@@ -255,14 +249,8 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài “Giữ lời hứa”, GV chiếu các đoạn phim tình huống ngắn về việc hứa."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Giữ lời hứa”, GV chiếu các đoạn phim tình huống ngắn về việc hứa rồi quên, hứa rồi thực hiện; Năng lực số Miền 2 (Cơ bản, bậc 1): GV gõ lên màn hình những lời hứa mà HS muốn thực hiện trong tuần, thành bảng chung của lớp; cả lớp cùng đọc lại",
+   "integrations": [],
    "note": ""
   },
   {
@@ -325,14 +313,8 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Bài 6 học vắt sang đầu HKII; tổ chuyên môn chủ động bố trí",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Tìm hiểu ý nghĩa, GV chiếu hai tình huống."
-    }
-   ],
+   "adjustments": "Bài 6 học vắt sang đầu HKII; tổ chuyên môn chủ động bố trí; Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Tìm hiểu biểu hiện của bài “Tích cực hoàn thành nhiệm vụ”, GV chiếu tranh truyện “Tham gia việc lớp” phóng to theo từng đoạn; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Tìm hiểu ý nghĩa, GV chiếu hai tình huống cùng một công việc: một bên làm xong đúng hạn, một bên bỏ dở",
+   "integrations": [],
    "note": ""
   },
   {
@@ -932,13 +914,13 @@
   "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
   "name": "Dao duc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42850,
+  "size": 43148,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Dao duc - Lop 3.xlsx",
   "name": "Dao duc - Lop 3.xlsx",
-  "size": 8643,
+  "size": 8956,
   "updated": "2026-09-08"
  }
 }

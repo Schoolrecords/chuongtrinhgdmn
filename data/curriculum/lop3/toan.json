@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 43
+  "integrations": 32
  },
  "lessons": [
   {
@@ -93,7 +93,7 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần khám phá bài “Bài 3. Tìm thành phần trong phép cộng, phép trừ (Tiết 1)”, GV chiếu hình ảnh động bài toán táo xanh, táo đỏ trong SGK; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở phần luyện tập, GV chiếu bài tập tương tác dạng ? + 5 = 12 hoặc 7 + ? = 15",
    "integrations": [],
    "note": ""
   },
@@ -517,13 +517,8 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài tìm thành phần trong phép nhân, phép chia, GV chiếu sơ đồ phép tính có một ô trống và bấm cho phần đã biết sáng lên; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác điền số vào ô trống của phép nhân, phép chia; máy chấm ngay nên HS biết mình chọn phép tính ngược đúng chưa",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Mở bài tập tương tác điền số vào ô trống của phép nhân, phép chia; máy chấm ngay nên HS biết mình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -560,7 +555,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Một phần mấy”, GV dùng hình động trên máy: chia một hình tròn, một băng giấy thành hai, thành bốn phần bằng nhau rồi tô màu một phần; Năng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu các hình chia phần không bằng nhau xen lẫn hình chia đúng, cho HS chọn hình đã tô một phần tư; máy báo đúng",
    "integrations": [
     {
      "code": "STEM",
@@ -684,14 +679,8 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Gồm cả Bài 19 (Tổ CM đối chiếu mục lục SGK)",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu nhiều hình có góc khác nhau cho HS chọn góc vuông trước khi kiểm tra bằng ê ke thật."
-    }
-   ],
+   "adjustments": "Gồm cả Bài 19 (Tổ CM đối chiếu mục lục SGK); Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Góc, góc vuông, góc không vuông”, GV dùng hình động trên máy: kéo một cạnh cho góc mở rộng dần và bấm hiện ê ke áp vào góc; Năng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu nhiều hình có góc khác nhau cho HS chọn góc vuông trước khi kiểm tra bằng ê ke thật; máy báo đúng",
+   "integrations": [],
    "note": ""
   },
   {
@@ -706,7 +695,7 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài về hình tam giác, tứ giác, hình chữ nhật và hình vuông, GV chiếu hình trên máy rồi xoay, phóng to thu nhỏ; HS nhận ra hình vẫn giữ nguyên số cạnh; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác kéo mỗi hình về đúng nhóm và đánh dấu góc vuông của hình chữ nhật, hình vuông; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -754,7 +743,7 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Thực hành vẽ góc vuông, vẽ đường tròn , hình vuông, hình chữ nhật và vẽ trang trí”, GV dùng phần mềm hình học động chiếu lên màn hình: kéo một đỉnh…; Năng lực số Miền 5 (Cơ bản, bậc 1): GV cho HS dự đoán trước rồi mới kéo hình để kiểm tra: “Nếu chiều dài tăng gấp đôi thì chu vi thay đổi thế nào?”. HS nói dự đoán, GV thao tác",
    "integrations": [],
    "note": ""
   },
@@ -850,14 +839,8 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Mở bài tập tương tác đặt tính."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở tiết luyện tập nhân số có hai chữ số với số có một chữ số, GV chiếu phép nhân đặt tính trên màn hình rồi bấm hiện dần từng bước nhân hàng đơn…; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác đặt tính rồi tính, máy báo đúng, sai ngay và chỉ chỗ sai; HS nhận ra mình quên cộng phần nhớ hay viết lệch cột",
+   "integrations": [],
    "note": ""
   },
   {
@@ -872,7 +855,7 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Gấp một số lên một số lần”, GV dùng hình động trên máy: bấm cho một nhóm đồ vật nhân lên thành hai lần, ba lần và hiện phép tính bên cạnh; Năng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu các bài toán ngắn có từ gấp lên và thêm vào xen kẽ nhau, cho HS chọn phép tính đúng; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -904,7 +887,7 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài phép chia hết và phép chia có dư, GV dùng hình động chia đều số viên phấn vào các hộp; khi còn viên lẻ không xếp được nữa; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác cho HS chia và ghi thương, ghi số dư; máy báo đúng, sai ngay nên các em nhận ra mình ghi số dư lớn hơn số chia là…",
    "integrations": [],
    "note": ""
   },
@@ -936,14 +919,8 @@
    "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở bài chia số có hai chữ số cho số có một chữ số, GV chiếu phép chia đặt tính trên màn hình."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài chia số có hai chữ số cho số có một chữ số, GV chiếu phép chia đặt tính trên màn hình rồi bấm hiện dần từng bước chia hàng chục, hạ số; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác đặt tính rồi tính, máy báo đúng, sai ngay và chỉ chỗ sai; HS nhận ra mình quên hạ số hay viết thương lệch cột",
+   "integrations": [],
    "note": ""
   },
   {
@@ -990,7 +967,7 @@
    "periodTo": 54,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Giảm một số đi một số lần”, GV dùng hình động trên máy: bấm cho một nhóm đồ vật bớt đi còn một nửa; Năng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu xen kẽ các bài toán có từ giảm đi và bớt đi, cho HS chọn phép tính đúng; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -1022,12 +999,12 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài toán giải bằng hai bước tính, GV chiếu sơ đồ đoạn thẳng trên máy và bấm hiện dần từng dữ kiện; HS nói bước còn thiếu, khi các em nêu sai thứ tự thì GV bấm hiện lại sơ đồ để cả lớp thấy…",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu một bài giải mẫu rồi ẩn bước thứ nhất."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu một bài giải mẫu rồi ẩn bước thứ nhất"
     },
     {
      "code": "KNS",
@@ -1247,7 +1224,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài nhân số có ba chữ số với số có một chữ số, GV chiếu phép nhân đặt tính trên màn hình rồi bấm hiện dần từng bước nhân hàng đơn vị; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác đặt tính rồi tính, máy báo đúng, sai ngay và chỉ chỗ sai; HS nhận ra mình quên cộng phần nhớ hay viết lệch cột",
    "integrations": [],
    "note": ""
   },
@@ -1279,14 +1256,8 @@
    "periodTo": 71,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Chia số có ba chữ số cho số có một chữ số”, GV chiếu hình vẽ."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Chia số có ba chữ số cho số có một chữ số”, GV chiếu hình vẽ và lời thoại của Rô-bốt, Mai, Việt lên màn hình; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác đặt tính rồi tính: HS làm ra nháp trước, sau đó nhập kết quả vào máy",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1333,7 +1304,7 @@
    "periodTo": 74,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Gồm cả Bài 39–41 (Tổ CM đối chiếu mục lục SGK)",
+   "adjustments": "Gồm cả Bài 39–41 (Tổ CM đối chiếu mục lục SGK); Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động làm quen với biểu thức của bài “Biểu thức số. Tính giá trị của biểu thức số”, GV chiếu các biểu thức lên màn hình và tô màu theo thứ tự…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác nối biểu thức với giá trị đúng: HS tính ra nháp rồi kéo nối trên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -1397,14 +1368,8 @@
    "periodTo": 78,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện hai số, HS chọn phép tính tìm số lớn."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “So sánh số lớn gấp mấy lần số bé”, GV chiếu sơ đồ đoạn thẳng lên màn hình; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện hai số, HS chọn phép tính tìm số lớn gấp mấy lần số bé rồi bấm kiểm tra",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1611,14 +1576,8 @@
    "periodTo": 91,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Gồm cả Bài 45 (Tổ CM đối chiếu mục lục SGK)",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Các số có bốn chữ số. Số 10 000”, GV chiếu bảng các hàng nghìn, trăm."
-    }
-   ],
+   "adjustments": "Gồm cả Bài 45 (Tổ CM đối chiếu mục lục SGK); Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Các số có bốn chữ số. Số 10 000”, GV chiếu bảng các hàng nghìn, trăm, chục, đơn vị lên màn hình; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện số, HS kéo các chữ số vào đúng cột hàng rồi bấm kiểm tra",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1665,7 +1624,7 @@
    "periodTo": 94,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “So sánh các số trong phạm vi 10 000”, GV chiếu bảng hàng động trên máy: thêm hoặc bớt một khối ở hàng đơn vị, hàng chục, hàng trăm; Năng lực số Miền 5 (Cơ bản, bậc 1): Với chữ số La Mã, GV chiếu ảnh mặt đồng hồ, bìa sách, biển số nhà, số ghi thế kỉ trên bảng di tích; những chỗ chữ số La Mã còn được dùng…",
    "integrations": [],
    "note": ""
   },
@@ -1975,14 +1934,8 @@
    "periodTo": 113,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Gồm cả Bài 55 (Tổ CM đối chiếu mục lục SGK)",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Phép cộng trong phạm vi 10 000”, GV chiếu phép cộng đặt tính dọc lên màn."
-    }
-   ],
+   "adjustments": "Gồm cả Bài 55 (Tổ CM đối chiếu mục lục SGK); Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Phép cộng trong phạm vi 10 000”, GV chiếu phép cộng đặt tính dọc lên màn hình và cho hiện dần từng hàng đơn vị, chục, trăm; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS đặt tính và tính ra vở trước rồi nhập kết quả; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2013,7 +1966,7 @@
    "periodTo": 115,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Phép trừ trong phạm vi 10 000”, GV chiếu phép trừ đặt tính dọc lên màn hình và cho hiện dần từng hàng; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS tính ra vở trước rồi nhập kết quả; khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2045,14 +1998,8 @@
    "periodTo": 117,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Nhân số có bốn chữ số với số có một chữ số”, GV chiếu phép nhân đặt tính dọc lên màn hình và cho hiện dần từng lượt…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS đặt tính và tính ra vở trước rồi nhập kết quả; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2099,7 +2046,7 @@
    "periodTo": 120,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Chia số có bốn chữ số cho số có một chữ số”, GV chiếu phép chia đặt tính lên màn hình và cho hiện dần từng lượt chia; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS tính ra vở trước rồi nhập kết quả; khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2355,14 +2302,8 @@
    "periodTo": 136,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Phép cộng trong phạm vi 100 000”, GV chiếu phép cộng đặt tính dọc lên màn hình và cho hiện dần từng hàng cùng số nhớ; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS đặt tính và tính ra vở trước rồi nhập kết quả; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2393,7 +2334,7 @@
    "periodTo": 138,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Phép trừ trong phạm vi 100 000”, GV chiếu phép trừ đặt tính dọc lên màn hình và cho hiện dần từng hàng; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS tính ra vở trước rồi nhập kết quả; khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2602,7 +2543,7 @@
    "periodTo": 150,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Nhân số có năm chữ số với số có một chữ số”, GV chiếu phép nhân đặt tính dọc lên màn hình và cho hiện dần từng lượt…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS đặt tính và tính ra vở trước rồi nhập kết quả; khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2650,14 +2591,8 @@
    "periodTo": 153,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Chia số có năm chữ số cho số có một chữ số”."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Chia số có năm chữ số cho số có một chữ số”, GV chiếu phép chia đặt tính lên màn hình và cho hiện dần từng lượt chia; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: HS tính ra vở trước rồi nhập kết quả; khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -3338,13 +3273,13 @@
   "file": "assets/docs/lop3/Toan - Lop 3.docx",
   "name": "Toan - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 47651,
+  "size": 49328,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Toan - Lop 3.xlsx",
   "name": "Toan - Lop 3.xlsx",
-  "size": 15928,
+  "size": 17837,
   "updated": "2026-09-08"
  }
 }

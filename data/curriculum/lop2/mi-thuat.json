@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 20
+  "integrations": 21
  },
  "lessons": [
   {
@@ -117,7 +117,7 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở chủ đề “Sự kết hợp của các hình cơ bản”, GV chiếu ảnh các đồ vật quen thuộc rồi bấm tách dần thành hình tròn, vuông, tam giác, chữ nhật ghép lại; Năng lực số Miền 3 (Cơ bản, bậc 1): Làm xong sản phẩm ba chiều, GV chụp ảnh từ hai phía rồi chiếu lên màn hình thành bộ sưu tập của lớp",
    "integrations": [],
    "note": ""
   },
@@ -237,7 +237,7 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở chủ đề “Sự kết hợp thú vị của khối”, GV chiếu ảnh đồ vật ba chiều rồi bấm tách dần thành các khối lập phương, khối hộp, khối trụ, khối cầu; Năng lực số Miền 3 (Cơ bản, bậc 1): Sắp xếp xong, GV chụp ảnh sản phẩm của từng nhóm từ hai phía rồi chiếu lên màn hình; HS nhìn sản phẩm ở góc khác nên phát hiện chỗ đặt chưa cân",
    "integrations": [],
    "note": ""
   },
@@ -297,7 +297,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở chủ đề “Sắc màu thiên nhiên”, GV chiếu ảnh phong cảnh bốn mùa và phóng to từng mảng màu trời, cây, nước; HS gọi tên màu, nói màu nào làm bức tranh ấm; Năng lực số Miền 3 (Cơ bản, bậc 1): Vẽ xong, GV chụp ảnh tranh của cả lớp rồi chiếu thành phòng tranh trên màn hình; mỗi em giới thiệu bức của mình",
    "integrations": [],
    "note": ""
   },
@@ -313,8 +313,14 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá kĩ thuật in của chủ đề “Sắc màu thiên nhiên”, GV chiếu ảnh chụp gần mặt sau chiếc lá bàng, lát thân chuối; Sáng tạo, GV dùng điện thoại chụp sản phẩm in của các nhóm rồi chiếu lên màn hình thành một bộ sưu tập nhỏ, cả lớp cùng xem",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Luyện tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -329,7 +335,7 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá kết hợp chất liệu của chủ đề “Sắc màu thiên nhiên”, GV chiếu ảnh chụp gần các sản phẩm mẫu: khung ảnh dán lá khô, hộp bọc giấy màu; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Trưng bày, GV chụp sản phẩm của các nhóm rồi chiếu thành một bộ sưu tập nhỏ trên màn hình; cả lớp cùng xem",
    "integrations": [],
    "note": ""
   },
@@ -383,7 +389,7 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chân dung 3D của chủ đề “Gương mặt thân quen”, GV chiếu ảnh chụp hai sản phẩm mẫu từ nhiều phía; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Trưng bày, GV chụp sản phẩm của các nhóm từ hai góc rồi chiếu lên màn hình; cả lớp cùng xem",
    "integrations": [],
    "note": ""
   },
@@ -399,7 +405,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá đắp nổi chân dung của chủ đề “Gương mặt thân quen”, GV chiếu ảnh chụp nghiêng hai sản phẩm cùng một gương mặt; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Trưng bày, GV chụp sản phẩm đắp nổi của các nhóm từ hai góc sáng khác nhau rồi chiếu lên",
    "integrations": [],
    "note": ""
   },
@@ -459,7 +465,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Bữa cơm gia đình”, GV chiếu ảnh chụp mâm cơm nhìn từ trên xuống và nhìn ngang, phóng to cách xếp bát đũa, món ăn; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Trưng bày, GV chụp sản phẩm mâm cơm ba chiều của các nhóm rồi chiếu lên màn hình; cả lớp cùng xem, chọn mâm cơm sắp gọn",
    "integrations": [],
    "note": ""
   },
@@ -475,7 +481,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khởi động chủ đề “Bữa cơm gia đình”, GV chiếu ảnh chụp một lọ hoa đã trang trí bên cạnh vỏ chai chưa trang trí; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Trưng bày, GV chụp lọ hoa của các nhóm rồi chiếu lên màn hình thành một bộ sưu tập nhỏ; cả lớp cùng xem",
    "integrations": [],
    "note": ""
   },
@@ -540,7 +546,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Thầy cô của em”, GV chiếu ảnh chụp các hoạt động của thầy cô ở trường: đang giảng bài, đang chấm vở, đang chơi cùng học sinh; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Trưng bày, GV chụp bài của các nhóm rồi chiếu lên màn hình; cả lớp cùng xem, chọn bài thể hiện rõ hoạt động của thầy cô và nói bạn đã…",
    "integrations": [],
    "note": ""
   },
@@ -632,7 +638,7 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Thảo luận chủ đề “Đồ chơi từ tạo hình con vật”, GV chiếu ảnh hộp bút lộn xộn bên cạnh ảnh ống đựng bút gọn gàng; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Trưng bày, GV chụp ống đựng bút của các nhóm rồi chiếu lên màn hình thành bộ sưu tập; cả lớp cùng xem, chọn sản phẩm chắc chắn",
    "integrations": [],
    "note": ""
   },
@@ -970,13 +976,13 @@
   "file": "assets/docs/lop2/Mi thuat - Lop 2.docx",
   "name": "Mi thuat - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42658,
+  "size": 43614,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Mi thuat - Lop 2.xlsx",
   "name": "Mi thuat - Lop 2.xlsx",
-  "size": 8323,
+  "size": 9401,
   "updated": "2026-09-08"
  }
 }

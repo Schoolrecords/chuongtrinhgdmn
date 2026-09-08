@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 19
+  "integrations": 21
  },
  "lessons": [
   {
@@ -165,7 +165,7 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở chủ đề “Em yêu làn điệu dân ca”, GV mở bản thu bài Con chim chích choè và một hai làn điệu dân ca quen thuộc cho HS nghe đoán tên bài; Năng lực số Miền 3 (Cơ bản, bậc 1): Sau khi các nhóm biểu diễn, GV quay lại tiết mục rồi chiếu cho cả lớp cùng xem; mỗi nhóm nhìn phần trình diễn của mình để nói chỗ hát đã đều",
    "integrations": [
     {
      "code": "KNS",
@@ -301,8 +301,19 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Luyện tập chủ đề “Tuổi thơ”, GV chiếu hình tiết tấu phóng to lên màn hình và mở bản gõ mẫu từ học liệu số; Sáng tạo, GV dùng điện thoại ghi âm phần hoà tấu của từng nhóm với thanh phách, song loan, trống con rồi mở lại cho cả lớp nghe",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Vận dụng"
+    }
+   ],
    "note": ""
   },
   {
@@ -507,7 +518,7 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở phần Khởi động chủ đề “Gia đình yêu thương”, GV mở lần lượt các đoạn giai điệu đã học từ học liệu số cho HS nghe đoán tên bài; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở phần Biểu diễn, GV ghi âm phần hát kết hợp gõ đệm của từng tổ rồi mở lại cho cả lớp nghe",
    "integrations": [
     {
      "code": "KNS",
@@ -965,13 +976,13 @@
   "file": "assets/docs/lop2/Am nhac - Lop 2.docx",
   "name": "Am nhac - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42545,
+  "size": 42972,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Am nhac - Lop 2.xlsx",
   "name": "Am nhac - Lop 2.xlsx",
-  "size": 8309,
+  "size": 8790,
   "updated": "2026-09-08"
  }
 }

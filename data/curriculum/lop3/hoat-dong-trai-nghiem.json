@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 89
+  "integrations": 79
  },
  "lessons": [
   {
@@ -758,14 +758,8 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở chủ đề “Tự sắp xếp đồ dùng ngăn nắp”, GV chiếu cặp ảnh một góc học tập bừa bộn."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở chủ đề “Tự sắp xếp đồ dùng ngăn nắp”, GV chiếu cặp ảnh một góc học tập bừa bộn và một góc được phân loại theo nhóm; Năng lực số Miền 3 (Cơ bản, bậc 1): HS sắp xếp lại cặp sách hoặc ngăn bàn, GV chụp ảnh trước và sau rồi chiếu lên màn hình; các em nhìn hai ảnh cạnh nhau nên thấy rõ kết quả việc mình…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -818,14 +812,8 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ở chủ đề “Góc học tập đáng yêu”, HS vẽ hoặc làm mô hình góc học tập mơ ước; GV chụp ảnh."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 3 (Cơ bản, bậc 1): Ở chủ đề “Góc học tập đáng yêu”, HS vẽ hoặc làm mô hình góc học tập mơ ước; GV chụp ảnh sản phẩm rồi chiếu thành trang trưng bày để mỗi em giới…; Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu vài ảnh góc học tập có ánh sáng tốt và góc thiếu sáng, bàn ghế đúng và sai tầm; HS chỉ ra góc nào ngồi học đỡ mỏi",
+   "integrations": [],
    "note": ""
   },
   {
@@ -884,14 +872,8 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá chủ đề “Nhà là tổ ấm”, GV chiếu bộ ảnh các góc quen thuộc trong nhà."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Nhà là tổ ấm”, GV chiếu bộ ảnh các góc quen thuộc trong nhà: góc học tập gọn gàng và bừa bộn; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở hoạt động Chia sẻ về góc em thích trong nhà, GV chiếu bảng chung có các cột “Góc em thích; Việc em làm”",
+   "integrations": [],
    "note": ""
   },
   {
@@ -944,12 +926,12 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Chia sẻ về dụng cụ dọn vệ sinh của chủ đề “Nhà sạch thì mát”, GV chiếu ảnh chụp gần chổi, cây lau nhà, khăn lau; Việc dùng để làm; Lưu ý khi dùng”; các nhóm lần lượt lên điền để cả lớp nhìn chung một bảng",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV chiếu bảng chung “Dụng cụ – Việc dùng để làm – Lưu ý khi dùng”."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV chiếu bảng chung “Dụng cụ"
     }
    ],
    "note": ""
@@ -1004,12 +986,12 @@
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Đồ dùng của người thân”, GV chiếu bộ ảnh những đồ dùng quen thuộc của ông bà, bố mẹ như kính lão, chiếc chổi, hộp kim chỉ; Đồ dùng; Việc em làm để giữ gìn”; các nhóm lần lượt lên điền để cả lớp nhìn chung một bảng",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá chủ đề “Đồ dùng của người thân”, GV chiếu bộ ảnh những đồ dùng quen thuộc của."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 1): Ở hoạt động Chia sẻ, GV chiếu bảng chung “Người thân"
     }
    ],
    "note": ""
@@ -1070,14 +1052,8 @@
    "periodTo": 53,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Viết lá thư tri ân, GV chiếu mẫu bưu thiếp trên máy tính lớp."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Viết lá thư tri ân, GV chiếu mẫu bưu thiếp trên máy tính lớp, cùng HS chọn hình nền, gõ thử lời chúc và chỉnh cỡ chữ cho dễ đọc; Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu mẫu phong bì thư đã ghi đủ nơi gửi, nơi nhận, phóng to từng ô để HS biết viết gì vào đâu",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1256,14 +1232,8 @@
    "periodTo": 62,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá chủ đề “Bếp nhà em”, GV chiếu bộ ảnh gian bếp."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Bếp nhà em”, GV chiếu bộ ảnh gian bếp có nguy cơ mất an toàn: nồi quai hướng ra ngoài, dao để mép bàn; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác “Nếu… thì…”: máy hiện tình huống trong bếp, HS chọn cách xử lí an toàn rồi bấm kiểm tra",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1316,14 +1286,8 @@
    "periodTo": 65,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác sắp xếp các bước rửa tay trước khi ăn."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Ăn sạch”, GV chiếu bộ ảnh so sánh: rau đã rửa và rau còn đất, thức ăn đậy lồng bàn và thức ăn để hở có ruồi; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác sắp xếp các bước rửa tay trước khi ăn: HS kéo các bước vào đúng thứ tự rồi bấm kiểm tra",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1370,14 +1334,8 @@
    "periodTo": 68,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá chủ đề “Bên mâm cơm”, GV chiếu bộ ảnh các cách ứng xử trong bữa ăn."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Bên mâm cơm”, GV chiếu bộ ảnh các cách ứng xử trong bữa ăn: mời người lớn trước, dùng thìa chung để lấy thức ăn; Năng lực số Miền 2 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bảng chung “Quy tắc ứng xử bên mâm cơm”; các nhóm lần lượt lên ghi một quy tắc của nhóm mình để cả lớp nhìn chung một…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1440,14 +1398,8 @@
    "periodTo": 71,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV chiếu tình huống đi ăn."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Ăn uống ngoài hàng quán”, GV chiếu bộ ảnh so sánh quán ăn sạch sẽ có che đậy thức ăn với quán bày thức ăn ngoài trời…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV chiếu tình huống đi ăn cùng gia đình; HS chọn việc nên làm là rửa tay trước khi ăn, chọn món nấu chín, không dùng chung cốc",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1587,12 +1539,12 @@
    "periodTo": 77,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Mùa đông ấm, mùa hè vui”, GV chiếu ảnh các món đồ có thể chia sẻ theo mùa: áo ấm, chăn, quạt, sách vở; Mùa cần; Người có thể nhận”; các nhóm lên điền để cả lớp nhìn chung một bảng rồi thống nhất kế…",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bảng chung “Món đồ – Mùa cần – Người có thể nhận”."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bảng chung “Món đồ"
     }
    ],
    "note": ""
@@ -1646,12 +1598,7 @@
     {
      "code": "KNS",
      "level": "",
-     "text": "Biết chia sẻ, yêu thương đặc biệt với những người khuyết tật giúp họ vơi đi vất vả cũng là giúp mình thêm vui vẻ, hạnh phúc"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá chủ đề “Giúp đỡ người khuyết tật”, GV chiếu ảnh."
+     "text": "Biết chia sẻ, yêu thương đặc biệt với những người khuyết tật giúp họ vơi đi vất vả cũng là giúp mình thêm vui vẻ, hạnh phúc\nNăng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “Giúp đỡ người khuyết tật”, GV chiếu ảnh và đoạn phim ngắn về bảng chữ cái ngón tay, chữ nổi Brai, xe lăn, gậy dò đường\nNăng lực số Miền 2 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bảng chung “Khó khăn của bạn – Việc em giúp được”; các nhóm lên điền như nói chậm rõ để bạn đọc khẩu hình, nhường lối đi"
     }
    ],
    "note": ""
@@ -2121,13 +2068,8 @@
    "periodTo": 101,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá chủ đề “An toàn là bạn”, GV chiếu ảnh các dụng cụ lao động quen thuộc kèm hình cảnh báo, phóng to phần lưỡi; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện tình huống dùng dụng cụ chưa an toàn, HS chọn cách sửa rồi bấm kiểm tra và giải thích",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá chủ đề “An toàn là bạn”, GV chiếu ảnh các dụng cụ lao động quen thuộc kèm."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2492,13 +2434,13 @@
   "file": "assets/docs/lop3/Hoat dong trai nghiem - Lop 3.docx",
   "name": "Hoat dong trai nghiem - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 48598,
+  "size": 49774,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Hoat dong trai nghiem - Lop 3.xlsx",
   "name": "Hoat dong trai nghiem - Lop 3.xlsx",
-  "size": 15339,
+  "size": 16610,
   "updated": "2026-09-08"
  }
 }
