@@ -25,6 +25,7 @@ const subjectById = Object.fromEntries(subjects.map((s) => [s.id, s]));
 const catalog = {};
 const indexPath = path.join(DATA, 'curriculum', 'index.json');
 const gradeAttachments = fs.existsSync(indexPath) ? (readJson(indexPath).gradeAttachments || {}) : {};
+const gradeAttachmentsXlsx = fs.existsSync(indexPath) ? (readJson(indexPath).gradeAttachmentsXlsx || {}) : {};   /* 8/9/2026 */
 const searchIndex = [];
 const subjectIds = subjects.map((s) => s.id);
 const themes = []; const themeIndex = new Map();
@@ -70,7 +71,7 @@ for (const g of grades) {
 fs.mkdirSync(path.join(ROOT, 'js'), { recursive: true });
 const bundle = `// Tệp sinh tự động bởi tools/build-data.mjs – KHÔNG sửa tay, hãy sửa các tệp trong data/ rồi chạy lại.\n` +
   `window.CT_DATA=Object.assign(window.CT_DATA||{},{generatedAt:${JSON.stringify(new Date().toISOString())},` +
-  `school:${compact(school)},grades:${compact(grades)},subjects:${compact(subjects)},integrations:${compact(integrations)},catalog:${compact(catalog)},gradeAttachments:${compact(gradeAttachments)}});\n`;
+  `school:${compact(school)},grades:${compact(grades)},subjects:${compact(subjects)},integrations:${compact(integrations)},catalog:${compact(catalog)},gradeAttachments:${compact(gradeAttachments)},gradeAttachmentsXlsx:${compact(gradeAttachmentsXlsx)}});\n`;
 fs.writeFileSync(path.join(ROOT, 'js', 'data.bundle.js'), bundle, 'utf8');
 
 const idx = `// Tệp sinh tự động bởi tools/build-data.mjs. rows: [lớp, thứ tự môn trong subjects, học kì, tuần, mã bài, tên bài, thứ tự chủ đề trong themes, mã tích hợp]\n` +

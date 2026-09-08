@@ -163,6 +163,7 @@ if (fs.existsSync(idxOut)) {
   const idx = readJson(idxOut);
   for (const it of idx.items || []) { fixSize(it.attachment); fixSize(it.attachmentXlsx); }
   for (const k of Object.keys(idx.gradeAttachments || {})) fixSize(idx.gradeAttachments[k]);
+  for (const k of Object.keys(idx.gradeAttachmentsXlsx || {})) fixSize(idx.gradeAttachmentsXlsx[k]);
   writeJson(idxOut, idx);
 }
 const schoolOut = path.join(OUT, 'data', 'school.json');

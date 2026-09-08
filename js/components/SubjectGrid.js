@@ -7,7 +7,9 @@
   function gradeDownload(grade) {
     const a = CT.store.data.gradeAttachments[String(grade)];
     if (!a) return '';
-    return `<a class="btn btn-outline btn-sm" href="${encodeURI(a.file)}" download="${esc(a.name)}" title="${esc(a.name)}">${icon('download')} Tải KHDH cả khối ${grade} (Word · ${CT.store.fileSize(a.size)})</a>`;
+    const x = (CT.store.data.gradeAttachmentsXlsx || {})[String(grade)];   /* 8/9/2026: Excel cả khối, mỗi môn một sheet */
+    return `<a class="btn btn-outline btn-sm" href="${encodeURI(a.file)}" download="${esc(a.name)}" title="${esc(a.name)}">${icon('download')} Tải KHDH cả khối ${grade} (Word · ${CT.store.fileSize(a.size)})</a>`
+      + (x ? ` <a class="btn btn-outline btn-sm" href="${encodeURI(x.file)}" download="${esc(x.name)}" title="${esc(x.name)} — mỗi môn một sheet, nhập lại được vào app Bút Xanh">${icon('download')} Cả khối ${grade} (Excel · ${CT.store.fileSize(x.size)})</a>` : '');
   }
 
   function render({ grade }) {
