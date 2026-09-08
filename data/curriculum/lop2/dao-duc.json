@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 16
+  "integrations": 15
  },
  "lessons": [
   {
@@ -239,13 +239,8 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Nhận lỗi và sửa lỗi”, GV chiếu các đoạn phim tình huống ngắn về bạn nhỏ làm hỏng đồ của bạn, quên làm bài, nói dối mẹ; Năng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu các cách ứng xử trên màn hình cho HS chọn cách đúng gồm nhận lỗi, xin lỗi, sửa lỗi; máy báo đúng",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu các cách ứng xử trên màn hình cho HS chọn cách đúng gồm nhận lỗi, xin lỗi, sửa lỗi."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -945,13 +940,13 @@
   "file": "assets/docs/lop2/Dao duc - Lop 2.docx",
   "name": "Dao duc - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 44008,
+  "size": 44093,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Dao duc - Lop 2.xlsx",
   "name": "Dao duc - Lop 2.xlsx",
-  "size": 9945,
+  "size": 10044,
   "updated": "2026-09-08"
  }
 }

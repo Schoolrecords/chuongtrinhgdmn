@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 178,
-  "integrations": 37
+  "integrations": 34
  },
  "lessons": [
   {
@@ -223,7 +223,7 @@
    "periodTo": 28,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết “Bố và Hà đi bộ trên hè phố” của bài chữ ô và thanh nặng; Năng lực số Miền 2 (Cơ bản, bậc 1): GV ghi âm lượt đọc từ bố, cô bé, cổ cò của vài HS rồi mở lại cho cả lớp cùng nghe; các em nghe giọng mình",
    "integrations": [],
    "note": ""
   },
@@ -255,7 +255,7 @@
    "periodTo": 32,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết “Tàu dỡ hàng ở cảng” của bài chữ ơ và dấu ngã, thêm vài ảnh thật về bờ đê, con cá cờ; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác chọn tiếng viết đúng dấu ngã trong các cặp tiếng dễ lẫn như dỡ và dở, đỡ và đở; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -453,7 +453,7 @@
    "periodTo": 56,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết của bài chữ ng, ngh và ảnh thật vài sự vật có tiếng chứa hai chữ ghép này; HS gọi tên, tìm tiếng có ng; Năng lực số Miền 3 (Cơ bản, bậc 1): GV viết mẫu chữ ng, ngh trên bảng tương tác theo từng nét, tô lại chỗ nối nét mà HS hay viết rời",
    "integrations": [],
    "note": ""
   },
@@ -517,7 +517,7 @@
    "periodTo": 64,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết của bài chữ t, tr cùng ảnh thật vài sự vật có tiếng chứa t, tr để HS gọi tên; Năng lực số Miền 2 (Cơ bản, bậc 1): GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình",
    "integrations": [],
    "note": ""
   },
@@ -533,7 +533,7 @@
    "periodTo": 66,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết của bài chữ th và vần ia, chỉ vào từng chi tiết để HS kể việc các nhân vật đang làm; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác ghép âm đầu với vần ia thành tiếng rồi nối tiếng với hình; máy báo đúng",
    "integrations": [],
    "note": ""
   },
@@ -741,7 +741,7 @@
    "periodTo": 92,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết của bài vần am, ăm, âm và ảnh thật vài sự vật có tiếng chứa ba vần; HS gọi tên; Năng lực số Miền 3 (Cơ bản, bậc 1): GV viết mẫu vần am, ăm, âm trên bảng tương tác theo từng nét, tô lại dấu mũ và dấu á mà HS hay quên",
    "integrations": [],
    "note": ""
   },
@@ -901,7 +901,7 @@
    "periodTo": 112,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết của bài vần ao, eo cùng ảnh thật vài sự vật có tiếng chứa hai vần này; ảnh lớn giúp HS gọi tên sự vật; Năng lực số Miền 2 (Cơ bản, bậc 1): GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình",
    "integrations": [],
    "note": ""
   },
@@ -981,14 +981,8 @@
    "periodTo": 122,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu phóng to tranh nhận biết của bài vần ac, ăc, âc và hỏi tranh vẽ ai, đang làm gì."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết của bài vần ac, ăc, âc và hỏi tranh vẽ ai, đang làm gì; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác nối tiếng có vần ac, ăc, âc với hình tương ứng; máy báo đúng, sai ngay nên HS tự nhận ra mình còn nhầm vần nào",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1281,14 +1275,8 @@
    "periodTo": 158,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Mở bài tập tương tác nối tiếng có bốn vần vừa học."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết của bài vần ong, ông, ung, ưng và hỏi tranh vẽ ai, đang làm gì; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác nối tiếng có bốn vần vừa học với hình tương ứng; máy báo đúng, sai ngay nên HS tự nhận ra mình còn nhầm vần nào",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1303,7 +1291,7 @@
    "periodTo": 160,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết của bài vần iêc, iên, iêp cùng ảnh thật vài sự vật có tiếng chứa ba vần này; ảnh lớn giúp HS gọi tên sự vật; Năng lực số Miền 2 (Cơ bản, bậc 1): GV ghi âm lượt đọc từ ngữ của vài HS rồi mở lại cho cả lớp nghe; các em nghe giọng mình",
    "integrations": [],
    "note": ""
   },
@@ -1319,7 +1307,7 @@
    "periodTo": 162,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh nhận biết của bài vần iêng, iêm, yên, chỉ vào từng chi tiết để HS kể việc nhân vật đang làm; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác chọn vần đúng điền vào chỗ trống giữa iên và yên; máy báo đúng, sai ngay nên HS bước đầu nhận ra khi nào viết yên",
    "integrations": [],
    "note": ""
   },
@@ -1383,14 +1371,8 @@
    "periodTo": 170,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Nhận biết bài “uôi, uôm”, GV chiếu phóng to tranh con thuyền và câu “Thuyền buồm xuôi theo chiều gió.”."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nhận biết bài “uôi, uôm”, GV chiếu phóng to tranh con thuyền và câu “Thuyền buồm xuôi theo chiều gió.”; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Viết, GV dùng phần mềm viết chữ chiếu nét bút chạy chậm theo đúng thứ tự của vần uôi, uôm và tiếng “nải chuối”",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1613,7 +1595,7 @@
    "periodTo": 198,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nhận biết bài “uân, uât”, GV chiếu tranh cảnh mùa xuân và mở một đoạn phim ngắn về chợ hoa ngày Tết để HS thấy không khí mùa xuân; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Nói theo tranh, GV ghi âm lời từng nhóm nói về cảnh mùa xuân trong tranh rồi mở lại cho cả lớp nghe",
    "integrations": [],
    "note": ""
   },
@@ -1629,7 +1611,7 @@
    "periodTo": 200,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Nhận biết bài “uyên, uyêt”, GV chiếu tranh bà kể chuyện cho cháu nghe và mở bản kể chuyện có tiếng đọc mẫu; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Đọc từ ngữ, GV mở bài tập tương tác ghép vần: máy hiện các chữ cái rời, HS kéo ghép thành vần uyên, uyêt và tiếng “câu chuyện”, “thuyền buồm”",
    "integrations": [],
    "note": ""
   },
@@ -3356,13 +3338,13 @@
   "file": "assets/docs/lop1/Tieng Viet - Lop 1.docx",
   "name": "Tieng Viet - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 52656,
+  "size": 53032,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop1/Tieng Viet - Lop 1.xlsx",
   "name": "Tieng Viet - Lop 1.xlsx",
-  "size": 21530,
+  "size": 22015,
   "updated": "2026-09-08"
  }
 }

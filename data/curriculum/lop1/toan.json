@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 26
+  "integrations": 25
  },
  "lessons": [
   {
@@ -1381,14 +1381,8 @@
    "periodTo": 79,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện phép trừ, HS chọn kết quả rồi bấm kiểm tra."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Phép trừ số có hai chữ số cho số có một chữ số”, GV chiếu hình bó chục và que rời trên màn hình rồi bớt dần số…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện phép trừ, HS chọn kết quả rồi bấm kiểm tra",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2122,13 +2116,13 @@
   "file": "assets/docs/lop1/Toan - Lop 1.docx",
   "name": "Toan - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 46535,
+  "size": 46528,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop1/Toan - Lop 1.xlsx",
   "name": "Toan - Lop 1.xlsx",
-  "size": 13508,
+  "size": 13503,
   "updated": "2026-09-08"
  }
 }

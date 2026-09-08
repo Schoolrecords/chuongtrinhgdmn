@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 163,
-  "integrations": 106
+  "integrations": 105
  },
  "lessons": [
   {
@@ -421,13 +421,8 @@
    "periodTo": 30,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi đọc bài “Đi học vui sao / Nói và nghe: Tới lớp, tới trường”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật; Năng lực số Miền 2 (Cơ bản, bậc 1): GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi, nhấn giọng",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước khi đọc bài “Đi học vui sao / Nói và nghe: Tới lớp, tới trường”, GV chiếu 2–3 hình ảnh hoặc."
-    },
     {
      "code": "QTE",
      "level": "",
@@ -480,7 +475,7 @@
    "periodTo": 33,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước khi đọc bài “Con đường đến trường / Viết: Ôn chữ viết hoa D, Đ”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật; Năng lực số Miền 2 (Cơ bản, bậc 1): GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi, nhấn giọng",
    "integrations": [
     {
      "code": "QTE",
@@ -3528,13 +3523,13 @@
   "file": "assets/docs/lop3/Tieng Viet - Lop 3.docx",
   "name": "Tieng Viet - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 52183,
+  "size": 52176,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Tieng Viet - Lop 3.xlsx",
   "name": "Tieng Viet - Lop 3.xlsx",
-  "size": 20481,
+  "size": 20496,
   "updated": "2026-09-08"
  }
 }

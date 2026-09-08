@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 33
+  "integrations": 25
  },
  "lessons": [
   {
@@ -73,14 +73,8 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu phóng to tranh Khám phá của bài “Em tắm, gội sạch sẽ” cho HS so sánh hai bạn trong tranh."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh Khám phá của bài “Em tắm, gội sạch sẽ” cho HS so sánh hai bạn trong tranh; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác kéo các bước tắm, gội về đúng thứ tự; máy báo đúng, sai ngay nên HS tự nhận ra chỗ xếp nhầm và sắp lại",
+   "integrations": [],
    "note": ""
   },
   {
@@ -95,13 +89,8 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh Khám phá của bài “Em giữ trang phục gọn gàng, sạch sẽ” và thêm vài ảnh thật: áo bỏ trong quần, cổ áo lật ngay ngắn; Năng lực số Miền 5 (Cơ bản, bậc 1): GV mở bài tập tương tác sắp các bước mặc áo và chỉnh trang phục theo đúng thứ tự: mặc áo, cài cúc từ dưới lên, bỏ áo vào quần, chỉnh cổ áo",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Mở bài tập tương tác sắp các bước mặc áo và chỉnh trang phục theo đúng thứ tự."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -321,13 +310,8 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Giữ gìn tài sản của trường, lớp”, GV chiếu lên màn hình bộ ảnh chụp ngay tại trường mình: bộ bàn ghế còn lành và bộ bàn bị…; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở trên máy chiếu bài tập kéo thả: các bức tranh việc làm hiện ra, HS lên bảng kéo tranh vào cột “Nên làm” hoặc “Không nên làm”",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở trên máy chiếu bài tập kéo thả."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -348,13 +332,8 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Giữ vệ sinh trường, lớp”, GV chiếu ảnh chụp chính lớp mình lúc đầu buổi và sau khi trực nhật, phóng to góc để chổi; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác phân loại rác trên máy chiếu: máy hiện lần lượt vỏ hộp sữa, giấy vụn, lá cây",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Giữ vệ sinh trường, lớp”, GV chiếu ảnh chụp chính lớp mình lúc đầu buổi và."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -375,13 +354,8 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Gọn gàng, ngăn nắp”, GV chiếu hai ảnh chụp cùng một góc học tập: lúc sách vở để lộn xộn và lúc đã xếp gọn; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác sắp xếp đồ dùng: máy hiện bàn học bừa bộn, HS kéo từng thứ về đúng chỗ là giá sách, hộp bút",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác sắp xếp đồ dùng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -462,13 +436,8 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Tự giác tham gia các hoạt động ở trường”, GV chiếu ảnh chụp chính các hoạt động của trường mình: kế hoạch nhỏ, chăm sóc bồn hoa; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác: máy hiện các việc chung ở trường, HS chọn việc vừa sức mình có thể tự giác làm rồi bấm kiểm tra",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Tự giác tham gia các hoạt động ở trường”, GV chiếu ảnh chụp chính các hoạt động của trường mình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -489,13 +458,8 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá bài “Tự giác làm việc nhà”, GV chiếu bộ ảnh những việc nhà vừa sức với HS lớp 1: gấp quần áo, tưới cây, nhặt rau, xếp dép; Năng lực số Miền 5 (Cơ bản, bậc 1): Ở hoạt động Luyện tập, GV mở bài tập tương tác phân loại: máy hiện lần lượt các việc nhà, HS chọn việc vừa sức và an toàn hay việc phải nhờ người lớn…",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác phân loại."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -711,14 +675,8 @@
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Nêu và làm mẫu cách người lớn quét mã trên bao bì để tra thông tin sản phẩm."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu ảnh phóng to nhãn một gói bánh, hộp sữa lên màn hình, chỉ cho HS chỗ ghi hạn sử dụng và hướng dẫn HS đọc số ngày tháng ghi ở đó; Năng lực số Miền 5 (Cơ bản, bậc 1): GV nêu và làm mẫu cách người lớn quét mã trên bao bì để tra thông tin sản phẩm; HS quan sát GV thao tác và nói lại việc cần làm trước khi ăn…",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1038,13 +996,13 @@
   "file": "assets/docs/lop1/Dao duc - Lop 1.docx",
   "name": "Dao duc - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 43969,
+  "size": 44692,
   "updated": "2026-09-08"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop1/Dao duc - Lop 1.xlsx",
   "name": "Dao duc - Lop 1.xlsx",
-  "size": 9899,
+  "size": 10625,
   "updated": "2026-09-08"
  }
 }
