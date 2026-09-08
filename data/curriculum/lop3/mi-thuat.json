@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 22
+  "integrations": 23
  },
  "lessons": [
   {
@@ -30,7 +30,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS kể được các hoạt động mĩ thuật khác nhau qua ảnh và clip"
+    }
+   ],
    "note": ""
   },
   {
@@ -246,14 +252,8 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS gọi tên được vật liệu qua ảnh chụp gần bề mặt"
-    }
-   ],
+   "adjustments": "Năng lực số 3.3 CB1a: HS lập được trang giới thiệu sản phẩm có ảnh, vật liệu và tên tác giả",
+   "integrations": [],
    "note": ""
   },
   {
@@ -350,7 +350,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB1a: HS nhận ra quá trình học của mình qua hồ sơ ảnh sản phẩm"
+    }
+   ],
    "note": ""
   },
   {
@@ -979,7 +985,13 @@
   "file": "assets/docs/lop3/Mi thuat - Lop 3.docx",
   "name": "Mi thuat - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42744,
+  "size": 42817,
+  "updated": "2026-09-08"
+ },
+ "attachmentXlsx": {
+  "file": "assets/docs/lop3/Mi thuat - Lop 3.xlsx",
+  "name": "Mi thuat - Lop 3.xlsx",
+  "size": 8516,
   "updated": "2026-09-08"
  }
 }

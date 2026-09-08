@@ -23,6 +23,9 @@
     const dl = cat && cat.attachment
       ? `<a class="btn btn-outline btn-sm" href="${encodeURI(cat.attachment.file)}" download="${esc(cat.attachment.name)}" title="Tải ${esc(cat.attachment.name)} (${CT.store.fileSize(cat.attachment.size)})" aria-label="Tải bản Word KHDH ${esc(s.name)} lớp ${grade}">${icon('download')} Word</a>`
       : '';
+    const dlx = cat && cat.attachmentXlsx
+      ? `<a class="btn btn-outline btn-sm" href="${encodeURI(cat.attachmentXlsx.file)}" download="${esc(cat.attachmentXlsx.name)}" title="Tải ${esc(cat.attachmentXlsx.name)} (${CT.store.fileSize(cat.attachmentXlsx.size)})" aria-label="Tải bản Excel kế hoạch ${esc(s.name)} lớp ${grade}">${icon('download')} Excel</a>`
+      : '';
     return `
 <article class="subject-card${cat ? '' : ' is-empty'}" data-subject="${esc(s.id)}">
   <a class="subject-main" href="${href}" aria-label="${esc(s.name)} lớp ${grade} – xem kế hoạch dạy học">
@@ -34,7 +37,7 @@
   </a>
   <span class="subject-actions">
     ${cat ? `<a class="btn btn-view btn-sm" href="${href}">${icon('file')} Xem kế hoạch</a>` : statusPill(cat)}
-    ${dl}
+    ${dl}${dlx}
   </span>
 </article>`;
   }

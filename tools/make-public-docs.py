@@ -196,9 +196,12 @@ def main():
     count = 0
     for root, _dirs, files in os.walk(src_docs):
         for fn in files:
+            rel = os.path.relpath(os.path.join(root, fn), src_docs)
+            if fn.lower().endswith('.xlsx'):   # 8/9/2026: Excel không mang tên trường, chép nguyên
+                os.makedirs(os.path.dirname(os.path.join(dst_docs, rel)), exist_ok=True)
+                shutil.copyfile(os.path.join(root, fn), os.path.join(dst_docs, rel)); count += 1; continue
             if not fn.lower().endswith('.docx'):
                 continue
-            rel = os.path.relpath(os.path.join(root, fn), src_docs)
             anonymize(os.path.join(root, fn), os.path.join(dst_docs, rel))
             count += 1
     print(f'Đã ẩn danh {count} tệp Word -> {dst_docs}')

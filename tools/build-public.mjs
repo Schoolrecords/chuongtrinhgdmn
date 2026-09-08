@@ -155,13 +155,13 @@ for (const g of grades) {
   if (!fs.existsSync(dir)) continue;
   for (const fn of fs.readdirSync(dir)) {
     if (!fn.endsWith('.json')) continue;
-    const p = path.join(dir, fn); const cur = readJson(p); fixSize(cur.attachment); writeJson(p, cur);
+    const p = path.join(dir, fn); const cur = readJson(p); fixSize(cur.attachment); fixSize(cur.attachmentXlsx); writeJson(p, cur);
   }
 }
 const idxOut = path.join(OUT, 'data', 'curriculum', 'index.json');
 if (fs.existsSync(idxOut)) {
   const idx = readJson(idxOut);
-  for (const it of idx.items || []) fixSize(it.attachment);
+  for (const it of idx.items || []) { fixSize(it.attachment); fixSize(it.attachmentXlsx); }
   for (const k of Object.keys(idx.gradeAttachments || {})) fixSize(idx.gradeAttachments[k]);
   writeJson(idxOut, idx);
 }

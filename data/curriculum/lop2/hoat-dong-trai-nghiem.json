@@ -245,7 +245,7 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A2.1: Nhận biết các thiết bị AI hỗ trợ giải phóng sức lao động trong gia đình; Năng lực số 3.1 CB1a: HS xem triển lãm ảnh sản phẩm của lớp, bình chọn và nói được vì sao mình chọn sản phẩm đó",
+   "adjustments": "Tích hợp AI; YCCĐ 2.C1.2: Hiểu AI cần “học” từ các ví dụ (dữ liệu) để thực hiện nhiệm vụ; Năng lực số 3.1 CB1a: HS xem triển lãm ảnh sản phẩm của lớp, bình chọn và nói được vì sao mình chọn sản phẩm đó",
    "integrations": [],
    "note": ""
   },
@@ -853,7 +853,7 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1b: HS chọn cách giới thiệu sản phẩm/hình ảnh theo chủ điểm bằng phương tiện số đơn giản",
    "integrations": [],
    "note": ""
   },
@@ -869,7 +869,7 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1a: Nhận biết công cụ số đơn giản như đồng hồ báo thức, lịch hoặc ứng dụng nhắc việc có thể hỗ trợ tự giác học tập, sinh hoạt dưới sự hướng dẫn của người lớn",
+   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: HS biết AI hỗ trợ phân loại, gợi ý trang phục dựa trên dữ liệu; con người phải kiểm tra và quyết định; Năng lực số 1.1 CB1b: HS đọc bản tin thời tiết chiếu trên màn hình và chọn được trang phục, đồ dùng hợp với thời tiết những ngày tới",
    "integrations": [],
    "note": ""
   },
@@ -929,7 +929,7 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: HS biết AI hỗ trợ phân loại, gợi ý trang phục dựa trên dữ liệu; con người phải kiểm tra và quyết định; Năng lực số 1.1 CB1b: HS đọc bản tin thời tiết chiếu trên màn hình và chọn được trang phục, đồ dùng hợp với thời tiết những ngày tới",
+   "adjustments": "Năng lực số 5.2 CB1a: Nhận biết công cụ số đơn giản như đồng hồ báo thức, lịch hoặc ứng dụng nhắc việc có thể hỗ trợ tự giác học tập, sinh hoạt dưới sự hướng dẫn của người lớn",
    "integrations": [],
    "note": ""
   },
@@ -945,7 +945,7 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 3.1 CB1a: HS xem bộ ảnh trình diễn và nói được trang phục nào hợp với hoàn cảnh nào",
+   "adjustments": "Năng lực số 3.1 CB1b: HS chọn cách giới thiệu sản phẩm/hình ảnh theo chủ điểm bằng phương tiện số đơn giản",
    "integrations": [
     {
      "code": "KNS",
@@ -1359,13 +1359,8 @@
    "periodTo": 68,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1a: Sử dụng công cụ số đơn giản để giải quyết nhu cầu cá nhân dưới sự hướng dẫn; biết điện thoại thông minh, bản đồ hoặc định vị có thể hỗ trợ tìm đường, gửi vị trí cho người thân khi gặp sự cố; biết địa chỉ nhà, số điện thoại của bố mẹ và thông tin liên lạc khẩn cấp chỉ dùng để nhờ người tin cậy hỗ trợ, không đăng công khai lên mạng; Tích hợp AI; YCCĐ 2.A1.1: Biết sử dụng công cụ tìm kiếm hoặc bản đồ AI để tìm trợ giúp khi cần",
+   "adjustments": "Năng lực số 4.2 CB1a: Nhận biết cách sử dụng và chia sẻ thông tin định danh cá nhân an toàn; không chia sẻ địa chỉ nhà, số điện thoại hoặc thông tin cá nhân cho người lạ trên môi trường số",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 4.2 CB1a: Nhận biết cách bảo vệ thông tin định danh cá nhân"
-    },
     {
      "code": "QTE",
      "level": "",
@@ -1440,8 +1435,13 @@
    "periodTo": 71,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 4.2 CB1a: Nhận biết cách sử dụng và chia sẻ thông tin định danh cá nhân an toàn; không chia sẻ địa chỉ nhà, số điện thoại hoặc thông tin cá nhân cho người lạ trên môi trường số",
+   "adjustments": "Năng lực số 5.2 CB1a: Sử dụng công cụ số đơn giản để giải quyết nhu cầu cá nhân dưới sự hướng dẫn; biết điện thoại thông minh, bản đồ hoặc định vị có thể hỗ trợ tìm đường, gửi vị trí cho người thân khi gặp sự cố; biết địa chỉ nhà, số điện thoại của bố mẹ và thông tin liên lạc khẩn cấp chỉ dùng để nhờ người tin cậy hỗ trợ, không đăng công khai lên mạng; Tích hợp AI; YCCĐ 2.A1.1: Biết sử dụng công cụ tìm kiếm hoặc bản đồ AI để tìm trợ giúp khi cần",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 4.2 CB1a: Nhận biết cách bảo vệ thông tin định danh cá nhân"
+    },
     {
      "code": "ATGT",
      "level": "",
@@ -1784,7 +1784,7 @@
    "periodTo": 87,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 3.1 CB1a: HS chụp ảnh và báo số liệu cho GV ghi vào sổ chăm sóc cây của tổ mình",
+   "adjustments": "Năng lực số 3.1 CB1b: HS chọn cách giới thiệu sản phẩm/hình ảnh theo chủ điểm bằng phương tiện số đơn giản",
    "integrations": [
     {
      "code": "QPAN",
@@ -1806,7 +1806,7 @@
    "periodTo": 88,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1b: HS chọn cách giới thiệu sản phẩm/hình ảnh theo chủ điểm bằng phương tiện số đơn giản",
    "integrations": [
     {
      "code": "KNS",
@@ -1828,8 +1828,19 @@
    "periodTo": 89,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1a: Xác định nhu cầu cá nhân và sử dụng công cụ số đơn giản để trình bày kết quả; dưới sự hướng dẫn của GV, HS biết dùng bảng hoặc biểu tượng số đơn giản để trình bày kết quả khảo sát khu vực sạch; chưa sạch",
-   "integrations": [],
+   "adjustments": "biết thu gom pin cũ, thiết bị điện tử hỏng đúng nơi quy định",
+   "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "Năng lực số 4.4 CB1a: Nhận biết tác động của công nghệ số đối với môi trường"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 4.4 CB1a: Nhận biết tác động của công nghệ số đối với môi trường"
+    }
+   ],
    "note": ""
   },
   {
@@ -1844,13 +1855,8 @@
    "periodTo": 90,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; Năng lực số 3.1 CB1a: HS chụp ảnh và báo số liệu cho GV ghi vào sổ chăm sóc cây của tổ mình",
+   "adjustments": "Năng lực số 3.1 CB1a: HS chụp ảnh và báo số liệu cho GV ghi vào sổ chăm sóc cây của tổ mình",
    "integrations": [
-    {
-     "code": "GDMT",
-     "level": "",
-     "text": "YCCĐ 2.C3.1: HS biết AI có thể hỗ trợ phân loại rác thải tự động để bảo vệ môi trường"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1893,18 +1899,8 @@
    "periodTo": 92,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "biết thu gom pin cũ, thiết bị điện tử hỏng đúng nơi quy định",
+   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: Nhận biết trong nghề nghiệp thực tế, AI có thể hỗ trợ nhưng con người phải giám sát và chịu trách nhiệm; Năng lực số 1.1 CB1b: HS xem phim, gọi tên được một số nghề và nêu đức tính cần có của người làm nghề đó",
    "integrations": [
-    {
-     "code": "GDMT",
-     "level": "",
-     "text": "Năng lực số 4.4 CB1a: Nhận biết tác động của công nghệ số đối với môi trường"
-    },
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 4.4 CB1a: Nhận biết tác động của công nghệ số đối với môi trường"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1925,8 +1921,13 @@
    "periodTo": 93,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 3.1 CB1a: HS chụp ảnh và báo số liệu cho GV ghi vào sổ chăm sóc cây của tổ mình",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS đoán đúng tên nghề qua câu đố và tiếng động trong trò chơi"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1974,7 +1975,7 @@
    "periodTo": 95,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: Nhận biết trong nghề nghiệp thực tế, AI có thể hỗ trợ nhưng con người phải giám sát và chịu trách nhiệm; Năng lực số 1.1 CB1b: HS xem phim, gọi tên được một số nghề và nêu đức tính cần có của người làm nghề đó",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem phim, gọi tên được một số nghề và nêu đức tính cần có của người làm nghề đó",
    "integrations": [
     {
      "code": "KNS",
@@ -2001,7 +2002,7 @@
     {
      "code": "NLS",
      "level": "",
-     "text": "Năng lực số 5.2 CB1b: HS đoán đúng tên nghề qua câu đố và tiếng động trong trò chơi"
+     "text": "Năng lực số 1.1 CB1b: HS tìm thông tin đơn giản về nghề nghiệp từ nguồn số phù hợp"
     },
     {
      "code": "KNS",
@@ -2050,7 +2051,7 @@
    "periodTo": 98,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB1b: HS xem phim, gọi tên được một số nghề và nêu đức tính cần có của người làm nghề đó",
+   "adjustments": "Năng lực số 5.2 CB1a: Xác định nhu cầu cá nhân và sử dụng công cụ số đơn giản để trình bày kết quả; dưới sự hướng dẫn của GV, HS biết dùng bảng hoặc biểu tượng số đơn giản để trình bày kết quả khảo sát khu vực sạch; chưa sạch",
    "integrations": [
     {
      "code": "QPAN",
@@ -2077,7 +2078,7 @@
     {
      "code": "NLS",
      "level": "",
-     "text": "Năng lực số 5.2 CB1b: HS đoán đúng tên nghề qua câu đố và tiếng động trong trò chơi"
+     "text": "Năng lực số 1.1 CB1b: HS tìm thông tin đơn giản về nghề nghiệp từ nguồn số phù hợp"
     },
     {
      "code": "QPAN",
@@ -2491,7 +2492,13 @@
   "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.docx",
   "name": "Hoat dong trai nghiem - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 49733,
+  "size": 49632,
+  "updated": "2026-09-08"
+ },
+ "attachmentXlsx": {
+  "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.xlsx",
+  "name": "Hoat dong trai nghiem - Lop 2.xlsx",
+  "size": 16443,
   "updated": "2026-09-08"
  }
 }

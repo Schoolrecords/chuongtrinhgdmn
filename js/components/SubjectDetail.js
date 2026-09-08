@@ -16,8 +16,10 @@
     const { fileSize } = CT.store;
     const att = (cur && cur.attachment) || (cat && cat.attachment) || null;
     const gAtt = CT.store.data.gradeAttachments[String(grade)] || null;
+    const attX = (cur && cur.attachmentXlsx) || (cat && cat.attachmentXlsx) || null;   /* 8/9/2026: tải Excel (khuôn nhập được vào app Bút Xanh) */
     return `<div class="doc-actions">
       ${att ? `<a class="btn btn-primary btn-sm" href="${encodeURI(att.file)}" download="${esc(att.name)}" title="${esc(att.name)}">${icon('download')} Tải Word (${fileSize(att.size)})</a>` : ''}
+      ${attX ? `<a class="btn btn-outline btn-sm" href="${encodeURI(attX.file)}" download="${esc(attX.name)}" title="${esc(attX.name)} — mở bằng Excel, sửa rồi nhập lại vào app Bút Xanh">${icon('download')} Tải Excel (${fileSize(attX.size)})</a>` : ''}
       ${gAtt ? `<a class="btn btn-outline btn-sm" href="${encodeURI(gAtt.file)}" download="${esc(gAtt.name)}" title="${esc(gAtt.name)}">${icon('download')} Cả khối ${grade}</a>` : ''}
       ${cur ? `<button type="button" class="btn btn-outline btn-sm" data-action="print">${icon('file')} In</button>` : ''}
     </div>`;

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 14
+  "integrations": 17
  },
  "lessons": [
   {
@@ -29,7 +29,7 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc và ghi được kí hiệu về Trọng âm, phách, vạch nhịp, ô nhịp nhờ đối chiếu hình vẽ trên màn hình với âm thanh nghe được",
    "integrations": [],
    "note": ""
   },
@@ -45,7 +45,7 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nghe bản thu mẫu, hát đúng cao độ và biết xin mở lại đúng câu mình còn sai",
    "integrations": [],
    "note": ""
   },
@@ -63,6 +63,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS đọc đúng cao độ “Bài số 1” nhờ nghe mẫu từ đàn phím"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -105,7 +110,7 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nghe bản thu mẫu, hát đúng cao độ và biết xin mở lại đúng câu mình còn sai",
    "integrations": [
     {
      "code": "QPAN",
@@ -143,7 +148,7 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được đặc điểm nổi bật của “Giới thiệu đàn nhị” nhờ quan sát tư liệu số và nghe bản thu",
    "integrations": [],
    "note": ""
   },
@@ -182,7 +187,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS đọc đúng cao độ “Bài số 2 (nhịp 2/4)” nhờ nghe mẫu từ đàn phím"
+    }
+   ],
    "note": ""
   },
   {
@@ -197,7 +208,7 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nghe bản thu mẫu, hát đúng cao độ và biết xin mở lại đúng câu mình còn sai",
    "integrations": [],
    "note": ""
   },
@@ -213,7 +224,7 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.2 CB2a: HS chỉ ra được điểm khác giữa đoạn nhạc do máy tạo và đoạn do nghệ sĩ trình bày",
    "integrations": [],
    "note": ""
   },
@@ -251,7 +262,7 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nghe bản thu mẫu, hát đúng cao độ và biết xin mở lại đúng câu mình còn sai",
    "integrations": [],
    "note": ""
   },
@@ -283,7 +294,7 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được đặc điểm nổi bật của “Bản Xô-nát Ánh trăng (Beethoven)” nhờ quan sát tư liệu số và nghe bản thu",
    "integrations": [],
    "note": ""
   },
@@ -337,7 +348,7 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS giới thiệu sản phẩm của tổ đúng phép lịch sự, có ghi tên tác giả và xin phép bạn trước khi chia sẻ",
    "integrations": [],
    "note": ""
   },
@@ -354,7 +365,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS đọc đúng cao độ “Bài số 3 (nhịp 3/4)” nhờ nghe mẫu từ đàn phím"
+    }
+   ],
    "note": ""
   },
   {
@@ -369,7 +386,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được đặc điểm nổi bật của “Nhạc sĩ Bùi Đình Thảo” nhờ quan sát tư liệu số và nghe bản thu",
    "integrations": [],
    "note": ""
   },
@@ -385,7 +402,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nghe bản thu mẫu, hát đúng cao độ và biết xin mở lại đúng câu mình còn sai",
    "integrations": [
     {
      "code": "QPAN",
@@ -434,7 +451,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nghe bản thu mẫu, hát đúng cao độ và biết xin mở lại đúng câu mình còn sai",
    "integrations": [],
    "note": ""
   },
@@ -466,7 +483,7 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.2 CB2a: HS chỉ ra được điểm khác giữa đoạn nhạc do máy tạo và đoạn do nghệ sĩ trình bày",
    "integrations": [],
    "note": ""
   },
@@ -504,7 +521,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc và ghi được kí hiệu về ôn tập các kí hiệu ghi nhạc đã học nhờ đối chiếu hình vẽ trên màn hình với âm thanh nghe được",
    "integrations": [],
    "note": ""
   },
@@ -520,7 +537,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nghe bản thu mẫu, hát đúng cao độ và biết xin mở lại đúng câu mình còn sai",
    "integrations": [
     {
      "code": "QPAN",
@@ -542,7 +559,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.2 CB2a: HS chỉ ra được điểm khác giữa đoạn nhạc do máy tạo và đoạn do nghệ sĩ trình bày",
    "integrations": [
     {
      "code": "QPAN",
@@ -586,7 +603,7 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nghe bản thu mẫu, hát đúng cao độ và biết xin mở lại đúng câu mình còn sai",
    "integrations": [],
    "note": ""
   },
@@ -602,7 +619,7 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.2 CB2a: HS chỉ ra được điểm khác giữa đoạn nhạc do máy tạo và đoạn do nghệ sĩ trình bày",
    "integrations": [],
    "note": ""
   },
@@ -656,7 +673,7 @@
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS giới thiệu sản phẩm của tổ đúng phép lịch sự, có ghi tên tác giả và xin phép bạn trước khi chia sẻ",
    "integrations": [],
    "note": ""
   }
@@ -934,7 +951,13 @@
   "file": "assets/docs/lop5/Am nhac - Lop 5.docx",
   "name": "Am nhac - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42441,
+  "size": 42910,
+  "updated": "2026-09-08"
+ },
+ "attachmentXlsx": {
+  "file": "assets/docs/lop5/Am nhac - Lop 5.xlsx",
+  "name": "Am nhac - Lop 5.xlsx",
+  "size": 8615,
   "updated": "2026-09-08"
  }
 }

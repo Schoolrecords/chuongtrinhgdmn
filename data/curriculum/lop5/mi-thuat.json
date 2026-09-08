@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 5
+  "integrations": 19
  },
  "lessons": [
   {
@@ -29,7 +29,7 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2b: HS chọn được từ khoá phù hợp và tìm được tư liệu đúng yếu tố tạo hình cần",
    "integrations": [],
    "note": ""
   },
@@ -45,7 +45,7 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS phác được nhiều phương án bố cục bằng ứng dụng vẽ và biết hoàn tác khi cần",
    "integrations": [],
    "note": ""
   },
@@ -77,7 +77,7 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB2a: HS hoàn thiện được phần giới thiệu sản phẩm trên trang trưng bày của lớp",
    "integrations": [],
    "note": ""
   },
@@ -93,7 +93,7 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.3 CB2a: HS đối chiếu được hai nguồn tư liệu trước khi thể hiện nhân vật lịch sử",
    "integrations": [
     {
      "code": "QPAN",
@@ -116,7 +116,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS nắm được tư thế và tỉ lệ dáng nhân vật nhờ xem tượng từ nhiều góc"
+    }
+   ],
    "note": ""
   },
   {
@@ -148,7 +154,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.2 CB2a: HS lập được danh mục nguồn tư liệu cho trang trưng bày"
+    }
+   ],
    "note": ""
   },
   {
@@ -164,7 +176,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.3 CB2a: HS phân tích được cách sắp xếp nhân vật trong tranh đề tài gia đình"
+    }
+   ],
    "note": ""
   },
   {
@@ -179,7 +197,7 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS thử được nhiều bố cục nhân vật bằng cách kéo thả hình khối trên máy",
    "integrations": [],
    "note": ""
   },
@@ -212,7 +230,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.5 CB2a: HS chia sẻ và lắng nghe về đề tài gia đình một cách tế nhị"
+    }
+   ],
    "note": ""
   },
   {
@@ -228,7 +252,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS phân tích được dáng người trong hoạt động nhờ dừng hình clip"
+    }
+   ],
    "note": ""
   },
   {
@@ -276,7 +306,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB2a: HS viết được chú thích nêu rõ phần sáng tạo thêm so với ảnh tư liệu"
+    }
+   ],
    "note": ""
   },
   {
@@ -307,7 +343,7 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được câu chuyện qua hai nguồn trước khi chọn làm đề tài",
    "integrations": [],
    "note": ""
   },
@@ -324,7 +360,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS tự chỉnh sửa được tỉ lệ, tư thế theo tư liệu"
+    }
+   ],
    "note": ""
   },
   {
@@ -356,7 +398,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB2a: HS ghi đủ nguồn và tên tác giả trên sản phẩm chung của lớp"
+    }
+   ],
    "note": ""
   },
   {
@@ -371,7 +419,7 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS xác định được ba lớp cảnh gần, trung, xa nhờ xem địa hình từ nhiều góc",
    "integrations": [
     {
      "code": "QPAN",
@@ -426,7 +474,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS hoàn thiện được phần thông tin cho tranh của mình trong triển lãm"
+    }
+   ],
    "note": ""
   },
   {
@@ -443,6 +497,11 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS đối chiếu được hai nguồn và gọi đúng tên dân tộc, vùng miền"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -464,7 +523,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB2a: HS dựng được dải hoa văn đối xứng bằng lệnh sao chép và lật hình"
+    }
+   ],
    "note": ""
   },
   {
@@ -496,7 +561,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.2 CB2a: HS lập được danh mục nguồn cho trang trưng bày của lớp"
+    }
+   ],
    "note": ""
   },
   {
@@ -511,7 +582,7 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS giải thích được ý nghĩa của một biểu tượng hoà bình trong mĩ thuật",
    "integrations": [],
    "note": ""
   },
@@ -528,7 +599,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS chỉnh sửa được sản phẩm dựa trên kết quả tự kiểm tra"
+    }
+   ],
    "note": ""
   },
   {
@@ -560,7 +637,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB2a: HS ghi đủ tên tác giả và nguồn trên sản phẩm chung"
+    }
+   ],
    "note": ""
   },
   {
@@ -880,7 +963,13 @@
   "file": "assets/docs/lop5/Mi thuat - Lop 5.docx",
   "name": "Mi thuat - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 41925,
+  "size": 42710,
+  "updated": "2026-09-08"
+ },
+ "attachmentXlsx": {
+  "file": "assets/docs/lop5/Mi thuat - Lop 5.xlsx",
+  "name": "Mi thuat - Lop 5.xlsx",
+  "size": 8467,
   "updated": "2026-09-08"
  }
 }
