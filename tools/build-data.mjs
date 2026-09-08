@@ -50,6 +50,7 @@ for (const g of grades) {
       summary: cur.summary,
       file: `data/curriculum/lop${cur.grade}/${cur.subjectId}.js`,
       attachment: cur.attachment || null,
+      attachmentXlsx: cur.attachmentXlsx || null,   /* 8/9/2026: tải Excel */
     };
     const js = `window.CT_DATA=window.CT_DATA||{};window.CT_DATA.curriculum=window.CT_DATA.curriculum||{};` +
       `window.CT_DATA.curriculum[${JSON.stringify(key)}]=${compact(cur)};` +
