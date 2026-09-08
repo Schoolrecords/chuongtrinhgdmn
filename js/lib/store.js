@@ -10,6 +10,7 @@
     integrations: D.integrations || { groups: [], codes: {} },
     catalog: D.catalog || {},
     gradeAttachments: D.gradeAttachments || {},
+    gradeAttachmentsXlsx: D.gradeAttachmentsXlsx || {},   /* 8/9/2026: Excel cả khối */
   };
   /** "123456" -> "121 KB" */
   const fileSize = (b) => (b >= 1048576 ? (b / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB');
