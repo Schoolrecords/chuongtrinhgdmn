@@ -100,6 +100,7 @@ mark { background: var(--gold-100); color: inherit; padding: 0 2px; border-radiu
 
 /* ---------- SubjectGrid / SubjectCard (bản đồ môn học) ---------- */
 .subject-section { scroll-margin-top: 80px; }
+.grade-downloads { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-end; max-width: 100%; }   /* 8/9/2026: Word + Excel cả khối */
 .subject-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: clamp(12px, 1.6vw, 18px); }
 .subject-card { position: relative; display: flex; flex-direction: column; gap: 12px; padding: 16px; background: var(--surface); border: 1.5px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-sm); transition: transform var(--t), box-shadow var(--t), border-color var(--t); }
 .subject-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); border-color: #b9cfe9; }
