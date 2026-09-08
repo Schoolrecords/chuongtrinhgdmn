@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 54
+  "integrations": 44
  },
  "lessons": [
   {
@@ -29,13 +29,8 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được trên sơ đồ đường di chuyển của tổ mình trong “Chuyển đội hình hàng dọc thành đội hình vòng tròn và ngược lại”",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu trên tivi sơ đồ nhìn từ trên xuống có mũi tên chỉ đường đi khi “Chuyển đội hình hàng dọc thành đội hình vòng tròn và ngược lại”."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -78,7 +73,7 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB1a: HS xem lại clip mình thực hiện “Chuyển đội hình hàng dọc thành đội hình vòng tròn và ngược lại” cho chạy chậm và chỉ ra được chỗ mình làm chưa đúng",
    "integrations": [
     {
      "code": "KNS",
@@ -122,13 +117,8 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được trên sơ đồ đường di chuyển của tổ mình trong “Chuyển đội hình hàng ngang thành đội hình vòng tròn và ngược lại”",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu sơ đồ nhìn từ trên xuống có mũi tên chỉ đường đi khi thực hiện “Chuyển đội hình hàng ngang thành đội hình vòng tròn và ngược lại”."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -149,7 +139,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được trên sơ đồ đường di chuyển của tổ mình trong “Chuyển đội hình hàng dọc thành đội hình vòng tròn và ngược lại”",
    "integrations": [
     {
      "code": "KNS",
@@ -264,13 +254,8 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Giậm chân tại chỗ, đứng lại” mà mình hay làm sai",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Quay nhanh một lượt tập của từng tổ."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -335,13 +320,8 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tập “Động tác vươn thở, động tác tay” đúng theo nhịp phát ra và tự nhận ra khi mình lệch nhịp",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu video mẫu động tác chân, động tác lườn và động tác bụng của bài thể dục, cho chạy chậm."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -362,7 +342,7 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Động tác vươn thở, động tác tay” mà mình hay làm sai",
    "integrations": [],
    "note": ""
   },
@@ -394,7 +374,7 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Động tác chân, động tác lườn, động tác bụng” mà mình hay làm sai",
    "integrations": [],
    "note": ""
   },
@@ -426,14 +406,8 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Động tác phối hợp, động tác nhảy, động tác điều hòa” đã chọn sẵn, cho chạy chậm."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS tập “Động tác chân, động tác lườn, động tác bụng” đúng theo nhịp phát ra và tự nhận ra khi mình lệch nhịp",
+   "integrations": [],
    "note": ""
   },
   {
@@ -448,7 +422,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Động tác phối hợp, động tác nhảy, động tác điều hòa” mà mình hay làm sai",
    "integrations": [],
    "note": ""
   },
@@ -472,7 +446,7 @@
    "id": "l2-giao-duc-the-chat-022",
    "semester": 1,
    "week": 11,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập giữa học kì I",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
@@ -480,14 +454,8 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Bài tập di chuyển theo vạch kẻ thẳng” đã chọn sẵn, cho chạy chậm."
-    }
-   ],
+   "adjustments": "Năng lực số 5.4 CB1a: HS đọc được bảng theo dõi phần đội hình đội ngũ và một số động tác bài thể dục và nói được mình tiến bộ ở nội dung nào",
+   "integrations": [],
    "note": ""
   },
   {
@@ -502,7 +470,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập di chuyển theo vạch kẻ thẳng” mà mình hay làm sai",
    "integrations": [
     {
      "code": "KNS",
@@ -573,13 +541,8 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ thẳng” mà mình hay làm sai",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ thẳng” đã chọn sẵn, cho chạy chậm và."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -622,13 +585,8 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập phối hợp di chuyển vòng trái, vòng phải” mà mình hay làm sai",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ sang trái và sang phải” đã chọn sẵn."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -720,13 +678,8 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ thẳng” mà mình hay làm sai",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Bài tập phối hợp các động tác quỳ, ngồi cơ bản” đã chọn sẵn, cho chạy chậm."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -805,7 +758,7 @@
    "id": "l2-giao-duc-the-chat-036",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
@@ -829,13 +782,8 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ sang trái và sang phải” mà mình hay làm sai",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở phần Luyện tập, GV quay lại lượt di chuyển của vài."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -900,7 +848,7 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS xem lại clip mình thực hiện “Động tác di chuyển không bóng” cho chạy chậm và chỉ ra được chỗ mình làm chưa đúng",
    "integrations": [
     {
      "code": "KNS",
@@ -922,7 +870,7 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Các động tác quỳ, ngồi cơ bản” mà mình hay làm sai",
    "integrations": [
     {
      "code": "KNS",
@@ -966,7 +914,7 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tập “Động tác di chuyển không bóng” đúng theo nhịp phát ra và tự nhận ra khi mình lệch nhịp",
    "integrations": [
     {
      "code": "KNS",
@@ -988,7 +936,7 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập phối hợp các động tác quỳ, ngồi cơ bản” mà mình hay làm sai",
    "integrations": [
     {
      "code": "KNS",
@@ -1037,7 +985,7 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Động tác dẫn bóng” mà mình hay làm sai",
    "integrations": [
     {
      "code": "KNS",
@@ -1081,7 +1029,7 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Động tác di chuyển không bóng” mà mình hay làm sai",
    "integrations": [],
    "note": ""
   },
@@ -1129,7 +1077,7 @@
    "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS xem lại clip mình thực hiện “Động tác di chuyển không bóng” cho chạy chậm và chỉ ra được chỗ mình làm chưa đúng",
    "integrations": [],
    "note": ""
   },
@@ -1145,7 +1093,7 @@
    "periodTo": 52,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Động tác dẫn bóng” mà mình hay làm sai",
    "integrations": [],
    "note": ""
   },
@@ -1199,7 +1147,7 @@
    "periodTo": 55,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS xem lại clip mình thực hiện “Động tác dẫn bóng” cho chạy chậm và chỉ ra được chỗ mình làm chưa đúng",
    "integrations": [],
    "note": ""
   },
@@ -1207,7 +1155,7 @@
    "id": "l2-giao-duc-the-chat-056",
    "semester": 2,
    "week": 28,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập giữa học kì II (Tiết 1 - Ôn tập)",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
@@ -1215,7 +1163,7 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB1a: HS đọc được bảng theo dõi phần kĩ năng vận động với bóng (thể thao tự chọn) và nói được mình tiến bộ ở nội dung nào",
    "integrations": [],
    "note": ""
   },
@@ -1223,7 +1171,7 @@
    "id": "l2-giao-duc-the-chat-057",
    "semester": 2,
    "week": 29,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập giữa học kì II (Tiết 2 - Đánh giá)",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
@@ -1231,7 +1179,7 @@
    "periodTo": 57,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB1a: HS đọc được bảng theo dõi phần kĩ năng vận động với bóng (thể thao tự chọn) và nói được mình tiến bộ ở nội dung nào",
    "integrations": [],
    "note": ""
   },
@@ -1247,7 +1195,7 @@
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Động tác tung và bắt bóng bằng hai tay” mà mình hay làm sai",
    "integrations": [],
    "note": ""
   },
@@ -1295,7 +1243,7 @@
    "periodTo": 61,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS xem lại clip mình thực hiện “Động tác tung và bắt bóng bằng hai tay” cho chạy chậm và chỉ ra được chỗ mình làm chưa đúng",
    "integrations": [],
    "note": ""
   },
@@ -1333,7 +1281,7 @@
    "periodTo": 63,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Động tác ném rổ bằng hai tay trước ngực” mà mình hay làm sai",
    "integrations": [],
    "note": ""
   },
@@ -1381,7 +1329,7 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS xem lại clip mình thực hiện “Động tác ném rổ bằng hai tay trước ngực” cho chạy chậm và chỉ ra được chỗ mình làm chưa đúng",
    "integrations": [],
    "note": ""
   },
@@ -1405,7 +1353,7 @@
    "id": "l2-giao-duc-the-chat-068",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối năm (Tiết 1 - Ôn tập, hệ thống hoá)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
@@ -1421,7 +1369,7 @@
    "id": "l2-giao-duc-the-chat-069",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối năm (Tiết 2 - Đánh giá)",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
@@ -1429,7 +1377,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS chọn và ghi được hai việc rèn luyện ở nhà gắn với các nội dung đã học trong năm",
    "integrations": [],
    "note": ""
   },
@@ -1437,7 +1385,7 @@
    "id": "l2-giao-duc-the-chat-070",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối năm (Tiết 3 - Đánh giá, tổng kết năm học)",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
@@ -1723,7 +1671,7 @@
   "file": "assets/docs/lop2/Giao duc the chat - Lop 2.docx",
   "name": "Giao duc the chat - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 43400,
+  "size": 43855,
   "updated": "2026-09-08"
  }
 }

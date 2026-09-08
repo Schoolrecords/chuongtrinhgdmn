@@ -14,15 +14,15 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 47
+  "integrations": 2
  },
  "lessons": [
   {
    "id": "l2-mi-thuat-001",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề 1: MĨ THUẬT TRONG CUỘC SỐNG",
-   "title": "Chủ đề 1: MĨ THUẬT TRONG CUỘC SỐNG",
+   "theme": "Chủ đề 1: Mĩ thuật trong cuộc sống",
+   "title": "Chủ đề 1: Mĩ thuật trong cuộc sống (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (1 tiết)",
    "periodFrom": 1,
@@ -30,378 +30,262 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh phóng to các hình thức của “Mĩ thuật trong cuộc sống” như SGK trang 5–7."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-002",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề 2: SỰ THÚ VỊ CỦA NÉT",
-   "title": "Chủ đề 2: SỰ THÚ VỊ CỦA NÉT — Tiết 1: Quan sát và thể hiện nét",
+   "theme": "Chủ đề 2: Sự thú vị của nét",
+   "title": "Chủ đề 2: Sự thú vị của nét (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 2 (1 tiết)",
+   "periodLabel": "Tiết 2 (2 tiết)",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu hình trang 8–9 SGK phóng to cùng ảnh chụp gần vài đồ vật có nét trang trí cho bài “Sự thú vị của nét”."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-003",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề 2: SỰ THÚ VỊ CỦA NÉT",
-   "title": "Chủ đề 2: SỰ THÚ VỊ CỦA NÉT — Tiết 2: Thảo luận và vận dụng",
+   "theme": "Chủ đề 2: Sự thú vị của nét",
+   "title": "Chủ đề 2: Sự thú vị của nét (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 3 (1 tiết)",
+   "periodLabel": "Tiết 3",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Mở một trang trình chiếu, vẽ một hoạ tiết."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-004",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 3: SỰ KẾT HỢP CỦA CÁC HÌNH CƠ BẢN",
-   "title": "Chủ đề 3: SỰ KẾT HỢP CỦA CÁC HÌNH CƠ BẢN — Tiết 1: Quan sát và thể hiện (dạng 2D)",
+   "theme": "Chủ đề 3: Sự kết hợp của các hình cơ bản",
+   "title": "Chủ đề 3: Sự kết hợp của các hình cơ bản (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 4 (1 tiết)",
+   "periodLabel": "Tiết 4 (3 tiết)",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh ngôi nhà, ô tô, tàu thuỷ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-005",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 3: SỰ KẾT HỢP CỦA CÁC HÌNH CƠ BẢN",
-   "title": "Chủ đề 3: SỰ KẾT HỢP CỦA CÁC HÌNH CƠ BẢN — Tiết 2: Thể hiện (dạng 3D)",
+   "theme": "Chủ đề 3: Sự kết hợp của các hình cơ bản",
+   "title": "Chủ đề 3: Sự kết hợp của các hình cơ bản (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 5 (1 tiết)",
+   "periodLabel": "Tiết 5",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Làm xong sản phẩm ba chiều, GV chụp ảnh từ hai phía rồi chiếu lên màn hình thành bộ sưu tập của lớp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-006",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 3: SỰ KẾT HỢP CỦA CÁC HÌNH CƠ BẢN",
-   "title": "Chủ đề 3: SỰ KẾT HỢP CỦA CÁC HÌNH CƠ BẢN — Tiết 3: Thảo luận và vận dụng (xem tranh họa sĩ)",
+   "theme": "Chủ đề 3: Sự kết hợp của các hình cơ bản",
+   "title": "Chủ đề 3: Sự kết hợp của các hình cơ bản (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 6 (1 tiết)",
+   "periodLabel": "Tiết 6",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bản chụp rõ nét bức tranh của hoạ sĩ Pôn Cli, phóng to từng mảng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-007",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề 4: NHỮNG MẢNG MÀU YÊU THÍCH",
-   "title": "Chủ đề 4: NHỮNG MẢNG MÀU YÊU THÍCH — Tiết 1: Quan sát và thể hiện mảng màu",
+   "theme": "Chủ đề 4: Những mảng màu yêu thích",
+   "title": "Chủ đề 4: Những mảng màu yêu thích (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 7 (1 tiết)",
+   "periodLabel": "Tiết 7 (3 tiết)",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu một bảng màu số và di chuyển ô chọn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-008",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề 4: NHỮNG MẢNG MÀU YÊU THÍCH",
-   "title": "Chủ đề 4: NHỮNG MẢNG MÀU YÊU THÍCH — Tiết 2: Màu đậm, màu nhạt",
+   "theme": "Chủ đề 4: Những mảng màu yêu thích",
+   "title": "Chủ đề 4: Những mảng màu yêu thích (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 8 (1 tiết)",
+   "periodLabel": "Tiết 8",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở một bức ảnh trong phần mềm xem ảnh."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-009",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 4: NHỮNG MẢNG MÀU YÊU THÍCH",
-   "title": "Chủ đề 4: NHỮNG MẢNG MÀU YÊU THÍCH — Tiết 3: Thảo luận và vận dụng",
+   "theme": "Chủ đề 4: Những mảng màu yêu thích",
+   "title": "Chủ đề 4: Những mảng màu yêu thích (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 9 (1 tiết)",
+   "periodLabel": "Tiết 9",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Nêu rõ mỗi mẫu trang trí đều do một người nghĩ ra; HS xem."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-010",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề 5: SỰ KẾT HỢP THÚ VỊ CỦA KHỐI",
-   "title": "Chủ đề 5: SỰ KẾT HỢP THÚ VỊ CỦA KHỐI — Tiết 1: Quan sát và thể hiện khối",
+   "theme": "Chủ đề 5: Sự kết hợp thú vị của khối",
+   "title": "Chủ đề 5: Sự kết hợp thú vị của khối (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 10 (1 tiết)",
+   "periodLabel": "Tiết 10 (3 tiết)",
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu mô hình ba chiều một con vật, một chiếc xe và xoay chậm, đồng thời tách dần từng khối cầu, khối."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-011",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề 5: SỰ KẾT HỢP THÚ VỊ CỦA KHỐI",
-   "title": "Chủ đề 5: SỰ KẾT HỢP THÚ VỊ CỦA KHỐI — Tiết 2: Sắp xếp các khối",
+   "theme": "Chủ đề 5: Sự kết hợp thú vị của khối",
+   "title": "Chủ đề 5: Sự kết hợp thú vị của khối (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 11 (1 tiết)",
+   "periodLabel": "Tiết 11",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Sắp xếp xong, GV chụp ảnh sản phẩm của từng nhóm từ hai phía rồi chiếu lên màn hình."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-012",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 5: SỰ KẾT HỢP THÚ VỊ CỦA KHỐI",
-   "title": "Chủ đề 5: SỰ KẾT HỢP THÚ VỊ CỦA KHỐI — Tiết 3: Thảo luận và vận dụng (sản phẩm nhóm)",
+   "theme": "Chủ đề 5: Sự kết hợp thú vị của khối",
+   "title": "Chủ đề 5: Sự kết hợp thú vị của khối (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 12 (1 tiết)",
+   "periodLabel": "Tiết 12",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh chụp từ trên cao một khu vườn, một góc phố."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-013",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 6: SẮC MÀU THIÊN NHIÊN",
-   "title": "Chủ đề 6: SẮC MÀU THIÊN NHIÊN — Tiết 1: Quan sát và thể hiện sắc màu",
+   "theme": "Chủ đề 6: Sắc màu thiên nhiên",
+   "title": "Chủ đề 6: Sắc màu thiên nhiên (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 13 (1 tiết)",
+   "periodLabel": "Tiết 13 (4 tiết)",
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu đoạn phim tua nhanh một cây thay lá qua bốn mùa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-014",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 6: SẮC MÀU THIÊN NHIÊN",
-   "title": "Chủ đề 6: SẮC MÀU THIÊN NHIÊN — Tiết 2: Vẽ tranh sắc màu thiên nhiên",
+   "theme": "Chủ đề 6: Sắc màu thiên nhiên",
+   "title": "Chủ đề 6: Sắc màu thiên nhiên (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 14 (1 tiết)",
+   "periodLabel": "Tiết 14",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Vẽ xong, GV chụp ảnh tranh của cả lớp rồi chiếu thành phòng tranh trên màn hình."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-015",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 6: SẮC MÀU THIÊN NHIÊN",
-   "title": "Chủ đề 6: SẮC MÀU THIÊN NHIÊN — Tiết 3: Trang trí bằng hình thức in",
+   "theme": "Chủ đề 6: Sắc màu thiên nhiên",
+   "title": "Chủ đề 6: Sắc màu thiên nhiên (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 15 (1 tiết)",
+   "periodLabel": "Tiết 15",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá kĩ thuật in của chủ đề “Sắc màu thiên nhiên”, GV chiếu ảnh chụp gần mặt sau."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-016",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 6: SẮC MÀU THIÊN NHIÊN",
-   "title": "Chủ đề 6: SẮC MÀU THIÊN NHIÊN — Tiết 4: Trang trí bằng thủ công, kết hợp chất liệu",
+   "theme": "Chủ đề 6: Sắc màu thiên nhiên",
+   "title": "Chủ đề 6: Sắc màu thiên nhiên (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 16 (1 tiết)",
+   "periodLabel": "Tiết 16",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Trưng bày, GV chụp sản phẩm của các nhóm rồi chiếu thành một bộ sưu tập nhỏ trên màn hình."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-017",
    "semester": 1,
    "week": 17,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI HỌC KÌ I",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Đánh giá cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tổ CM cân nhắc chuyển tiết đánh giá cuối HKI sang tuần 18",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -409,217 +293,144 @@
    "id": "l2-mi-thuat-018",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 7: GƯƠNG MẶT THÂN QUEN",
-   "title": "Chủ đề 7: GƯƠNG MẶT THÂN QUEN — Tiết 1: Quan sát và thể hiện chân dung (2D)",
+   "theme": "Chủ đề 7: Gương mặt thân quen",
+   "title": "Chủ đề 7: Gương mặt thân quen (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodLabel": "Tiết 18 (4 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu một bức ảnh chân dung và dùng công cụ vẽ kẻ trục dọc, trục ngang lên ảnh."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-019",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 7: GƯƠNG MẶT THÂN QUEN",
-   "title": "Chủ đề 7: GƯƠNG MẶT THÂN QUEN — Tiết 2: Thể hiện chân dung (3D)",
+   "theme": "Chủ đề 7: Gương mặt thân quen",
+   "title": "Chủ đề 7: Gương mặt thân quen (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 19 (1 tiết)",
+   "periodLabel": "Tiết 19",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Trưng bày, GV chụp sản phẩm của các nhóm từ hai góc rồi chiếu lên màn hình."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-020",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề 7: GƯƠNG MẶT THÂN QUEN",
-   "title": "Chủ đề 7: GƯƠNG MẶT THÂN QUEN — Tiết 3: Vận dụng (đắp nổi)",
+   "theme": "Chủ đề 7: Gương mặt thân quen",
+   "title": "Chủ đề 7: Gương mặt thân quen (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 20 (1 tiết)",
+   "periodLabel": "Tiết 20",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá đắp nổi chân dung của chủ đề “Gương mặt thân quen”, GV chiếu ảnh chụp nghiêng hai."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề 7: GƯƠNG MẶT THÂN QUEN",
-   "title": "Chủ đề 7: GƯƠNG MẶT THÂN QUEN — Tiết 4: Vận dụng (đắp nổi, tiếp theo) và trưng bày",
+   "theme": "Chủ đề 7: Gương mặt thân quen",
+   "title": "Chủ đề 7: Gương mặt thân quen (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 21 (1 tiết)",
+   "periodLabel": "Tiết 21",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Chụp các bức chân dung đắp nổi từ hướng chếch."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-022",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề 8: BỮA CƠM GIA ĐÌNH",
-   "title": "Chủ đề 8: BỮA CƠM GIA ĐÌNH — Tiết 1: Quan sát và thể hiện (2D)",
+   "theme": "Chủ đề 8: Bữa cơm gia đình",
+   "title": "Chủ đề 8: Bữa cơm gia đình (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 22 (1 tiết)",
+   "periodLabel": "Tiết 22 (4 tiết)",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bộ ảnh bữa cơm của các gia đình ở nhiều vùng miền."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-023",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề 8: BỮA CƠM GIA ĐÌNH",
-   "title": "Chủ đề 8: BỮA CƠM GIA ĐÌNH — Tiết 2: Thể hiện (3D)",
+   "theme": "Chủ đề 8: Bữa cơm gia đình",
+   "title": "Chủ đề 8: Bữa cơm gia đình (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 23 (1 tiết)",
+   "periodLabel": "Tiết 23",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Trưng bày, GV chụp sản phẩm mâm cơm ba chiều của các nhóm rồi chiếu lên màn hình."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-024",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 8: BỮA CƠM GIA ĐÌNH",
-   "title": "Chủ đề 8: BỮA CƠM GIA ĐÌNH — Tiết 3: Vận dụng (tạo dáng lọ hoa)",
+   "theme": "Chủ đề 8: Bữa cơm gia đình",
+   "title": "Chủ đề 8: Bữa cơm gia đình (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 24 (1 tiết)",
+   "periodLabel": "Tiết 24",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khởi động chủ đề “Bữa cơm gia đình”, GV chiếu ảnh chụp một lọ hoa đã trang trí bên."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-025",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề 8: BỮA CƠM GIA ĐÌNH",
-   "title": "Chủ đề 8: BỮA CƠM GIA ĐÌNH — Tiết 4: Vận dụng (hoàn thiện lọ hoa) và trưng bày",
+   "theme": "Chủ đề 8: Bữa cơm gia đình",
+   "title": "Chủ đề 8: Bữa cơm gia đình (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 25 (1 tiết)",
+   "periodLabel": "Tiết 25",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Xếp các lọ hoa của HS lên một mặt bàn có phông nền sạch, chụp cả nhóm."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 9: THẦY CÔ CỦA EM",
-   "title": "Chủ đề 9: THẦY CÔ CỦA EM — Tiết 1: Quan sát và thể hiện (theo liên tưởng)",
+   "theme": "Chủ đề 9: Thầy cô của em",
+   "title": "Chủ đề 9: Thầy cô của em (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 26 (1 tiết)",
+   "periodLabel": "Tiết 26 (4 tiết)",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bộ ảnh và đoạn phim ngắn về công việc hằng ngày của thầy cô."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -632,187 +443,120 @@
    "id": "l2-mi-thuat-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 9: THẦY CÔ CỦA EM",
-   "title": "Chủ đề 9: THẦY CÔ CỦA EM — Tiết 2: Thể hiện (theo cách yêu thích)",
+   "theme": "Chủ đề 9: Thầy cô của em",
+   "title": "Chủ đề 9: Thầy cô của em (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 27 (1 tiết)",
+   "periodLabel": "Tiết 27",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Trưng bày, GV chụp bài của các nhóm rồi chiếu lên màn hình."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-028",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 9: THẦY CÔ CỦA EM",
-   "title": "Chủ đề 9: THẦY CÔ CỦA EM — Tiết 3: Thảo luận và vận dụng (làm món quà lưu niệm)",
+   "theme": "Chủ đề 9: Thầy cô của em",
+   "title": "Chủ đề 9: Thầy cô của em (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 28 (1 tiết)",
+   "periodLabel": "Tiết 28",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu đoạn phim hướng dẫn gấp hoa giấy, làm thiếp nổi, dừng lại."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-029",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 9: THẦY CÔ CỦA EM",
-   "title": "Chủ đề 9: THẦY CÔ CỦA EM — Tiết 4: Vận dụng (hoàn thiện quà lưu niệm) và trưng bày",
+   "theme": "Chủ đề 9: Thầy cô của em",
+   "title": "Chủ đề 9: Thầy cô của em (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 29 (1 tiết)",
+   "periodLabel": "Tiết 29",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Chụp món quà của HS kèm tấm thiếp ghi lời chúc, ghép thành một trang trưng bày của lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-030",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 10: ĐỒ CHƠI TỪ TẠO HÌNH CON VẬT",
-   "title": "Chủ đề 10: ĐỒ CHƠI TỪ TẠO HÌNH CON VẬT — Tiết 1: Quan sát và thể hiện (chiếc mặt nạ)",
+   "theme": "Chủ đề 10: Đồ chơi từ tạo hình con vật",
+   "title": "Chủ đề 10: Đồ chơi từ tạo hình con vật (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 30 (1 tiết)",
+   "periodLabel": "Tiết 30 (4 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu phim tư liệu về đồ chơi dân gian Việt Nam."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-031",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 10: ĐỒ CHƠI TỪ TẠO HÌNH CON VẬT",
-   "title": "Chủ đề 10: ĐỒ CHƠI TỪ TẠO HÌNH CON VẬT — Tiết 2: Thể hiện (đồ chơi từ vật liệu tái sử dụng)",
+   "theme": "Chủ đề 10: Đồ chơi từ tạo hình con vật",
+   "title": "Chủ đề 10: Đồ chơi từ tạo hình con vật (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 31 (1 tiết)",
+   "periodLabel": "Tiết 31",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS trong nhóm cùng bàn xem nhóm mình làm con vật gì, ai lo phần thân, ai lo phần đầu."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-032",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 10: ĐỒ CHƠI TỪ TẠO HÌNH CON VẬT",
-   "title": "Chủ đề 10: ĐỒ CHƠI TỪ TẠO HÌNH CON VẬT — Tiết 3: Thảo luận và vận dụng (làm ống đựng bút)",
+   "theme": "Chủ đề 10: Đồ chơi từ tạo hình con vật",
+   "title": "Chủ đề 10: Đồ chơi từ tạo hình con vật (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 32 (1 tiết)",
+   "periodLabel": "Tiết 32",
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Thảo luận chủ đề “Đồ chơi từ tạo hình con vật”, GV chiếu ảnh hộp bút lộn xộn bên."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-033",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề 10: ĐỒ CHƠI TỪ TẠO HÌNH CON VẬT",
-   "title": "Chủ đề 10: ĐỒ CHƠI TỪ TẠO HÌNH CON VẬT — Tiết 4: Vận dụng (hoàn thiện) và trưng bày",
+   "theme": "Chủ đề 10: Đồ chơi từ tạo hình con vật",
+   "title": "Chủ đề 10: Đồ chơi từ tạo hình con vật (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 33 (1 tiết)",
+   "periodLabel": "Tiết 33",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Bày các đồ chơi của lớp thành một góc trưng bày rồi quay một đoạn phim ngắn đi vòng quanh góc ấy."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-mi-thuat-034",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI NĂM",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Đánh giá cuối năm",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -827,15 +571,15 @@
    "id": "l2-mi-thuat-035",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "TRƯNG BÀY SẢN PHẨM CUỐI NĂM",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Trưng bày sản phẩm cuối năm",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.5 CB1a: HS giới thiệu sản phẩm của mình với người xem một cách tự tin, lễ phép",
    "integrations": [
     {
      "code": "KNS",
@@ -1119,7 +863,7 @@
   "file": "assets/docs/lop2/Mi thuat - Lop 2.docx",
   "name": "Mi thuat - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 43536,
+  "size": 41875,
   "updated": "2026-09-08"
  }
 }

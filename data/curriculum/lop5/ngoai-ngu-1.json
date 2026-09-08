@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 156
+  "integrations": 155
  },
  "lessons": [
   {
@@ -29,14 +29,8 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết “Introduction of English 5”, GV chiếu bản sách điện tử Tiếng Anh 5 lên tivi, chỉ các phần Unit, Lesson."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS xem sách điện tử Tiếng Anh 5 trên tivi, chỉ được các phần Unit, Lesson và nói tên phần sẽ học",
+   "integrations": [],
    "note": ""
   },
   {
@@ -105,12 +99,12 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "đáp theo cặp về nơi mình đang sống",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu flashcard số city, countryside, Class 5A, Class 5B."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.1 CB2a: HS quan sát flashcard số (city, countryside…) rồi hỏi"
     },
     {
      "code": "KNS",
@@ -3436,7 +3430,7 @@
   "file": "assets/docs/lop5/Tieng Anh - Lop 5.docx",
   "name": "Tieng Anh - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 45364,
+  "size": 45422,
   "updated": "2026-09-08"
  }
 }

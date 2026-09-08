@@ -21,8 +21,8 @@
    "id": "l3-cong-nghe-001",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
-   "title": "Bài 1. Tự nhiên và công nghệ (Tiết 1)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
+   "title": "Bài 1. Tự nhiên và Công nghệ (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
    "periodFrom": 1,
@@ -32,9 +32,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trong “Bài 1. Tự nhiên và công nghệ”, GV chiếu lần lượt ảnh các đối tượng như hòn đá, cây chuối, con."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.1 CB1a: HS nói được: khi đồ dùng điện hỏng thì báo người lớn, không tự sửa"
     }
    ],
    "note": ""
@@ -43,8 +43,8 @@
    "id": "l3-cong-nghe-002",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
-   "title": "Bài 1. Tự nhiên và công nghệ (Tiết 2)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
+   "title": "Bài 1. Tự nhiên và Công nghệ (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2",
    "periodFrom": 2,
@@ -52,14 +52,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.1 CB1a: HS nói được: khi đồ dùng điện hỏng thì báo người lớn, không tự sửa"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-003",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 2. Sử dụng đèn học (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (2 tiết)",
@@ -70,9 +76,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu hai ảnh cùng một góc học tập, một ảnh đặt đèn bên trái, một ảnh đặt bên phải người viết."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS chỉ và gọi đúng tên các bộ phận của đèn học"
     },
     {
      "code": "KNS",
@@ -86,7 +92,7 @@
    "id": "l3-cong-nghe-004",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 2. Sử dụng đèn học (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
@@ -95,14 +101,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS chỉ và gọi đúng tên các bộ phận của đèn học"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-005",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 3. Sử dụng quạt điện (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 5 (2 tiết)",
@@ -110,13 +122,8 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc và bấm đúng các nút số, nút tắt của quạt theo hướng dẫn từng bước của GV",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Cho HS quan sát bảng điều khiển quạt điện thật và đọc các kí hiệu trên nút: số 0–1–2–3, chữ OFF, nút quay."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -129,7 +136,7 @@
    "id": "l3-cong-nghe-006",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 3. Sử dụng quạt điện (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 6",
@@ -137,7 +144,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc và bấm đúng các nút số, nút tắt của quạt theo hướng dẫn từng bước của GV",
    "integrations": [],
    "note": ""
   },
@@ -145,7 +152,7 @@
    "id": "l3-cong-nghe-007",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 4. Sử dụng máy thu thanh (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (4 tiết)",
@@ -153,12 +160,12 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Chia lớp thành các nhóm 4, mỗi nhóm cử một bạn “phát thanh viên” đọc lại bản tin thời tiết vừa nghe cho nhóm mình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS bấm nút mở"
     },
     {
      "code": "KNS",
@@ -172,7 +179,7 @@
    "id": "l3-cong-nghe-008",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 4. Sử dụng máy thu thanh (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
@@ -180,15 +187,21 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS bấm nút mở"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-009",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 4. Sử dụng máy thu thanh (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 9",
@@ -196,15 +209,21 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS bấm nút mở"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-010",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 4. Sử dụng máy thu thanh (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 10",
@@ -212,15 +231,21 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS bấm nút mở"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-011",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 5. Sử dụng máy thu hình (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 11 (4 tiết)",
@@ -228,13 +253,8 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.3 CB1a: HS đọc được lịch phát sóng, chọn đúng chương trình dành cho lứa tuổi mình và nêu được lí do chọn",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh chụp màn hình lịch phát sóng của một kênh truyền hình cho thiếu nhi."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -252,7 +272,7 @@
    "id": "l3-cong-nghe-012",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 5. Sử dụng máy thu hình (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 12",
@@ -260,7 +280,7 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.3 CB1a: HS đọc được lịch phát sóng, chọn đúng chương trình dành cho lứa tuổi mình và nêu được lí do chọn",
    "integrations": [],
    "note": ""
   },
@@ -268,7 +288,7 @@
    "id": "l3-cong-nghe-013",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 5. Sử dụng máy thu hình (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 13",
@@ -281,7 +301,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Cẩm nang sử dụng máy thu hình ( Tiết 13, 14)"
+     "text": "Cẩm nang sử dụng máy thu hình ( Tiết 13, 14)\nNăng lực số 1.3 CB1a: HS đọc được lịch phát sóng, chọn đúng chương trình dành cho lứa tuổi mình và nêu được lí do chọn."
     }
    ],
    "note": ""
@@ -290,7 +310,7 @@
    "id": "l3-cong-nghe-014",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 5. Sử dụng máy thu hình (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 14",
@@ -298,7 +318,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.3 CB1a: HS đọc được lịch phát sóng, chọn đúng chương trình dành cho lứa tuổi mình và nêu được lí do chọn",
    "integrations": [],
    "note": ""
   },
@@ -306,21 +326,16 @@
    "id": "l3-cong-nghe-015",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 15 (2 tiết)",
+   "periodLabel": "Tiết 15 (4 tiết)",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "",
+   "lessonPeriods": 4,
+   "adjustments": "Năng lực số 4.1 CB1a: HS chỉ ra được nguy hiểm trong mỗi ảnh tình huống và nói được cách phòng tránh tương ứng",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu lần lượt 6 ảnh tình huống trong nhà."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -333,7 +348,7 @@
    "id": "l3-cong-nghe-016",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 16",
@@ -341,7 +356,7 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.1 CB1a: HS chỉ ra được nguy hiểm trong mỗi ảnh tình huống và nói được cách phòng tránh tương ứng",
    "integrations": [],
    "note": ""
   },
@@ -349,15 +364,15 @@
    "id": "l3-cong-nghe-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
-   "title": "Ôn tập cuối học kì I",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
+   "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 17 (1 tiết)",
+   "periodLabel": "Tiết 17",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Điều chỉnh: hoàn thành Bài 6 (tiết 3–4) đầu học kì II để bố trí ôn tập, kiểm tra cuối HKI đúng tuần 17–18; Năng lực số 4.1 CB1a: HS chỉ ra được nguy hiểm trong mỗi ảnh tình huống và nói được cách phòng tránh tương ứng",
    "integrations": [],
    "note": ""
   },
@@ -365,15 +380,15 @@
    "id": "l3-cong-nghe-018",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG (18 tiết)",
-   "title": "Kiểm tra định kì cuối học kì I",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
+   "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodLabel": "Tiết 18",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.1 CB1a: HS chỉ ra được nguy hiểm trong mỗi ảnh tình huống và nói được cách phòng tránh tương ứng",
    "integrations": [],
    "note": ""
   },
@@ -381,32 +396,26 @@
    "id": "l3-cong-nghe-019",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 3)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Ôn tập học kì I",
    "content": "",
-   "periodLabel": "Tiết 19 (2 tiết)",
+   "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "Điều chỉnh: hoàn thành Bài 6 (tiết 3–4) đầu học kì II để bố trí ôn tập, kiểm tra cuối HKI đúng tuần 17–18",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-cong-nghe-020",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: CÔNG NGHỆ VÀ ĐỜI SỐNG",
-   "title": "Bài 6. An toàn với môi trường công nghệ trong gia đình (Tiết 4)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
-   "periodLabel": "Tiết 20",
+   "periodLabel": "Tiết 20 (1 tiết)",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
@@ -419,7 +428,7 @@
    "id": "l3-cong-nghe-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 7. Dụng cụ và vật liệu làm thủ công (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 21 (2 tiết)",
@@ -446,7 +455,7 @@
    "id": "l3-cong-nghe-022",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 7. Dụng cụ và vật liệu làm thủ công (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 22",
@@ -462,7 +471,7 @@
    "id": "l3-cong-nghe-023",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 8. Làm đồ dùng học tập (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 23 (3 tiết)",
@@ -494,7 +503,7 @@
    "id": "l3-cong-nghe-024",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 8. Làm đồ dùng học tập (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 24",
@@ -510,7 +519,7 @@
    "id": "l3-cong-nghe-025",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 8. Làm đồ dùng học tập (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 25",
@@ -526,7 +535,7 @@
    "id": "l3-cong-nghe-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 9. Làm biển báo giao thông (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 26 (4 tiết)",
@@ -534,13 +543,8 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đối chiếu mẫu biển báo trên màn hình với sản phẩm của mình và sửa cho đúng hình dạng, màu sắc",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước khi HS cắt dán, GV chiếu ảnh chụp biển báo thật lấy từ trang thông tin của cơ quan giao thông."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -553,7 +557,7 @@
    "id": "l3-cong-nghe-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 9. Làm biển báo giao thông (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 27",
@@ -561,7 +565,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đối chiếu mẫu biển báo trên màn hình với sản phẩm của mình và sửa cho đúng hình dạng, màu sắc",
    "integrations": [],
    "note": ""
   },
@@ -569,7 +573,7 @@
    "id": "l3-cong-nghe-028",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 9. Làm biển báo giao thông (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 28",
@@ -577,7 +581,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đối chiếu mẫu biển báo trên màn hình với sản phẩm của mình và sửa cho đúng hình dạng, màu sắc",
    "integrations": [],
    "note": ""
   },
@@ -585,7 +589,7 @@
    "id": "l3-cong-nghe-029",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 9. Làm biển báo giao thông (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 29",
@@ -593,7 +597,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đối chiếu mẫu biển báo trên màn hình với sản phẩm của mình và sửa cho đúng hình dạng, màu sắc",
    "integrations": [],
    "note": ""
   },
@@ -601,7 +605,7 @@
    "id": "l3-cong-nghe-030",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 10. Làm đồ chơi (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 30 (4 tiết)",
@@ -628,7 +632,7 @@
    "id": "l3-cong-nghe-031",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 10. Làm đồ chơi (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 31",
@@ -644,7 +648,7 @@
    "id": "l3-cong-nghe-032",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 10. Làm đồ chơi (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 32",
@@ -660,7 +664,7 @@
    "id": "l3-cong-nghe-033",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 10. Làm đồ chơi (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 33",
@@ -676,7 +680,7 @@
    "id": "l3-cong-nghe-034",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Ôn tập cuối năm",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
@@ -692,7 +696,7 @@
    "id": "l3-cong-nghe-035",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: THỦ CÔNG KĨ THUẬT (13 tiết)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Kiểm tra định kì cuối năm học",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -978,7 +982,7 @@
   "file": "assets/docs/lop3/Cong nghe - Lop 3.docx",
   "name": "Cong nghe - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42440,
+  "size": 42454,
   "updated": "2026-09-08"
  }
 }

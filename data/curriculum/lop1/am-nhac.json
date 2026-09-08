@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 38
+  "integrations": 23
  },
  "lessons": [
   {
@@ -32,9 +32,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản hát mẫu bài “Vào rừng hoa” từ học liệu số của bộ sách, chiếu màn hình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS nói được tên bài hát cùng tên tác giả Việt Anh"
     }
    ],
    "note": ""
@@ -51,14 +51,8 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ghi âm phần cả lớp tạo \"cơn mưa rừng\" bằng tay chân, mở lại qua loa."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS nghe các đoạn âm thanh GV mở từ học liệu số và nói được đó là tiếng gì",
+   "integrations": [],
    "note": ""
   },
   {
@@ -73,12 +67,12 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Rê; Mi trên màn hình và nghe tiếng đàn để nói được nốt nào cao, nốt nào thấp",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu hình bậc thang Đô – Rê."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1a: HS nhìn hình bậc thang Đô"
     }
    ],
    "note": ""
@@ -95,12 +89,12 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "nhỏ của lớp và nghe lại",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Dùng điện thoại ghi âm phần cả lớp đọc Đô."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB1a: HS cùng GV tạo bản ghi âm đoạn đọc to"
     },
     {
      "code": "KNS",
@@ -125,9 +119,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản hát mẫu bài “Tổ quốc ta” từ học liệu số của bộ sách."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS nói được tên bài hát Tổ quốc ta cùng tên tác giả Mộng Lân"
     },
     {
      "code": "QPAN",
@@ -149,13 +143,8 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS xem đoạn phim ngắn GV mở và nói được trống con được gõ như thế nào, dùng ở đâu",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ghi âm phần nhóm gõ trống con theo hình tiết tấu."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -179,9 +168,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản thu Quốc ca từ học liệu chính thức, chiếu hình lá cờ Tổ quốc."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS nói được bài Quốc ca do nhạc sĩ Văn Cao sáng tác"
     },
     {
      "code": "QPAN",
@@ -203,13 +192,8 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS nghe âm thanh GV mở từ học liệu số và nói được âm nào cao, âm nào thấp",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ghi âm phần cả lớp hát \"la\" nhắc lại mẫu cao."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -230,14 +214,8 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản hát mẫu bài “Lớp Một thân yêu” từ học liệu số của bộ sách."
-    }
-   ],
+   "adjustments": "Năng lực số 3.3 CB1a: HS nói được tên bài hát Lớp Một thân yêu cùng tên tác giả Bùi Anh Tôn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -252,14 +230,8 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Dùng điện thoại quay ngắn phần “ban nhạc Đô – Rê – Mi” của một nhóm."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS nhìn màn hình nhận ra hình bàn tay ứng với nốt Đô, Rê, Mi khi GV chiếu",
+   "integrations": [],
    "note": ""
   },
   {
@@ -277,9 +249,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản thu bài “Những bông hoa những bài ca” từ học liệu số, chiếu màn hình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS nói được tên bài nghe nhạc và tên tác giả Hoàng Long"
     }
    ],
    "note": ""
@@ -296,13 +268,8 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS nhìn hình sóng âm trên màn hình và nói âm thanh nào to, âm thanh nào nhỏ",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ghi âm một nhóm đọc câu nhạc Đô."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -326,9 +293,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản hát mẫu bài “Chào người bạn mới đến” từ học liệu số, chiếu màn hình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS nói được tên bài hát và tên tác giả Lương Bằng Vinh"
     }
    ],
    "note": ""
@@ -348,9 +315,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Dùng điện thoại ghi âm phần cả lớp hát kết hợp gõ trống đệm theo phách, mở lại qua loa."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1a: HS xem video ngắn và nói lại được cách cầm dùi, cách gõ trống con"
     }
    ],
    "note": ""
@@ -367,14 +334,8 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu hình và video ngắn trống cái ở trường học, lễ hội lấy từ học liệu số, bật lần lượt tiếng trống."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS xem hình, nghe âm thanh trên màn hình và nói được đó là trống cái hay trống con",
+   "integrations": [],
    "note": ""
   },
   {
@@ -390,7 +351,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1a: HS nhìn tranh và nghe đoạn nhạc trên màn hình để nói tên bài hát"
+    }
+   ],
    "note": ""
   },
   {
@@ -405,8 +372,14 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "không tự chạm vào thiết bị",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 4.1 CB1a: HS đứng đúng vị trí trước máy quay, micro"
+    }
+   ],
    "note": ""
   },
   {
@@ -421,14 +394,8 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Dùng điện thoại ghi âm cả lớp hát kết hợp gõ đệm theo phách."
-    }
-   ],
+   "adjustments": "Năng lực số 3.3 CB1a: HS nói được tên bài hát cùng tên tác giả phần nhạc và nguồn lời ca phỏng theo đồng dao",
+   "integrations": [],
    "note": ""
   },
   {
@@ -443,14 +410,8 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu hình 5 nốt Đô – Rê."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS nhìn hình kí hiệu bàn tay trên màn hình, nói đúng tên nốt Pha, Son",
+   "integrations": [],
    "note": ""
   },
   {
@@ -465,14 +426,8 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Dùng một ứng dụng AI đọc to đoạn ngắn kể về tuổi thơ Mô-da bằng giọng máy, hỏi."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS xem hình, nghe GV giới thiệu và nói được tên nhạc sĩ Mô-da, tên bản nhạc vừa nghe",
+   "integrations": [],
    "note": ""
   },
   {
@@ -487,12 +442,12 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "ngắn để GV ghi âm, nghe lại và nhận xét",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở từ học liệu số các đoạn âm thanh dài – ngắn (tiếng còi tàu, tiếng chim hót, tiếng chuông), chiếu."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB1a: HS thể hiện âm thanh dài"
     },
     {
      "code": "KNS",
@@ -514,14 +469,8 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Dùng điện thoại ghi âm cả lớp hát kết hợp gõ đệm."
-    }
-   ],
+   "adjustments": "Năng lực số 3.3 CB1a: HS nói được bài Gà gáy là dân ca Cống Khao và người viết lời mới là Huy Trân",
+   "integrations": [],
    "note": ""
   },
   {
@@ -536,14 +485,8 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu tranh minh họa câu chuyện về thanh phách và mở đoạn âm thanh tiếng phách gõ, đoạn hát dân ca có."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS xem hình, nghe âm thanh trên màn hình và nói đúng tên nhạc cụ thanh phách",
+   "integrations": [],
    "note": ""
   },
   {
@@ -558,14 +501,8 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ghi âm cả lớp hát Gà gáy kết hợp gõ thanh phách."
-    }
-   ],
+   "adjustments": "Năng lực số 4.1 CB1a: HS ngồi đúng khoảng cách với màn hình, nghe loa vừa đủ khi xem, nghe bài Lí cây bông",
+   "integrations": [],
    "note": ""
   },
   {
@@ -580,13 +517,8 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.1 CB1a: HS nói lời chào buổi sáng để GV ghi lại thành lời nhắn gửi bạn lớp bên",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở từ học liệu số các tiếng gà gáy dài."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -610,9 +542,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Dùng điện thoại ghi âm cả lớp hát bài Cây gia đình kết hợp gõ đệm, mở lại qua loa."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS nói được tên bài hát cùng tên tác giả nhạc và tác giả lời thơ"
     }
    ],
    "note": ""
@@ -629,14 +561,8 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản đọc nhạc mẫu Hát cùng Đô – Rê – Mi – Pha – Son từ học liệu số, chiếu hình."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS nghe bản đọc nhạc mẫu từ học liệu số, nói được tên 5 nốt vừa nghe theo thứ tự",
+   "integrations": [],
    "note": ""
   },
   {
@@ -651,14 +577,8 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Gửi bản thu bài hát lên nhóm lớp (Zalo) để cha mẹ mở cho HS nghe lại ở nhà."
-    }
-   ],
+   "adjustments": "Năng lực số 3.3 CB1a: HS nói được tên bài hát Con chim vành khuyên và tên nhạc sĩ Hoàng Vân",
+   "integrations": [],
    "note": ""
   },
   {
@@ -673,13 +593,8 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS cùng GV tạo được một đoạn ghi hình ban nhạc lớp và xem lại để nhận xét",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Dùng điện thoại quay đoạn ngắn trò chơi Ban nhạc “Những người bạn”, mở lại trên màn hình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -700,14 +615,8 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản hát mẫu Ngôi sao lấp lánh từ học liệu số, chiếu tên bài cùng dòng “Nhạc nước ngoài, lời Việt: Thanh Vân sưu tầm và biên soạn”."
-    }
-   ],
+   "adjustments": "Năng lực số 3.3 CB1a: HS nói được tên bài hát và biết đây là bài hát nước ngoài có lời Việt do Thanh Vân sưu tầm, biên soạn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -722,14 +631,8 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ghi âm nhóm gõ đệm trai-en-gô cho bài hát, mở lại qua loa."
-    }
-   ],
+   "adjustments": "Năng lực số 4.1 CB1a: HS nêu được cách dùng loa, máy tính an toàn trong lớp (không chạm dây điện, không gõ nhạc cụ lên thiết bị)",
+   "integrations": [],
    "note": ""
   },
   {
@@ -744,7 +647,7 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS nghe âm thanh mẫu của 3 nhạc cụ từ học liệu số, nói đúng tên nhạc cụ vừa nghe",
    "integrations": [],
    "note": ""
   },
@@ -761,7 +664,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS nói được tên bài hát và tên tác giả khi giới thiệu bài trình bày"
+    }
+   ],
    "note": ""
   },
   {
@@ -777,7 +686,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS giới thiệu được tên bài, tên tác giả trước khi trình bày"
+    }
+   ],
    "note": ""
   },
   {
@@ -792,7 +707,7 @@
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.1 CB1a: HS biết cùng cha mẹ xem lại video biểu diễn của lớp do GV gửi qua nhóm lớp và kể lại bài mình đã trình bày",
    "integrations": [],
    "note": ""
   }
@@ -1070,7 +985,7 @@
   "file": "assets/docs/lop1/Am nhac - Lop 1.docx",
   "name": "Am nhac - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 43291,
+  "size": 43651,
   "updated": "2026-09-08"
  }
 }

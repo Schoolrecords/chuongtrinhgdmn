@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 178,
-  "integrations": 37
+  "integrations": 49
  },
  "lessons": [
   {
@@ -29,13 +29,8 @@
    "periodTo": 3,
    "periods": 3,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát tranh trường lớp, đồ dùng học tập chiếu trên màn hình và gọi đúng tên từng đồ dùng",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá của bài “LÀM QUEN VỚI TRƯỜNG LỚP, BẠN BÈ; LÀM QUEN VỚI ĐỒ DÙNG HỌC TẬP”."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -56,7 +51,7 @@
    "periodTo": 6,
    "periods": 3,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS ngồi đúng tư thế khi đọc, khi viết và tự kiểm tra khoảng cách mắt tới vở",
    "integrations": [
     {
      "code": "KNS",
@@ -94,7 +89,7 @@
    "periodTo": 12,
    "periods": 3,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [
     {
      "code": "KNS",
@@ -116,14 +111,8 @@
    "periodTo": 14,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Ở phần đọc tiếng, GV mở bài tập tương tác trên máy chiếu."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm bài tập tương tác trên máy chiếu để tìm tiếng có âm a, rồi đọc lại tiếng vừa tìm được",
+   "integrations": [],
    "note": ""
   },
   {
@@ -186,7 +175,7 @@
    "periodTo": 22,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -202,7 +191,7 @@
    "periodTo": 24,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -288,7 +277,7 @@
    "periodTo": 34,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -304,7 +293,7 @@
    "periodTo": 36,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -390,7 +379,7 @@
    "periodTo": 46,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -406,7 +395,7 @@
    "periodTo": 48,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -444,8 +433,14 @@
    "periodTo": 52,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "1.D1.1 - HS nêu được ví dụ AI học từ hình ảnh do con người cung cấp để nhận biết vật nuôi như gà, cá. Gợi ý: GV cho xem hình hoặc video ngắn minh họa ứng dụng phân loại con vật."
+    }
+   ],
    "note": ""
   },
   {
@@ -492,7 +487,7 @@
    "periodTo": 58,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -508,7 +503,7 @@
    "periodTo": 60,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -594,7 +589,7 @@
    "periodTo": 70,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -610,7 +605,7 @@
    "periodTo": 72,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -696,7 +691,7 @@
    "periodTo": 82,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -712,7 +707,7 @@
    "periodTo": 84,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -798,7 +793,7 @@
    "periodTo": 94,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -814,7 +809,7 @@
    "periodTo": 96,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -900,7 +895,7 @@
    "periodTo": 106,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -916,7 +911,7 @@
    "periodTo": 108,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1002,7 +997,7 @@
    "periodTo": 118,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -1018,7 +1013,7 @@
    "periodTo": 120,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1104,8 +1099,14 @@
    "periodTo": 130,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "1.A1.1 - HS nhận biết con người có cảm xúc thật; AI hoặc robot chỉ thể hiện lời nói, biểu cảm theo dữ liệu hay thiết kế của con người.\nNăng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện."
+    }
+   ],
    "note": ""
   },
   {
@@ -1120,7 +1121,7 @@
    "periodTo": 132,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1206,7 +1207,7 @@
    "periodTo": 142,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -1222,7 +1223,7 @@
    "periodTo": 144,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1308,7 +1309,7 @@
    "periodTo": 154,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -1324,7 +1325,7 @@
    "periodTo": 156,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1410,7 +1411,7 @@
    "periodTo": 166,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -1426,7 +1427,7 @@
    "periodTo": 168,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1512,7 +1513,7 @@
    "periodTo": 178,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -1528,7 +1529,7 @@
    "periodTo": 180,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1614,7 +1615,7 @@
    "periodTo": 190,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -1630,7 +1631,7 @@
    "periodTo": 192,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1716,7 +1717,7 @@
    "periodTo": 202,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe lời kể và nhìn tranh chiếu trên màn hình rồi kể lại được từng đoạn câu chuyện",
    "integrations": [],
    "note": ""
   },
@@ -1732,7 +1733,7 @@
    "periodTo": 204,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1749,7 +1750,13 @@
    "periods": 3,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS đọc được bảng chữ cái, bảng vần theo con trỏ GV chỉ trên màn hình"
+    }
+   ],
    "note": ""
   },
   {
@@ -1765,7 +1772,13 @@
    "periods": 3,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS đọc được bảng chữ cái, bảng vần theo con trỏ GV chỉ trên màn hình"
+    }
+   ],
    "note": ""
   },
   {
@@ -1780,14 +1793,8 @@
    "periodTo": 213,
    "periods": 3,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Chụp ảnh vài bài viết đẹp và một bài còn sai độ cao, độ rộng, chiếu lên màn hình sau khi đã che tên."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1a: Với sự hỗ trợ của GV hoặc người thân, HS lựa chọn công cụ số đơn giản để nghe lại bài đọc hoặc chụp sản phẩm viết nhằm trình bày kết quả học tập",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1818,7 +1825,7 @@
    "periodTo": 220,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Tích hợp AI 1.A1.1: HS mô tả được cảm xúc của bản thân và biết máy tính hoặc AI không có cảm xúc thật như con người; Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -1834,7 +1841,7 @@
    "periodTo": 224,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -1850,7 +1857,7 @@
    "periodTo": 226,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -1866,14 +1873,8 @@
    "periodTo": 228,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Mở đầu tiết ôn luyện chủ đề “Tôi và các bạn”, GV chiếu tranh thỏ phóng to."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1888,7 +1889,7 @@
    "periodTo": 232,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -1904,14 +1905,8 @@
    "periodTo": 236,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Cho HS đóng vai nhân vật nói lại lời thoại trong bài, quay một lượt bằng điện thoại."
-    }
-   ],
+   "adjustments": "Tích hợp AI 1.A1.2: HS biết lời chúc hoặc biểu tượng cảm xúc do máy tính tạo ra là kết quả con người thiết kế, không phải tình cảm thật như tình bạn; Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1926,7 +1921,7 @@
    "periodTo": 238,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm được các bài tập tương tác trên màn hình và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1942,7 +1937,7 @@
    "periodTo": 240,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -1958,7 +1953,7 @@
    "periodTo": 244,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [
     {
      "code": "KNS",
@@ -1980,7 +1975,7 @@
    "periodTo": 246,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -1996,7 +1991,7 @@
    "periodTo": 250,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Tích hợp AI 1.C1.2: Nhận biết camera là “mắt” giúp thiết bị AI nhận diện và lưu giữ khoảnh khắc gia đình; Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -2012,14 +2007,8 @@
    "periodTo": 252,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Mở đầu tiết ôn luyện chủ đề “Mái ấm gia đình”, GV chiếu lại nhanh tranh của các bài."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2034,7 +2023,7 @@
    "periodTo": 254,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -2050,7 +2039,7 @@
    "periodTo": 258,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Tích hợp AI 1.A2.2: Kể tên một số thiết bị AI như robot hút bụi, nồi thông minh giúp gia đình tiết kiệm thời gian; chỉ sử dụng khi có người lớn hướng dẫn; Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [
     {
      "code": "KNS",
@@ -2072,7 +2061,7 @@
    "periodTo": 260,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -2088,7 +2077,7 @@
    "periodTo": 262,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm được các bài tập tương tác trên màn hình và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2104,7 +2093,7 @@
    "periodTo": 264,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2120,7 +2109,7 @@
    "periodTo": 268,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [
     {
      "code": "QTE",
@@ -2147,7 +2136,7 @@
    "periodTo": 270,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [
     {
      "code": "QTE",
@@ -2174,7 +2163,7 @@
    "periodTo": 274,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -2190,7 +2179,7 @@
    "periodTo": 276,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2206,7 +2195,7 @@
    "periodTo": 278,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -2222,7 +2211,7 @@
    "periodTo": 282,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -2238,7 +2227,7 @@
    "periodTo": 284,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nghe bản đọc mẫu, nhìn tranh phóng to và đọc lại bài đúng chỗ ngắt nghỉ",
    "integrations": [],
    "note": ""
   },
@@ -2254,7 +2243,7 @@
    "periodTo": 286,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm được các bài tập tương tác trên màn hình và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2270,14 +2259,8 @@
    "periodTo": 288,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Dùng trò chơi học liệu tương tác trên máy chiếu."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2292,7 +2275,7 @@
    "periodTo": 292,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc bài, xem video minh hoạ và nói lại được các việc cần làm theo đúng thứ tự",
    "integrations": [],
    "note": ""
   },
@@ -2308,7 +2291,7 @@
    "periodTo": 294,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc bài, xem video minh hoạ và nói lại được các việc cần làm theo đúng thứ tự",
    "integrations": [],
    "note": ""
   },
@@ -2324,7 +2307,7 @@
    "periodTo": 298,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.1 CB1b: Nhận biết tin nhắn hoặc cuộc gọi của người lạ xin thông tin cá nhân là nguy cơ đơn giản trong môi trường số; biết không trả lời và báo ngay cho người lớn; Tích hợp AI 1.C1.2: Hiểu camera hoặc chuông cửa thông minh có thể hỗ trợ nhận diện người quen, người lạ nhưng trẻ vẫn cần tuân theo hướng dẫn an toàn của người lớn",
    "integrations": [],
    "note": ""
   },
@@ -2340,7 +2323,7 @@
    "periodTo": 300,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2356,14 +2339,8 @@
    "periodTo": 304,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Chọn từ ngữ hoàn thiện câu của bài “Nếu không may bị lạc”, GV chiếu khung từ người lạ, hoảng hốt."
-    }
-   ],
+   "adjustments": "Năng lực số 2.3 CB1a: Dưới sự hướng dẫn của GV, HS nhận biết việc gọi cho cha mẹ hoặc người thân bằng điện thoại là dịch vụ số đơn giản để xin trợ giúp khi bị lạc; chỉ liên hệ người tin cậy và làm theo hướng dẫn an toàn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2378,8 +2355,13 @@
    "periodTo": 308,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Tích hợp AI 1.A2.2: Nhận biết xe thông minh có thể dùng AI để nhận diện tín hiệu đèn giao thông; con người vẫn phải chấp hành luật an toàn",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nói đúng việc phải làm ứng với từng màu đèn tín hiệu trong video"
+    },
     {
      "code": "ATGT",
      "level": "",
@@ -2405,7 +2387,7 @@
    "periodTo": 310,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm được các bài tập tương tác trên màn hình và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2421,7 +2403,7 @@
    "periodTo": 312,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2437,8 +2419,14 @@
    "periodTo": 316,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "1.B3.1 - Nêu ví dụ robot cứu hộ được con người sử dụng vào mục đích tốt đẹp để hỗ trợ tìm kiếm, cứu nạn.\nNăng lực số 1.1 CB1b: HS kể lại được câu chuyện theo tranh và nói ra bài học rút ra."
+    }
+   ],
    "note": ""
   },
   {
@@ -2454,7 +2442,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS kể lại được câu chuyện theo tranh và nói ra bài học rút ra"
+    }
+   ],
    "note": ""
   },
   {
@@ -2470,7 +2464,13 @@
    "periods": 4,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS kể lại được câu chuyện theo tranh và nói ra bài học rút ra"
+    }
+   ],
    "note": ""
   },
   {
@@ -2485,7 +2485,7 @@
    "periodTo": 324,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2501,8 +2501,14 @@
    "periodTo": 328,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Năng lực số 1.2 CB1a: HS bước đầu nhận biết không phải lời nói, hình ảnh trên màn hình đều đúng sự thật; khi gặp thông tin lạ hoặc đáng ngờ, biết hỏi người lớn trước khi tin hoặc chia sẻ; Tích hợp",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "1.B1.1 - Nhận biết việc dùng AI tạo giọng nói hoặc hình ảnh giả để lừa dối người khác là hành vi xấu."
+    }
+   ],
    "note": ""
   },
   {
@@ -2518,7 +2524,13 @@
    "periods": 4,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS kể lại được câu chuyện theo tranh và nói ra bài học rút ra"
+    }
+   ],
    "note": ""
   },
   {
@@ -2533,7 +2545,7 @@
    "periodTo": 334,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm được các bài tập tương tác trên màn hình và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2549,7 +2561,7 @@
    "periodTo": 336,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2565,7 +2577,7 @@
    "periodTo": 340,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc bài và nói lại được đặc điểm của loài vật, hiện tượng nhờ quan sát video, ảnh",
    "integrations": [
     {
      "code": "QPAN",
@@ -2587,7 +2599,7 @@
    "periodTo": 342,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc bài và nói lại được đặc điểm của loài vật, hiện tượng nhờ quan sát video, ảnh",
    "integrations": [],
    "note": ""
   },
@@ -2603,8 +2615,14 @@
    "periodTo": 346,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "1.D2.1 - Nhận biết có hệ thống AI chỉ thực hiện một việc chuyên biệt, chẳng hạn nhận diện âm thanh của một số loài động vật; GV minh họa bằng video hoặc ứng dụng phù hợp.\nNăng lực số 1.1 CB1b: HS đọc bài và nói lại được đặc điểm của loài vật, hiện tượng nhờ quan sát video, ảnh."
+    }
+   ],
    "note": ""
   },
   {
@@ -2619,7 +2637,7 @@
    "periodTo": 348,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2635,7 +2653,7 @@
    "periodTo": 352,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc bài và nói lại được đặc điểm của loài vật, hiện tượng nhờ quan sát video, ảnh",
    "integrations": [],
    "note": ""
   },
@@ -2651,7 +2669,7 @@
    "periodTo": 356,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc bài và nói lại được đặc điểm của loài vật, hiện tượng nhờ quan sát video, ảnh",
    "integrations": [],
    "note": ""
   },
@@ -2667,7 +2685,7 @@
    "periodTo": 358,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm được các bài tập tương tác trên màn hình và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2683,7 +2701,7 @@
    "periodTo": 360,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2700,7 +2718,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS đọc bài thơ đúng nhịp sau khi nghe bản đọc diễn cảm GV mở"
+    }
+   ],
    "note": ""
   },
   {
@@ -2716,7 +2740,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS đọc bài thơ đúng nhịp sau khi nghe bản đọc diễn cảm GV mở"
+    }
+   ],
    "note": ""
   },
   {
@@ -2732,7 +2762,13 @@
    "periods": 4,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS đọc bài thơ đúng nhịp sau khi nghe bản đọc diễn cảm GV mở"
+    }
+   ],
    "note": ""
   },
   {
@@ -2748,7 +2784,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS đọc bài thơ đúng nhịp sau khi nghe bản đọc diễn cảm GV mở"
+    }
+   ],
    "note": ""
   },
   {
@@ -2763,7 +2805,7 @@
    "periodTo": 372,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2780,7 +2822,13 @@
    "periods": 4,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS đọc bài thơ đúng nhịp sau khi nghe bản đọc diễn cảm GV mở"
+    }
+   ],
    "note": ""
   },
   {
@@ -2796,7 +2844,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS đọc bài thơ đúng nhịp sau khi nghe bản đọc diễn cảm GV mở"
+    }
+   ],
    "note": ""
   },
   {
@@ -2812,7 +2866,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS đọc bài thơ đúng nhịp sau khi nghe bản đọc diễn cảm GV mở"
+    }
+   ],
    "note": ""
   },
   {
@@ -2827,7 +2887,7 @@
    "periodTo": 382,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: Trong hoạt động đọc mở rộng, dưới sự hướng dẫn của GV hoặc cha mẹ, HS tìm một bài thơ ngắn hoặc tranh minh họa về thiên nhiên từ nguồn học liệu số được giới thiệu để chia sẻ với bạn",
    "integrations": [],
    "note": ""
   },
@@ -2843,7 +2903,7 @@
    "periodTo": 384,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2859,7 +2919,7 @@
    "periodTo": 388,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS hiểu được nội dung bài đọc nhờ quan sát video tư liệu về nghề nghiệp",
    "integrations": [
     {
      "code": "QPAN",
@@ -2881,8 +2941,14 @@
    "periodTo": 392,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "1.B3.1 - HS nêu được ví dụ robot chữa cháy được con người sử dụng vì mục đích tốt đẹp, hỗ trợ lính cứu hỏa tiếp cận nơi nguy hiểm để bảo vệ con người và tài sản.\nNăng lực số 1.1 CB1b: HS hiểu được nội dung bài đọc nhờ quan sát video tư liệu về nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2897,7 +2963,7 @@
    "periodTo": 394,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS hiểu được nội dung bài đọc nhờ quan sát video tư liệu về nghề nghiệp",
    "integrations": [],
    "note": ""
   },
@@ -2913,7 +2979,7 @@
    "periodTo": 396,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -2929,7 +2995,7 @@
    "periodTo": 398,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS hiểu được từ ngữ tả cảnh trong bài nhờ quan sát ảnh, video tư liệu",
    "integrations": [],
    "note": ""
   },
@@ -2945,7 +3011,7 @@
    "periodTo": 400,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS hiểu được nội dung bài đọc nhờ quan sát video tư liệu về nghề nghiệp",
    "integrations": [],
    "note": ""
   },
@@ -2961,8 +3027,13 @@
    "periodTo": 404,
    "periods": 4,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Tích hợp",
    "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "1.A2.2 - Nhận biết ứng dụng dịch ngôn ngữ bằng AI có thể hỗ trợ khách du lịch giao tiếp khi tham quan biển Việt Nam.\nNăng lực số 1.1 CB1b: HS hiểu được từ ngữ tả cảnh trong bài nhờ quan sát ảnh, video tư liệu."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -2999,7 +3070,7 @@
    "periodTo": 408,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -3015,7 +3086,7 @@
    "periodTo": 410,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm được các bài tập tương tác trên màn hình và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -3031,7 +3102,7 @@
    "periodTo": 412,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm được các bài tập tương tác trên màn hình và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -3047,7 +3118,7 @@
    "periodTo": 414,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm được các bài tập tương tác trên màn hình và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -3063,7 +3134,7 @@
    "periodTo": 416,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS tham gia trò chơi ghép tiếng, chọn chữ trên màn hình và tự sửa ngay khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -3357,7 +3428,7 @@
   "file": "assets/docs/lop1/Tieng Viet - Lop 1.docx",
   "name": "Tieng Viet - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 47738,
+  "size": 49973,
   "updated": "2026-09-08"
  }
 }

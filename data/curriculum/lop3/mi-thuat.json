@@ -14,15 +14,15 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 15
+  "integrations": 22
  },
  "lessons": [
   {
    "id": "l3-mi-thuat-001",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề 1: EM YÊU MĨ THUẬT",
-   "title": "Chủ đề 1: EM YÊU MĨ THUẬT",
+   "theme": "Chủ đề 1: Em yêu Mĩ thuật",
+   "title": "Chủ đề 1: Em yêu Mĩ thuật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (1 tiết)",
    "periodFrom": 1,
@@ -30,21 +30,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở đầu “Chủ đề 1: EM YÊU MĨ THUẬT”, GV chiếu bộ ảnh và đoạn video ngắn về các hoạt động mĩ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-002",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC",
-   "title": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC (Tiết 1)",
+   "theme": "Chủ đề 2: Hoa văn trên trang phục của một số dân tộc",
+   "title": "Chủ đề 2: Hoa văn trên trang phục của một số dân tộc (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 2 (2 tiết)",
    "periodFrom": 2,
@@ -54,9 +48,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trong “Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC”, GV chiếu video lễ hội."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nhận ra nét riêng trong hoa văn của từng dân tộc qua ảnh phóng to"
     },
     {
      "code": "QPAN",
@@ -70,8 +64,8 @@
    "id": "l3-mi-thuat-003",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC",
-   "title": "Chủ đề 2: HOA VĂN TRÊN TRANG PHỤC CỦA MỘT SỐ DÂN TỘC (Tiết 2)",
+   "theme": "Chủ đề 2: Hoa văn trên trang phục của một số dân tộc",
+   "title": "Chủ đề 2: Hoa văn trên trang phục của một số dân tộc (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 3",
    "periodFrom": 3,
@@ -79,15 +73,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nhận ra nét riêng trong hoa văn của từng dân tộc qua ảnh phóng to"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-004",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 3: MÀU SẮC EM YÊU",
-   "title": "Chủ đề 3: MÀU SẮC EM YÊU (Tiết 1)",
+   "theme": "Chủ đề 3: Màu sắc em yêu",
+   "title": "Chủ đề 3: Màu sắc em yêu (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 4 (3 tiết)",
    "periodFrom": 4,
@@ -97,9 +97,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh cùng một cảnh chụp vào sáng sớm, giữa trưa."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nêu được màu chủ đạo thay đổi theo ánh sáng qua ba ảnh so sánh"
     }
    ],
    "note": ""
@@ -108,8 +108,8 @@
    "id": "l3-mi-thuat-005",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 3: MÀU SẮC EM YÊU",
-   "title": "Chủ đề 3: MÀU SẮC EM YÊU (Tiết 2)",
+   "theme": "Chủ đề 3: Màu sắc em yêu",
+   "title": "Chủ đề 3: Màu sắc em yêu (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 5",
    "periodFrom": 5,
@@ -117,15 +117,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS chỉ và gọi tên được màu cơ bản, màu thứ cấp trên vòng màu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-006",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 3: MÀU SẮC EM YÊU",
-   "title": "Chủ đề 3: MÀU SẮC EM YÊU (Tiết 3)",
+   "theme": "Chủ đề 3: Màu sắc em yêu",
+   "title": "Chủ đề 3: Màu sắc em yêu (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 6",
    "periodFrom": 6,
@@ -140,30 +146,24 @@
    "id": "l3-mi-thuat-007",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI",
-   "title": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI (Tiết 1)",
+   "theme": "Chủ đề 4: Vẻ đẹp của khối",
+   "title": "Chủ đề 4: Vẻ đẹp của khối (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (3 tiết)",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh một pho tượng chụp từ nhiều phía."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS nhận ra khối lồi, khối lõm và bóng đổ khi xem tượng chụp từ nhiều phía",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-008",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI",
-   "title": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI (Tiết 2)",
+   "theme": "Chủ đề 4: Vẻ đẹp của khối",
+   "title": "Chủ đề 4: Vẻ đẹp của khối (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
    "periodFrom": 8,
@@ -178,15 +178,15 @@
    "id": "l3-mi-thuat-009",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI",
-   "title": "Chủ đề 4: VẺ ĐẸP CỦA KHỐI (Tiết 3)",
+   "theme": "Chủ đề 4: Vẻ đẹp của khối",
+   "title": "Chủ đề 4: Vẻ đẹp của khối (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 9",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ ra được các dấu hiệu tạo cảm giác chuyển động qua clip quay chậm",
    "integrations": [],
    "note": ""
   },
@@ -194,8 +194,8 @@
    "id": "l3-mi-thuat-010",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT",
-   "title": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 1)",
+   "theme": "Chủ đề 5: Một số vật liệu sử dụng trong thực hành, sáng tạo mĩ thuật",
+   "title": "Chủ đề 5: Một số vật liệu sử dụng trong thực hành, sáng tạo mĩ thuật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 10 (3 tiết)",
    "periodFrom": 10,
@@ -205,9 +205,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh chụp gần bề mặt các vật liệu."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS gọi tên được vật liệu qua ảnh chụp gần bề mặt"
     }
    ],
    "note": ""
@@ -216,8 +216,8 @@
    "id": "l3-mi-thuat-011",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT",
-   "title": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 2)",
+   "theme": "Chủ đề 5: Một số vật liệu sử dụng trong thực hành, sáng tạo mĩ thuật",
+   "title": "Chủ đề 5: Một số vật liệu sử dụng trong thực hành, sáng tạo mĩ thuật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 11",
    "periodFrom": 11,
@@ -225,15 +225,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS gọi tên được vật liệu qua ảnh chụp gần bề mặt"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-012",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT",
-   "title": "Chủ đề 5: MỘT SỐ VẬT LIỆU SỬ DỤNG TRONG THỰC HÀNH, SÁNG TẠO MĨ THUẬT (Tiết 3)",
+   "theme": "Chủ đề 5: Một số vật liệu sử dụng trong thực hành, sáng tạo mĩ thuật",
+   "title": "Chủ đề 5: Một số vật liệu sử dụng trong thực hành, sáng tạo mĩ thuật (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 12",
    "periodFrom": 12,
@@ -241,15 +247,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS gọi tên được vật liệu qua ảnh chụp gần bề mặt"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-013",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
-   "title": "Chủ đề 6: BIẾT ƠN THẦY CÔ (Tiết 1)",
+   "theme": "Chủ đề 6: Biết ơn thầy cô",
+   "title": "Chủ đề 6: Biết ơn thầy cô (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 13 (4 tiết)",
    "periodFrom": 13,
@@ -259,9 +271,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bộ tranh, ảnh về nhà giáo qua các thời kì."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS kể được nội dung tranh, ảnh về nhà giáo và nêu cảm nhận"
     },
     {
      "code": "QPAN",
@@ -275,8 +287,8 @@
    "id": "l3-mi-thuat-014",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
-   "title": "Chủ đề 6: BIẾT ƠN THẦY CÔ (Tiết 2)",
+   "theme": "Chủ đề 6: Biết ơn thầy cô",
+   "title": "Chủ đề 6: Biết ơn thầy cô (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 14",
    "periodFrom": 14,
@@ -291,8 +303,8 @@
    "id": "l3-mi-thuat-015",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
-   "title": "Chủ đề 6: BIẾT ƠN THẦY CÔ (Tiết 3)",
+   "theme": "Chủ đề 6: Biết ơn thầy cô",
+   "title": "Chủ đề 6: Biết ơn thầy cô (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 15",
    "periodFrom": 15,
@@ -307,8 +319,8 @@
    "id": "l3-mi-thuat-016",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 6: BIẾT ƠN THẦY CÔ",
-   "title": "Chủ đề 6: BIẾT ƠN THẦY CÔ (Tiết 4)",
+   "theme": "Chủ đề 6: Biết ơn thầy cô",
+   "title": "Chủ đề 6: Biết ơn thầy cô (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 16",
    "periodFrom": 16,
@@ -316,15 +328,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.5 CB1a: HS viết được lời chúc chân thành, lễ phép cho thầy cô"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-017",
    "semester": 1,
    "week": 17,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "ÔN TẬP, ĐÁNH GIÁ CUỐI HỌC KÌ I",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Đánh giá cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -339,8 +357,8 @@
    "id": "l3-mi-thuat-018",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
-   "title": "Chủ đề 7: CẢNH VẬT QUANH EM (Tiết 1)",
+   "theme": "Chủ đề 7: Cảnh vật quanh em",
+   "title": "Chủ đề 7: Cảnh vật quanh em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 18 (4 tiết)",
    "periodFrom": 18,
@@ -350,9 +368,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu một ảnh phong cảnh rồi lần lượt che phần gần, che phần xa."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB1a: HS kiểm chứng được quy luật ấy khi nhìn cảnh thật ngoài sân"
     }
    ],
    "note": ""
@@ -361,8 +379,8 @@
    "id": "l3-mi-thuat-019",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
-   "title": "Chủ đề 7: CẢNH VẬT QUANH EM (Tiết 2)",
+   "theme": "Chủ đề 7: Cảnh vật quanh em",
+   "title": "Chủ đề 7: Cảnh vật quanh em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 19",
    "periodFrom": 19,
@@ -377,8 +395,8 @@
    "id": "l3-mi-thuat-020",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
-   "title": "Chủ đề 7: CẢNH VẬT QUANH EM (Tiết 3)",
+   "theme": "Chủ đề 7: Cảnh vật quanh em",
+   "title": "Chủ đề 7: Cảnh vật quanh em (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 20",
    "periodFrom": 20,
@@ -386,15 +404,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nhận ra làm nhạt phần ở xa thì tranh có chiều sâu hơn"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề 7: CẢNH VẬT QUANH EM",
-   "title": "Chủ đề 7: CẢNH VẬT QUANH EM (Tiết 4)",
+   "theme": "Chủ đề 7: Cảnh vật quanh em",
+   "title": "Chủ đề 7: Cảnh vật quanh em (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 21",
    "periodFrom": 21,
@@ -402,15 +426,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS xem phòng tranh và nhận ra tên tác giả của từng bức"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-022",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 1)",
+   "theme": "Chủ đề 8: Chân dung người thân trong gia đình",
+   "title": "Chủ đề 8: Chân dung người thân trong gia đình (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 22 (4 tiết)",
    "periodFrom": 22,
@@ -420,9 +450,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu tranh chân dung của hoạ sĩ và ảnh chụp chân dung, phóng to phần mắt."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS đọc được cảm xúc trên gương mặt qua chi tiết mắt, miệng phóng to"
     },
     {
      "code": "QPAN",
@@ -436,8 +466,8 @@
    "id": "l3-mi-thuat-023",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 2)",
+   "theme": "Chủ đề 8: Chân dung người thân trong gia đình",
+   "title": "Chủ đề 8: Chân dung người thân trong gia đình (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 23",
    "periodFrom": 23,
@@ -452,8 +482,8 @@
    "id": "l3-mi-thuat-024",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 3)",
+   "theme": "Chủ đề 8: Chân dung người thân trong gia đình",
+   "title": "Chủ đề 8: Chân dung người thân trong gia đình (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 24",
    "periodFrom": 24,
@@ -468,8 +498,8 @@
    "id": "l3-mi-thuat-025",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH",
-   "title": "Chủ đề 8: CHÂN DUNG NGƯỜI THÂN TRONG GIA ĐÌNH (Tiết 4)",
+   "theme": "Chủ đề 8: Chân dung người thân trong gia đình",
+   "title": "Chủ đề 8: Chân dung người thân trong gia đình (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 25",
    "periodFrom": 25,
@@ -477,15 +507,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB1a: HS viết được một câu giới thiệu về người mình vẽ"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
-   "title": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH (Tiết 1)",
+   "theme": "Chủ đề 9: Sinh hoạt trong gia đình",
+   "title": "Chủ đề 9: Sinh hoạt trong gia đình (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 26 (4 tiết)",
    "periodFrom": 26,
@@ -495,9 +531,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip quay chậm và ảnh chụp liên tiếp một người đang quét nhà, nấu cơm, bế em."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS mô tả được dáng người trong từng hoạt động qua clip dừng hình"
     }
    ],
    "note": ""
@@ -506,8 +542,8 @@
    "id": "l3-mi-thuat-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
-   "title": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH (Tiết 2)",
+   "theme": "Chủ đề 9: Sinh hoạt trong gia đình",
+   "title": "Chủ đề 9: Sinh hoạt trong gia đình (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 27",
    "periodFrom": 27,
@@ -522,8 +558,8 @@
    "id": "l3-mi-thuat-028",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
-   "title": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH (Tiết 3)",
+   "theme": "Chủ đề 9: Sinh hoạt trong gia đình",
+   "title": "Chủ đề 9: Sinh hoạt trong gia đình (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 28",
    "periodFrom": 28,
@@ -538,8 +574,8 @@
    "id": "l3-mi-thuat-029",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH",
-   "title": "Chủ đề 9: SINH HOẠT TRONG GIA ĐÌNH (Tiết 4)",
+   "theme": "Chủ đề 9: Sinh hoạt trong gia đình",
+   "title": "Chủ đề 9: Sinh hoạt trong gia đình (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 29",
    "periodFrom": 29,
@@ -547,37 +583,37 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.2 CB1a: HS xem trang trưng bày và tìm được tranh cùng nhóm hoạt động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-030",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
-   "title": "Chủ đề 10: AN TOÀN GIAO THÔNG (Tiết 1)",
+   "theme": "Chủ đề 10: An toàn giao thông",
+   "title": "Chủ đề 10: An toàn giao thông (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 30 (4 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu mô phỏng một ngã tư có đèn tín hiệu và các biển báo, bấm cho đèn đổi màu, cho xe và."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS gọi tên và nêu được ý nghĩa của một số biển báo, tín hiệu qua mô phỏng",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-031",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
-   "title": "Chủ đề 10: AN TOÀN GIAO THÔNG (Tiết 2)",
+   "theme": "Chủ đề 10: An toàn giao thông",
+   "title": "Chủ đề 10: An toàn giao thông (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 31",
    "periodFrom": 31,
@@ -592,15 +628,15 @@
    "id": "l3-mi-thuat-032",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
-   "title": "Chủ đề 10: AN TOÀN GIAO THÔNG (Tiết 3)",
+   "theme": "Chủ đề 10: An toàn giao thông",
+   "title": "Chủ đề 10: An toàn giao thông (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 32",
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS giải thích được vì sao biển báo và tranh cổ động cần màu tương phản mạnh",
    "integrations": [],
    "note": ""
   },
@@ -608,8 +644,8 @@
    "id": "l3-mi-thuat-033",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề 10: AN TOÀN GIAO THÔNG",
-   "title": "Chủ đề 10: AN TOÀN GIAO THÔNG (Tiết 4)",
+   "theme": "Chủ đề 10: An toàn giao thông",
+   "title": "Chủ đề 10: An toàn giao thông (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 33",
    "periodFrom": 33,
@@ -617,15 +653,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.3 CB1a: HS đóng góp tranh và lời tuyên truyền cho trang cổ động của lớp"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-mi-thuat-034",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập, đánh giá cuối năm học",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Đánh giá cuối năm",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -640,8 +682,8 @@
    "id": "l3-mi-thuat-035",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "TRƯNG BÀY SẢN PHẨM CUỐI NĂM",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Trưng bày sản phẩm cuối năm",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -653,7 +695,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Triển lãm sản phẩm STEM cuối học kì 2"
+     "text": "Triển lãm sản phẩm STEM cuối học kì 2\nNăng lực số 2.2 CB1a: HS sắp xếp được góc trưng bày và nhận ra cách bày làm sản phẩm nổi bật."
     },
     {
      "code": "KNS",
@@ -937,7 +979,7 @@
   "file": "assets/docs/lop3/Mi thuat - Lop 3.docx",
   "name": "Mi thuat - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42490,
+  "size": 42744,
   "updated": "2026-09-08"
  }
 }

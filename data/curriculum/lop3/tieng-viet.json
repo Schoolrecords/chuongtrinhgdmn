@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 163,
-  "integrations": 119
+  "integrations": 86
  },
  "lessons": [
   {
@@ -29,13 +29,8 @@
    "periodTo": 2,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem tranh, video về mùa hè rồi nối chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước khi đọc bài “Ngày gặp lại”."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -72,7 +67,7 @@
    "periodTo": 5,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem clip mẫu chữ hoa A, Ă, Â viết trên màn hình rồi luyện viết theo đúng nét",
    "integrations": [],
    "note": ""
   },
@@ -88,7 +83,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -104,7 +99,7 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -126,13 +121,8 @@
    "periodTo": 9,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem ảnh, video về rừng rồi nói chi tiết mình thấy khớp với đoạn văn nào trong bài",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản đọc mẫu “Cánh rừng trong nắng”, dừng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -169,17 +159,12 @@
    "periodTo": 12,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem ảnh biển trên màn hình và chọn được câu văn tả đúng cảnh trong ảnh",
    "integrations": [
     {
      "code": "QPAN",
      "level": "",
      "text": "Liên hệ truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -196,7 +181,7 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS tra nghĩa từ chỉ đặc điểm trên từ điển điện tử GV mở rồi đặt câu nêu đặc điểm",
    "integrations": [],
    "note": ""
   },
@@ -212,7 +197,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS tra từ điển điện tử để chọn từ đúng nghĩa khi viết đoạn văn kể lại hoạt động",
    "integrations": [
     {
      "code": "KNS",
@@ -234,13 +219,8 @@
    "periodTo": 16,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem hình ảnh, video minh hoạ và nối được chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước khi đọc bài “NHẬT KÍ TẬP BƠI”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -277,7 +257,7 @@
    "periodTo": 19,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem hình ảnh, video minh hoạ và nối được chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [],
    "note": ""
   },
@@ -293,7 +273,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -309,7 +289,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [
     {
      "code": "KNS",
@@ -331,13 +311,8 @@
    "periodTo": 23,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem hình ảnh, video minh hoạ và nối được chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -374,7 +349,7 @@
    "periodTo": 26,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem hình ảnh, video minh hoạ và nối được chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [
     {
      "code": "KNS",
@@ -396,7 +371,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -412,7 +387,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -558,13 +533,8 @@
    "periodTo": 37,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem hình ảnh, video minh hoạ và nối được chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -601,7 +571,7 @@
    "periodTo": 40,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -623,7 +593,7 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -639,7 +609,7 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [],
    "note": ""
   },
@@ -655,13 +625,8 @@
    "periodTo": 44,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem hình ảnh, video minh hoạ và nối được chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trước khi đọc bài “BÀN TAY CÔ GIÁO”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -704,7 +669,7 @@
    "periodTo": 47,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem hình ảnh, video minh hoạ và nối được chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [],
    "note": ""
   },
@@ -720,7 +685,7 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -736,7 +701,7 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -758,13 +723,8 @@
    "periodTo": 51,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem hình ảnh, video minh hoạ và nối được chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -801,7 +761,7 @@
    "periodTo": 54,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem hình ảnh, video minh hoạ và nối được chi tiết trong ảnh với câu văn tương ứng trong bài đọc",
    "integrations": [
     {
      "code": "KNS",
@@ -823,7 +783,7 @@
    "periodTo": 55,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -839,7 +799,7 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -887,13 +847,8 @@
    "periodTo": 65,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -930,7 +885,7 @@
    "periodTo": 68,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [],
    "note": ""
   },
@@ -946,7 +901,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [],
    "note": ""
   },
@@ -962,7 +917,7 @@
    "periodTo": 70,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
     {
      "code": "KNS",
@@ -984,13 +939,8 @@
    "periodTo": 72,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Bài “KHI CẢ NHÀ BÉ TÍ” nói về tình cảm gia đình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1027,7 +977,7 @@
    "periodTo": 75,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
     {
      "code": "KNS",
@@ -1049,7 +999,7 @@
    "periodTo": 76,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -1065,7 +1015,7 @@
    "periodTo": 77,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -1087,13 +1037,8 @@
    "periodTo": 79,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1130,7 +1075,7 @@
    "periodTo": 82,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [],
    "note": ""
   },
@@ -1146,7 +1091,7 @@
    "periodTo": 83,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [],
    "note": ""
   },
@@ -1162,7 +1107,7 @@
    "periodTo": 84,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -1184,13 +1129,8 @@
    "periodTo": 86,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Bài “TÔI YÊU EM TÔI” nói về tình cảm gia đình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1227,7 +1167,7 @@
    "periodTo": 89,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
     {
      "code": "KNS",
@@ -1249,7 +1189,7 @@
    "periodTo": 90,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -1265,7 +1205,7 @@
    "periodTo": 91,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [
     {
      "code": "KNS",
@@ -1287,13 +1227,8 @@
    "periodTo": 93,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1336,7 +1271,7 @@
    "periodTo": 96,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [],
    "note": ""
   },
@@ -1352,7 +1287,7 @@
    "periodTo": 97,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -1368,7 +1303,7 @@
    "periodTo": 98,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -1390,13 +1325,8 @@
    "periodTo": 100,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Bài “NHỮNG CHIẾC ÁO ẤM” nói về tình cảm gia đình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1433,7 +1363,7 @@
    "periodTo": 103,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
     {
      "code": "KNS",
@@ -1455,7 +1385,7 @@
    "periodTo": 104,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -1471,7 +1401,7 @@
    "periodTo": 105,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -1493,13 +1423,8 @@
    "periodTo": 107,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1536,7 +1461,7 @@
    "periodTo": 110,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [],
    "note": ""
   },
@@ -1552,7 +1477,7 @@
    "periodTo": 111,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -1568,7 +1493,7 @@
    "periodTo": 112,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -1590,13 +1515,8 @@
    "periodTo": 114,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Bài “NGƯỜI LÀM ĐỒ CHƠI” nói về tình cảm gia đình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1633,7 +1553,7 @@
    "periodTo": 117,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được một lời yêu thương gửi người thân và học thêm cách diễn đạt từ câu của bạn",
    "integrations": [
     {
      "code": "KNS",
@@ -1655,7 +1575,7 @@
    "periodTo": 118,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -1671,7 +1591,7 @@
    "periodTo": 119,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -1725,13 +1645,8 @@
    "periodTo": 128,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “BẦU TRỜI” thuộc mạch thiên nhiên và sáng tạo."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1768,7 +1683,7 @@
    "periodTo": 131,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [],
    "note": ""
   },
@@ -1784,7 +1699,7 @@
    "periodTo": 132,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -1800,7 +1715,7 @@
    "periodTo": 133,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -1822,13 +1737,8 @@
    "periodTo": 135,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1871,7 +1781,7 @@
    "periodTo": 138,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
     {
      "code": "KNS",
@@ -1893,7 +1803,7 @@
    "periodTo": 139,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -1909,7 +1819,7 @@
    "periodTo": 140,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -1931,13 +1841,8 @@
    "periodTo": 142,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “NGÀY HỘI RỪNG XANH” thuộc mạch thiên nhiên."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1974,7 +1879,7 @@
    "periodTo": 145,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [],
    "note": ""
   },
@@ -1990,7 +1895,7 @@
    "periodTo": 146,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -2006,7 +1911,7 @@
    "periodTo": 147,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -2028,13 +1933,8 @@
    "periodTo": 149,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2071,7 +1971,7 @@
    "periodTo": 152,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
     {
      "code": "KNS",
@@ -2093,7 +1993,7 @@
    "periodTo": 153,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -2109,7 +2009,7 @@
    "periodTo": 154,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -2131,13 +2031,8 @@
    "periodTo": 156,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “LỜI KÊU GỌI TOÀN DÂN TẬP THỂ DỤC” thuộc mạch thiên nhiên."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2174,7 +2069,7 @@
    "periodTo": 159,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [],
    "note": ""
   },
@@ -2190,7 +2085,7 @@
    "periodTo": 160,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -2206,7 +2101,7 @@
    "periodTo": 161,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [
     {
      "code": "KNS",
@@ -2228,13 +2123,8 @@
    "periodTo": 163,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2271,7 +2161,7 @@
    "periodTo": 166,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
     {
      "code": "KNS",
@@ -2293,7 +2183,7 @@
    "periodTo": 167,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -2309,7 +2199,7 @@
    "periodTo": 168,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -2331,13 +2221,8 @@
    "periodTo": 170,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “MÈO ĐI CÂU CÁ” thuộc mạch thiên nhiên."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2374,7 +2259,7 @@
    "periodTo": 173,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [],
    "note": ""
   },
@@ -2390,7 +2275,7 @@
    "periodTo": 174,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -2406,7 +2291,7 @@
    "periodTo": 175,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -2428,13 +2313,8 @@
    "periodTo": 177,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem video về hiện tượng thiên nhiên trong bài và tìm được từ ngữ, hình ảnh tác giả dùng để tả điều đó",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2471,7 +2351,7 @@
    "periodTo": 180,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.2 CB1a: HS xử lí đúng tình huống người lạ gọi tới hoặc nhắn tin báo trúng thưởng: không cung cấp thông tin, cúp máy, báo bố mẹ",
    "integrations": [
     {
      "code": "KNS",
@@ -2493,7 +2373,7 @@
    "periodTo": 181,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -2509,7 +2389,7 @@
    "periodTo": 182,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -2563,13 +2443,8 @@
    "periodTo": 191,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “ĐẤT NƯỚC LÀ GÌ” nói về đất nước."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -2612,7 +2487,7 @@
    "periodTo": 194,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [],
    "note": ""
   },
@@ -2628,7 +2503,7 @@
    "periodTo": 195,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -2644,17 +2519,12 @@
    "periodTo": 196,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "QPAN",
      "level": "",
      "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2671,13 +2541,8 @@
    "periodTo": 198,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2714,7 +2579,7 @@
    "periodTo": 201,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [
     {
      "code": "KNS",
@@ -2736,7 +2601,7 @@
    "periodTo": 202,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [
     {
      "code": "QPAN",
@@ -2758,17 +2623,12 @@
    "periodTo": 203,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "QPAN",
      "level": "",
      "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2790,12 +2650,7 @@
     {
      "code": "GDĐP",
      "level": "",
-     "text": "- Sưu tầm được tranh, ảnh về một số mẫu nhà ở truyền thống của các dân tộc trên địa bàn tỉnh Nghệ An. -Nêu được một số đặc điểm của một ngôi nhà truyền thống, vị trí chỗ ở và sinh hoạt của một số thành viên trong gia đình. - GV liên hệ thực tế: Vùng Tây Nguyên cũ và Vùng Tây Nguyên mới sau sáp nhập."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “NHÀ RÔNG” nói về đất nước và Trái Đất."
+     "text": "- Sưu tầm được tranh, ảnh về một số mẫu nhà ở truyền thống của các dân tộc trên địa bàn tỉnh Nghệ An. -Nêu được một số đặc điểm của một ngôi nhà truyền thống, vị trí chỗ ở và sinh hoạt của một số thành viên trong gia đình. - GV liên hệ thực tế: Vùng Tây Nguyên cũ và Vùng Tây Nguyên mới sau sáp nhập.\nNăng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc."
     },
     {
      "code": "QPAN",
@@ -2833,7 +2688,7 @@
    "periodTo": 208,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [],
    "note": ""
   },
@@ -2849,7 +2704,7 @@
    "periodTo": 209,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -2865,7 +2720,7 @@
    "periodTo": 210,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [
     {
      "code": "KNS",
@@ -2887,13 +2742,8 @@
    "periodTo": 212,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2930,7 +2780,7 @@
    "periodTo": 215,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [
     {
      "code": "KNS",
@@ -2952,7 +2802,7 @@
    "periodTo": 216,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -2968,7 +2818,7 @@
    "periodTo": 217,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -2990,13 +2840,8 @@
    "periodTo": 219,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “NGỌN LỬA Ô-LIM-PÍCH (” nói về đất nước."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -3033,7 +2878,7 @@
    "periodTo": 222,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS kể lại được rô-bốt trong bài làm những việc gì và nêu thêm được máy móc tự làm việc mà em thấy trong đời sống",
    "integrations": [],
    "note": ""
   },
@@ -3049,7 +2894,7 @@
    "periodTo": 223,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -3065,7 +2910,7 @@
    "periodTo": 224,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [],
    "note": ""
   },
@@ -3081,13 +2926,8 @@
    "periodTo": 226,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -3124,7 +2964,7 @@
    "periodTo": 229,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [
     {
      "code": "KNS",
@@ -3146,7 +2986,7 @@
    "periodTo": 230,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -3162,7 +3002,7 @@
    "periodTo": 231,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -3184,13 +3024,8 @@
    "periodTo": 233,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Bài “BÁC SĨ Y-ÉC-XANH” nói về đất nước."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -3227,7 +3062,7 @@
    "periodTo": 236,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được vị trí địa danh trong bài trên bản đồ số và nối cảnh vật vừa xem với chi tiết trong bài đọc",
    "integrations": [],
    "note": ""
   },
@@ -3243,7 +3078,7 @@
    "periodTo": 237,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS quan sát GV tra từ điển điện tử, đọc được nghĩa của từ và đặt câu đúng với từ vừa tra",
    "integrations": [],
    "note": ""
   },
@@ -3259,7 +3094,7 @@
    "periodTo": 238,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS nêu được: chỉ chiếu bài khi bạn đồng ý và không chép bài của bạn thành bài của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -3575,7 +3410,7 @@
   "file": "assets/docs/lop3/Tieng Viet - Lop 3.docx",
   "name": "Tieng Viet - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 49972,
+  "size": 50311,
   "updated": "2026-09-08"
  }
 }

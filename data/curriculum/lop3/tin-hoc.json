@@ -14,44 +14,38 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 25
+  "integrations": 20
  },
  "lessons": [
   {
    "id": "l3-tin-hoc-001",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 1: Thông tin và quyết định (Tiết 1)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 1. Thông tin và quyết định (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
    "periodFrom": 1,
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trong “Bài 1: Thông tin và quyết định”, GV mở thư mục Bài 1 lưu sẵn trên máy."
-    }
-   ],
+   "adjustments": "Năng lực số 1.2 CB1a: HS nêu được vì sao phải lấy thông tin từ nguồn đáng tin trước khi quyết định",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-002",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 1: Thông tin và quyết định (Tiết 2)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 1. Thông tin và quyết định (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nhận ra ba dạng thông tin chữ, hình ảnh, âm thanh mà máy tính lưu giữ được",
    "integrations": [],
    "note": ""
   },
@@ -59,20 +53,20 @@
    "id": "l3-tin-hoc-003",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 2: Xử lí thông tin (Tiết 1)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 2. Xử lí thông tin (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (2 tiết)",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Xử lí; Kết quả",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu sơ đồ động Thu nhận → Xử lí → Kết quả, hiện dần từng ô."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS đặt đúng một việc quen thuộc vào sơ đồ Thu nhận"
     }
    ],
    "note": ""
@@ -81,15 +75,15 @@
    "id": "l3-tin-hoc-004",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 2: Xử lí thông tin (Tiết 2)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 2. Xử lí thông tin (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS kể được thiết bị quanh mình nhận thông tin rồi tự thực hiện công việc",
    "integrations": [],
    "note": ""
   },
@@ -97,21 +91,16 @@
    "id": "l3-tin-hoc-005",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 3: Máy tính và em (Tiết 1)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 3. Máy tính và em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 5 (2 tiết)",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS gọi đúng tên các bộ phận của máy tính và nêu việc của từng bộ phận",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Cho HS đứng quanh một bộ máy tính thật, chỉ."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -124,15 +113,15 @@
    "id": "l3-tin-hoc-006",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 3: Máy tính và em (Tiết 2)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 3. Máy tính và em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 6",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS bật máy, mở phần mềm và tắt máy đúng cách theo hướng dẫn từng bước",
    "integrations": [],
    "note": ""
   },
@@ -140,8 +129,8 @@
    "id": "l3-tin-hoc-007",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 4: Làm việc với máy tính (Tiết 1)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 4. Làm việc với máy tính (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (3 tiết)",
    "periodFrom": 7,
@@ -151,9 +140,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh hai bạn ngồi máy."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS ngồi đúng tư thế và giữ đúng khoảng cách với màn hình"
     }
    ],
    "note": ""
@@ -162,8 +151,8 @@
    "id": "l3-tin-hoc-008",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 4: Làm việc với máy tính (Tiết 2)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 4. Làm việc với máy tính (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
    "periodFrom": 8,
@@ -171,22 +160,28 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS làm được các thao tác chuột: di, nháy, nháy đúp, kéo thả"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-009",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 4: Làm việc với máy tính (Tiết 3)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 4. Làm việc với máy tính (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 9",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS thực hiện đủ một vòng thao tác từ bật máy tới tắt máy theo phiếu hướng dẫn",
    "integrations": [],
    "note": ""
   },
@@ -194,8 +189,8 @@
    "id": "l3-tin-hoc-010",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 5: Sử dụng bàn phím (Tiết 1)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 5. Sử dụng bàn phím (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 10 (3 tiết)",
    "periodFrom": 10,
@@ -207,12 +202,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Bài học STEM."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu hình bàn phím phóng to, chỉ rõ các khu vực."
+     "text": "Bài học STEM.\nNăng lực số 1.1 CB1b: HS đặt tay đúng hàng phím cơ sở và tìm được phím cần gõ."
     }
    ],
    "note": ""
@@ -221,8 +211,8 @@
    "id": "l3-tin-hoc-011",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 5: Sử dụng bàn phím (Tiết 2)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 5. Sử dụng bàn phím (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 11",
    "periodFrom": 11,
@@ -234,7 +224,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Bài học STEM."
+     "text": "Bài học STEM.\nNăng lực số 5.2 CB1b: HS đọc được số từ và số lỗi phần mềm báo, đặt mục tiêu cho lượt luyện sau."
     }
    ],
    "note": ""
@@ -243,8 +233,8 @@
    "id": "l3-tin-hoc-012",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề A: Máy tính và em (12 tiết)",
-   "title": "Bài 5: Sử dụng bàn phím (Tiết 3)",
+   "theme": "Chủ đề 1: Máy tính và em",
+   "title": "Bài 5. Sử dụng bàn phím (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 12",
    "periodFrom": 12,
@@ -256,7 +246,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Bài học STEM."
+     "text": "Bài học STEM.\nNăng lực số 5.2 CB1b: HS đọc được số từ và số lỗi phần mềm báo, đặt mục tiêu cho lượt luyện sau."
     }
    ],
    "note": ""
@@ -265,30 +255,24 @@
    "id": "l3-tin-hoc-013",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề B: Mạng máy tính và Internet (2 tiết)",
-   "title": "Bài 6: Khám phá thông tin trên Internet (Tiết 1)",
+   "theme": "Chủ đề 2: Mạng máy tính và Internet",
+   "title": "Bài 6. Khám phá thông tin trên Internet (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 13 (2 tiết)",
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở một trang dành cho thiếu nhi đã chọn sẵn, chỉ cho HS ô địa chỉ, tiêu đề trang, khối chữ."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS gọi tên được các thành phần của một trang web và hiểu liên kết dùng để chuyển trang",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-014",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề B: Mạng máy tính và Internet (2 tiết)",
-   "title": "Bài 6: Khám phá thông tin trên Internet (Tiết 2)",
+   "theme": "Chủ đề 2: Mạng máy tính và Internet",
+   "title": "Bài 6. Khám phá thông tin trên Internet (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 14",
    "periodFrom": 14,
@@ -296,27 +280,33 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nêu được cách đọc mô tả kết quả để chọn trang nên mở"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-015",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
-   "title": "Bài 7: Sắp xếp để dễ tìm",
+   "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+   "title": "Bài 7. Sắp xếp để dễ tìm (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 15 (1 tiết)",
+   "periodLabel": "Tiết 15 (2 tiết)",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Đổ lẫn một rổ đồ dùng học tập."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.3 CB1a: HS nêu được lợi ích của việc sắp xếp có quy tắc"
     }
    ],
    "note": ""
@@ -325,27 +315,16 @@
    "id": "l3-tin-hoc-016",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
-   "title": "Bài 8: Sơ đồ hình cây. Tổ chức thông tin trong máy tính (Tiết 1)",
+   "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+   "title": "Bài 7. Sắp xếp để dễ tìm (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 16 (2 tiết)",
+   "periodLabel": "Tiết 16",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "STEM",
-     "level": "",
-     "text": "Bài học STEM."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu sơ đồ hình cây của nhà trường."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -353,9 +332,9 @@
    "semester": 1,
    "week": 17,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập học kì 1",
+   "title": "Ôn tập, kiểm tra cuối học kì I",
    "content": "",
-   "periodLabel": "Tiết 17",
+   "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
@@ -368,24 +347,30 @@
    "id": "l3-tin-hoc-018",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì cuối học kì I",
+   "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+   "title": "Bài 8. Sơ đồ hình cây. Tổ chức thông tin trong máy tính (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodLabel": "Tiết 18 (2 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Bài học STEM.\nNăng lực số 1.1 CB1b: HS đọc được sơ đồ hình cây và chỉ đúng vị trí của mình trên sơ đồ."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-019",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
-   "title": "Bài 8: Sơ đồ hình cây. Tổ chức thông tin trong máy tính (Tiết 2)",
+   "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+   "title": "Bài 8. Sơ đồ hình cây. Tổ chức thông tin trong máy tính (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 19",
    "periodFrom": 19,
@@ -397,7 +382,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Bài học STEM."
+     "text": "Bài học STEM.\nNăng lực số 1.3 CB1a: HS nhận ra cây thư mục trong máy tính được tổ chức như sơ đồ hình cây."
     }
    ],
    "note": ""
@@ -406,8 +391,8 @@
    "id": "l3-tin-hoc-020",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
-   "title": "Bài 9: Thực hành với tệp và thư mục trong máy tính (Tiết 1)",
+   "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+   "title": "Bài 9. Thực hành với tệp và thư mục trong máy tính (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 20 (2 tiết)",
    "periodFrom": 20,
@@ -419,12 +404,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Thực hành với tệp và thư mục trong máy tính."
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Hướng dẫn từng bước để HS mở cửa sổ quản lí tệp, đi vào thư mục của lớp, mở một thư mục."
+     "text": "Thực hành với tệp và thư mục trong máy tính.\nNăng lực số 1.3 CB1a: HS mở được cửa sổ quản lí tệp và đi đúng đường tới thư mục cần tìm."
     }
    ],
    "note": ""
@@ -433,8 +413,8 @@
    "id": "l3-tin-hoc-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề C: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (5 tiết)",
-   "title": "Bài 9: Thực hành với tệp và thư mục trong máy tính (Tiết 2)",
+   "theme": "Chủ đề 3: Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+   "title": "Bài 9. Thực hành với tệp và thư mục trong máy tính (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 21",
    "periodFrom": 21,
@@ -446,7 +426,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Bài học STEM."
+     "text": "Bài học STEM.\nNăng lực số 5.2 CB1b: HS tạo, đặt tên, sao chép và di chuyển được tệp, thư mục của mình."
     }
    ],
    "note": ""
@@ -455,8 +435,8 @@
    "id": "l3-tin-hoc-022",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề D: Đạo đức, pháp luật và văn hoá trong môi trường số (2 tiết)",
-   "title": "Bài 10: Bảo vệ thông tin khi dùng máy tính (Tiết 1)",
+   "theme": "Chủ đề 4: Đạo đức, pháp luật và văn hoá trong môi trường số",
+   "title": "Bài 10. Bảo vệ thông tin khi dùng máy tính (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 22 (2 tiết)",
    "periodFrom": 22,
@@ -466,9 +446,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu một phiếu đăng kí trên mạng có các ô họ tên, ngày sinh, địa chỉ nhà, số điện thoại của cha mẹ, ảnh chân dung."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS chỉ ra được đâu là thông tin riêng không được cho người lạ"
     }
    ],
    "note": ""
@@ -477,8 +457,8 @@
    "id": "l3-tin-hoc-023",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề D: Đạo đức, pháp luật và văn hoá trong môi trường số (2 tiết)",
-   "title": "Bài 10: Bảo vệ thông tin khi dùng máy tính (Tiết 2)",
+   "theme": "Chủ đề 4: Đạo đức, pháp luật và văn hoá trong môi trường số",
+   "title": "Bài 10. Bảo vệ thông tin khi dùng máy tính (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 23",
    "periodFrom": 23,
@@ -486,15 +466,26 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "Năng lực số 2.5 CB1a: HS nói được lời xin phép và lời từ chối đúng mực trên môi trường số"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.5 CB1a: HS nói được lời xin phép và lời từ chối đúng mực trên môi trường số"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-024",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề E: Ứng dụng tin học (4 tiết)",
-   "title": "Bài 11: Bài trình chiếu của em (Tiết 1)",
+   "theme": "Chủ đề 5: Ứng dụng tin học",
+   "title": "Bài 11. Bài trình chiếu của em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 24 (2 tiết)",
    "periodFrom": 24,
@@ -506,12 +497,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Bài học STEM."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Hướng dẫn HS từng bước tạo bài trình chiếu."
+     "text": "Bài học STEM.\nNăng lực số 3.1 CB1a: HS tạo được một trang chiếu có tiêu đề, nội dung ngắn và hình minh hoạ."
     }
    ],
    "note": ""
@@ -520,8 +506,8 @@
    "id": "l3-tin-hoc-025",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề E: Ứng dụng tin học (4 tiết)",
-   "title": "Bài 11: Bài trình chiếu của em (Tiết 2)",
+   "theme": "Chủ đề 5: Ứng dụng tin học",
+   "title": "Bài 11. Bài trình chiếu của em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 25",
    "periodFrom": 25,
@@ -533,7 +519,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Bài học STEM.\nTổ CM đối chiếu tên bài với mục lục SGK Tin học 3"
+     "text": "Bài học STEM.\nTổ CM đối chiếu tên bài với mục lục SGK Tin học 3\nNăng lực số 3.2 CB1a: HS hoàn thiện, đặt tên và lưu được bài trình chiếu vào thư mục của mình."
     }
    ],
    "note": ""
@@ -542,37 +528,31 @@
    "id": "l3-tin-hoc-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề E: Ứng dụng tin học (4 tiết)",
-   "title": "Bài 13: Luyện tập sử dụng chuột (Tiết 1)",
+   "theme": "Chủ đề 5: Ứng dụng tin học",
+   "title": "Bài 13. Luyện tập sử dụng chuột (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 26 (2 tiết)",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "HS luyện thao tác chuột qua phần mềm."
-    }
-   ],
+   "adjustments": "Tổ CM đối chiếu tên bài với mục lục SGK Tin học 3; Năng lực số 5.2 CB1b: HS làm thành thạo các thao tác chuột và đọc được kết quả phần mềm chấm",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề E: Ứng dụng tin học (4 tiết)",
-   "title": "Bài 13: Luyện tập sử dụng chuột (Tiết 2)",
+   "theme": "Chủ đề 5: Ứng dụng tin học",
+   "title": "Bài 13. Luyện tập sử dụng chuột (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 27",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS làm thành thạo các thao tác chuột và đọc được kết quả phần mềm chấm",
    "integrations": [],
    "note": ""
   },
@@ -580,30 +560,24 @@
    "id": "l3-tin-hoc-028",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính (6 tiết)",
-   "title": "Bài 14: Em thực hiện công việc như thế nào (Tiết 1)",
+   "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
+   "title": "Bài 14. Em thực hiện công việc như thế nào? (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 28 (2 tiết)",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS xem đoạn phim hướng dẫn làm một việc, tạm dừng ở mỗi bước."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS sắp được các bước của một việc theo đúng thứ tự và tự phát hiện chỗ xếp sai",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-029",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính (6 tiết)",
-   "title": "Bài 14: Em thực hiện công việc như thế nào (Tiết 2)",
+   "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
+   "title": "Bài 14. Em thực hiện công việc như thế nào? (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 29",
    "periodFrom": 29,
@@ -611,44 +585,44 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS viết được dãy các bước đủ rõ để bạn làm theo đúng"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-030",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính (6 tiết)",
-   "title": "Bài 15: Công việc được thực hiện theo điều kiện (Tiết 1)",
+   "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
+   "title": "Bài 15. Công việc được thực hiện theo điều kiện (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 30 (2 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bài tập tương tác dạng Nếu… thì…."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS nhận ra kết quả thay đổi theo điều kiện khi thử trên bài tập tương tác",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-tin-hoc-031",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính (6 tiết)",
-   "title": "Bài 15: Công việc được thực hiện theo điều kiện (Tiết 2)",
+   "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
+   "title": "Bài 15. Công việc được thực hiện theo điều kiện (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 31",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS đặt và chạy thử được câu Nếu… thì… của mình, sửa lại khi máy báo chưa đủ",
    "integrations": [],
    "note": ""
   },
@@ -656,8 +630,8 @@
    "id": "l3-tin-hoc-032",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính (6 tiết)",
-   "title": "Bài 16: Công việc của em và sự trợ giúp của máy tính (Tiết 1)",
+   "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
+   "title": "Bài 16. Công việc của em và sự trợ giúp của máy tính (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 32 (2 tiết)",
    "periodFrom": 32,
@@ -667,9 +641,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "HS tìm tư liệu cho sản phẩm của mình trong kho ảnh và kho bài đọc GV đã chuẩn bị sẵn trên máy."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS chỉ ra được việc nào trong nhiệm vụ của mình cần đến máy tính"
     }
    ],
    "note": ""
@@ -678,15 +652,15 @@
    "id": "l3-tin-hoc-033",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề F: Giải quyết vấn đề với sự trợ giúp của máy tính (6 tiết)",
-   "title": "Bài 16: Công việc của em và sự trợ giúp của máy tính (Tiết 2)",
+   "theme": "Chủ đề 6: Giải quyết vấn đề với sự trợ giúp của máy tính",
+   "title": "Bài 16. Công việc của em và sự trợ giúp của máy tính (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 33",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS hoàn thành và lưu được một sản phẩm số của mình, giới thiệu trước lớp",
    "integrations": [],
    "note": ""
   },
@@ -702,7 +676,7 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB1a: HS làm bài ôn tương tác và tự nhận ra phần kiến thức mình còn chưa chắc",
    "integrations": [],
    "note": ""
   },
@@ -996,7 +970,7 @@
   "file": "assets/docs/lop3/Tin hoc - Lop 3.docx",
   "name": "Tin hoc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42589,
+  "size": 43180,
   "updated": "2026-09-08"
  }
 }

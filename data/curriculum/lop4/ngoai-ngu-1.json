@@ -29,14 +29,8 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Trong tiết “Introduction English 4”, GV chiếu sách giáo khoa điện tử lên tivi, cùng HS lật mục lục, chỉ các phần."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS cùng GV lật mục lục sách điện tử trên tivi, chỉ được các phần Unit, Lesson của sách",
+   "integrations": [],
    "note": ""
   },
   {
@@ -99,12 +93,12 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "đáp theo cặp về tên nước, quốc tịch của bạn",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu flashcard số quốc kì lên màn hình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.1 CB2a: HS quan sát flashcard số trên màn hình rồi hỏi"
     },
     {
      "code": "KNS",
@@ -219,8 +213,13 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "đáp theo cặp về tên nước, quốc tịch của bạn",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.1 CB2a: HS quan sát flashcard số trên màn hình rồi hỏi"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3432,7 +3431,7 @@
   "file": "assets/docs/lop4/Tieng Anh - Lop 4.docx",
   "name": "Tieng Anh - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 46357,
+  "size": 46414,
   "updated": "2026-09-08"
  }
 }

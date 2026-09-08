@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 85
+  "integrations": 67
  },
  "lessons": [
   {
@@ -45,14 +45,8 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu tranh bài “LÀM QUEN VỚI BẠN MỚI” phóng to trên màn hình và mở bản ghi âm lời chào, lời giới thiệu bản thân."
-    }
-   ],
+   "adjustments": "Năng lực số 2.3 CB1a: HS chào hỏi, giới thiệu tên mình và nói lời lịch sự khi tham gia hoạt động chung có GV hướng dẫn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -89,7 +83,7 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS tìm thông tin, tư liệu liên quan chủ điểm từ sách và nguồn số phù hợp",
    "integrations": [
     {
      "code": "QPAN",
@@ -111,14 +105,8 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Dùng điện thoại chụp ảnh việc tốt HS làm trong lớp như ngồi ngay ngắn, xếp ghế, nhặt rác."
-    }
-   ],
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
+   "integrations": [],
    "note": ""
   },
   {
@@ -171,7 +159,7 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
    "integrations": [],
    "note": ""
   },
@@ -187,7 +175,7 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS hình dung và kể lại được việc sắp làm sau khi xem ảnh, video minh hoạ",
    "integrations": [
     {
      "code": "KNS",
@@ -225,7 +213,7 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
    "integrations": [],
    "note": ""
   },
@@ -282,9 +270,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bộ ảnh khuôn mặt thể hiện vui, buồn, tức giận, sợ hãi ở kích thước lớn."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS gọi tên được các cảm xúc qua ảnh khuôn mặt chiếu trên màn hình"
     },
     {
      "code": "KNS",
@@ -344,14 +332,8 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Cho HS đóng vai theo tình huống vừa xem, quay lại một hai lượt đóng vai bằng điện thoại."
-    }
-   ],
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
+   "integrations": [],
    "note": ""
   },
   {
@@ -404,7 +386,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
    "integrations": [],
    "note": ""
   },
@@ -464,7 +446,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
    "integrations": [],
    "note": ""
   },
@@ -507,7 +489,7 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS tìm thông tin, tư liệu liên quan chủ điểm từ sách và nguồn số phù hợp",
    "integrations": [
     {
      "code": "QPAN",
@@ -529,13 +511,8 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu các đoạn phim tình huống ngắn gắn với bài “THÂN THIỆN VỚI BẠN BÈ”, dừng hình đúng chỗ nhân vật phải chọn cách ứng xử."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -600,14 +577,8 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Cho HS đóng vai theo tình huống vừa xem, quay lại một hai lượt đóng vai bằng điện thoại."
-    }
-   ],
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
+   "integrations": [],
    "note": ""
   },
   {
@@ -663,9 +634,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Hướng dẫn HS làm tấm thiệp tri ân bằng tay, sau đó chụp ảnh sản phẩm và chiếu lên màn hình thành một triển lãm nhỏ."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.5 CB1a: HS nói được lời chúc mừng thầy cô rõ ràng, lễ phép"
     }
    ],
    "note": ""
@@ -704,7 +675,7 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1b: HS chọn cách giới thiệu sản phẩm/hình ảnh theo chủ điểm bằng phương tiện số đơn giản",
    "integrations": [
     {
      "code": "KNS",
@@ -727,7 +698,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.5 CB1a: HS nói được lời chúc mừng thầy cô rõ ràng, lễ phép"
+    }
+   ],
    "note": ""
   },
   {
@@ -769,7 +746,7 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS tìm thông tin, tư liệu liên quan chủ điểm từ sách và nguồn số phù hợp",
    "integrations": [
     {
      "code": "QTE",
@@ -780,11 +757,6 @@
      "code": "QTE",
      "level": "",
      "text": "trẻ em có quyền được vui chơi, được kết bạn và được lắng nghe; tôn trọng ý kiến, sự khác biệt của bạn trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
     }
    ],
    "note": ""
@@ -801,13 +773,8 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS phân biệt được trò chơi an toàn và trò chơi nguy hiểm qua video GV chiếu",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu video các trò chơi an toàn và trò chơi nguy hiểm ở sân trường, dừng hình."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -860,7 +827,7 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS phân biệt được trò chơi an toàn và trò chơi nguy hiểm qua video GV chiếu",
    "integrations": [
     {
      "code": "KNS",
@@ -920,13 +887,8 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.1 CB1b: Nhận biết lời trêu chọc, đe doạ hoặc tin nhắn khó chịu trên thiết bị số là nguy cơ không an toàn; biết lưu thông tin và báo người lớn tin cậy",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu phim tình huống bạn bị trêu chọc, bị doạ nạt, bị lấy đồ."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -985,13 +947,8 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.1 CB1a: Học sinh biết lựa chọn và sử dụng hình ảnh, lời nói và công cụ số đơn giản để trao đổi, nhận xét hành vi sử dụng đồ dùng gia đình an toàn",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chỉ ngay các thiết bị dùng điện có trong lớp (quạt, máy chiếu, dây sạc)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1050,14 +1007,8 @@
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Chụp ảnh chân dung từng HS sau khi đã xin phép, chiếu lên màn hình."
-    }
-   ],
+   "adjustments": "Năng lực số 4.2 CB1a: Học sinh biết hình ảnh chân dung, tên đầy đủ, địa chỉ và số điện thoại của mình không tự ý chia sẻ cho người lạ trên môi trường số",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1104,14 +1055,8 @@
    "periodTo": 53,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu video hướng dẫn từng thao tác của bài “GIỮ VỆ SINH CÁ NHÂN”, dừng lại ở mỗi bước cho HS làm."
-    }
-   ],
+   "adjustments": "Năng lực số 2.1 CB1a: Học sinh lựa chọn và sử dụng phương tiện giao tiếp số đơn giản phù hợp bối cảnh như xem video/ảnh, quét mã QR hoặc bình chọn theo hướng dẫn để chia sẻ và thực hiện đúng các bước giữ vệ sinh cá nhân",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1158,14 +1103,8 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Cho HS chọn đúng - sai trên màn hình với từng hình ảnh việc làm hằng ngày; máy hiện đáp án ngay."
-    }
-   ],
+   "adjustments": "Năng lực số 2.2 CB1a: Học sinh nhận biết và lựa chọn công nghệ số đơn giản phù hợp để chia sẻ thông tin hoặc bài làm, đồng thời ứng xử có trách nhiệm khi chia sẻ trong môi trường số",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1196,7 +1135,7 @@
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1b: HS chọn cách giới thiệu sản phẩm/hình ảnh theo chủ điểm bằng phương tiện số đơn giản",
    "integrations": [],
    "note": ""
   },
@@ -1215,9 +1154,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu video hướng dẫn từng thao tác của bài “SỬ DỤNG TRANG PHỤC HẰNG NGÀY”, dừng lại ở mỗi bước cho."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS làm theo đúng từng bước trong video hướng dẫn GV chiếu"
     }
    ],
    "note": ""
@@ -1269,9 +1208,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "HS làm việc thật ở nhà, nhờ cha mẹ chụp giúp một ảnh; GV chiếu các ảnh đó lên màn hình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.3 CB1a: HS nêu được các việc cần làm để sắp xếp nhà cửa gọn gàng đón Tết"
     }
    ],
    "note": ""
@@ -1327,7 +1266,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.3 CB1a: HS nêu được các việc cần làm để sắp xếp nhà cửa gọn gàng đón Tết"
+    }
+   ],
    "note": ""
   },
   {
@@ -1391,14 +1336,8 @@
    "periodTo": 68,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Thực hiện một cuộc gọi video mẫu chúc Tết người thân trên thiết bị của mình."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS nhận quà đúng cách và nói được lời cảm ơn trong tình huống GV chiếu",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1451,7 +1390,7 @@
    "periodTo": 71,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nhận quà đúng cách và nói được lời cảm ơn trong tình huống GV chiếu",
    "integrations": [],
    "note": ""
   },
@@ -1521,13 +1460,8 @@
    "periodTo": 74,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS kể được việc làm tốt của người dân nơi mình sống sau khi xem ảnh, video",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Hướng dẫn HS cách chào hỏi, cảm ơn hàng xóm và cách nhờ người lớn gọi điện khi cần giúp đỡ."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -1586,7 +1520,7 @@
    "periodTo": 77,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS kể được việc làm tốt của người dân nơi mình sống sau khi xem ảnh, video",
    "integrations": [],
    "note": ""
   },
@@ -1634,14 +1568,8 @@
    "periodTo": 80,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Em tham gia các hoạt động xã hội”, GV chiếu ảnh các hoạt động ở địa phương."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS kể được việc làm tốt của người dân nơi mình sống sau khi xem ảnh, video",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1688,14 +1616,8 @@
    "periodTo": 83,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bảng chung “Việc lớp em sẽ làm – Ai chuẩn bị gì”."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS kể được việc làm tốt của người dân nơi mình sống sau khi xem ảnh, video",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1748,14 +1670,8 @@
    "periodTo": 86,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Thiên nhiên tươi đẹp quê em”, GV chiếu ảnh cây xanh, vườn hoa, dòng sông ở."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS so sánh hai ảnh và nói được vì sao phải giữ gìn cảnh quan, môi trường",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1808,14 +1724,8 @@
    "periodTo": 89,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Luyện tập, GV mở bảng chung “Cây, hoa lớp em chăm sóc – Người phụ trách”."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS so sánh hai ảnh và nói được vì sao phải giữ gìn cảnh quan, môi trường",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1852,7 +1762,7 @@
    "periodTo": 91,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1b: HS chọn cách giới thiệu sản phẩm/hình ảnh theo chủ điểm bằng phương tiện số đơn giản",
    "integrations": [
     {
      "code": "QPAN",
@@ -1874,13 +1784,8 @@
    "periodTo": 92,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS so sánh hai ảnh và nói được vì sao phải giữ gìn cảnh quan, môi trường",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh vệ tinh và video cảnh đẹp quê hương, kèm ảnh cùng một địa điểm khi bị xả rác."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -1923,7 +1828,7 @@
    "periodTo": 94,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS tìm thông tin, tư liệu liên quan chủ điểm từ sách và nguồn số phù hợp",
    "integrations": [],
    "note": ""
   },
@@ -1939,7 +1844,7 @@
    "periodTo": 95,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS so sánh hai ảnh và nói được vì sao phải giữ gìn cảnh quan, môi trường",
    "integrations": [
     {
      "code": "QPAN",
@@ -2010,17 +1915,12 @@
    "periodTo": 98,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS so sánh hai ảnh và nói được vì sao phải giữ gìn cảnh quan, môi trường",
    "integrations": [
     {
      "code": "GDĐP",
      "level": "",
      "text": "Tích hợp giáo dục địa phương"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh vệ tinh và video cảnh đẹp quê hương, kèm ảnh cùng một địa điểm khi bị xả rác."
     },
     {
      "code": "QPAN",
@@ -2085,7 +1985,7 @@
    "periodTo": 101,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Tích hợp AI 1.D2.1: Học sinh nhận biết máy thông minh có thể nhận diện, phân loại hình ảnh; quan sát giáo viên minh hoạ nhận diện rác giấy, chai nhựa, lá cây để thảo luận cách bỏ rác đúng nơi quy định; Năng lực số 1.1 CB1b: HS so sánh hai ảnh và nói được vì sao phải giữ gìn cảnh quan, môi trường",
    "integrations": [
     {
      "code": "QPAN",
@@ -2156,7 +2056,7 @@
    "periodTo": 104,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS so sánh hai ảnh và nói được vì sao phải giữ gìn cảnh quan, môi trường",
    "integrations": [
     {
      "code": "QPAN",
@@ -2462,7 +2362,7 @@
   "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.docx",
   "name": "Hoat dong trai nghiem - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 46812,
+  "size": 47015,
   "updated": "2026-09-08"
  }
 }

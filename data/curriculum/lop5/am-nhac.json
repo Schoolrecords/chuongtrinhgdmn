@@ -14,39 +14,33 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 17
+  "integrations": 14
  },
  "lessons": [
   {
    "id": "l5-am-nhac-001",
    "semester": 1,
    "week": 1,
-   "theme": "CHỦ ĐỀ 1. KHÚC CA NGÀY MỚI",
-   "title": "Tiết 1: Lí thuyết âm nhạc: Trọng âm, phách, vạch nhịp, ô nhịp; Đọc nhạc: Bài số 1",
+   "theme": "Chủ đề 1: KHÚC CA NGÀY MỚI",
+   "title": "Lí thuyết âm nhạc: Trọng âm, phách, vạch nhịp, ô nhịp; Đọc nhạc: Bài số 1",
    "content": "",
-   "periodLabel": "Tiết 1 (4 tiết)",
+   "periodLabel": "Tiết 1 (1 tiết)",
    "periodFrom": 1,
    "periodTo": 1,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở bản thu mẫu bài hát “Chim sơn ca” trên tivi của lớp, cho HS nghe trọn bài."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-am-nhac-002",
    "semester": 1,
    "week": 2,
-   "theme": "CHỦ ĐỀ 1. KHÚC CA NGÀY MỚI",
-   "title": "Tiết 2: - Ôn đọc nhạc: Bài số 1- Hát Chim sơn ca",
+   "theme": "Chủ đề 1: KHÚC CA NGÀY MỚI",
+   "title": "Ôn đọc nhạc: Bài số 1; Hát: Chim sơn ca",
    "content": "",
-   "periodLabel": "Tiết 2",
+   "periodLabel": "Tiết 2 (1 tiết)",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
@@ -59,26 +53,32 @@
    "id": "l5-am-nhac-003",
    "semester": 1,
    "week": 3,
-   "theme": "CHỦ ĐỀ 1. KHÚC CA NGÀY MỚI",
-   "title": "Tiết 3: - Ôn bài hát: Chim sơn ca- Thường thức âm nhạc",
+   "theme": "Chủ đề 1: KHÚC CA NGÀY MỚI",
+   "title": "Ôn bài hát: Chim sơn ca; Thường thức âm nhạc: Một số hình thức biểu diễn nhạc cụ",
    "content": "",
-   "periodLabel": "Tiết 3",
+   "periodLabel": "Tiết 3 (1 tiết)",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-am-nhac-004",
    "semester": 1,
    "week": 4,
-   "theme": "CHỦ ĐỀ 1. KHÚC CA NGÀY MỚI",
-   "title": "Tiết 4: Tổ chức hoạt động Vận dụng - Sáng tạo",
+   "theme": "Chủ đề 1: KHÚC CA NGÀY MỚI",
+   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
    "content": "",
-   "periodLabel": "Tiết 4",
+   "periodLabel": "Tiết 4 (1 tiết)",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
@@ -86,9 +86,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết nhạc cụ và Vận dụng."
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -97,21 +97,16 @@
    "id": "l5-am-nhac-005",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 2. GIAI ĐIỆU QUÊ HƯƠNG",
-   "title": "Tiết 1. Hát: Lí đất giồng",
+   "theme": "Chủ đề 2: GIAI ĐIỆU QUÊ HƯƠNG",
+   "title": "Hát: Lí đất giồng",
    "content": "",
-   "periodLabel": "Tiết 5 (4 tiết)",
+   "periodLabel": "Tiết 5 (1 tiết)",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở bản thu mẫu bài “Lí đất giồng” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi tác."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -124,10 +119,10 @@
    "id": "l5-am-nhac-006",
    "semester": 1,
    "week": 6,
-   "theme": "CHỦ ĐỀ 2. GIAI ĐIỆU QUÊ HƯƠNG",
-   "title": "Tiết 2. - Ôn bài hát: Lí đất giồng- Nhạc cụ",
+   "theme": "Chủ đề 2: GIAI ĐIỆU QUÊ HƯƠNG",
+   "title": "Ôn bài hát: Lí đất giồng; Nhạc cụ: Nhạc cụ thể hiện tiết tấu và nhạc cụ thể hiện giai điệu",
    "content": "",
-   "periodLabel": "Tiết 6",
+   "periodLabel": "Tiết 6 (1 tiết)",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
@@ -140,10 +135,10 @@
    "id": "l5-am-nhac-007",
    "semester": 1,
    "week": 7,
-   "theme": "CHỦ ĐỀ 2. GIAI ĐIỆU QUÊ HƯƠNG",
-   "title": "Tiết 3. - Ôn nhạc cụ- Thường thức âm nhạc: Đàn nhị",
+   "theme": "Chủ đề 2: GIAI ĐIỆU QUÊ HƯƠNG",
+   "title": "Ôn nhạc cụ; Thường thức âm nhạc: Đàn nhị",
    "content": "",
-   "periodLabel": "Tiết 7",
+   "periodLabel": "Tiết 7 (1 tiết)",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
@@ -156,10 +151,10 @@
    "id": "l5-am-nhac-008",
    "semester": 1,
    "week": 8,
-   "theme": "CHỦ ĐỀ 2. GIAI ĐIỆU QUÊ HƯƠNG",
-   "title": "Tiết 4. Tổ chức hoạt động Vận dụng - Sáng tạo",
+   "theme": "Chủ đề 2: GIAI ĐIỆU QUÊ HƯƠNG",
+   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
    "content": "",
-   "periodLabel": "Tiết 8",
+   "periodLabel": "Tiết 8 (1 tiết)",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
@@ -167,9 +162,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm và vận động; GV quay lại."
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -178,14 +173,14 @@
    "id": "l5-am-nhac-009",
    "semester": 1,
    "week": 9,
-   "theme": "CHỦ ĐỀ 3. BAY VÀO TƯƠNG LAI",
-   "title": "Tiết 1. – Lí thuyết âm nhạc: Nhịp.- Đọc nhạc: Bài số 2",
+   "theme": "Chủ đề 3: BAY VÀO TƯƠNG LAI",
+   "title": "Lí thuyết âm nhạc: Nhịp 2/4; Đọc nhạc: Bài số 2",
    "content": "",
-   "periodLabel": "Tiết 9 (4 tiết)",
+   "periodLabel": "Tiết 9 (1 tiết)",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -194,32 +189,26 @@
    "id": "l5-am-nhac-010",
    "semester": 1,
    "week": 10,
-   "theme": "CHỦ ĐỀ 3. BAY VÀO TƯƠNG LAI",
-   "title": "Tiết 2. - Ôn đọc nhạc: Bài số 2- Hát: Bay vào tương lai",
+   "theme": "Chủ đề 3: BAY VÀO TƯƠNG LAI",
+   "title": "Ôn đọc nhạc: Bài số 2; Hát: Bay vào tương lai",
    "content": "",
-   "periodLabel": "Tiết 10",
+   "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở bản thu mẫu bài “Bay vào tương lai” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-am-nhac-011",
    "semester": 1,
    "week": 11,
-   "theme": "CHỦ ĐỀ 3. BAY VÀO TƯƠNG LAI",
-   "title": "Tiết 3. - Ôn bài hát: Bay vào tương lai- Nghe nhạc: Đường đến trường vui lắm!",
+   "theme": "Chủ đề 3: BAY VÀO TƯƠNG LAI",
+   "title": "Ôn bài hát: Bay vào tương lai; Nghe nhạc: Đường đến trường vui lắm!",
    "content": "",
-   "periodLabel": "Tiết 11",
+   "periodLabel": "Tiết 11 (1 tiết)",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
@@ -232,12 +221,34 @@
    "id": "l5-am-nhac-012",
    "semester": 1,
    "week": 12,
-   "theme": "CHỦ ĐỀ 3. BAY VÀO TƯƠNG LAI",
-   "title": "Tiết 4. Tổ chức hoạt động Vận dụng - Sáng tạo",
+   "theme": "Chủ đề 3: BAY VÀO TƯƠNG LAI",
+   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
    "content": "",
-   "periodLabel": "Tiết 12",
+   "periodLabel": "Tiết 12 (1 tiết)",
    "periodFrom": 12,
    "periodTo": 12,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-am-nhac-013",
+   "semester": 1,
+   "week": 13,
+   "theme": "Chủ đề 4: CHÀO MÙA XUÂN ĐẾN",
+   "title": "Hát: Duyên dáng mùa xuân",
+   "content": "",
+   "periodLabel": "Tiết 13 (1 tiết)",
+   "periodFrom": 13,
+   "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -245,57 +256,29 @@
    "note": ""
   },
   {
-   "id": "l5-am-nhac-013",
-   "semester": 1,
-   "week": 13,
-   "theme": "CHỦ ĐỀ 4. CHÀO MÙA XUÂN",
-   "title": "Tiết 1: Hát: Duyên dáng mùa xuân",
-   "content": "",
-   "periodLabel": "Tiết 13 (4 tiết)",
-   "periodFrom": 13,
-   "periodTo": 13,
-   "periods": 1,
-   "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm; GV quay lại."
-    }
-   ],
-   "note": ""
-  },
-  {
    "id": "l5-am-nhac-014",
    "semester": 1,
    "week": 14,
-   "theme": "CHỦ ĐỀ 4. CHÀO MÙA XUÂN",
-   "title": "Tiết 2: Nhạc cụ: Nhạc cụ thể hiện tiết tấu và nhạc cụ thể hiện giai điệu",
+   "theme": "Chủ đề 4: CHÀO MÙA XUÂN ĐẾN",
+   "title": "Nhạc cụ: Nhạc cụ thể hiện tiết tấu và nhạc cụ thể hiện giai điệu; Ôn bài hát: Duyên dáng mùa xuân",
    "content": "",
-   "periodLabel": "Tiết 14",
+   "periodLabel": "Tiết 14 (1 tiết)",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở bản thu mẫu bài “Duyên dáng mùa xuân” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-am-nhac-015",
    "semester": 1,
    "week": 15,
-   "theme": "CHỦ ĐỀ 4. CHÀO MÙA XUÂN",
-   "title": "Tiết 3: - Thường thức âm nhạc",
+   "theme": "Chủ đề 4: CHÀO MÙA XUÂN ĐẾN",
+   "title": "Thường thức âm nhạc: Câu chuyện về bản xô-nát Ánh trăng; Ôn nhạc cụ",
    "content": "",
-   "periodLabel": "Tiết 15",
+   "periodLabel": "Tiết 15 (1 tiết)",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
@@ -308,24 +291,30 @@
    "id": "l5-am-nhac-016",
    "semester": 1,
    "week": 16,
-   "theme": "CHỦ ĐỀ 4. CHÀO MÙA XUÂN",
-   "title": "Tiết 4: Tổ chức hoạt động Vận dụng - Sáng tạo",
+   "theme": "Chủ đề 4: CHÀO MÙA XUÂN ĐẾN",
+   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
    "content": "",
-   "periodLabel": "Tiết 16",
+   "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-am-nhac-017",
    "semester": 1,
    "week": 17,
-   "theme": "CHỦ ĐỀ 4. CHÀO MÙA XUÂN",
-   "title": "Ôn tập cuối học kì I",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập cuối học kì I (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -333,21 +322,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Luyện tập, GV quay tiết mục tổng hợp hát."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-am-nhac-018",
    "semester": 1,
    "week": 18,
-   "theme": "CHỦ ĐỀ 4. CHÀO MÙA XUÂN",
-   "title": "Kiểm tra và đánh giá cuối học kì I",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập cuối học kì I (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -362,32 +345,26 @@
    "id": "l5-am-nhac-019",
    "semester": 2,
    "week": 19,
-   "theme": "CHỦ ĐỀ 5. THIÊN NHIÊN TƯƠI ĐẸP",
-   "title": "Tiết 1. - Lí thuyết âm nhạc: Nhịp- Đọc nhạc: Bài số 3",
+   "theme": "Chủ đề 5: THIÊN NHIÊN TƯƠI ĐẸP",
+   "title": "Lí thuyết âm nhạc: Nhịp 3/4; Đọc nhạc: Bài số 3",
    "content": "",
-   "periodLabel": "Tiết 19 (4 tiết)",
+   "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở bản thu mẫu bài “Em đi giữa biển vàng” từ học liệu điện tử của bộ sách, chỉ cho HS dòng."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-am-nhac-020",
    "semester": 2,
    "week": 20,
-   "theme": "CHỦ ĐỀ 5. THIÊN NHIÊN TƯƠI ĐẸP",
-   "title": "Tiết 2. Hát: Em đi giữa biển vàng",
+   "theme": "Chủ đề 5: THIÊN NHIÊN TƯƠI ĐẸP",
+   "title": "Thường thức âm nhạc: Nhạc sĩ Bùi Đình Thảo và bài hát Sách bút thân yêu ơi!; Ôn đọc nhạc: Bài số 3",
    "content": "",
-   "periodLabel": "Tiết 20",
+   "periodLabel": "Tiết 20 (1 tiết)",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
@@ -400,26 +377,32 @@
    "id": "l5-am-nhac-021",
    "semester": 2,
    "week": 21,
-   "theme": "CHỦ ĐỀ 5. THIÊN NHIÊN TƯƠI ĐẸP",
-   "title": "Tiết 3. - Thường thức âm nhạc",
+   "theme": "Chủ đề 5: THIÊN NHIÊN TƯƠI ĐẸP",
+   "title": "Hát: Em đi giữa biển vàng",
    "content": "",
-   "periodLabel": "Tiết 21",
+   "periodLabel": "Tiết 21 (1 tiết)",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS nghe/hát bài hát về biển, đảo quê hương; qua đó giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-am-nhac-022",
    "semester": 2,
    "week": 22,
-   "theme": "CHỦ ĐỀ 5. THIÊN NHIÊN TƯƠI ĐẸP",
-   "title": "Tiết 4. - Tổ chức hoạt động Vận dụng- Sáng tạo",
+   "theme": "Chủ đề 5: THIÊN NHIÊN TƯƠI ĐẸP",
+   "title": "Ôn bài hát: Em đi giữa biển vàng; Tổ chức hoạt động Vận dụng – Sáng tạo",
    "content": "",
-   "periodLabel": "Tiết 22",
+   "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
@@ -427,9 +410,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Vận dụng – Sáng tạo, GV ghi âm phần hoà tấu của từng nhóm."
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS nghe/hát bài hát về biển, đảo quê hương; qua đó giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -438,32 +426,26 @@
    "id": "l5-am-nhac-023",
    "semester": 2,
    "week": 23,
-   "theme": "CHỦ ĐỀ 6. ƯỚC MƠ TUỔI THƠ",
-   "title": "Tiết 1. Hát: Tuổi hồng ơi",
+   "theme": "Chủ đề 6: ƯỚC MƠ TUỔI THƠ",
+   "title": "Hát: Tuổi hồng ơi",
    "content": "",
-   "periodLabel": "Tiết 23 (4 tiết)",
+   "periodLabel": "Tiết 23 (1 tiết)",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở bản thu mẫu bài “Tuổi hồng ơi” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi tên."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-am-nhac-024",
    "semester": 2,
    "week": 24,
-   "theme": "CHỦ ĐỀ 6. ƯỚC MƠ TUỔI THƠ",
-   "title": "Tiết 2. - Ôn bài hát: Tuổi hồng ơi- Nhạc cụ",
+   "theme": "Chủ đề 6: ƯỚC MƠ TUỔI THƠ",
+   "title": "Ôn bài hát: Tuổi hồng ơi; Nhạc cụ: Nhạc cụ thể hiện tiết tấu và nhạc cụ thể hiện giai điệu",
    "content": "",
-   "periodLabel": "Tiết 24",
+   "periodLabel": "Tiết 24 (1 tiết)",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
@@ -476,10 +458,10 @@
    "id": "l5-am-nhac-025",
    "semester": 2,
    "week": 25,
-   "theme": "CHỦ ĐỀ 6. ƯỚC MƠ TUỔI THƠ",
-   "title": "Tiết 3. - Ôn nhạc cụ- Nghe nhạc: Ngôi sao sáng",
+   "theme": "Chủ đề 6: ƯỚC MƠ TUỔI THƠ",
+   "title": "Ôn nhạc cụ; Nghe nhạc: Ngôi sao sáng",
    "content": "",
-   "periodLabel": "Tiết 25",
+   "periodLabel": "Tiết 25 (1 tiết)",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
@@ -492,10 +474,10 @@
    "id": "l5-am-nhac-026",
    "semester": 2,
    "week": 26,
-   "theme": "CHỦ ĐỀ 6. ƯỚC MƠ TUỔI THƠ",
-   "title": "Tiết 4. Tổ chức hoạt động Vận dụng - Sáng tạo",
+   "theme": "Chủ đề 6: ƯỚC MƠ TUỔI THƠ",
+   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
    "content": "",
-   "periodLabel": "Tiết 26",
+   "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
@@ -503,9 +485,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Vận dụng – Sáng tạo, GV quay tiết mục tổng hợp của từng nhóm."
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -514,14 +496,14 @@
    "id": "l5-am-nhac-027",
    "semester": 2,
    "week": 27,
-   "theme": "CHỦ ĐỀ 7. ÂM NHẠC NƯỚC NGOÀI",
-   "title": "Tiết 1. - Lí thuyết âm nhạc: Ôn tập- Đọc nhạc: Bài số 4",
+   "theme": "Chủ đề 7: ÂM NHẠC NƯỚC NGOÀI",
+   "title": "Lí thuyết âm nhạc: Ôn tập; Đọc nhạc: Bài số 4",
    "content": "",
-   "periodLabel": "Tiết 27 (4 tiết)",
+   "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -530,10 +512,10 @@
    "id": "l5-am-nhac-028",
    "semester": 2,
    "week": 28,
-   "theme": "CHỦ ĐỀ 7. ÂM NHẠC NƯỚC NGOÀI",
-   "title": "Tiết 2. - Hát: Đất nước tươi đẹp sao",
+   "theme": "Chủ đề 7: ÂM NHẠC NƯỚC NGOÀI",
+   "title": "Hát: Đất nước tươi đẹp sao; Ôn đọc nhạc: Bài số 4",
    "content": "",
-   "periodLabel": "Tiết 28",
+   "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
@@ -541,9 +523,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở bản thu mẫu bài “Đất nước tươi đẹp sao” từ học liệu điện tử của bộ sách, chỉ cho HS dòng."
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -552,88 +534,56 @@
    "id": "l5-am-nhac-029",
    "semester": 2,
    "week": 29,
-   "theme": "CHỦ ĐỀ 7. ÂM NHẠC NƯỚC NGOÀI",
-   "title": "Tiết 3. - Thường thức âm nhạc: Giới thiệu một số nhạc cụ",
+   "theme": "Chủ đề 7: ÂM NHẠC NƯỚC NGOÀI",
+   "title": "Thường thức âm nhạc: Giới thiệu một số nhạc cụ gõ nước ngoài; Nghe nhạc: Vũ điệu Tây Ban Nha (E-xơ-pa-nha Ca-ni); Ôn bài hát: Đất nước tươi đẹp sao",
    "content": "",
-   "periodLabel": "Tiết 29",
+   "periodLabel": "Tiết 29 (1 tiết)",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-am-nhac-030",
    "semester": 2,
    "week": 30,
-   "theme": "CHỦ ĐỀ 7. ÂM NHẠC NƯỚC NGOÀI",
-   "title": "Tiết 4. Tổ chức hoạt động Vận dụng - Sáng tạo",
+   "theme": "Chủ đề 7: ÂM NHẠC NƯỚC NGOÀI",
+   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
    "content": "",
-   "periodLabel": "Tiết 30",
+   "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-am-nhac-031",
    "semester": 2,
    "week": 31,
-   "theme": "CHỦ ĐỀ 8. KHÚC CA HÈ VỀ",
-   "title": "Tiết 1. Hát: Khúc ca hè về",
+   "theme": "Chủ đề 8: KHÚC CA HÈ VỀ",
+   "title": "Hát: Khúc ca hè về",
    "content": "",
-   "periodLabel": "Tiết 31 (3 tiết)",
+   "periodLabel": "Tiết 31 (1 tiết)",
    "periodFrom": 31,
    "periodTo": 31,
-   "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Vận dụng – Sáng tạo, GV quay tiết mục của từng nhóm."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l5-am-nhac-032",
-   "semester": 2,
-   "week": 32,
-   "theme": "CHỦ ĐỀ 8. KHÚC CA HÈ VỀ",
-   "title": "Tiết 2. - Ôn bài hát: Khúc ca hè về- Nhạc cụ",
-   "content": "",
-   "periodLabel": "Tiết 32",
-   "periodFrom": 32,
-   "periodTo": 32,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở bản thu mẫu bài “Khúc ca hè về” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l5-am-nhac-033",
-   "semester": 2,
-   "week": 33,
-   "theme": "CHỦ ĐỀ 8. KHÚC CA HÈ VỀ",
-   "title": "Tiết 3. - Nghe nhạc: Khúc ca bốn mùa- Tổ chức hoạt động",
-   "content": "",
-   "periodLabel": "Tiết 33",
-   "periodFrom": 33,
-   "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -641,35 +591,67 @@
    "note": ""
   },
   {
-   "id": "l5-am-nhac-034",
+   "id": "l5-am-nhac-032",
    "semester": 2,
-   "week": 34,
-   "theme": "CHỦ ĐỀ 8. KHÚC CA HÈ VỀ",
-   "title": "Ôn tập cuối năm",
+   "week": 32,
+   "theme": "Chủ đề 8: KHÚC CA HÈ VỀ",
+   "title": "Ôn bài hát: Khúc ca hè về; Nhạc cụ: Nhạc cụ thể hiện tiết tấu và nhạc cụ thể hiện giai điệu",
    "content": "",
-   "periodLabel": "Tiết 34 (2 tiết)",
-   "periodFrom": 34,
-   "periodTo": 34,
+   "periodLabel": "Tiết 32 (1 tiết)",
+   "periodFrom": 32,
+   "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-am-nhac-033",
+   "semester": 2,
+   "week": 33,
+   "theme": "Chủ đề 8: KHÚC CA HÈ VỀ",
+   "title": "Nghe nhạc: Khúc ca bốn mùa; Tổ chức hoạt động Vận dụng – Sáng tạo",
+   "content": "",
+   "periodLabel": "Tiết 33 (1 tiết)",
+   "periodFrom": 33,
+   "periodTo": 33,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Vận dụng – Sáng tạo, GV quay tiết mục của từng nhóm."
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
+   "note": ""
+  },
+  {
+   "id": "l5-am-nhac-034",
+   "semester": 2,
+   "week": 34,
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập cuối năm (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 34 (1 tiết)",
+   "periodFrom": 34,
+   "periodTo": 34,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-am-nhac-035",
    "semester": 2,
    "week": 35,
-   "theme": "CHỦ ĐỀ 8. KHÚC CA HÈ VỀ",
-   "title": "Ôn tập và đánh giá cuối năm",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Ôn tập cuối năm (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 35",
+   "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
    "periodTo": 35,
    "periods": 1,
@@ -952,7 +934,7 @@
   "file": "assets/docs/lop5/Am nhac - Lop 5.docx",
   "name": "Am nhac - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42553,
+  "size": 42441,
   "updated": "2026-09-08"
  }
 }

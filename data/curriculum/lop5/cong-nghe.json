@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 33
+  "integrations": 32
  },
  "lessons": [
   {
@@ -32,9 +32,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Từ Hình 1 SGK, mỗi nhóm chọn một sản phẩm công nghệ trong nhà như quạt điện, nồi cơm điện, đèn học."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS phác thảo bản thiết kế trên máy, sửa và hoàn thiện"
     }
    ],
    "note": ""
@@ -46,13 +46,19 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 1. Vai trò của công nghệ (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 2 (2 tiết)",
+   "periodLabel": "Tiết 2",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS phác thảo bản thiết kế trên máy, sửa và hoàn thiện"
+    }
+   ],
    "note": ""
   },
   {
@@ -70,9 +76,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Nhà sáng chế”, GV chiếu ảnh và mốc thời gian của vài sáng chế quen thuộc như bóng đèn, điện thoại, bút bi."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS phác thảo bản thiết kế trên máy, sửa và hoàn thiện"
     }
    ],
    "note": ""
@@ -84,13 +90,19 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 2. Nhà sáng chế (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 4 (4 tiết)",
+   "periodLabel": "Tiết 4",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS phác thảo bản thiết kế trên máy, sửa và hoàn thiện"
+    }
+   ],
    "note": ""
   },
   {
@@ -100,11 +112,11 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 2. Nhà sáng chế (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 5 (4 tiết)",
+   "periodLabel": "Tiết 5",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -116,11 +128,11 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 2. Nhà sáng chế (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 6 (4 tiết)",
+   "periodLabel": "Tiết 6",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -140,9 +152,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Hướng dẫn HS dùng công cụ vẽ trên máy."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS phác thảo bản thiết kế trên máy, sửa và hoàn thiện"
     }
    ],
    "note": ""
@@ -154,13 +166,19 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 3. Tìm hiểu thiết kế (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 8 (2 tiết)",
+   "periodLabel": "Tiết 8",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS phác thảo bản thiết kế trên máy, sửa và hoàn thiện"
+    }
+   ],
    "note": ""
   },
   {
@@ -178,9 +196,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Cho HS xem vài mẫu thiết kế do công cụ trí tuệ nhân tạo tạo ra."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS phác thảo bản thiết kế trên máy, sửa và hoàn thiện"
     }
    ],
    "note": ""
@@ -192,13 +210,19 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 4. Thiết kế sản phẩm (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 10 (4 tiết)",
+   "periodLabel": "Tiết 10",
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS phác thảo bản thiết kế trên máy, sửa và hoàn thiện"
+    }
+   ],
    "note": ""
   },
   {
@@ -208,11 +232,11 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 4. Thiết kế sản phẩm (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 11 (4 tiết)",
+   "periodLabel": "Tiết 11",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -224,11 +248,11 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 4. Thiết kế sản phẩm (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 12 (4 tiết)",
+   "periodLabel": "Tiết 12",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -248,9 +272,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Bài “Sử dụng điện thoại” chính là bài hình thành năng lực số trực tiếp."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.5 CB2a: HS thực hành gọi, nghe, nhắn tin, lưu danh bạ và gọi số khẩn cấp"
     },
     {
      "code": "KNS",
@@ -267,17 +291,17 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 5. Sử dụng điện thoại (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 14 (4 tiết)",
+   "periodLabel": "Tiết 14",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 2.5 CB2a: HS thực hành gọi, nghe, nhắn tin, lưu danh bạ và gọi số khẩn cấp"
     }
    ],
    "note": ""
@@ -289,17 +313,17 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 5. Sử dụng điện thoại (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 15 (4 tiết)",
+   "periodLabel": "Tiết 15",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 2.5 CB2a: HS thực hành gọi, nghe, nhắn tin, lưu danh bạ và gọi số khẩn cấp"
     }
    ],
    "note": ""
@@ -311,17 +335,17 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 5. Sử dụng điện thoại (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 16 (4 tiết)",
+   "periodLabel": "Tiết 16",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 2.5 CB2a: HS thực hành gọi, nghe, nhắn tin, lưu danh bạ và gọi số khẩn cấp"
     }
    ],
    "note": ""
@@ -330,7 +354,7 @@
    "id": "l5-cong-nghe-017",
    "semester": 1,
    "week": 17,
-   "theme": "Ôn tập và kiểm tra",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Ôn tập học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
@@ -346,7 +370,7 @@
    "id": "l5-cong-nghe-018",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập và kiểm tra",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
@@ -362,7 +386,7 @@
    "id": "l5-cong-nghe-019",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 1:",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 6. Sử dụng tủ lạnh (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 19 (3 tiết)",
@@ -373,9 +397,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu video, hình ảnh minh hoạ cấu tạo và cách sử dụng an toàn “Sử dụng tủ lạnh”."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS quan sát học liệu số về cấu tạo và cách dùng an toàn"
     },
     {
      "code": "KNS",
@@ -392,17 +416,17 @@
    "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 6. Sử dụng tủ lạnh (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 20 (3 tiết)",
+   "periodLabel": "Tiết 20",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": 3,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 1.1 CB2c: HS quan sát học liệu số về cấu tạo và cách dùng an toàn"
     }
    ],
    "note": ""
@@ -411,22 +435,16 @@
    "id": "l5-cong-nghe-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề 1:",
+   "theme": "Chủ đề 1: Công nghệ và đời sống",
    "title": "Bài 6. Sử dụng tủ lạnh (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 21 (3 tiết)",
+   "periodLabel": "Tiết 21",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": 3,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -456,12 +474,7 @@
     {
      "code": "NLS-ST",
      "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp ảnh sản phẩm ở từng công đoạn rồi ghép thành bản báo cáo quy trình trên máy; nếu mô hình."
+     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản.\nNăng lực số 1.1 CB2c: HS xem video hướng dẫn theo từng bước rồi tự lắp mô hình."
     },
     {
      "code": "STEM",
@@ -483,17 +496,17 @@
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 7. Lắp ráp mô hình xe điện chạy bằng pin (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 23 (4 tiết)",
+   "periodLabel": "Tiết 23",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 1.1 CB2c: HS xem video hướng dẫn theo từng bước rồi tự lắp mô hình"
     }
    ],
    "note": ""
@@ -505,17 +518,17 @@
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 7. Lắp ráp mô hình xe điện chạy bằng pin (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 24 (4 tiết)",
+   "periodLabel": "Tiết 24",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 1.1 CB2c: HS xem video hướng dẫn theo từng bước rồi tự lắp mô hình"
     }
    ],
    "note": ""
@@ -527,19 +540,13 @@
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 7. Lắp ráp mô hình xe điện chạy bằng pin (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 25 (4 tiết)",
+   "periodLabel": "Tiết 25",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -557,9 +564,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu video hướng dẫn lắp ráp “Mô hình máy phát điện gió” theo từng bước, cho HS tua chậm."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS xem video hướng dẫn theo từng bước rồi tự lắp mô hình"
     },
     {
      "code": "STEM",
@@ -581,17 +588,17 @@
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 8. Mô hình máy phát điện gió (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 27 (4 tiết)",
+   "periodLabel": "Tiết 27",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 1.1 CB2c: HS xem video hướng dẫn theo từng bước rồi tự lắp mô hình"
     }
    ],
    "note": ""
@@ -603,17 +610,17 @@
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 8. Mô hình máy phát điện gió (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 28 (4 tiết)",
+   "periodLabel": "Tiết 28",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 1.1 CB2c: HS xem video hướng dẫn theo từng bước rồi tự lắp mô hình"
     }
    ],
    "note": ""
@@ -625,19 +632,13 @@
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 8. Mô hình máy phát điện gió (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 29 (4 tiết)",
+   "periodLabel": "Tiết 29",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -655,9 +656,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS chụp ảnh sản phẩm ở từng công đoạn rồi ghép thành bản báo cáo quy trình trên máy; nếu mô hình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS xem video hướng dẫn theo từng bước rồi tự lắp mô hình"
     },
     {
      "code": "KNS",
@@ -674,17 +675,17 @@
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 9. Mô hình điện mặt trời (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 31 (4 tiết)",
+   "periodLabel": "Tiết 31",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 1.1 CB2c: HS xem video hướng dẫn theo từng bước rồi tự lắp mô hình"
     }
    ],
    "note": ""
@@ -696,17 +697,17 @@
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 9. Mô hình điện mặt trời (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 32 (4 tiết)",
+   "periodLabel": "Tiết 32",
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
+     "text": "Năng lực số 1.1 CB2c: HS xem video hướng dẫn theo từng bước rồi tự lắp mô hình"
     }
    ],
    "note": ""
@@ -718,27 +719,21 @@
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
    "title": "Bài 9. Mô hình điện mặt trời (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 33 (4 tiết)",
+   "periodLabel": "Tiết 33",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-cong-nghe-034",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập và kiểm tra",
-   "title": "Ôn tập cuối kì II",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Ôn tập cuối năm",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -753,7 +748,7 @@
    "id": "l5-cong-nghe-035",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập và kiểm tra",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
    "title": "Kiểm tra định kì cuối năm học",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -1039,7 +1034,7 @@
   "file": "assets/docs/lop5/Cong nghe - Lop 5.docx",
   "name": "Cong nghe - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42346,
+  "size": 42141,
   "updated": "2026-09-08"
  }
 }

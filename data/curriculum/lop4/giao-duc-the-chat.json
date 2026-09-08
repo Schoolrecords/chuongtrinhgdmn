@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 64
+  "integrations": 49
  },
  "lessons": [
   {
@@ -29,13 +29,8 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Đi đều vòng bên phải” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Trước khi ra sân, GV chiếu video kĩ thuật đi đều vòng bên phải trên tivi, tua chậm đoạn người đầu hàng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -78,13 +73,8 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sơ đồ đường di chuyển của “Đi đều vòng bên trái” và dự đoán đúng vị trí tổ mình",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tập, mỗi tổ vẽ lại sơ đồ đường đi đều vòng bên trái của tổ mình trên bảng con."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -127,13 +117,8 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Đi đều vòng sau” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Đi đều vòng sau” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -154,7 +139,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sơ đồ đường di chuyển của “Đi đều vòng bên trái” và dự đoán đúng vị trí tổ mình",
    "integrations": [
     {
      "code": "KNS",
@@ -201,6 +186,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.5 CB2a: HS xin phép bạn trước khi chiếu clip và tự xoá clip sau tiết học"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
@@ -220,13 +210,8 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác vươn thở và động tác tay với vòng” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -269,13 +254,8 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Đi đều vòng sau” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Động tác lườn và động tác lưng – bụng với vòng” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -345,7 +325,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB2a: HS quay và xem chậm được clip mình thực hiện “Hoàn thiện bài thể dục với vòng”, tự chỉ ra lỗi của mình và của bạn",
    "integrations": [
     {
      "code": "KNS",
@@ -367,14 +347,8 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS làm việc theo tổ với một đồng hồ bấm giờ GV giao."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác vươn thở và động tác tay với vòng” với động tác mẫu trong clip",
+   "integrations": [],
    "note": ""
   },
   {
@@ -405,7 +379,7 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác lườn và động tác lưng; bụng với vòng” với động tác mẫu trong clip",
    "integrations": [],
    "note": ""
   },
@@ -437,7 +411,7 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần đội hình đội ngũ và bài thể dục với vòng, tự xác định nội dung cần cố gắng thêm",
    "integrations": [],
    "note": ""
   },
@@ -469,21 +443,15 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Các động tác làm tăng khả năng điều khiển bóng” và giao cho mỗi tổ một việc quan sát riêng."
-    }
-   ],
+   "adjustments": "Năng lực số 3.2 CB2a: HS quay và xem chậm được clip mình thực hiện “Hoàn thiện bài thể dục với vòng”, tự chỉ ra lỗi của mình và của bạn",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l4-giao-duc-the-chat-022",
    "semester": 1,
    "week": 11,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập giữa học kì I",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
@@ -491,7 +459,7 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần đội hình đội ngũ và bài thể dục với vòng, tự xác định nội dung cần cố gắng thêm",
    "integrations": [],
    "note": ""
   },
@@ -507,13 +475,8 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện thăng bằng” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -583,7 +546,7 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác tại chỗ dẫn bóng” với động tác mẫu trong clip",
    "integrations": [
     {
      "code": "KNS",
@@ -605,13 +568,8 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sơ đồ đường di chuyển của “Dẫn bóng theo hình chữ V, dẫn bóng vượt chướng ngại vật” và dự đoán đúng vị trí tổ mình",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tập."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -654,7 +612,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện bật xa tại chỗ” với động tác mẫu trong clip",
    "integrations": [
     {
      "code": "KNS",
@@ -676,7 +634,7 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần bật xa tại chỗ, tự xác định nội dung cần cố gắng thêm",
    "integrations": [
     {
      "code": "KNS",
@@ -742,13 +700,8 @@
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác chuyền, bắt bóng bật đất bằng hai tay trước ngực” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Động tác chuyền, bắt bóng bật đất bằng hai tay trước ngực” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -783,7 +736,7 @@
    "id": "l4-giao-duc-the-chat-035",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối học kì I (Tiết 1 - Ôn tập)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -805,7 +758,7 @@
    "id": "l4-giao-duc-the-chat-036",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối học kì I (Tiết 2 - Đánh giá)",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
@@ -813,7 +766,7 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần hệ thống đội hình đội ngũ, bài thể dục với vòng và bóng rổ, tự xác định nội dung cần cố gắng thêm",
    "integrations": [],
    "note": ""
   },
@@ -829,13 +782,8 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện bật xa tại chỗ” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Động tác ném rổ bằng một tay trên vai” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -908,6 +856,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 6.1 CB2a: HS đọc được nhận xét của ứng dụng về “Ôn ném rổ một tay trên vai"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
@@ -927,7 +880,7 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS tra và ghi được 3 điều luật liên quan đến “bóng rổ”, nêu rõ lấy từ nguồn nào",
    "integrations": [
     {
      "code": "KNS",
@@ -971,13 +924,8 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện thăng bằng” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Bài tập rèn luyện thăng bằng” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1047,7 +995,7 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện bật xa tại chỗ” với động tác mẫu trong clip",
    "integrations": [
     {
      "code": "KNS",
@@ -1069,13 +1017,8 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần bật xa tại chỗ, tự xác định nội dung cần cố gắng thêm",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Mỗi tổ chọn 3 ảnh hoặc clip ngắn ghi lại quá trình luyện tập, sắp theo thứ tự thời gian."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1118,7 +1061,7 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Các động tác làm tăng khả năng điều khiển bóng” với động tác mẫu trong clip",
    "integrations": [],
    "note": ""
   },
@@ -1150,14 +1093,8 @@
    "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Bài tập rèn luyện bật cao tại chỗ” và giao cho mỗi tổ một việc quan sát riêng."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện bật cao tại chỗ” với động tác mẫu trong clip",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1210,7 +1147,7 @@
    "periodTo": 54,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sơ đồ đường di chuyển của “Dẫn bóng theo hình chữ V, dẫn bóng vượt chướng ngại vật” và dự đoán đúng vị trí tổ mình",
    "integrations": [],
    "note": ""
   },
@@ -1248,7 +1185,7 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS bấm giờ, đếm và ghi được số liệu buổi tập “nhảy dây theo nhịp” của tổ mình",
    "integrations": [],
    "note": ""
   },
@@ -1264,7 +1201,7 @@
    "periodTo": 57,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần các kĩ năng vận động cơ bản của chủ đề, tự xác định nội dung cần cố gắng thêm",
    "integrations": [],
    "note": ""
   },
@@ -1272,7 +1209,7 @@
    "id": "l4-giao-duc-the-chat-058",
    "semester": 2,
    "week": 29,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập giữa học kì II",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
@@ -1280,7 +1217,7 @@
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần bóng rổ, thăng bằng và bật xa, tự xác định nội dung cần cố gắng thêm",
    "integrations": [],
    "note": ""
   },
@@ -1296,14 +1233,8 @@
    "periodTo": 59,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Kiến thức an toàn dưới nước, GV chiếu trên tivi bộ hình cảnh báo nơi nước sâu, nước xoáy và."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác chuyền, bắt bóng bật đất bằng hai tay trước ngực” với động tác mẫu trong clip",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1356,7 +1287,7 @@
    "periodTo": 62,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác tay kiểu bơi ếch (mô phỏng/tập trên cạn)” với động tác mẫu trong clip",
    "integrations": [],
    "note": ""
   },
@@ -1372,14 +1303,8 @@
    "periodTo": 63,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Ôn động tác tay kiểu bơi ếch, GV chiếu trên tivi video kĩ thuật quay dưới nước, cho chạy chậm."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác ném rổ bằng một tay trên vai” với động tác mẫu trong clip",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1432,7 +1357,7 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được đường đi của tay, chân trong “bơi ếch và an toàn dưới nước” nhờ clip quay dưới mặt nước",
    "integrations": [],
    "note": ""
   },
@@ -1448,7 +1373,7 @@
    "periodTo": 67,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần hệ thống các chủ đề đã học, tự xác định nội dung cần cố gắng thêm",
    "integrations": [],
    "note": ""
   },
@@ -1456,7 +1381,7 @@
    "id": "l4-giao-duc-the-chat-068",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối năm (Tiết 1 - Ôn tập, hệ thống hoá)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
@@ -1472,7 +1397,7 @@
    "id": "l4-giao-duc-the-chat-069",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối năm (Tiết 2 - Đánh giá)",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
@@ -1488,7 +1413,7 @@
    "id": "l4-giao-duc-the-chat-070",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối năm (Tiết 3 - Đánh giá, tổng kết năm học)",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
@@ -1496,14 +1421,8 @@
    "periodTo": 70,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Nêu: các ứng dụng và mạng xã hội tự gợi ý clip tập luyện, giảm cân cho từng người bằng trí tuệ."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với các chủ đề đã học trong năm và tự điều chỉnh kế hoạch sau một tuần",
+   "integrations": [],
    "note": ""
   }
  ],
@@ -1780,7 +1699,7 @@
   "file": "assets/docs/lop4/Giao duc the chat - Lop 4.docx",
   "name": "Giao duc the chat - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 44015,
+  "size": 44385,
   "updated": "2026-09-08"
  }
 }

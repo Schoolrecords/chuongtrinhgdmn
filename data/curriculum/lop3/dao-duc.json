@@ -14,28 +14,23 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 17
+  "integrations": 14
  },
  "lessons": [
   {
    "id": "l3-dao-duc-001",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề: EM YÊU TỔ QUỐC VIỆT NAM (5 tiết)",
-   "title": "Bài 1. Chào cờ và hát quốc ca (Tiết 1)",
+   "theme": "Chủ đề 1: Em yêu Tổ quốc Việt Nam",
+   "title": "Bài 1. Chào cờ và hát Quốc ca (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
    "periodFrom": 1,
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được: không chế lời Quốc ca, không chia sẻ video chế nhạo Quốc kì, Quốc ca và biết báo với người lớn khi gặp",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Trong “Bài 1. Chào cờ và hát quốc ca”, GV mở bài hát Lá cờ Việt Nam."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -48,15 +43,15 @@
    "id": "l3-dao-duc-002",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề: EM YÊU TỔ QUỐC VIỆT NAM (5 tiết)",
-   "title": "Bài 1. Chào cờ và hát quốc ca (Tiết 2)",
+   "theme": "Chủ đề 1: Em yêu Tổ quốc Việt Nam",
+   "title": "Bài 1. Chào cờ và hát Quốc ca (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nói được: không chế lời Quốc ca, không chia sẻ video chế nhạo Quốc kì, Quốc ca và biết báo với người lớn khi gặp",
    "integrations": [],
    "note": ""
   },
@@ -64,7 +59,7 @@
    "id": "l3-dao-duc-003",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề: EM YÊU TỔ QUỐC VIỆT NAM (5 tiết)",
+   "theme": "Chủ đề 1: Em yêu Tổ quốc Việt Nam",
    "title": "Bài 2. Tự hào Tổ quốc Việt Nam (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (3 tiết)",
@@ -72,13 +67,8 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được trên bản đồ số vị trí thủ đô Hà Nội và một vài danh lam thắng cảnh",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Sau khi nghe bài hát “Việt Nam ơi”."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -91,7 +81,7 @@
    "id": "l3-dao-duc-004",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề: EM YÊU TỔ QUỐC VIỆT NAM (5 tiết)",
+   "theme": "Chủ đề 1: Em yêu Tổ quốc Việt Nam",
    "title": "Bài 2. Tự hào Tổ quốc Việt Nam (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
@@ -99,7 +89,7 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được trên bản đồ số vị trí thủ đô Hà Nội và một vài danh lam thắng cảnh",
    "integrations": [],
    "note": ""
   },
@@ -107,7 +97,7 @@
    "id": "l3-dao-duc-005",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề: EM YÊU TỔ QUỐC VIỆT NAM (5 tiết)",
+   "theme": "Chủ đề 1: Em yêu Tổ quốc Việt Nam",
    "title": "Bài 2. Tự hào Tổ quốc Việt Nam (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 5",
@@ -115,7 +105,7 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được trên bản đồ số vị trí thủ đô Hà Nội và một vài danh lam thắng cảnh",
    "integrations": [],
    "note": ""
   },
@@ -123,7 +113,7 @@
    "id": "l3-dao-duc-006",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề: QUAN TÂM HÀNG XÓM LÁNG GIỀNG (4 tiết)",
+   "theme": "Chủ đề 2: Quan tâm hàng xóm láng giềng",
    "title": "Bài 3. Quan tâm hàng xóm láng giềng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 6 (4 tiết)",
@@ -145,7 +135,7 @@
    "id": "l3-dao-duc-007",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề: QUAN TÂM HÀNG XÓM LÁNG GIỀNG (4 tiết)",
+   "theme": "Chủ đề 2: Quan tâm hàng xóm láng giềng",
    "title": "Bài 3. Quan tâm hàng xóm láng giềng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 7",
@@ -161,7 +151,7 @@
    "id": "l3-dao-duc-008",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề: QUAN TÂM HÀNG XÓM LÁNG GIỀNG (4 tiết)",
+   "theme": "Chủ đề 2: Quan tâm hàng xóm láng giềng",
    "title": "Bài 3. Quan tâm hàng xóm láng giềng (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 8",
@@ -177,7 +167,7 @@
    "id": "l3-dao-duc-009",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: QUAN TÂM HÀNG XÓM LÁNG GIỀNG (4 tiết)",
+   "theme": "Chủ đề 2: Quan tâm hàng xóm láng giềng",
    "title": "Bài 3. Quan tâm hàng xóm láng giềng (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 9",
@@ -193,8 +183,8 @@
    "id": "l3-dao-duc-010",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề: QUAN TÂM HÀNG XÓM LÁNG GIỀNG (4 tiết)",
-   "title": "Ôn tập, thực hành kĩ năng giữa học kì I",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Thực hành kĩ năng giữa học kì I",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -209,7 +199,7 @@
    "id": "l3-dao-duc-011",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề: HAM HỌC HỎI (3 tiết)",
+   "theme": "Chủ đề 3: Ham học hỏi",
    "title": "Bài 4. Ham học hỏi (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 11 (3 tiết)",
@@ -217,21 +207,15 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Gõ câu hỏi ấy vào một công cụ trí tuệ nhân tạo cho HS quan sát màn hình."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS nêu được ít nhất ba cách tìm câu trả lời cho điều mình thắc mắc: hỏi người lớn, tìm trong sách, tra trên máy có người lớn giúp",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-dao-duc-012",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề: HAM HỌC HỎI (3 tiết)",
+   "theme": "Chủ đề 3: Ham học hỏi",
    "title": "Bài 4. Ham học hỏi (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 12",
@@ -239,7 +223,7 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nêu được ít nhất ba cách tìm câu trả lời cho điều mình thắc mắc: hỏi người lớn, tìm trong sách, tra trên máy có người lớn giúp",
    "integrations": [],
    "note": ""
   },
@@ -247,7 +231,7 @@
    "id": "l3-dao-duc-013",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: HAM HỌC HỎI (3 tiết)",
+   "theme": "Chủ đề 3: Ham học hỏi",
    "title": "Bài 4. Ham học hỏi (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 13",
@@ -255,7 +239,7 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nêu được ít nhất ba cách tìm câu trả lời cho điều mình thắc mắc: hỏi người lớn, tìm trong sách, tra trên máy có người lớn giúp",
    "integrations": [],
    "note": ""
   },
@@ -263,7 +247,7 @@
    "id": "l3-dao-duc-014",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: GIỮ LỜI HỨA (3 tiết)",
+   "theme": "Chủ đề 4: Giữ lời hứa",
    "title": "Bài 5. Giữ lời hứa (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 14 (3 tiết)",
@@ -285,7 +269,7 @@
    "id": "l3-dao-duc-015",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: GIỮ LỜI HỨA (3 tiết)",
+   "theme": "Chủ đề 4: Giữ lời hứa",
    "title": "Bài 5. Giữ lời hứa (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 15",
@@ -301,7 +285,7 @@
    "id": "l3-dao-duc-016",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: GIỮ LỜI HỨA (3 tiết)",
+   "theme": "Chủ đề 4: Giữ lời hứa",
    "title": "Bài 5. Giữ lời hứa (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 16",
@@ -317,8 +301,8 @@
    "id": "l3-dao-duc-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: GIỮ LỜI HỨA (3 tiết)",
-   "title": "Ôn tập, thực hành kĩ năng cuối học kì I",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Thực hành kĩ năng cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -333,7 +317,7 @@
    "id": "l3-dao-duc-018",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề: TÍCH CỰC HOÀN THÀNH NHIỆM VỤ (3 tiết)",
+   "theme": "Chủ đề 5: Tích cực hoàn thành nhiệm vụ",
    "title": "Bài 6. Tích cực hoàn thành nhiệm vụ (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 18 (3 tiết)",
@@ -355,7 +339,7 @@
    "id": "l3-dao-duc-019",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: TÍCH CỰC HOÀN THÀNH NHIỆM VỤ (3 tiết)",
+   "theme": "Chủ đề 5: Tích cực hoàn thành nhiệm vụ",
    "title": "Bài 6. Tích cực hoàn thành nhiệm vụ (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 19",
@@ -371,7 +355,7 @@
    "id": "l3-dao-duc-020",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: TÍCH CỰC HOÀN THÀNH NHIỆM VỤ (3 tiết)",
+   "theme": "Chủ đề 5: Tích cực hoàn thành nhiệm vụ",
    "title": "Bài 6. Tích cực hoàn thành nhiệm vụ (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 20",
@@ -387,7 +371,7 @@
    "id": "l3-dao-duc-021",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề: KHÁM PHÁ BẢN THÂN (5 tiết)",
+   "theme": "Chủ đề 6: Khám phá bản thân",
    "title": "Bài 7. Khám phá bản thân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 21 (5 tiết)",
@@ -395,21 +379,15 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Sau khi HS liệt kê được điểm mạnh, điểm yếu của mình."
-    }
-   ],
+   "adjustments": "Năng lực số 4.2 CB1a: HS phân loại đúng thông tin nào chia sẻ được, thông tin nào phải giữ kín",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l3-dao-duc-022",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề: KHÁM PHÁ BẢN THÂN (5 tiết)",
+   "theme": "Chủ đề 6: Khám phá bản thân",
    "title": "Bài 7. Khám phá bản thân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 22",
@@ -417,7 +395,7 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.2 CB1a: HS phân loại đúng thông tin nào chia sẻ được, thông tin nào phải giữ kín",
    "integrations": [],
    "note": ""
   },
@@ -425,7 +403,7 @@
    "id": "l3-dao-duc-023",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: KHÁM PHÁ BẢN THÂN (5 tiết)",
+   "theme": "Chủ đề 6: Khám phá bản thân",
    "title": "Bài 7. Khám phá bản thân (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 23",
@@ -433,7 +411,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.2 CB1a: HS phân loại đúng thông tin nào chia sẻ được, thông tin nào phải giữ kín",
    "integrations": [],
    "note": ""
   },
@@ -441,7 +419,7 @@
    "id": "l3-dao-duc-024",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: KHÁM PHÁ BẢN THÂN (5 tiết)",
+   "theme": "Chủ đề 6: Khám phá bản thân",
    "title": "Bài 7. Khám phá bản thân (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 24",
@@ -449,7 +427,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.2 CB1a: HS phân loại đúng thông tin nào chia sẻ được, thông tin nào phải giữ kín",
    "integrations": [],
    "note": ""
   },
@@ -457,7 +435,7 @@
    "id": "l3-dao-duc-025",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: KHÁM PHÁ BẢN THÂN (5 tiết)",
+   "theme": "Chủ đề 6: Khám phá bản thân",
    "title": "Bài 7. Khám phá bản thân (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 25",
@@ -465,7 +443,7 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.2 CB1a: HS phân loại đúng thông tin nào chia sẻ được, thông tin nào phải giữ kín",
    "integrations": [],
    "note": ""
   },
@@ -473,8 +451,8 @@
    "id": "l3-dao-duc-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: KHÁM PHÁ BẢN THÂN (5 tiết)",
-   "title": "Ôn tập, thực hành kĩ năng giữa học kì II",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Thực hành kĩ năng giữa học kì II",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -489,8 +467,8 @@
    "id": "l3-dao-duc-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: XỬ LÍ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
-   "title": "Bài 8. Xử lí bất hòa với bạn bè (Tiết 1)",
+   "theme": "Chủ đề 7: Xử lí bất hoà với bạn bè",
+   "title": "Bài 8. Xử lí bất hoà với bạn bè (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 27 (4 tiết)",
    "periodFrom": 27,
@@ -500,9 +478,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Bên cạnh các tình huống bất hoà ở lớp, GV chiếu một tình huống nhắn tin."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 4.2 CB1a: HS nêu được: cô lập, chê bai bạn dù ở lớp hay trên mạng đều sai"
     }
    ],
    "note": ""
@@ -511,8 +489,8 @@
    "id": "l3-dao-duc-028",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: XỬ LÍ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
-   "title": "Bài 8. Xử lí bất hòa với bạn bè (Tiết 2)",
+   "theme": "Chủ đề 7: Xử lí bất hoà với bạn bè",
+   "title": "Bài 8. Xử lí bất hoà với bạn bè (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 28",
    "periodFrom": 28,
@@ -520,15 +498,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 4.2 CB1a: HS nêu được: cô lập, chê bai bạn dù ở lớp hay trên mạng đều sai"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-dao-duc-029",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: XỬ LÍ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
-   "title": "Bài 8. Xử lí bất hòa với bạn bè (Tiết 3)",
+   "theme": "Chủ đề 7: Xử lí bất hoà với bạn bè",
+   "title": "Bài 8. Xử lí bất hoà với bạn bè (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 29",
    "periodFrom": 29,
@@ -536,15 +520,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 4.2 CB1a: HS nêu được: cô lập, chê bai bạn dù ở lớp hay trên mạng đều sai"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-dao-duc-030",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: XỬ LÍ BẤT HÒA VỚI BẠN BÈ (4 tiết)",
-   "title": "Bài 8. Xử lí bất hòa với bạn bè (Tiết 4)",
+   "theme": "Chủ đề 7: Xử lí bất hoà với bạn bè",
+   "title": "Bài 8. Xử lí bất hoà với bạn bè (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 30",
    "periodFrom": 30,
@@ -552,14 +542,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 4.2 CB1a: HS nêu được: cô lập, chê bai bạn dù ở lớp hay trên mạng đều sai"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l3-dao-duc-031",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
+   "theme": "Chủ đề 8: Tuân thủ quy tắc an toàn giao thông",
    "title": "Bài 9. Đi bộ an toàn (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 31 (2 tiết)",
@@ -572,12 +568,7 @@
     {
      "code": "GDĐP",
      "level": "",
-     "text": "HS nêu được các loại đường giao thông, kể tên được các phương tiện giao thông được sử dụng phổ biến."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở hoạt động Khám phá bài “Đi bộ an toàn”, GV chiếu ảnh chụp đoạn đường trước cổng trường mình."
+     "text": "HS nêu được các loại đường giao thông, kể tên được các phương tiện giao thông được sử dụng phổ biến.\nNăng lực số 1.1 CB1b: HS quan sát video mô phỏng và nói đúng lúc nào được qua đường, vì sao không đứng gần đầu và đuôi xe tải."
     },
     {
      "code": "ATGT",
@@ -596,7 +587,7 @@
    "id": "l3-dao-duc-032",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
+   "theme": "Chủ đề 8: Tuân thủ quy tắc an toàn giao thông",
    "title": "Bài 9. Đi bộ an toàn (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 32",
@@ -604,7 +595,7 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát video mô phỏng và nói đúng lúc nào được qua đường, vì sao không đứng gần đầu và đuôi xe tải",
    "integrations": [],
    "note": ""
   },
@@ -612,7 +603,7 @@
    "id": "l3-dao-duc-033",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
+   "theme": "Chủ đề 8: Tuân thủ quy tắc an toàn giao thông",
    "title": "Bài 10. An toàn khi tham gia các phương tiện giao thông (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 33 (2 tiết)",
@@ -620,13 +611,8 @@
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát video mô phỏng và nói đúng lúc nào được qua đường, vì sao không đứng gần đầu và đuôi xe tải",
    "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ba ảnh tình huống: một bạn vừa đi bộ qua đường vừa nhìn điện thoại, một bạn đeo tai nghe khi."
-    },
     {
      "code": "ATGT",
      "level": "",
@@ -644,7 +630,7 @@
    "id": "l3-dao-duc-034",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
+   "theme": "Chủ đề 8: Tuân thủ quy tắc an toàn giao thông",
    "title": "Bài 10. An toàn khi tham gia các phương tiện giao thông (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 34",
@@ -652,7 +638,7 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát video mô phỏng và nói đúng lúc nào được qua đường, vì sao không đứng gần đầu và đuôi xe tải",
    "integrations": [],
    "note": ""
   },
@@ -660,8 +646,8 @@
    "id": "l3-dao-duc-035",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: TUÂN THỦ QUY TẮC AN TOÀN GIAO THÔNG (4 tiết)",
-   "title": "Ôn tập, thực hành kĩ năng cuối năm học",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Thực hành kĩ năng cuối năm học",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -946,7 +932,7 @@
   "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
   "name": "Dao duc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42695,
+  "size": 42697,
   "updated": "2026-09-08"
  }
 }

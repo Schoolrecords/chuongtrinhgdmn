@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 28
+  "integrations": 13
  },
  "lessons": [
   {
@@ -29,7 +29,7 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -45,7 +45,7 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -109,14 +109,8 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu tranh và bóng nói của Mai, Rô-bốt lên máy chiếu, hiện dãy số."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS tìm số chẵn, số lẻ trong dãy số chiếu trên màn hình và nêu được dấu hiệu nhận biết",
+   "integrations": [],
    "note": ""
   },
   {
@@ -131,7 +125,7 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS tìm số chẵn, số lẻ trong dãy số chiếu trên màn hình và nêu được dấu hiệu nhận biết",
    "integrations": [],
    "note": ""
   },
@@ -147,7 +141,7 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -163,7 +157,7 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -179,7 +173,7 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -195,14 +189,8 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Giải bài toán có ba bước tính”, GV dùng sơ đồ đoạn thẳng vẽ trên máy."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
+   "integrations": [],
    "note": ""
   },
   {
@@ -217,7 +205,7 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -233,7 +221,7 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -249,7 +237,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -265,7 +253,7 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -281,7 +269,7 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -297,14 +285,8 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng phần mềm hình học động cho “Góc nhọn, góc tù, góc bẹt”."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
+   "integrations": [],
    "note": ""
   },
   {
@@ -319,7 +301,7 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -335,7 +317,7 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -351,7 +333,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -367,7 +349,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -383,14 +365,8 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Lấy số liệu thật từ nguồn chính thống (dân số một tỉnh."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -405,7 +381,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -421,7 +397,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -437,7 +413,7 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -453,7 +429,7 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -469,14 +445,8 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Lấy số liệu thật từ nguồn chính thống (dân số một tỉnh."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -491,7 +461,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -507,7 +477,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -523,7 +493,7 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -539,14 +509,8 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Lấy số liệu thật từ nguồn chính thống (dân số một tỉnh."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -561,7 +525,7 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -577,7 +541,7 @@
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -593,7 +557,7 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -609,7 +573,7 @@
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì; Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -625,7 +589,7 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -641,14 +605,8 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
+   "integrations": [],
    "note": ""
   },
   {
@@ -663,7 +621,7 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -679,7 +637,7 @@
    "periodTo": 39,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS tự soát lại bài bằng công cụ chấm nhanh của GV và chỉ ra dạng quy đổi mình còn hay nhầm",
    "integrations": [],
    "note": ""
   },
@@ -695,7 +653,7 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -711,7 +669,7 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -727,7 +685,7 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -743,7 +701,7 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -759,13 +717,8 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -786,7 +739,7 @@
    "periodTo": 45,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -802,7 +755,7 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -818,14 +771,8 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS dùng cân, thước dây và đồng hồ bấm giờ trên thiết bị của."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
+   "integrations": [],
    "note": ""
   },
   {
@@ -840,7 +787,7 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -856,7 +803,7 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -872,7 +819,7 @@
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -888,7 +835,7 @@
    "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -905,13 +852,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài phép cộng các số có nhiều chữ số, GV chiếu bảng hàng phóng to."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -943,7 +884,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Mở bài tập tương tác đặt tính."
+    }
+   ],
    "note": ""
   },
   {
@@ -974,14 +921,8 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài tính chất giao hoán và kết hợp của phép cộng, GV chiếu bảng số liệu."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
+   "integrations": [],
    "note": ""
   },
   {
@@ -996,7 +937,7 @@
    "periodTo": 57,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -1012,7 +953,7 @@
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1028,7 +969,7 @@
    "periodTo": 59,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -1044,7 +985,7 @@
    "periodTo": 60,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -1060,14 +1001,8 @@
    "periodTo": 61,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết luyện tập chung có dạng toán tìm hai số khi biết tổng."
-    }
-   ],
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1082,7 +1017,7 @@
    "periodTo": 62,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1098,7 +1033,7 @@
    "periodTo": 63,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1114,7 +1049,7 @@
    "periodTo": 64,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1130,7 +1065,7 @@
    "periodTo": 65,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1146,14 +1081,8 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài thực hành vẽ hai đường thẳng vuông góc, GV dùng phần mềm hình học chiếu từng bước vẽ."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1168,7 +1097,7 @@
    "periodTo": 67,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1184,7 +1113,7 @@
    "periodTo": 68,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1200,7 +1129,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1216,7 +1145,7 @@
    "periodTo": 70,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1232,7 +1161,7 @@
    "periodTo": 71,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1248,14 +1177,8 @@
    "periodTo": 72,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng phần mềm hình học động cho “Hình bình hành, hình thoi”."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1270,7 +1193,7 @@
    "periodTo": 73,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1286,7 +1209,7 @@
    "periodTo": 74,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1302,7 +1225,7 @@
    "periodTo": 75,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1318,7 +1241,7 @@
    "periodTo": 76,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1334,7 +1257,7 @@
    "periodTo": 77,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1350,7 +1273,7 @@
    "periodTo": 78,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -1366,7 +1289,7 @@
    "periodTo": 79,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -1398,7 +1321,7 @@
    "periodTo": 81,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1414,7 +1337,7 @@
    "periodTo": 82,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1430,7 +1353,7 @@
    "periodTo": 83,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [
     {
      "code": "STEM",
@@ -1452,7 +1375,7 @@
    "periodTo": 84,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1468,7 +1391,7 @@
    "periodTo": 85,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -1484,7 +1407,7 @@
    "periodTo": 86,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -1500,7 +1423,7 @@
    "periodTo": 87,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đo được đại lượng thật bằng dụng cụ đo và thiết bị số, ghi số liệu vào bảng chung",
    "integrations": [],
    "note": ""
   },
@@ -1516,7 +1439,7 @@
    "periodTo": 88,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì",
+   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì; Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1532,7 +1455,7 @@
    "periodTo": 89,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1565,7 +1488,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Khám phá bài “Nhân với số có một chữ số”, GV chiếu phép nhân đặt tính dọc lên màn."
+    }
+   ],
    "note": ""
   },
   {
@@ -1597,7 +1526,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác."
+    }
+   ],
    "note": ""
   },
   {
@@ -1677,7 +1612,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Hình thành kiến thức bài “Nhân, chia với 10, 100, 1 000”, GV chiếu bảng các phép tính 36."
+    }
+   ],
    "note": ""
   },
   {
@@ -1757,7 +1698,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Luyện tập, GV mở bài tập tương tác."
+    }
+   ],
    "note": ""
   },
   {
@@ -1820,7 +1767,7 @@
    "periodTo": 107,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -1836,7 +1783,7 @@
    "periodTo": 108,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -1852,13 +1799,8 @@
    "periodTo": 109,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng sơ đồ đoạn thẳng vẽ trên máy cho “Thực hành và trải nghiệm ước lượng trong tính toán”."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -1879,7 +1821,7 @@
    "periodTo": 110,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -1895,7 +1837,7 @@
    "periodTo": 111,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -1911,14 +1853,8 @@
    "periodTo": 112,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng sơ đồ đoạn thẳng vẽ trên máy cho “Bài toán liên quan đến rút về đơn vị”."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1933,7 +1869,7 @@
    "periodTo": 113,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS nêu được các bước giải và nhận ra cấu trúc bài toán không đổi khi số liệu thay đổi",
    "integrations": [],
    "note": ""
   },
@@ -1949,7 +1885,7 @@
    "periodTo": 114,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1965,7 +1901,7 @@
    "periodTo": 115,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1981,7 +1917,7 @@
    "periodTo": 116,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -1997,14 +1933,8 @@
    "periodTo": 117,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thu thập số liệu thật trong lớp phục vụ “Dãy số liệu thống kê” (môn thể thao yêu thích."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS thu thập, nhập số liệu và tạo được biểu đồ cột từ số liệu thật của lớp",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2019,7 +1949,7 @@
    "periodTo": 118,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS thu thập, nhập số liệu và tạo được biểu đồ cột từ số liệu thật của lớp",
    "integrations": [],
    "note": ""
   },
@@ -2035,7 +1965,7 @@
    "periodTo": 119,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS thu thập, nhập số liệu và tạo được biểu đồ cột từ số liệu thật của lớp",
    "integrations": [],
    "note": ""
   },
@@ -2051,7 +1981,7 @@
    "periodTo": 120,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS thu thập, nhập số liệu và tạo được biểu đồ cột từ số liệu thật của lớp",
    "integrations": [],
    "note": ""
   },
@@ -2067,14 +1997,8 @@
    "periodTo": 121,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS thu thập số liệu thật trong lớp phục vụ “Số lần xuất hiện của một sự kiện” (môn thể thao yêu thích.."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS thu thập, nhập số liệu và tạo được biểu đồ cột từ số liệu thật của lớp",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2089,7 +2013,7 @@
    "periodTo": 122,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS thu thập, nhập số liệu và tạo được biểu đồ cột từ số liệu thật của lớp",
    "integrations": [],
    "note": ""
   },
@@ -2105,7 +2029,7 @@
    "periodTo": 123,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS thu thập, nhập số liệu và tạo được biểu đồ cột từ số liệu thật của lớp",
    "integrations": [],
    "note": ""
   },
@@ -2121,7 +2045,7 @@
    "periodTo": 124,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2137,7 +2061,7 @@
    "periodTo": 125,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2153,14 +2077,8 @@
    "periodTo": 126,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng học liệu tương tác cho “Phân số và phép chia số tự nhiên”."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2175,7 +2093,7 @@
    "periodTo": 127,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2191,7 +2109,7 @@
    "periodTo": 128,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [
     {
      "code": "KNS",
@@ -2213,7 +2131,7 @@
    "periodTo": 129,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2230,7 +2148,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Khám phá bài “Rút gọn phân số”, GV chiếu hình băng giấy chia phần lên màn hình."
+    }
+   ],
    "note": ""
   },
   {
@@ -2277,7 +2201,7 @@
    "periodTo": 133,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2293,7 +2217,7 @@
    "periodTo": 134,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2309,14 +2233,8 @@
    "periodTo": 135,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng học liệu tương tác cho “So sánh phân số”."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2331,7 +2249,7 @@
    "periodTo": 136,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2347,7 +2265,7 @@
    "periodTo": 137,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2363,14 +2281,8 @@
    "periodTo": 138,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”."
-    }
-   ],
+   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì; Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2385,7 +2297,7 @@
    "periodTo": 139,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -2402,7 +2314,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Khám phá bài “Phép cộng phân số”, GV chiếu băng giấy đã tô màu một phần tám."
+    }
+   ],
    "note": ""
   },
   {
@@ -2497,7 +2415,7 @@
    "periodTo": 146,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -2513,14 +2431,8 @@
    "periodTo": 147,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”."
-    }
-   ],
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2535,7 +2447,7 @@
    "periodTo": 148,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -2551,7 +2463,7 @@
    "periodTo": 149,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -2632,7 +2544,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Khám phá bài “Phép chia phân số”, GV chiếu hình băng giấy chia phần lên màn hình."
+    }
+   ],
    "note": ""
   },
   {
@@ -2679,14 +2597,8 @@
    "periodTo": 157,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Cho HS làm bộ bài tập tương tác có chấm tự động cho “Luyện tập chung”."
-    }
-   ],
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2701,7 +2613,7 @@
    "periodTo": 158,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -2717,7 +2629,7 @@
    "periodTo": 159,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -2733,7 +2645,7 @@
    "periodTo": 160,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -2749,7 +2661,7 @@
    "periodTo": 161,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -2765,7 +2677,7 @@
    "periodTo": 162,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -2781,7 +2693,7 @@
    "periodTo": 163,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -2797,7 +2709,7 @@
    "periodTo": 164,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -2813,7 +2725,7 @@
    "periodTo": 165,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc, viết, so sánh, làm tròn được các số lớn lấy từ số liệu thật, có ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -2829,7 +2741,7 @@
    "periodTo": 166,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2845,7 +2757,7 @@
    "periodTo": 167,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2861,7 +2773,7 @@
    "periodTo": 168,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS giải thích được khái niệm phân số và phân số bằng nhau nhờ quan sát mô hình động",
    "integrations": [],
    "note": ""
   },
@@ -2893,7 +2805,7 @@
    "periodTo": 170,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [
     {
      "code": "STEM",
@@ -2915,7 +2827,7 @@
    "periodTo": 171,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS mô tả được đặc điểm góc, đường thẳng, hình học nhờ quan sát hình động và kiểm chứng bằng dụng cụ vẽ",
    "integrations": [],
    "note": ""
   },
@@ -2931,7 +2843,7 @@
    "periodTo": 172,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS thu thập, nhập số liệu và tạo được biểu đồ cột từ số liệu thật của lớp",
    "integrations": [],
    "note": ""
   },
@@ -2947,7 +2859,7 @@
    "periodTo": 173,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì",
+   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì; Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -2963,7 +2875,7 @@
    "periodTo": 174,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.4 CB2a: HS làm bài tập tương tác, tự xác định dạng bài mình còn yếu và luyện thêm",
    "integrations": [],
    "note": ""
   },
@@ -3257,7 +3169,7 @@
   "file": "assets/docs/lop4/Toan - Lop 4.docx",
   "name": "Toan - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 46303,
+  "size": 47206,
   "updated": "2026-09-08"
  }
 }

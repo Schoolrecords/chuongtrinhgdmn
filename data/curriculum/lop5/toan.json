@@ -14,15 +14,15 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 39
+  "integrations": 62
  },
  "lessons": [
   {
    "id": "l5-toan-001",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
-   "title": "Bài 1. Ôn tập số tự nhiên (tiết 1)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
+   "title": "Bài 1. Ôn tập số tự nhiên (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
    "periodFrom": 1,
@@ -37,8 +37,8 @@
    "id": "l5-toan-002",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
-   "title": "Bài 1. Ôn tập số tự nhiên (tiết 2)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
+   "title": "Bài 1. Ôn tập số tự nhiên (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2",
    "periodFrom": 2,
@@ -53,7 +53,7 @@
    "id": "l5-toan-003",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 2. Ôn tập các phép tính với số tự nhiên (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (2 tiết)",
@@ -69,7 +69,7 @@
    "id": "l5-toan-004",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 2. Ôn tập các phép tính với số tự nhiên (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
@@ -85,7 +85,7 @@
    "id": "l5-toan-005",
    "semester": 1,
    "week": 1,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 3. Ôn tập phân số (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 5 (2 tiết)",
@@ -101,7 +101,7 @@
    "id": "l5-toan-006",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 3. Ôn tập phân số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 6",
@@ -117,7 +117,7 @@
    "id": "l5-toan-007",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 4. Phân số thập phân",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
@@ -125,21 +125,15 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Chiếu hình tô màu để HS viết phân số chỉ phần tô màu, nhận ra phân số có mẫu số 10, 100."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-008",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 5. Ôn tập các phép tính với phân số (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 8 (3 tiết)",
@@ -155,7 +149,7 @@
    "id": "l5-toan-009",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 5. Ôn tập các phép tính với phân số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 9",
@@ -171,7 +165,7 @@
    "id": "l5-toan-010",
    "semester": 1,
    "week": 2,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 5. Ôn tập các phép tính với phân số (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 10",
@@ -187,7 +181,7 @@
    "id": "l5-toan-011",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 6. Cộng, trừ hai phân số khác mẫu số (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 11 (2 tiết)",
@@ -195,21 +189,15 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Cộng, trừ hai phân số khác mẫu”, GV dùng mô hình phân số kéo thả trên máy."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS thao tác mô hình phân số ảo để tìm phân số bằng nhau, sau đó chứng minh lại bằng phép tính",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-012",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 6. Cộng, trừ hai phân số khác mẫu số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 12",
@@ -217,7 +205,7 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS thao tác mô hình phân số ảo để tìm phân số bằng nhau, sau đó chứng minh lại bằng phép tính",
    "integrations": [],
    "note": ""
   },
@@ -225,7 +213,7 @@
    "id": "l5-toan-013",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 7. Hỗn số (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 13 (2 tiết)",
@@ -233,7 +221,7 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS thao tác mô hình phân số ảo để tìm phân số bằng nhau, sau đó chứng minh lại bằng phép tính",
    "integrations": [],
    "note": ""
   },
@@ -241,7 +229,7 @@
    "id": "l5-toan-014",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 7. Hỗn số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 14",
@@ -249,7 +237,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS thao tác mô hình phân số ảo để tìm phân số bằng nhau, sau đó chứng minh lại bằng phép tính",
    "integrations": [],
    "note": ""
   },
@@ -257,7 +245,7 @@
    "id": "l5-toan-015",
    "semester": 1,
    "week": 3,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 8. Ôn tập hình học và đo lường (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 15 (2 tiết)",
@@ -265,7 +253,7 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -273,7 +261,7 @@
    "id": "l5-toan-016",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
    "title": "Bài 8. Ôn tập hình học và đo lường (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 16",
@@ -281,7 +269,7 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -289,8 +277,8 @@
    "id": "l5-toan-017",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
-   "title": "Bài 9. Luyện tập chung (tiết 1)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
+   "title": "Bài 9. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 17 (3 tiết)",
    "periodFrom": 17,
@@ -311,8 +299,8 @@
    "id": "l5-toan-018",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
-   "title": "Bài 9. Luyện tập chung (tiết 2)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
+   "title": "Bài 9. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 18",
    "periodFrom": 18,
@@ -327,8 +315,8 @@
    "id": "l5-toan-019",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 1: Ôn tập và bổ sung (19 TIẾT)",
-   "title": "Bài 9. Luyện tập chung (tiết 3)",
+   "theme": "Chủ đề 1: Ôn tập và bổ sung",
+   "title": "Bài 9. Luyện tập chung (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 19",
    "periodFrom": 19,
@@ -343,7 +331,7 @@
    "id": "l5-toan-020",
    "semester": 1,
    "week": 4,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 10. Khái niệm số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 20 (3 tiết)",
@@ -351,7 +339,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -359,7 +347,7 @@
    "id": "l5-toan-021",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 10. Khái niệm số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 21",
@@ -367,7 +355,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -375,7 +363,7 @@
    "id": "l5-toan-022",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 10. Khái niệm số thập phân (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 22",
@@ -383,7 +371,7 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -391,7 +379,7 @@
    "id": "l5-toan-023",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 11. So sánh các số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 23 (2 tiết)",
@@ -399,21 +387,15 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “So sánh số thập phân”, rồi cả lớp soi."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-024",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 11. So sánh các số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 24",
@@ -421,7 +403,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -429,7 +411,7 @@
    "id": "l5-toan-025",
    "semester": 1,
    "week": 5,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 12. Viết số đo đại lượng dưới dạng số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 25 (3 tiết)",
@@ -437,7 +419,7 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [
     {
      "code": "STEM",
@@ -451,7 +433,7 @@
    "id": "l5-toan-026",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 12. Viết số đo đại lượng dưới dạng số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 26",
@@ -459,7 +441,7 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -467,7 +449,7 @@
    "id": "l5-toan-027",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 12. Viết số đo đại lượng dưới dạng số thập phân (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 27",
@@ -475,7 +457,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -483,7 +465,7 @@
    "id": "l5-toan-028",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 13. Làm tròn số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 28 (2 tiết)",
@@ -491,21 +473,15 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng tia số phóng to được trên máy."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-029",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 13. Làm tròn số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 29",
@@ -513,7 +489,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -521,7 +497,7 @@
    "id": "l5-toan-030",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 14. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 30 (2 tiết)",
@@ -537,7 +513,7 @@
    "id": "l5-toan-031",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề 2: Số thập phân (12 TIẾT)",
+   "theme": "Chủ đề 2: Số thập phân",
    "title": "Bài 14. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 31",
@@ -553,8 +529,8 @@
    "id": "l5-toan-032",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề 3: MỘT SỐ ĐƠN VỊ",
-   "title": "Bài 15. Ki-lô-mét vuông. Héc-ta (tiết 1)",
+   "theme": "Chủ đề 3: Một số đơn vị đo diện tích",
+   "title": "Bài 15. Ki-lô-mét vuông. Héc-ta (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 32 (2 tiết)",
    "periodFrom": 32,
@@ -564,9 +540,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu ảnh vệ tinh sân trường hoặc một khu đất quen thuộc, cho HS ước lượng diện tích theo đơn vị vừa học."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
     }
    ],
    "note": ""
@@ -575,8 +551,8 @@
    "id": "l5-toan-033",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề 3: MỘT SỐ ĐƠN VỊ",
-   "title": "Bài 15. Ki-lô-mét vuông. Héc-ta (tiết 2)",
+   "theme": "Chủ đề 3: Một số đơn vị đo diện tích",
+   "title": "Bài 15. Ki-lô-mét vuông. Héc-ta (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 33",
    "periodFrom": 33,
@@ -584,14 +560,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-034",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề 3: MỘT SỐ ĐƠN VỊ",
+   "theme": "Chủ đề 3: Một số đơn vị đo diện tích",
    "title": "Bài 16. Các đơn vị đo diện tích (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 34 (2 tiết)",
@@ -600,14 +582,20 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-035",
    "semester": 1,
    "week": 7,
-   "theme": "ĐO DIỆN TÍCH (8 TIẾT)",
+   "theme": "Chủ đề 3: Một số đơn vị đo diện tích",
    "title": "Bài 16. Các đơn vị đo diện tích (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 35",
@@ -616,14 +604,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-036",
    "semester": 1,
    "week": 8,
-   "theme": "ĐO DIỆN TÍCH (8 TIẾT)",
+   "theme": "Chủ đề 3: Một số đơn vị đo diện tích",
    "title": "Bài 17. Thực hành và trải nghiệm với một số đơn vị đo đại lượng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 36 (2 tiết)",
@@ -634,9 +628,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự đổi đơn vị trong “Thực hành và trải nghiệm với một số đơn vị đo đại lượng” ra nháp trước."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
     }
    ],
    "note": ""
@@ -645,7 +639,7 @@
    "id": "l5-toan-037",
    "semester": 1,
    "week": 8,
-   "theme": "ĐO DIỆN TÍCH (8 TIẾT)",
+   "theme": "Chủ đề 3: Một số đơn vị đo diện tích",
    "title": "Bài 17. Thực hành và trải nghiệm với một số đơn vị đo đại lượng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 37",
@@ -654,14 +648,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-038",
    "semester": 1,
    "week": 8,
-   "theme": "ĐO DIỆN TÍCH (8 TIẾT)",
+   "theme": "Chủ đề 3: Một số đơn vị đo diện tích",
    "title": "Bài 18. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 38 (2 tiết)",
@@ -677,15 +677,15 @@
    "id": "l5-toan-039",
    "semester": 1,
    "week": 8,
-   "theme": "ĐO DIỆN TÍCH (8 TIẾT)",
-   "title": "Bài 18. Luyện tập chung (Tiết 2) — Kiểm tra định kì giữa học kì I",
+   "theme": "Chủ đề 3: Một số đơn vị đo diện tích",
+   "title": "Bài 18. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 39",
    "periodFrom": 39,
    "periodTo": 39,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -693,15 +693,15 @@
    "id": "l5-toan-040",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 19: Phép cộng số thập phân (Tiết 1)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 19. Phép cộng số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 40 (2 tiết)",
    "periodFrom": 40,
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -709,15 +709,15 @@
    "id": "l5-toan-041",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 19: Phép cộng số thập phân (Tiết 2)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 19. Phép cộng số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 41",
    "periodFrom": 41,
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -725,7 +725,7 @@
    "id": "l5-toan-042",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
    "title": "Bài 20. Phép trừ số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 42 (2 tiết)",
@@ -733,21 +733,15 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Phép trừ số thập phân”, rồi cả lớp soi."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-043",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
    "title": "Bài 20. Phép trừ số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 43",
@@ -755,7 +749,7 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -763,14 +757,14 @@
    "id": "l5-toan-044",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 21: Phép nhân số thập phân (Tiết 1)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì giữa học kì I",
    "content": "",
-   "periodLabel": "Tiết 44 (3 tiết)",
+   "periodLabel": "Tiết 44 (1 tiết)",
    "periodFrom": 44,
    "periodTo": 44,
    "periods": 1,
-   "lessonPeriods": 3,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -779,15 +773,15 @@
    "id": "l5-toan-045",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 21: Phép nhân số thập phân (Tiết 2)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 21. Phép nhân số thập phân (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 45",
+   "periodLabel": "Tiết 45 (3 tiết)",
    "periodFrom": 45,
    "periodTo": 45,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
+   "lessonPeriods": 3,
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -795,15 +789,15 @@
    "id": "l5-toan-046",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 21: Phép nhân số thập phân (Tiết 3)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 21. Phép nhân số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 46",
    "periodFrom": 46,
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -811,37 +805,31 @@
    "id": "l5-toan-047",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 22: Phép chia số thập phân (Tiết 1)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 21. Phép nhân số thập phân (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 47 (4 tiết)",
+   "periodLabel": "Tiết 47",
    "periodFrom": 47,
    "periodTo": 47,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng tia số phóng to được trên máy."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-048",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 22: Phép chia số thập phân (Tiết 2)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 22. Phép chia số thập phân (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 48",
+   "periodLabel": "Tiết 48 (4 tiết)",
    "periodFrom": 48,
    "periodTo": 48,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
+   "lessonPeriods": 4,
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -849,15 +837,15 @@
    "id": "l5-toan-049",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 22: Phép chia số thập phân (Tiết 3)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 22. Phép chia số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 49",
    "periodFrom": 49,
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -865,15 +853,15 @@
    "id": "l5-toan-050",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 22: Phép chia số thập phân (Tiết 4)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 22. Phép chia số thập phân (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 50",
    "periodFrom": 50,
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -881,37 +869,31 @@
    "id": "l5-toan-051",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 23. Nhân, chia số thập phân với 10; 100; 1000;... hoặc với 0,1; 0,01;0,001… (Tiết 1)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 22. Phép chia số thập phân (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 51 (2 tiết)",
+   "periodLabel": "Tiết 51",
    "periodFrom": 51,
    "periodTo": 51,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Nhân, chia số thập phân với 10; 100; 1000; … hoặc với 0,1; 0,01; 0,001; …”."
-    }
-   ],
+   "lessonPeriods": 1,
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-052",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 23. Nhân, chia số thập phân với 10; 100; 1000;... hoặc với 0,1; 0,01;0,001… (Tiết 2)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 23. Nhân, chia số thập phân với 10; 100; 1 000;… hoặc với 0,1; 0,01; 0,001;… (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 52",
+   "periodLabel": "Tiết 52 (2 tiết)",
    "periodFrom": 52,
    "periodTo": 52,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
+   "lessonPeriods": 2,
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -919,15 +901,15 @@
    "id": "l5-toan-053",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 24. Luyện tập chung (Tiết 1)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 23. Nhân, chia số thập phân với 10; 100; 1 000;… hoặc với 0,1; 0,01; 0,001;… (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 53 (3 tiết)",
+   "periodLabel": "Tiết 53",
    "periodFrom": 53,
    "periodTo": 53,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "",
+   "lessonPeriods": 1,
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát tia số phóng to, thao tác trên bảng tính để thấy cách hiển thị và làm tròn số thập phân",
    "integrations": [],
    "note": ""
   },
@@ -935,15 +917,15 @@
    "id": "l5-toan-054",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 24. Luyện tập chung (Tiết 2)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 24. Luyện tập chung (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 54",
+   "periodLabel": "Tiết 54 (2 tiết)",
    "periodFrom": 54,
    "periodTo": 54,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
+   "lessonPeriods": 2,
+   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì",
    "integrations": [],
    "note": ""
   },
@@ -951,8 +933,8 @@
    "id": "l5-toan-055",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề 4: CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN (16 TIẾT)",
-   "title": "Bài 24. Luyện tập chung (Tiết 3)",
+   "theme": "Chủ đề 4: Các phép tính với số thập phân",
+   "title": "Bài 24. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 55",
    "periodFrom": 55,
@@ -967,7 +949,7 @@
    "id": "l5-toan-056",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 25. Hình tam giác. Diện tích hình tam giác (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 56 (4 tiết)",
@@ -975,21 +957,15 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng phần mềm hình học động."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-057",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 25. Hình tam giác. Diện tích hình tam giác (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 57",
@@ -997,7 +973,7 @@
    "periodTo": 57,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1005,7 +981,7 @@
    "id": "l5-toan-058",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 25. Hình tam giác. Diện tích hình tam giác (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 58",
@@ -1013,7 +989,7 @@
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1021,7 +997,7 @@
    "id": "l5-toan-059",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 25. Hình tam giác. Diện tích hình tam giác (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 59",
@@ -1029,7 +1005,7 @@
    "periodTo": 59,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1037,7 +1013,7 @@
    "id": "l5-toan-060",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 26. Hình thang. Diện tích hình thang (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 60 (4 tiết)",
@@ -1045,7 +1021,7 @@
    "periodTo": 60,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1053,7 +1029,7 @@
    "id": "l5-toan-061",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 26. Hình thang. Diện tích hình thang (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 61",
@@ -1061,7 +1037,7 @@
    "periodTo": 61,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1069,7 +1045,7 @@
    "id": "l5-toan-062",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 26. Hình thang. Diện tích hình thang (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 62",
@@ -1077,7 +1053,7 @@
    "periodTo": 62,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1085,7 +1061,7 @@
    "id": "l5-toan-063",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 26. Hình thang. Diện tích hình thang (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 63",
@@ -1101,7 +1077,7 @@
    "id": "l5-toan-064",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 27. Đường tròn. Chu vi và diện tích hình tròn (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 64 (5 tiết)",
@@ -1109,21 +1085,15 @@
    "periodTo": 64,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng phần mềm hình học động."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-065",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 27. Đường tròn. Chu vi và diện tích hình tròn (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 65",
@@ -1131,7 +1101,7 @@
    "periodTo": 65,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1139,7 +1109,7 @@
    "id": "l5-toan-066",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 27. Đường tròn. Chu vi và diện tích hình tròn (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 66",
@@ -1155,7 +1125,7 @@
    "id": "l5-toan-067",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 27. Đường tròn. Chu vi và diện tích hình tròn (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 67",
@@ -1163,7 +1133,7 @@
    "periodTo": 67,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1171,7 +1141,7 @@
    "id": "l5-toan-068",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 27. Đường tròn. Chu vi và diện tích hình tròn (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 68",
@@ -1187,7 +1157,7 @@
    "id": "l5-toan-069",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 28. Thực hành và trải nghiệm đo, vẽ, lắp ghép, tạo hình (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 69 (2 tiết)",
@@ -1195,13 +1165,8 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng phần mềm hình học động."
-    },
     {
      "code": "STEM",
      "level": "",
@@ -1214,7 +1179,7 @@
    "id": "l5-toan-070",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 28. Thực hành và trải nghiệm đo, vẽ, lắp ghép, tạo hình (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 70",
@@ -1222,7 +1187,7 @@
    "periodTo": 70,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1230,7 +1195,7 @@
    "id": "l5-toan-071",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 29. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 71 (3 tiết)",
@@ -1252,7 +1217,7 @@
    "id": "l5-toan-072",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 29. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 72",
@@ -1268,7 +1233,7 @@
    "id": "l5-toan-073",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 5: MỘT SỐ HÌNH PHẲNG. CHU VI VÀ DIỆN TÍCH (18 TIẾT)",
+   "theme": "Chủ đề 5: Một số hình phẳng. Chu vi và diện tích",
    "title": "Bài 29. Luyện tập chung (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 73",
@@ -1284,7 +1249,7 @@
    "id": "l5-toan-074",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 30. Ôn tập số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 74 (3 tiết)",
@@ -1300,7 +1265,7 @@
    "id": "l5-toan-075",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 30. Ôn tập số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 75",
@@ -1316,7 +1281,7 @@
    "id": "l5-toan-076",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 30. Ôn tập số thập phân (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 76",
@@ -1332,7 +1297,7 @@
    "id": "l5-toan-077",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 31. Ôn tập các phép tính với số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 77 (4 tiết)",
@@ -1348,7 +1313,7 @@
    "id": "l5-toan-078",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 31. Ôn tập các phép tính với số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 78",
@@ -1364,7 +1329,7 @@
    "id": "l5-toan-079",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 31. Ôn tập các phép tính với số thập phân (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 79",
@@ -1380,7 +1345,7 @@
    "id": "l5-toan-080",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 31. Ôn tập các phép tính với số thập phân (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 80",
@@ -1396,7 +1361,7 @@
    "id": "l5-toan-081",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 32. Ôn tập một số hình phẳng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 81 (2 tiết)",
@@ -1404,7 +1369,7 @@
    "periodTo": 81,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1412,7 +1377,7 @@
    "id": "l5-toan-082",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 32. Ôn tập một số hình phẳng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 82",
@@ -1420,7 +1385,7 @@
    "periodTo": 82,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1428,7 +1393,7 @@
    "id": "l5-toan-083",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 33. Ôn tập diện tích, chu vi một số hình phẳng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 83 (3 tiết)",
@@ -1436,7 +1401,7 @@
    "periodTo": 83,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1444,7 +1409,7 @@
    "id": "l5-toan-084",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 33. Ôn tập diện tích, chu vi một số hình phẳng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 84",
@@ -1452,7 +1417,7 @@
    "periodTo": 84,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1460,7 +1425,7 @@
    "id": "l5-toan-085",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
    "title": "Bài 33. Ôn tập diện tích, chu vi một số hình phẳng (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 85",
@@ -1468,7 +1433,7 @@
    "periodTo": 85,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -1476,8 +1441,8 @@
    "id": "l5-toan-086",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
-   "title": "Bài 34: Ôn tập đo lường (Tiết 1)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
+   "title": "Bài 34. Ôn tập đo lường (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 86 (2 tiết)",
    "periodFrom": 86,
@@ -1485,15 +1450,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-087",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
-   "title": "Bài 34: Ôn tập đo lường (Tiết 2)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
+   "title": "Bài 34. Ôn tập đo lường (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 87",
    "periodFrom": 87,
@@ -1501,22 +1472,28 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-088",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
-   "title": "Bài 35: Ôn tập chung (Tiết 1)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
+   "title": "Bài 35. Ôn tập chung (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 88 (3 tiết)",
+   "periodLabel": "Tiết 88 (2 tiết)",
    "periodFrom": 88,
    "periodTo": 88,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "",
+   "lessonPeriods": 2,
+   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì",
    "integrations": [],
    "note": ""
   },
@@ -1524,8 +1501,8 @@
    "id": "l5-toan-089",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
-   "title": "Bài 35: Ôn tập chung (Tiết 2)",
+   "theme": "Chủ đề 6: Ôn tập học kì 1",
+   "title": "Bài 35. Ôn tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 89",
    "periodFrom": 89,
@@ -1540,10 +1517,10 @@
    "id": "l5-toan-090",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 6: Ôn tập học kì 1 (17 TIẾT)",
-   "title": "Bài 35: Ôn tập chung (Tiết 3) — Kiểm tra định kì cuối học kì I",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
-   "periodLabel": "Tiết 90",
+   "periodLabel": "Tiết 90 (1 tiết)",
    "periodFrom": 90,
    "periodTo": 90,
    "periods": 1,
@@ -1556,8 +1533,8 @@
    "id": "l5-toan-091",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 7. TỈ SỐ VÀ CÁC BÀI",
-   "title": "Bài 36. Tỉ số. Tỉ số phần trăm (tiết 1)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 36. Tỉ số. Tỉ số phần trăm (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 91 (2 tiết)",
    "periodFrom": 91,
@@ -1567,9 +1544,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Hướng dẫn HS dùng bảng tính."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
     }
    ],
    "note": ""
@@ -1578,8 +1555,8 @@
    "id": "l5-toan-092",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 7. TỈ SỐ VÀ CÁC BÀI",
-   "title": "Bài 36. Tỉ số. Tỉ số phần trăm (tiết 2)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 36. Tỉ số. Tỉ số phần trăm (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 92",
    "periodFrom": 92,
@@ -1587,22 +1564,28 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-093",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 7. TỈ SỐ VÀ CÁC BÀI",
-   "title": "Bài 37. Tỉ lệ bản đồ và ứng dụng (tiết 1)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 37. Tỉ lệ bản đồ và ứng dụng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 93 (2 tiết)",
    "periodFrom": 93,
    "periodTo": 93,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác phóng to, thu nhỏ bản đồ số, đo khoảng cách và tự tính lại theo tỉ lệ, so sánh hai kết quả",
    "integrations": [
     {
      "code": "KNS",
@@ -1616,30 +1599,24 @@
    "id": "l5-toan-094",
    "semester": 2,
    "week": 19,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 37. Tỉ lệ bản đồ và ứng dụng (tiết 2)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 37. Tỉ lệ bản đồ và ứng dụng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 94",
    "periodFrom": 94,
    "periodTo": 94,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "",
-     "text": "đọc, so sánh, trình bày dữ liệu/bảng biểu bằng học liệu số hoặc bảng tính đơn giản."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác phóng to, thu nhỏ bản đồ số, đo khoảng cách và tự tính lại theo tỉ lệ, so sánh hai kết quả",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-095",
    "semester": 2,
    "week": 19,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 38. Tìm hai số khi biết tổng và tỉ số của hai số đó (tiết 1)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 38. Tìm hai số khi biết tổng và tỉ số của hai số đó (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 95 (2 tiết)",
    "periodFrom": 95,
@@ -1647,15 +1624,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-096",
    "semester": 2,
    "week": 20,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 38. Tìm hai số khi biết tổng và tỉ số của hai số đó (tiết 2)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 38. Tìm hai số khi biết tổng và tỉ số của hai số đó (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 96",
    "periodFrom": 96,
@@ -1663,15 +1646,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-097",
    "semester": 2,
    "week": 20,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 39. Tìm hai số khi biết hiệu và tỉ số của hai số đó (tiết 1)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 39. Tìm hai số khi biết hiệu và tỉ số của hai số đó (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 97 (2 tiết)",
    "periodFrom": 97,
@@ -1681,9 +1670,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu ảnh chụp một quảng cáo giảm giá trên mạng, cho HS tự tính xem số tiền được giảm."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
     }
    ],
    "note": ""
@@ -1692,8 +1681,8 @@
    "id": "l5-toan-098",
    "semester": 2,
    "week": 20,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 39. Tìm hai số khi biết hiệu và tỉ số của hai số đó (tiết 2)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 39. Tìm hai số khi biết hiệu và tỉ số của hai số đó (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 98",
    "periodFrom": 98,
@@ -1701,15 +1690,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-099",
    "semester": 2,
    "week": 20,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 40. Tìm tỉ số phần trăm của hai số (tiết 1)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 40. Tìm tỉ số phần trăm của hai số (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 99 (2 tiết)",
    "periodFrom": 99,
@@ -1717,15 +1712,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-100",
    "semester": 2,
    "week": 20,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 40. Tìm tỉ số phần trăm của hai số (tiết 2)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 40. Tìm tỉ số phần trăm của hai số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 100",
    "periodFrom": 100,
@@ -1733,15 +1734,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-101",
    "semester": 2,
    "week": 21,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 41. Tìm giá trị phần trăm của một số (tiết 1)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 41. Tìm giá trị phần trăm của một số (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 101 (2 tiết)",
    "periodFrom": 101,
@@ -1751,9 +1758,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Hướng dẫn HS dùng bảng tính."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
     }
    ],
    "note": ""
@@ -1762,8 +1769,8 @@
    "id": "l5-toan-102",
    "semester": 2,
    "week": 21,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 41. Tìm giá trị phần trăm của một số (tiết 2)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 41. Tìm giá trị phần trăm của một số (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 102",
    "periodFrom": 102,
@@ -1771,15 +1778,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-103",
    "semester": 2,
    "week": 21,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 42. Máy tính cầm tay (tiết 1)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 42. Máy tính cầm tay (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 103 (2 tiết)",
    "periodFrom": 103,
@@ -1787,15 +1800,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS thao tác thành thạo máy tính cầm tay"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-104",
    "semester": 2,
    "week": 21,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 42. Máy tính cầm tay (tiết 2)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 42. Máy tính cầm tay (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 104",
    "periodFrom": 104,
@@ -1803,14 +1822,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS thao tác thành thạo máy tính cầm tay"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-105",
    "semester": 2,
    "week": 21,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
    "title": "Bài 43. Thực hành và trải nghiệm sử dụng máy tính cầm tay",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
@@ -1820,6 +1845,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS thao tác thành thạo máy tính cầm tay"
+    },
     {
      "code": "STEM",
      "level": "",
@@ -1832,8 +1862,8 @@
    "id": "l5-toan-106",
    "semester": 2,
    "week": 22,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 44. Luyện tập chung (tiết 1)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 44. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 106 (2 tiết)",
    "periodFrom": 106,
@@ -1854,8 +1884,8 @@
    "id": "l5-toan-107",
    "semester": 2,
    "week": 22,
-   "theme": "TOÁN LIÊN QUAN (17 TIẾT)",
-   "title": "Bài 44. Luyện tập chung (tiết 2)",
+   "theme": "Chủ đề 7: Tỉ số và các bài toán liên quan",
+   "title": "Bài 44. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 107",
    "periodFrom": 107,
@@ -1870,7 +1900,7 @@
    "id": "l5-toan-108",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề 8. THỂ TÍCH. ĐƠN VỊ ĐO THỂ",
+   "theme": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
    "title": "Bài 45. Thể tích của một hình",
    "content": "",
    "periodLabel": "Tiết 108 (1 tiết)",
@@ -1879,15 +1909,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-109",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề 8. THỂ TÍCH. ĐƠN VỊ ĐO THỂ",
-   "title": "Bài 46. Xăng-ti-mét khối. Đề-xi-mét khối (tiết 1)",
+   "theme": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+   "title": "Bài 46. Xăng-ti-mét khối. Đề-xi-mét khối (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 109 (2 tiết)",
    "periodFrom": 109,
@@ -1895,15 +1931,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-110",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề 8. THỂ TÍCH. ĐƠN VỊ ĐO THỂ",
-   "title": "Bài 46. Xăng-ti-mét khối. Đề-xi-mét khối (tiết 2)",
+   "theme": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+   "title": "Bài 46. Xăng-ti-mét khối. Đề-xi-mét khối (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 110",
    "periodFrom": 110,
@@ -1911,15 +1953,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-111",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề 8. THỂ TÍCH. ĐƠN VỊ ĐO THỂ",
-   "title": "Bài 47. Mét khối (tiết 1)",
+   "theme": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+   "title": "Bài 47. Mét khối (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 111 (2 tiết)",
    "periodFrom": 111,
@@ -1929,9 +1977,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng mô hình khối 3D xoay được trên máy."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
     }
    ],
    "note": ""
@@ -1940,8 +1988,8 @@
    "id": "l5-toan-112",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề 8. THỂ TÍCH. ĐƠN VỊ ĐO THỂ",
-   "title": "Bài 47. Mét khối (tiết 2)",
+   "theme": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+   "title": "Bài 47. Mét khối (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 112",
    "periodFrom": 112,
@@ -1949,15 +1997,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-113",
    "semester": 2,
    "week": 23,
-   "theme": "TÍCH (7 TIẾT)",
-   "title": "Bài 48. Luyện tập chung (tiết 1)",
+   "theme": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+   "title": "Bài 48. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 113 (2 tiết)",
    "periodFrom": 113,
@@ -1972,8 +2026,8 @@
    "id": "l5-toan-114",
    "semester": 2,
    "week": 23,
-   "theme": "TÍCH (7 TIẾT)",
-   "title": "Bài 48. Luyện tập chung (tiết 2)",
+   "theme": "Chủ đề 8: Thể tích. Đơn vị đo thể tích",
+   "title": "Bài 48. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 114",
    "periodFrom": 114,
@@ -1988,8 +2042,8 @@
    "id": "l5-toan-115",
    "semester": 2,
    "week": 23,
-   "theme": "TÍCH (7 TIẾT)",
-   "title": "Bài 49. Hình khai triển của hình lập phương, hình hộp chữ nhật và hình trụ (tiết 1)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 49. Hình khai triển của hình lập phương, hình hộp chữ nhật và hình trụ (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 115 (2 tiết)",
    "periodFrom": 115,
@@ -1997,15 +2051,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-116",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 49. Hình khai triển của hình lập phương, hình hộp chữ nhật và hình trụ (tiết 2)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 49. Hình khai triển của hình lập phương, hình hộp chữ nhật và hình trụ (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 116",
    "periodFrom": 116,
@@ -2013,15 +2073,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-117",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 50. Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật (tiết 1)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 50. Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 117 (3 tiết)",
    "periodFrom": 117,
@@ -2031,9 +2097,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng mô hình khối 3D xoay được trên máy."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
     },
     {
      "code": "STEM",
@@ -2047,8 +2113,8 @@
    "id": "l5-toan-118",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 50. Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật (tiết 2)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 50. Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 118",
    "periodFrom": 118,
@@ -2056,15 +2122,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-119",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 50. Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật (tiết 3)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 50. Diện tích xung quanh và diện tích toàn phần của hình hộp chữ nhật (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 119",
    "periodFrom": 119,
@@ -2079,8 +2151,8 @@
    "id": "l5-toan-120",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 51. Diện tích xung quanh và diện tích toàn phần của hình lập phương (tiết 1)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 51. Diện tích xung quanh và diện tích toàn phần của hình lập phương (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 120 (2 tiết)",
    "periodFrom": 120,
@@ -2088,15 +2160,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-121",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 51. Diện tích xung quanh và diện tích toàn phần của hình lập phương (tiết 2)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 51. Diện tích xung quanh và diện tích toàn phần của hình lập phương (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 121",
    "periodFrom": 121,
@@ -2104,15 +2182,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-122",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 52. Thể tích của hình hộp chữ nhật (tiết 1)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 52. Thể tích của hình hộp chữ nhật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 122 (2 tiết)",
    "periodFrom": 122,
@@ -2122,9 +2206,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng mô hình khối 3D xoay được trên máy."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
     }
    ],
    "note": ""
@@ -2133,8 +2217,8 @@
    "id": "l5-toan-123",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 52. Thể tích của hình hộp chữ nhật (tiết 2)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 52. Thể tích của hình hộp chữ nhật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 123",
    "periodFrom": 123,
@@ -2142,15 +2226,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-124",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 53. Thể tích của hình lập phương (tiết 1)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 53. Thể tích của hình lập phương (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 124 (2 tiết)",
    "periodFrom": 124,
@@ -2158,15 +2248,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-125",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 53. Thể tích của hình lập phương (tiết 2)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
+   "title": "Bài 53. Thể tích của hình lập phương (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 125",
    "periodFrom": 125,
@@ -2174,14 +2270,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-126",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
    "title": "Bài 54. Thực hành tính toán và ước lượng thể tích một số hình khối",
    "content": "",
    "periodLabel": "Tiết 126 (1 tiết)",
@@ -2192,9 +2294,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Dùng mô hình khối 3D xoay được trên máy."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS quan sát mô hình 3D xoay và hình khai triển động"
     }
    ],
    "note": ""
@@ -2203,15 +2305,15 @@
    "id": "l5-toan-127",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
    "title": "Bài 55. Luyện tập chung (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 127 (3 tiết)",
+   "periodLabel": "Tiết 127 (2 tiết)",
    "periodFrom": 127,
    "periodTo": 127,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "",
+   "lessonPeriods": 2,
+   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì",
    "integrations": [],
    "note": ""
   },
@@ -2219,7 +2321,7 @@
    "id": "l5-toan-128",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
+   "theme": "Chủ đề 9: Diện tích và thể tích của một số hình khối",
    "title": "Bài 55. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 128",
@@ -2235,32 +2337,48 @@
    "id": "l5-toan-129",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 9. DIỆN TÍCH VÀ THỂ TÍCH CỦA MỘT SỐ HÌNH KHỐI (15 TIẾT)",
-   "title": "Bài 55. Luyện tập chung (Tiết 3) — Kiểm tra định kì giữa học kì II",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 56. Các đơn vị đo thời gian",
    "content": "",
-   "periodLabel": "Tiết 129",
+   "periodLabel": "Tiết 129 (1 tiết)",
    "periodFrom": 129,
    "periodTo": 129,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-130",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 56. Các đơn vị đo thời gian",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 57. Cộng, trừ số đo thời gian (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 130 (1 tiết)",
+   "periodLabel": "Tiết 130 (2 tiết)",
    "periodFrom": 130,
    "periodTo": 130,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2273,20 +2391,42 @@
    "id": "l5-toan-131",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 57. Cộng, trừ số đo thời gian (tiết 1)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 57. Cộng, trừ số đo thời gian (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 131 (2 tiết)",
+   "periodLabel": "Tiết 131",
    "periodFrom": 131,
    "periodTo": 131,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu ảnh vệ tinh sân trường hoặc một khu đất quen thuộc, cho HS ước lượng diện tích theo đơn vị vừa học."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-toan-132",
+   "semester": 2,
+   "week": 27,
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 58. Nhân, chia số đo thời gian với một số (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 132 (3 tiết)",
+   "periodFrom": 132,
+   "periodTo": 132,
+   "periods": 1,
+   "lessonPeriods": 3,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
     },
     {
      "code": "KNS",
@@ -2297,39 +2437,23 @@
    "note": ""
   },
   {
-   "id": "l5-toan-132",
-   "semester": 2,
-   "week": 27,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 57. Cộng, trừ số đo thời gian (tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 132",
-   "periodFrom": 132,
-   "periodTo": 132,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
    "id": "l5-toan-133",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 58. Nhân, chia số đo thời gian với một số (tiết 1)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 58. Nhân, chia số đo thời gian với một số (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 133 (3 tiết)",
+   "periodLabel": "Tiết 133",
    "periodFrom": 133,
    "periodTo": 133,
    "periods": 1,
-   "lessonPeriods": 3,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS",
      "level": "",
-     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
     }
    ],
    "note": ""
@@ -2338,8 +2462,8 @@
    "id": "l5-toan-134",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 58. Nhân, chia số đo thời gian với một số (tiết 2)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 58. Nhân, chia số đo thời gian với một số (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 134",
    "periodFrom": 134,
@@ -2347,17 +2471,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-135",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 58. Nhân, chia số đo thời gian với một số (tiết 3)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì giữa học kì II",
    "content": "",
-   "periodLabel": "Tiết 135",
+   "periodLabel": "Tiết 135 (1 tiết)",
    "periodFrom": 135,
    "periodTo": 135,
    "periods": 1,
@@ -2370,21 +2500,16 @@
    "id": "l5-toan-136",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 59. Vận tốc của một chuyển động đều (tiết 1)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 59. Vận tốc của một chuyển động đều (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 136 (2 tiết)",
    "periodFrom": 136,
    "periodTo": 136,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS quan sát mô phỏng, dùng số đo quãng đường lấy từ bản đồ số để tự tính rồi đối chiếu với dự đoán của ứng dụng",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Chiếu mô phỏng hai vật chuyển động với vận tốc khác nhau."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2397,15 +2522,15 @@
    "id": "l5-toan-137",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 59. Vận tốc của một chuyển động đều (tiết 2)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 59. Vận tốc của một chuyển động đều (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 137",
    "periodFrom": 137,
    "periodTo": 137,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS quan sát mô phỏng, dùng số đo quãng đường lấy từ bản đồ số để tự tính rồi đối chiếu với dự đoán của ứng dụng",
    "integrations": [],
    "note": ""
   },
@@ -2413,15 +2538,15 @@
    "id": "l5-toan-138",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 60. Quãng đường, thời gian của một chuyển động đều (tiết 1)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 60. Quãng đường, thời gian của một chuyển động đều (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 138 (3 tiết)",
    "periodFrom": 138,
    "periodTo": 138,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS quan sát mô phỏng, dùng số đo quãng đường lấy từ bản đồ số để tự tính rồi đối chiếu với dự đoán của ứng dụng",
    "integrations": [
     {
      "code": "KNS",
@@ -2435,15 +2560,15 @@
    "id": "l5-toan-139",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 60. Quãng đường, thời gian của một chuyển động đều (tiết 2)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 60. Quãng đường, thời gian của một chuyển động đều (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 139",
    "periodFrom": 139,
    "periodTo": 139,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS quan sát mô phỏng, dùng số đo quãng đường lấy từ bản đồ số để tự tính rồi đối chiếu với dự đoán của ứng dụng",
    "integrations": [],
    "note": ""
   },
@@ -2451,8 +2576,8 @@
    "id": "l5-toan-140",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
-   "title": "Bài 60. Quãng đường, thời gian của một chuyển động đều (tiết 3)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
+   "title": "Bài 60. Quãng đường, thời gian của một chuyển động đều (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 140",
    "periodFrom": 140,
@@ -2467,7 +2592,7 @@
    "id": "l5-toan-141",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
    "title": "Bài 61. Thực hành tính toán và ước lượng về vận tốc, quãng đường, thời gian trong chuyển động đều (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 141 (2 tiết)",
@@ -2475,13 +2600,8 @@
    "periodTo": 141,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS quan sát mô phỏng, dùng số đo quãng đường lấy từ bản đồ số để tự tính rồi đối chiếu với dự đoán của ứng dụng",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Dùng ứng dụng bản đồ đo quãng đường từ trường đến một địa điểm quen thuộc."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2494,7 +2614,7 @@
    "id": "l5-toan-142",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
    "title": "Bài 61. Thực hành tính toán và ước lượng về vận tốc, quãng đường, thời gian trong chuyển động đều (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 142",
@@ -2502,7 +2622,7 @@
    "periodTo": 142,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS quan sát mô phỏng, dùng số đo quãng đường lấy từ bản đồ số để tự tính rồi đối chiếu với dự đoán của ứng dụng",
    "integrations": [],
    "note": ""
   },
@@ -2510,7 +2630,7 @@
    "id": "l5-toan-143",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
    "title": "Bài 62. Luyện tập chung (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 143 (3 tiết)",
@@ -2526,7 +2646,7 @@
    "id": "l5-toan-144",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
    "title": "Bài 62. Luyện tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 144",
@@ -2542,7 +2662,7 @@
    "id": "l5-toan-145",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 10. SỐ ĐO THỜI GIAN. VẬN TỐC. CÁC BÀI TOÁN LIÊN QUAN ĐẾN CHUYỂN ĐỘNG ĐỀU (16 TIẾT)",
+   "theme": "Chủ đề 10: Số đo thời gian. Vận tốc. Các bài toán liên quan đến chuyển động đều",
    "title": "Bài 62. Luyện tập chung (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 145",
@@ -2558,7 +2678,7 @@
    "id": "l5-toan-146",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 11: MỘT SỐ YẾU",
+   "theme": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
    "title": "Bài 63. Thu thập, phân loại, sắp xếp các số liệu",
    "content": "",
    "periodLabel": "Tiết 146 (1 tiết)",
@@ -2566,21 +2686,15 @@
    "periodTo": 146,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Hướng dẫn HS nhập dãy số liệu của “Thu thập, phân loại, sắp xếp các số liệu” vào bảng tính, dùng chức năng vẽ biểu đồ."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nhập số liệu, dùng bảng tính vẽ biểu đồ và đối chiếu với biểu đồ tự vẽ",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-toan-147",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 11: MỘT SỐ YẾU",
+   "theme": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
    "title": "Bài 64. Biểu đồ hình quạt tròn (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 147 (2 tiết)",
@@ -2588,7 +2702,7 @@
    "periodTo": 147,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nhập số liệu, dùng bảng tính vẽ biểu đồ và đối chiếu với biểu đồ tự vẽ",
    "integrations": [],
    "note": ""
   },
@@ -2596,7 +2710,7 @@
    "id": "l5-toan-148",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 11: MỘT SỐ YẾU",
+   "theme": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
    "title": "Bài 64. Biểu đồ hình quạt tròn (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 148",
@@ -2604,7 +2718,7 @@
    "periodTo": 148,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nhập số liệu, dùng bảng tính vẽ biểu đồ và đối chiếu với biểu đồ tự vẽ",
    "integrations": [],
    "note": ""
   },
@@ -2612,7 +2726,7 @@
    "id": "l5-toan-149",
    "semester": 2,
    "week": 30,
-   "theme": "TỐ THỐNG KÊ VÀ XÁC SUẤT (7 TIẾT)",
+   "theme": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
    "title": "Bài 65. Tỉ số của số lần lặp lại một sự kiện so với tổng số lần thực hiện",
    "content": "",
    "periodLabel": "Tiết 149 (1 tiết)",
@@ -2620,7 +2734,7 @@
    "periodTo": 149,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS quan sát mô phỏng nhiều lượt, ghi kết quả vào bảng tính và tự tính tỉ số qua từng đợt",
    "integrations": [],
    "note": ""
   },
@@ -2628,7 +2742,7 @@
    "id": "l5-toan-150",
    "semester": 2,
    "week": 30,
-   "theme": "TỐ THỐNG KÊ VÀ XÁC SUẤT (7 TIẾT)",
+   "theme": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
    "title": "Bài 66. Thực hành và trải nghiệm thu thập, phân tích, biểu diễn các số liệu thống kê (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 150 (2 tiết)",
@@ -2636,7 +2750,7 @@
    "periodTo": 150,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nhập số liệu, dùng bảng tính vẽ biểu đồ và đối chiếu với biểu đồ tự vẽ",
    "integrations": [],
    "note": ""
   },
@@ -2644,7 +2758,7 @@
    "id": "l5-toan-151",
    "semester": 2,
    "week": 31,
-   "theme": "TỐ THỐNG KÊ VÀ XÁC SUẤT (7 TIẾT)",
+   "theme": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
    "title": "Bài 66. Thực hành và trải nghiệm thu thập, phân tích, biểu diễn các số liệu thống kê (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 151",
@@ -2652,7 +2766,7 @@
    "periodTo": 151,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nhập số liệu, dùng bảng tính vẽ biểu đồ và đối chiếu với biểu đồ tự vẽ",
    "integrations": [],
    "note": ""
   },
@@ -2660,7 +2774,7 @@
    "id": "l5-toan-152",
    "semester": 2,
    "week": 31,
-   "theme": "TỐ THỐNG KÊ VÀ XÁC SUẤT (7 TIẾT)",
+   "theme": "Chủ đề 11: Một số yếu tố thống kê và xác suất",
    "title": "Bài 67. Luyện tập chung",
    "content": "",
    "periodLabel": "Tiết 152 (1 tiết)",
@@ -2682,8 +2796,8 @@
    "id": "l5-toan-153",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 68. Ôn tập số tự nhiên, phân số, số thập phân (tiết 1)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 68. Ôn tập số tự nhiên, phân số, số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 153 (3 tiết)",
    "periodFrom": 153,
@@ -2698,8 +2812,8 @@
    "id": "l5-toan-154",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 68. Ôn tập số tự nhiên, phân số, số thập phân (tiết 2)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 68. Ôn tập số tự nhiên, phân số, số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 154",
    "periodFrom": 154,
@@ -2714,8 +2828,8 @@
    "id": "l5-toan-155",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 68. Ôn tập số tự nhiên, phân số, số thập phân (tiết 3)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 68. Ôn tập số tự nhiên, phân số, số thập phân (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 155",
    "periodFrom": 155,
@@ -2730,7 +2844,7 @@
    "id": "l5-toan-156",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 69. Ôn tập các phép tính với số tự nhiên, phân số, số thập phân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 156 (4 tiết)",
@@ -2746,7 +2860,7 @@
    "id": "l5-toan-157",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 69. Ôn tập các phép tính với số tự nhiên, phân số, số thập phân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 157",
@@ -2762,7 +2876,7 @@
    "id": "l5-toan-158",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 69. Ôn tập các phép tính với số tự nhiên, phân số, số thập phân (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 158",
@@ -2770,7 +2884,7 @@
    "periodTo": 158,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 6.3 CB2a: HS nêu được vì sao công cụ trí tuệ nhân tạo có thể trả lời sai khi đọc nhầm đề bài và chỉ ra cách đối chiếu lại bằng phép thử",
    "integrations": [],
    "note": ""
   },
@@ -2778,7 +2892,7 @@
    "id": "l5-toan-159",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 69. Ôn tập các phép tính với số tự nhiên, phân số, số thập phân (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 159",
@@ -2794,7 +2908,7 @@
    "id": "l5-toan-160",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 70. Ôn tập tỉ số, tỉ số phần trăm (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 160 (2 tiết)",
@@ -2803,14 +2917,20 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-161",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 70. Ôn tập tỉ số, tỉ số phần trăm (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 161",
@@ -2819,14 +2939,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS dùng bảng tính tính tỉ số phần trăm"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-162",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 71. Ôn tập hình học (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 162 (4 tiết)",
@@ -2834,7 +2960,7 @@
    "periodTo": 162,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -2842,7 +2968,7 @@
    "id": "l5-toan-163",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 71. Ôn tập hình học (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 163",
@@ -2850,7 +2976,7 @@
    "periodTo": 163,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -2858,7 +2984,7 @@
    "id": "l5-toan-164",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 71. Ôn tập hình học (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 164",
@@ -2866,7 +2992,7 @@
    "periodTo": 164,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -2874,7 +3000,7 @@
    "id": "l5-toan-165",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 71. Ôn tập hình học (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 165",
@@ -2882,7 +3008,7 @@
    "periodTo": 165,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS quan sát hình biến đổi trên phần mềm hình học động, tự rút ra quy luật về chu vi; diện tích",
    "integrations": [],
    "note": ""
   },
@@ -2890,8 +3016,8 @@
    "id": "l5-toan-166",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 72. Ôn tập đo lường (tiết 1)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 72. Ôn tập đo lường (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 166 (2 tiết)",
    "periodFrom": 166,
@@ -2899,15 +3025,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-167",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 72. Ôn tập đo lường (tiết 2)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 72. Ôn tập đo lường (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 167",
    "periodFrom": 167,
@@ -2915,22 +3047,28 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS tự đổi đơn vị ra nháp rồi dùng công cụ số đối chiếu"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-toan-168",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 73. Ôn tập toán chuyển động đều (tiết 1)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 73. Ôn tập toán chuyển động đều (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 168 (2 tiết)",
    "periodFrom": 168,
    "periodTo": 168,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS quan sát mô phỏng, dùng số đo quãng đường lấy từ bản đồ số để tự tính rồi đối chiếu với dự đoán của ứng dụng",
    "integrations": [],
    "note": ""
   },
@@ -2938,15 +3076,15 @@
    "id": "l5-toan-169",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 73. Ôn tập toán chuyển động đều (tiết 2)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 73. Ôn tập toán chuyển động đều (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 169",
    "periodFrom": 169,
    "periodTo": 169,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.1 CB2a: HS quan sát mô phỏng, dùng số đo quãng đường lấy từ bản đồ số để tự tính rồi đối chiếu với dự đoán của ứng dụng",
    "integrations": [],
    "note": ""
   },
@@ -2954,7 +3092,7 @@
    "id": "l5-toan-170",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 74. Ôn tập một số yếu tố thống kê và xác suất (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 170 (2 tiết)",
@@ -2962,7 +3100,7 @@
    "periodTo": 170,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nhập số liệu, dùng bảng tính vẽ biểu đồ và đối chiếu với biểu đồ tự vẽ",
    "integrations": [],
    "note": ""
   },
@@ -2970,7 +3108,7 @@
    "id": "l5-toan-171",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
    "title": "Bài 74. Ôn tập một số yếu tố thống kê và xác suất (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 171",
@@ -2978,7 +3116,7 @@
    "periodTo": 171,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nhập số liệu, dùng bảng tính vẽ biểu đồ và đối chiếu với biểu đồ tự vẽ",
    "integrations": [],
    "note": ""
   },
@@ -2986,15 +3124,15 @@
    "id": "l5-toan-172",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 75. Ôn tập chung (tiết 1)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 75. Ôn tập chung (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 172 (4 tiết)",
+   "periodLabel": "Tiết 172 (3 tiết)",
    "periodFrom": 172,
    "periodTo": 172,
    "periods": 1,
-   "lessonPeriods": 4,
-   "adjustments": "",
+   "lessonPeriods": 3,
+   "adjustments": "SGV 4 tiết; bớt 1 tiết cho kiểm tra định kì",
    "integrations": [],
    "note": ""
   },
@@ -3002,8 +3140,8 @@
    "id": "l5-toan-173",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 75. Ôn tập chung (tiết 2)",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 75. Ôn tập chung (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 173",
    "periodFrom": 173,
@@ -3018,8 +3156,8 @@
    "id": "l5-toan-174",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 75. Ôn tập chung (tiết 3) — Kiểm tra định kì cuối năm học",
+   "theme": "Chủ đề 12: Ôn tập cuối năm",
+   "title": "Bài 75. Ôn tập chung (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 174",
    "periodFrom": 174,
@@ -3034,10 +3172,10 @@
    "id": "l5-toan-175",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề 12: Ôn tập cuối năm (23 TIẾT)",
-   "title": "Bài 75. Ôn tập chung (tiết 4)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì cuối năm học",
    "content": "",
-   "periodLabel": "Tiết 175",
+   "periodLabel": "Tiết 175 (1 tiết)",
    "periodFrom": 175,
    "periodTo": 175,
    "periods": 1,
@@ -3320,7 +3458,7 @@
   "file": "assets/docs/lop5/Toan - Lop 5.docx",
   "name": "Toan - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 47122,
+  "size": 47363,
   "updated": "2026-09-08"
  }
 }

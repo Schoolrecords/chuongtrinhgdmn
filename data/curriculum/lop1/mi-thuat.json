@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 14
+  "integrations": 17
  },
  "lessons": [
   {
@@ -29,14 +29,8 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bộ ảnh chụp sản phẩm mĩ thuật có thật trong trường gắn với bài “Mĩ thuật trong nhà trường”."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS gọi tên được các sản phẩm mĩ thuật trong trường qua ảnh chiếu phóng to",
+   "integrations": [],
    "note": ""
   },
   {
@@ -46,19 +40,13 @@
    "theme": "Chủ đề 2: Sáng tạo từ những chấm màu",
    "title": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 2 (1 tiết)",
+   "periodLabel": "Tiết 2 (4 tiết)",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Gõ vào một công cụ vẽ bằng trí tuệ nhân tạo câu “bông hoa vẽ bằng các chấm màu” cho cả lớp."
-    }
-   ],
+   "lessonPeriods": 4,
+   "adjustments": "Năng lực số 1.1 CB1b: HS nhận ra tranh được tạo nên từ nhiều chấm màu nhỏ khi xem ảnh phóng to",
+   "integrations": [],
    "note": ""
   },
   {
@@ -68,12 +56,12 @@
    "theme": "Chủ đề 2: Sáng tạo từ những chấm màu",
    "title": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 3 (1 tiết)",
+   "periodLabel": "Tiết 3",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS nhận ra chấm dày tạo mảng đậm, chấm thưa tạo mảng nhạt qua thao tác mẫu trên ứng dụng vẽ",
    "integrations": [],
    "note": ""
   },
@@ -84,13 +72,19 @@
    "theme": "Chủ đề 2: Sáng tạo từ những chấm màu",
    "title": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 4 (1 tiết)",
+   "periodLabel": "Tiết 4",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.1 CB1a: HS xem lại bài của mình và của bạn được chiếu to trên màn hình"
+    }
+   ],
    "note": ""
   },
   {
@@ -100,12 +94,12 @@
    "theme": "Chủ đề 2: Sáng tạo từ những chấm màu",
    "title": "Chủ đề 2: Sáng tạo từ những chấm màu (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 5 (1 tiết)",
+   "periodLabel": "Tiết 5",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.1 CB1a: HS xem ảnh chụp các bước chấm màu và sản phẩm của lớp được chiếu to trên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -116,17 +110,17 @@
    "theme": "Chủ đề 3: Nét vẽ của em",
    "title": "Chủ đề 3: Nét vẽ của em (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 6 (1 tiết)",
+   "periodLabel": "Tiết 6 (3 tiết)",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu hình động vẽ lần lượt từng loại nét."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS gọi đúng tên các loại nét khi xem hình động vẽ từng nét"
     }
    ],
    "note": ""
@@ -138,7 +132,7 @@
    "theme": "Chủ đề 3: Nét vẽ của em",
    "title": "Chủ đề 3: Nét vẽ của em (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 7 (1 tiết)",
+   "periodLabel": "Tiết 7",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
@@ -154,13 +148,19 @@
    "theme": "Chủ đề 3: Nét vẽ của em",
    "title": "Chủ đề 3: Nét vẽ của em (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 8 (1 tiết)",
+   "periodLabel": "Tiết 8",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.1 CB1a: HS quan sát lưới ảnh bài vẽ và bình chọn kèm lí do"
+    }
+   ],
    "note": ""
   },
   {
@@ -170,19 +170,13 @@
    "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản",
    "title": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 9 (1 tiết)",
+   "periodLabel": "Tiết 9 (4 tiết)",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh đồ vật quen thuộc."
-    }
-   ],
+   "lessonPeriods": 4,
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ ra được hình cơ bản tạo nên đồ vật khi xem hình vẽ chồng lên ảnh",
+   "integrations": [],
    "note": ""
   },
   {
@@ -192,13 +186,19 @@
    "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản",
    "title": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 10 (1 tiết)",
+   "periodLabel": "Tiết 10",
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 6.1 CB1b: HS xem và nêu ý kiến về các bộ màu do máy gợi ý"
+    }
+   ],
    "note": ""
   },
   {
@@ -208,7 +208,7 @@
    "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản",
    "title": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 11 (1 tiết)",
+   "periodLabel": "Tiết 11",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
@@ -224,13 +224,19 @@
    "theme": "Chủ đề 4: Sáng tạo từ những hình cơ bản",
    "title": "Chủ đề 4: Sáng tạo từ những hình cơ bản (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 12 (1 tiết)",
+   "periodLabel": "Tiết 12",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.2 CB1a: HS xem phòng trưng bày trên màn hình và nhận ra sản phẩm của mình"
+    }
+   ],
    "note": ""
   },
   {
@@ -240,17 +246,17 @@
    "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật",
    "title": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 13 (1 tiết)",
+   "periodLabel": "Tiết 13 (4 tiết)",
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu mô phỏng pha màu: kéo giọt màu đỏ chồng lên giọt màu vàng, màu cam hiện ra ngay trên màn hình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nêu được hai màu cơ bản pha ra màu mới nào sau khi xem mô phỏng"
     }
    ],
    "note": ""
@@ -262,7 +268,7 @@
    "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật",
    "title": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 14 (1 tiết)",
+   "periodLabel": "Tiết 14",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
@@ -278,13 +284,19 @@
    "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật",
    "title": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 15 (1 tiết)",
+   "periodLabel": "Tiết 15",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 6.1 CB1b: HS nêu ý kiến về các cách phối ba màu cơ bản do máy gợi ý"
+    }
+   ],
    "note": ""
   },
   {
@@ -294,51 +306,57 @@
    "theme": "Chủ đề 5: Màu cơ bản trong mĩ thuật",
    "title": "Chủ đề 5: Màu cơ bản trong mĩ thuật (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 16 (1 tiết)",
+   "periodLabel": "Tiết 16",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB1a: HS xem ảnh món đồ chơi của các nhóm trên màn hình"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-017",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản",
-   "title": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 1)",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Đánh giá cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu mô hình khối lập phương, khối cầu, khối trụ dạng ba chiều."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS xem lại ảnh sản phẩm các chủ đề 1–5 của lớp chiếu trên màn hình để chọn bài mình muốn làm lại",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-018",
    "semester": 1,
    "week": 18,
-   "theme": "Đánh giá, trưng bày",
-   "title": "Đánh giá cuối học kì I",
+   "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản",
+   "title": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodLabel": "Tiết 18 (4 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS gọi tên khối và chỉ ra các mặt của khối khi xem hình xoay"
+    }
+   ],
    "note": ""
   },
   {
@@ -348,7 +366,7 @@
    "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản",
    "title": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 19 (1 tiết)",
+   "periodLabel": "Tiết 19",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
@@ -364,7 +382,7 @@
    "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản",
    "title": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 20 (1 tiết)",
+   "periodLabel": "Tiết 20",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
@@ -380,13 +398,19 @@
    "theme": "Chủ đề 6: Sáng tạo từ những khối cơ bản",
    "title": "Chủ đề 6: Sáng tạo từ những khối cơ bản (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 21 (1 tiết)",
+   "periodLabel": "Tiết 21",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.2 CB1a: HS chọn được hướng đặt sản phẩm đẹp nhất khi trưng bày"
+    }
+   ],
    "note": ""
   },
   {
@@ -396,17 +420,17 @@
    "theme": "Chủ đề 7: Hoa, quả",
    "title": "Chủ đề 7: Hoa, quả (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 22 (1 tiết)",
+   "periodLabel": "Tiết 22 (4 tiết)",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh chụp cận cảnh các loại quả nguyên và quả bổ đôi, phóng to."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS gọi tên và tả được vỏ, màu của các loại quả qua ảnh phóng to"
     }
    ],
    "note": ""
@@ -418,7 +442,7 @@
    "theme": "Chủ đề 7: Hoa, quả",
    "title": "Chủ đề 7: Hoa, quả (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 23 (1 tiết)",
+   "periodLabel": "Tiết 23",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
@@ -434,7 +458,7 @@
    "theme": "Chủ đề 7: Hoa, quả",
    "title": "Chủ đề 7: Hoa, quả (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 24 (1 tiết)",
+   "periodLabel": "Tiết 24",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
@@ -450,12 +474,12 @@
    "theme": "Chủ đề 7: Hoa, quả",
    "title": "Chủ đề 7: Hoa, quả (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 25 (1 tiết)",
+   "periodLabel": "Tiết 25",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB1a: HS xem phòng tranh trên màn hình và nhận ra tên tác giả ghi dưới mỗi bức",
    "integrations": [],
    "note": ""
   },
@@ -466,18 +490,13 @@
    "theme": "Chủ đề 8: Người thân của em",
    "title": "Chủ đề 8: Người thân của em (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 26 (1 tiết)",
+   "periodLabel": "Tiết 26 (4 tiết)",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
+   "lessonPeriods": 4,
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ ra được nét riêng của từng người trong tranh chân dung phóng to",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bộ tranh chân dung và tranh gia đình đã chuẩn bị sẵn, phóng to phần khuôn mặt."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -493,19 +512,13 @@
    "theme": "Chủ đề 8: Người thân của em",
    "title": "Chủ đề 8: Người thân của em (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 27 (1 tiết)",
+   "periodLabel": "Tiết 27",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -515,19 +528,13 @@
    "theme": "Chủ đề 8: Người thân của em",
    "title": "Chủ đề 8: Người thân của em (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 28 (1 tiết)",
+   "periodLabel": "Tiết 28",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -537,7 +544,7 @@
    "theme": "Chủ đề 8: Người thân của em",
    "title": "Chủ đề 8: Người thân của em (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 29 (1 tiết)",
+   "periodLabel": "Tiết 29",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
@@ -545,9 +552,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
+     "code": "NLS",
      "level": "",
-     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
+     "text": "Năng lực số 2.5 CB1a: HS nói và viết được lời chúc lễ phép cho người thân"
     }
    ],
    "note": ""
@@ -559,17 +566,17 @@
    "theme": "Chủ đề 9: Em là học sinh lớp 1",
    "title": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 30 (1 tiết)",
+   "periodLabel": "Tiết 30 (4 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu đoạn phim ngắn quay lại một buổi ra chơi, buổi chào cờ, giờ học của chính lớp mình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS kể được các hoạt động ở trường sau khi xem lại đoạn phim"
     }
    ],
    "note": ""
@@ -581,13 +588,19 @@
    "theme": "Chủ đề 9: Em là học sinh lớp 1",
    "title": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 31 (1 tiết)",
+   "periodLabel": "Tiết 31",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB1a: HS chỉ ra được chỗ máy vẽ chưa đúng trong bức hình do máy tạo"
+    }
+   ],
    "note": ""
   },
   {
@@ -597,7 +610,7 @@
    "theme": "Chủ đề 9: Em là học sinh lớp 1",
    "title": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 32 (1 tiết)",
+   "periodLabel": "Tiết 32",
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
@@ -613,20 +626,26 @@
    "theme": "Chủ đề 9: Em là học sinh lớp 1",
    "title": "Chủ đề 9: Em là học sinh lớp 1 (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 33 (1 tiết)",
+   "periodLabel": "Tiết 33",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB1a: HS xem bộ ảnh trên màn hình và nhận ra món đồ của mình"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l1-mi-thuat-034",
    "semester": 2,
    "week": 34,
-   "theme": "Đánh giá, trưng bày",
+   "theme": "Ôn tập, đánh giá",
    "title": "Đánh giá cuối năm",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
@@ -634,7 +653,7 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS xem lại ảnh sản phẩm các chủ đề 6–9 của lớp chiếu trên màn hình để chọn bài mình muốn làm lại",
    "integrations": [],
    "note": ""
   },
@@ -642,7 +661,7 @@
    "id": "l1-mi-thuat-035",
    "semester": 2,
    "week": 35,
-   "theme": "Đánh giá, trưng bày",
+   "theme": "Ôn tập, đánh giá",
    "title": "Trưng bày sản phẩm cuối năm",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -934,7 +953,7 @@
   "file": "assets/docs/lop1/Mi thuat - Lop 1.docx",
   "name": "Mi thuat - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 42200,
+  "size": 42551,
   "updated": "2026-09-08"
  }
 }

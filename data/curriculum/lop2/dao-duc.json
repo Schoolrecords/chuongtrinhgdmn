@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 26
+  "integrations": 16
  },
  "lessons": [
   {
@@ -22,20 +22,15 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ đề 1: Quê hương em",
-   "title": "Bài 1: VẺ ĐẸP QUÊ HƯƠNG EM (Tiết 1)",
+   "title": "Bài 1. Vẻ đẹp quê hương em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
    "periodFrom": 1,
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS xem ảnh, video cảnh đẹp quê hương GV chiếu và gọi tên được cảnh mình nhận ra",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Mở video bài hát Quê hương tươi đẹp vào bài “Vẻ đẹp quê hương em”, gõ tên xã, phường."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -49,14 +44,14 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ đề 1: Quê hương em",
-   "title": "Bài 1: VẺ ĐẸP QUÊ HƯƠNG EM (Tiết 2)",
+   "title": "Bài 1. Vẻ đẹp quê hương em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Tích hợp AI; YCCĐ 2.A1.1: HS biết dùng công cụ có hỗ trợ AI để tìm kiếm hình ảnh, thông tin đẹp về quê hương mình dưới sự hướng dẫn của GV; Năng lực số 1.1 CB1b: HS chỉ được vị trí quê mình trên bản đồ số và gọi tên vài nơi quen thuộc nhìn thấy trên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -65,20 +60,15 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề 1: Quê hương em",
-   "title": "Bài 2: EM YÊU QUÊ HƯƠNG (Tiết 1)",
+   "title": "Bài 2. Em yêu quê hương (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (3 tiết)",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Tích hợp AI; YCCĐ 2.A1.1: HS biết dùng công cụ có hỗ trợ AI để tìm kiếm hình ảnh, thông tin đẹp về quê hương dưới sự hướng dẫn của GV; biết kiểm tra kết quả và không cung cấp thông tin cá nhân; Năng lực số 3.1 CB1a: HS kể được việc mình đã làm cho quê hương khi ảnh của mình hiện lên màn hình",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Khi kể lại câu chuyện “Tình quê” theo tranh chiếu trên màn hình."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -92,14 +82,14 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 1: Quê hương em",
-   "title": "Bài 2: EM YÊU QUÊ HƯƠNG (Tiết 2)",
+   "title": "Bài 2. Em yêu quê hương (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS kể được việc mình đã làm cho quê hương khi ảnh của mình hiện lên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -108,14 +98,14 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề 1: Quê hương em",
-   "title": "Bài 2: EM YÊU QUÊ HƯƠNG (Tiết 3)",
+   "title": "Bài 2. Em yêu quê hương (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 5",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB1a: HS kể được việc mình đã làm cho quê hương khi ảnh của mình hiện lên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -124,21 +114,15 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề 2: Kính trọng thầy giáo, cô giáo và yêu quý bạn bè",
-   "title": "Bài 3: KÍNH TRỌNG THẦY GIÁO, CÔ GIÁO (Tiết 1)",
+   "title": "Bài 3. Kính trọng thầy giáo, cô giáo (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 6 (2 tiết)",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Sau khi nghe bài hát “Bông hồng tặng cô”, GV chiếu bộ ảnh việc làm thể hiện lòng kính trọng thầy cô."
-    }
-   ],
+   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS hiểu AI có thể hỗ trợ thầy cô giảng bài nhưng tình cảm, sự quan tâm và động viên của thầy cô là điều AI không thể thay thế",
+   "integrations": [],
    "note": ""
   },
   {
@@ -146,14 +130,14 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 2: Kính trọng thầy giáo, cô giáo và yêu quý bạn bè",
-   "title": "Bài 3: KÍNH TRỌNG THẦY GIÁO, CÔ GIÁO (Tiết 2)",
+   "title": "Bài 3. Kính trọng thầy giáo, cô giáo (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 7",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.5 CB1a: HS phân biệt được chuẩn mực hành vi đơn giản và biết sử dụng lời nói lễ phép, lịch sự khi nhắn tin hoặc gọi video chúc mừng thầy cô qua ứng dụng liên lạc dưới sự hướng dẫn của người lớn",
    "integrations": [],
    "note": ""
   },
@@ -162,21 +146,15 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 2: Kính trọng thầy giáo, cô giáo và yêu quý bạn bè",
-   "title": "Bài 4: YÊU QUÝ BẠN BÈ (Tiết 1)",
+   "title": "Bài 4. Yêu quý bạn bè (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 8 (2 tiết)",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu vài tình huống trên màn hình như bạn quên đồ dùng, bạn bị ngã ở sân, bạn buồn vì bị trêu."
-    }
-   ],
+   "adjustments": "Tích hợp AI; YCCĐ 2.A3.1: HS nhận thức cần duy trì thái độ lịch sự khi tương tác với công nghệ để AI học được điều tích cực; biết dùng lời nói phù hợp, không xúc phạm và không cung cấp thông tin cá nhân",
+   "integrations": [],
    "note": ""
   },
   {
@@ -184,7 +162,7 @@
    "semester": 1,
    "week": 9,
    "theme": "Chủ đề 2: Kính trọng thầy giáo, cô giáo và yêu quý bạn bè",
-   "title": "Bài 4: YÊU QUÝ BẠN BÈ (Tiết 2)",
+   "title": "Bài 4. Yêu quý bạn bè (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 9",
    "periodFrom": 9,
@@ -199,8 +177,8 @@
    "id": "l2-dao-duc-010",
    "semester": 1,
    "week": 10,
-   "theme": "Ôn tập, thực hành kĩ năng",
-   "title": "THỰC HÀNH KĨ NĂNG GIỮA HỌC KÌ I",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Thực hành kĩ năng giữa học kì I",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -216,20 +194,15 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 3: Quý trọng thời gian",
-   "title": "Bài 5: QUÝ TRỌNG THỜI GIAN (Tiết 1)",
+   "title": "Bài 5. Quý trọng thời gian (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 11 (2 tiết)",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS xem đồng hồ bấm giờ, cảm nhận được một phút dài bao nhiêu và đọc lại thời gian biểu lớp vừa lập trên máy",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bảng ghi thời gian một số việc thường ngày của trẻ em (ăn cơm, làm bài, xem ti vi, xem clip, chơi trò chơi trên máy)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -243,14 +216,14 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề 3: Quý trọng thời gian",
-   "title": "Bài 5: QUÝ TRỌNG THỜI GIAN (Tiết 2)",
+   "title": "Bài 5. Quý trọng thời gian (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 12",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.3 CB1a: Nhận biết được nơi để sắp xếp dữ liệu, thông tin một cách đơn giản trong môi trường có cấu trúc; nhận diện ứng dụng Lịch hoặc đồng hồ số có thể hỗ trợ sắp xếp công việc",
    "integrations": [],
    "note": ""
   },
@@ -259,7 +232,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề 4: Nhận lỗi và sửa lỗi",
-   "title": "Bài 6: NHẬN LỖI VÀ SỬA LỖI (Tiết 1)",
+   "title": "Bài 6. Nhận lỗi và sửa lỗi (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 13 (2 tiết)",
    "periodFrom": 13,
@@ -286,14 +259,14 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 4: Nhận lỗi và sửa lỗi",
-   "title": "Bài 6: NHẬN LỖI VÀ SỬA LỖI (Tiết 2)",
+   "title": "Bài 6. Nhận lỗi và sửa lỗi (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 14",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1a: Sử dụng công cụ số đơn giản để giải quyết nhu cầu học tập và nhận phản hồi từ công cụ; hiểu phản hồi “Sai” là cơ hội kiểm tra, sửa lại câu trả lời và tiến bộ",
    "integrations": [],
    "note": ""
   },
@@ -302,19 +275,19 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 5: Bảo quản đồ dùng cá nhân và gia đình",
-   "title": "Bài 7: BẢO QUẢN ĐỒ DÙNG CÁ NHÂN (Tiết 1)",
+   "title": "Bài 7. Bảo quản đồ dùng cá nhân (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 15 (2 tiết)",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "sau và nói được mình đã giữ gìn đồ dùng của mình thế nào",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chụp ảnh cặp sách, hộp bút, giày dép của vài HS lúc đầu giờ rồi chiếu lên màn hình."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nhìn cặp ảnh trước"
     },
     {
      "code": "KNS",
@@ -329,14 +302,14 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 5: Bảo quản đồ dùng cá nhân và gia đình",
-   "title": "Bài 7: BẢO QUẢN ĐỒ DÙNG CÁ NHÂN (Tiết 2)",
+   "title": "Bài 7. Bảo quản đồ dùng cá nhân (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 16",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.1 CB1a: Nhận biết được cách bảo vệ nội dung số và sử dụng thiết bị số an toàn một cách đơn giản; hình thành ý thức bảo quản máy tính, máy tính bảng và tệp tin học tập như tài sản cá nhân",
    "integrations": [],
    "note": ""
   },
@@ -345,20 +318,15 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề 5: Bảo quản đồ dùng cá nhân và gia đình",
-   "title": "Bài 8: BẢO QUẢN ĐỒ DÙNG GIA ĐÌNH (Tiết 1)",
+   "title": "Bài 8. Bảo quản đồ dùng gia đình (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 17 (2 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc được kí hiệu cảnh báo và vài dòng hướng dẫn giữ gìn in trên đồ dùng gia đình",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu các tình huống có thật."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -372,14 +340,14 @@
    "semester": 1,
    "week": 18,
    "theme": "Chủ đề 5: Bảo quản đồ dùng cá nhân và gia đình",
-   "title": "Bài 8: BẢO QUẢN ĐỒ DÙNG GIA ĐÌNH (Tiết 2)",
+   "title": "Bài 8. Bảo quản đồ dùng gia đình (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 18",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc được kí hiệu cảnh báo và vài dòng hướng dẫn giữ gìn in trên đồ dùng gia đình",
    "integrations": [],
    "note": ""
   },
@@ -387,15 +355,15 @@
    "id": "l2-dao-duc-019",
    "semester": 2,
    "week": 19,
-   "theme": "Ôn tập, thực hành kĩ năng",
-   "title": "ÔN TẬP TỔNG HỢP CUỐI HỌC KÌ I",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Thực hành kĩ năng cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "GV chủ động bố trí trong tuần 18",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -404,20 +372,15 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 6: Thể hiện cảm xúc bản thân",
-   "title": "Bài 9: CẢM XÚC CỦA EM (Tiết 1)",
+   "title": "Bài 9. Cảm xúc của em (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 20 (2 tiết)",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.6 CB1a: HS biết lựa chọn biểu tượng cảm xúc (Emoji) hoặc ảnh đại diện (Avatar) thân thiện để thể hiện và lan tỏa cảm xúc tích cực trên môi trường số",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu bảng biểu tượng cảm xúc quen thuộc trên điện thoại (mặt cười, mặt buồn, mặt giận) đặt cạnh ảnh khuôn mặt thật tương ứng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -431,7 +394,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 6: Thể hiện cảm xúc bản thân",
-   "title": "Bài 9: CẢM XÚC CỦA EM (Tiết 2)",
+   "title": "Bài 9. Cảm xúc của em (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 21",
    "periodFrom": 21,
@@ -439,7 +402,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.1 CB1a: HS gọi tên được cảm xúc trên khuôn mặt thật và trên biểu tượng"
+    }
+   ],
    "note": ""
   },
   {
@@ -447,20 +416,15 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 6: Thể hiện cảm xúc bản thân",
-   "title": "Bài 10: KIỀM CHẾ CẢM XÚC TIÊU CỰC (Tiết 1)",
+   "title": "Bài 10. Kiềm chế cảm xúc tiêu cực (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 22 (3 tiết)",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.3 CB1a: HS nhận biết cách đơn giản để tránh rủi ro, đe dọa đến sức khỏe thể chất và tinh thần khi sử dụng công nghệ số; biết rời khỏi màn hình và báo người lớn khi gặp nội dung tiêu cực hoặc bị bắt nạt trên môi trường số",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu tình huống có thật với trẻ em."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -474,14 +438,14 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 6: Thể hiện cảm xúc bản thân",
-   "title": "Bài 10: KIỀM CHẾ CẢM XÚC TIÊU CỰC (Tiết 2)",
+   "title": "Bài 10. Kiềm chế cảm xúc tiêu cực (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 23",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS chọn được cách phản ứng phù hợp trong từng tình huống và làm được các bước hít thở làm dịu cơn giận",
    "integrations": [],
    "note": ""
   },
@@ -490,14 +454,14 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 6: Thể hiện cảm xúc bản thân",
-   "title": "Bài 10: KIỀM CHẾ CẢM XÚC TIÊU CỰC (Tiết 3)",
+   "title": "Bài 10. Kiềm chế cảm xúc tiêu cực (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 24",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB1b: HS chọn được cách phản ứng phù hợp trong từng tình huống và làm được các bước hít thở làm dịu cơn giận",
    "integrations": [],
    "note": ""
   },
@@ -506,7 +470,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề 7: Tìm kiếm sự hỗ trợ",
-   "title": "Bài 11: TÌM KIẾM SỰ HỖ TRỢ KHI Ở NHÀ (Tiết 1)",
+   "title": "Bài 11. Tìm kiếm sự hỗ trợ khi ở nhà (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 25 (2 tiết)",
    "periodFrom": 25,
@@ -516,9 +480,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Ở nhà một mình, chiếc điện thoại là công cụ cầu cứu thật sự."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.1 CB1a: HS nhớ và nói được số điện thoại của bố mẹ cùng các số gọi khẩn cấp"
     }
    ],
    "note": ""
@@ -528,14 +492,14 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 7: Tìm kiếm sự hỗ trợ",
-   "title": "Bài 11: TÌM KIẾM SỰ HỖ TRỢ KHI Ở NHÀ (Tiết 2)",
+   "title": "Bài 11. Tìm kiếm sự hỗ trợ khi ở nhà (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 26",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: Xác định được thông tin cần tìm và thực hiện tìm kiếm đơn giản trong môi trường số dưới sự giám sát của người lớn",
    "integrations": [],
    "note": ""
   },
@@ -543,8 +507,8 @@
    "id": "l2-dao-duc-027",
    "semester": 2,
    "week": 27,
-   "theme": "Ôn tập, thực hành kĩ năng",
-   "title": "THỰC HÀNH KĨ NĂNG GIỮA HỌC KÌ II",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Thực hành kĩ năng giữa học kì II",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -560,21 +524,15 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề 7: Tìm kiếm sự hỗ trợ",
-   "title": "Bài 12: TÌM KIẾM SỰ HỖ TRỢ KHI Ở TRƯỜNG (Tiết 1)",
+   "title": "Bài 12. Tìm kiếm sự hỗ trợ khi ở trường (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 28 (2 tiết)",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu sơ đồ trường học trên máy và bấm sáng những nơi."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1a: HS nhận ra một số công cụ số và giải pháp công nghệ đơn giản tại trường như loa thông báo, chuông báo, camera giám sát, điện thoại nội bộ hoặc màn hình hướng dẫn có thể hỗ trợ bảo đảm an toàn và giúp tìm kiếm sự hỗ trợ kịp thời",
+   "integrations": [],
    "note": ""
   },
   {
@@ -582,14 +540,14 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 7: Tìm kiếm sự hỗ trợ",
-   "title": "Bài 12: TÌM KIẾM SỰ HỖ TRỢ KHI Ở TRƯỜNG (Tiết 2)",
+   "title": "Bài 12. Tìm kiếm sự hỗ trợ khi ở trường (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 29",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS xác định được thông tin cần tìm để nhận hỗ trợ ở trường như phòng y tế, người trực trường, nội quy an toàn hoặc nguồn trợ giúp đáng tin cậy; bước đầu biết thực hiện thao tác tìm kiếm đơn giản dưới sự giám sát của người lớn và không cung cấp thông tin cá nhân cho người lạ",
    "integrations": [],
    "note": ""
   },
@@ -598,20 +556,15 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 7: Tìm kiếm sự hỗ trợ",
-   "title": "Bài 13: TÌM KIẾM SỰ HỖ TRỢ Ở NƠI CÔNG CỘNG",
+   "title": "Bài 13. Tìm kiếm sự hỗ trợ ở nơi công cộng",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1a: HS xác định được thông tin liên lạc cần tìm khi bị lạc hoặc gặp sự cố như số điện thoại người thân, số khẩn cấp hoặc địa chỉ điểm hỗ trợ; thực hiện tìm kiếm đơn giản dưới sự hướng dẫn của người lớn, không chia sẻ thông tin riêng với người lạ",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh chụp thật những nơi công cộng quen thuộc (siêu thị, công viên, bến xe)."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -625,20 +578,15 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 8: Tuân thủ quy định nơi công cộng",
-   "title": "Bài 14: TÌM HIỂU QUY ĐỊNH NƠI CÔNG CỘNG (Tiết 1)",
+   "title": "Bài 14. Tìm hiểu quy định nơi công cộng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 31 (2 tiết)",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS đọc được biển nội quy, biển cấm nơi công cộng, kể cả biển liên quan tới điện thoại và máy quay",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "Chiếu ảnh một nơi công cộng."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -652,15 +600,21 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 8: Tuân thủ quy định nơi công cộng",
-   "title": "Bài 14: TÌM HIỂU QUY ĐỊNH NƠI CÔNG CỘNG (Tiết 2)",
+   "title": "Bài 14. Tìm hiểu quy định nơi công cộng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 32",
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "biết thực hiện tìm kiếm đơn giản nội quy của một địa điểm công cộng từ nguồn tin cậy dưới sự hướng dẫn của người lớn; không bấm vào trang lạ và không cung cấp thông tin cá nhân",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1a: HS xác định được thông tin cần tìm"
+    }
+   ],
    "note": ""
   },
   {
@@ -668,20 +622,15 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 8: Tuân thủ quy định nơi công cộng",
-   "title": "Bài 15: EM TUÂN THỦ QUY ĐỊNH NƠI CÔNG CỘNG (Tiết 1)",
+   "title": "Bài 15. Em tuân thủ quy định nơi công cộng (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 33 (2 tiết)",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.1 CB1a: HS nêu được việc nên làm khi thấy người gặp chuyện ở nơi công cộng thay vì đứng quay phim",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Nêu tình huống: em thấy một bạn khóc, một cụ già bị ngã ở nơi công cộng và có người rút điện thoại ra quay lại."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -695,14 +644,14 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề 8: Tuân thủ quy định nơi công cộng",
-   "title": "Bài 15: EM TUÂN THỦ QUY ĐỊNH NƠI CÔNG CỘNG (Tiết 2)",
+   "title": "Bài 15. Em tuân thủ quy định nơi công cộng (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 34",
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 2.1 CB1a: HS nêu được việc nên làm khi thấy người gặp chuyện ở nơi công cộng thay vì đứng quay phim",
    "integrations": [],
    "note": ""
   },
@@ -710,8 +659,8 @@
    "id": "l2-dao-duc-035",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, thực hành kĩ năng",
-   "title": "THỰC HÀNH KĨ NĂNG CUỐI NĂM",
+   "theme": "Ôn tập, đánh giá",
+   "title": "Thực hành kĩ năng cuối năm học",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -996,7 +945,7 @@
   "file": "assets/docs/lop2/Dao duc - Lop 2.docx",
   "name": "Dao duc - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 43122,
+  "size": 44008,
   "updated": "2026-09-08"
  }
 }
