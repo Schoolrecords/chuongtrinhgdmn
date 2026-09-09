@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-08"
+  "importedAt": "2026-09-09"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 28
+  "integrations": 25
  },
  "lessons": [
   {
@@ -424,13 +424,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho HS tham quan “Sông Hồng và văn minh Sông Hồng” qua bảo tàng số, ảnh 360 độ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -726,13 +720,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Khám phá bài “Dân cư và hoạt động sản xuất ở vùng Bắc Trung Bộ và Nam Trung Bộ”."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -818,13 +806,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động nhóm, GV chiếu bảng chung “Di sản – Nơi có – Nét đặc sắc”."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1576,14 +1558,14 @@
  "attachment": {
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.docx",
   "name": "Lich su va Dia li - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 44769,
-  "updated": "2026-09-08"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
+  "size": 44690,
+  "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.xlsx",
   "name": "Lich su va Dia li - Lop 4.xlsx",
-  "size": 11053,
-  "updated": "2026-09-08"
+  "size": 10978,
+  "updated": "2026-09-09"
  }
 }

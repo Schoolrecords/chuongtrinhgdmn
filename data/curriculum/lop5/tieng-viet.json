@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-08"
+  "importedAt": "2026-09-09"
  },
  "summary": {
   "totalPeriods": 245,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 210,
-  "integrations": 92
+  "integrations": 90
  },
  "lessons": [
   {
@@ -935,13 +935,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Khi ôn về từ đa nghĩa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3836,13 +3830,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động đọc hiểu, GV chiếu bảng chung “Chi tiết trong bài – Điều em hiểu được”."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -4198,14 +4186,14 @@
  "attachment": {
   "file": "assets/docs/lop5/Tieng Viet - Lop 5.docx",
   "name": "Tieng Viet - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 52907,
-  "updated": "2026-09-08"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
+  "size": 52889,
+  "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop5/Tieng Viet - Lop 5.xlsx",
   "name": "Tieng Viet - Lop 5.xlsx",
-  "size": 21862,
-  "updated": "2026-09-08"
+  "size": 21834,
+  "updated": "2026-09-09"
  }
 }

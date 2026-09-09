@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-08"
+  "importedAt": "2026-09-09"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 19
+  "integrations": 18
  },
  "lessons": [
   {
@@ -1237,13 +1237,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Tổng kết môn học, GV chiếu sơ đồ các chủ đề đã học trong năm lên màn hình, mở."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ],
@@ -1519,14 +1513,14 @@
  "attachment": {
   "file": "assets/docs/lop4/Khoa hoc - Lop 4.docx",
   "name": "Khoa hoc - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 44872,
-  "updated": "2026-09-08"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
+  "size": 44812,
+  "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Khoa hoc - Lop 4.xlsx",
   "name": "Khoa hoc - Lop 4.xlsx",
-  "size": 11239,
-  "updated": "2026-09-08"
+  "size": 11154,
+  "updated": "2026-09-09"
  }
 }
