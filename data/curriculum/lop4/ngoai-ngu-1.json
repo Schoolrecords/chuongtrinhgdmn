@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát theo Sách giáo viên (07/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-08"
+  "importedAt": "2026-09-09"
  },
  "summary": {
   "totalPeriods": 140,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 146
+  "integrations": 143
  },
  "lessons": [
   {
@@ -553,13 +553,8 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài Unit 4 My birthday party, GV chiếu bộ tranh đồ vật và hoạt động trong bữa tiệc kèm tệp ghi âm; HS nghe rồi nối từ với tranh; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nghe chọn tranh đúng và điền từ còn thiếu vào lời mời; máy chấm ngay nên HS nhận ra mình còn nhầm hai từ gần giống nhau",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài Unit 4 My birthday party, GV chiếu bộ tranh đồ vật."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -778,7 +773,7 @@
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở tiết Review 1 phần nghe và đọc, GV mở bộ bài tập tương tác tổng hợp các chủ điểm đã học; sau mỗi câu máy báo đúng; Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu bảng tổng hợp từ vựng và mẫu câu của các bài đã học, bấm sáng dần từng nhóm; HS nhìn bảng để nhớ lại theo chủ điểm chứ không học rời rạc",
    "integrations": [],
    "note": ""
   },
@@ -794,7 +789,7 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở tiết Review 1 phần nghe và đọc, GV mở bộ bài tập tương tác tổng hợp các chủ điểm đã học; sau mỗi câu máy báo đúng; Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu bảng tổng hợp từ vựng và mẫu câu của các bài đã học, bấm sáng dần từng nhóm; HS nhìn bảng để nhớ lại theo chủ điểm chứ không học rời rạc",
+   "adjustments": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở tiết Review 1 phần nói và viết, GV chiếu bảng ghi câu trả lời của các nhóm lên màn hình theo từng chủ điểm; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi nhóm làm một trang ôn tập nhỏ: chọn hình minh hoạ cho ba chủ điểm đã học, ghi từ khoá và một mẫu câu",
    "integrations": [],
    "note": ""
   },
@@ -1056,13 +1051,8 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 7 Our timetables, GV chiếu thời khoá biểu mẫu kèm tệp ghi âm mẫu; HS nghe rồi chỉ đúng môn học ở đúng thứ trên bảng; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô điền",
+   "adjustments": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần luyện tập bài Unit 7, GV mở bài hát của bài học trên màn hình cho cả lớp hát theo rồi ghi âm lượt hỏi đáp về thời khoá biểu của vài…; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi nhóm làm một thời khoá biểu bằng hình: chọn biểu tượng môn học, ghi thứ và viết hai câu tiếng Anh giới thiệu ngày mình thích nhất",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu thời khoá biểu trống của lớp"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1511,7 +1501,7 @@
    "periodTo": 68,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Listen and tick của Review 2, GV chiếu tranh lên màn hình và mở bản nghe năm tình huống giao tiếp, dừng sau mỗi tình huống để HS chọn đáp án; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV chiếu danh sách các bài hát từ Unit 6 đến Unit 10 kèm lời chạy trên màn hình để các nhóm chọn một bài và hát đồng thanh",
    "integrations": [],
    "note": ""
   },
@@ -1629,7 +1619,7 @@
    "periodTo": 75,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Vocabulary của Unit 11 “My home”, GV chiếu tranh đồ vật trong nhà kèm từ và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Whispering, sau mỗi lượt truyền tin GV chiếu câu gốc lên màn hình; hai đội đối chiếu câu mình nói với câu gốc",
    "integrations": [
     {
      "code": "KNS",
@@ -1673,7 +1663,7 @@
    "periodTo": 77,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Vocabulary của Unit 11 “My home”, GV chiếu tranh đồ vật trong nhà kèm từ và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Whispering, sau mỗi lượt truyền tin GV chiếu câu gốc lên màn hình; hai đội đối chiếu câu mình nói với câu gốc",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 11 “My home”, GV mở bản nghe mẫu âm của các chữ cái trong bài; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát My house có lời chạy trên màn hình cho cả lớp hát; sau đó chia hai nhóm hát nối tiếp theo phần lời đang sáng và nghe…",
    "integrations": [
     {
      "code": "KNS",
@@ -1717,7 +1707,7 @@
    "periodTo": 79,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 11 “My home”, GV chiếu tranh các phòng trong nhà lên màn hình và mở bản nghe mẫu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bản chant về ngôi nhà có chữ chạy theo nhịp; sau khi nghe, các nhóm sắp lại các thẻ từ chỉ phòng theo đúng thứ tự xuất hiện trong…",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 12 “Jobs”, GV chiếu tranh những người đang làm việc kèm tên nghề lên màn hình và mở bản nghe mẫu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Guess the job, GV chiếu lần lượt ảnh một đồ vật gắn với nghề như ống nghe, thước thợ, bảng phấn",
    "integrations": [
     {
      "code": "KNS",
@@ -1810,7 +1800,7 @@
    "periodTo": 83,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 12 “Jobs”, GV mở bản nghe mẫu các từ chỉ nghề, cho nghe chậm rồi nghe lại tốc độ thường và chiếu chữ có đánh dấu…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Lip-reading, GV chiếu từ chỉ nghề riêng cho bạn nhìn, bạn nói không thành tiếng để nhóm đoán",
    "integrations": [
     {
      "code": "KNS",
@@ -1854,8 +1844,13 @@
    "periodTo": 85,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 12 “Jobs”, GV mở bản nghe mẫu các từ chỉ nghề, cho nghe chậm rồi nghe lại tốc độ thường và chiếu chữ có đánh dấu…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Lip-reading, GV chiếu từ chỉ nghề riêng cho bạn nhìn, bạn nói không thành tiếng để nhóm đoán",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 13 “Appearance”, GV chiếu tranh các nhân vật với ngoại hình khác nhau và mở bản nghe mẫu; Đặc điểm ngoại hình”; các cặp hỏi đáp về nhân vật trong tranh rồi lên điền câu của mình",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Nhân vật"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1903,7 +1898,7 @@
    "periodTo": 87,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 13 “Appearance”, GV mở bản nghe mẫu các câu mô tả ngoại hình; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi truyền tin, sau mỗi lượt GV chiếu câu gốc mô tả một người lên màn hình; hai đội đối chiếu câu mình nói với câu gốc",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 13 “Appearance”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu người được tả; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát What do your parents look like? có lời chạy trên màn hình cho cả lớp hát",
    "integrations": [
     {
      "code": "KNS",
@@ -1947,7 +1942,7 @@
    "periodTo": 89,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 13 “Appearance”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu người được tả; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát What do your parents look like? có lời chạy trên màn hình cho cả lớp hát",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 13 “Appearance”, GV mở bản nghe mẫu các câu mô tả ngoại hình; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi truyền tin, sau mỗi lượt GV chiếu câu gốc mô tả một người lên màn hình; hai đội đối chiếu câu mình nói với câu gốc",
    "integrations": [
     {
      "code": "KNS",
@@ -1991,12 +1986,12 @@
    "periodTo": 91,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 13 “Appearance”, GV chiếu tranh các nhân vật với ngoại hình khác nhau và mở bản nghe mẫu; Đặc điểm ngoại hình”; các cặp hỏi đáp về nhân vật trong tranh rồi lên điền câu của mình",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Vocabulary của Unit 14 “Daily activities”, GV chiếu tranh các việc làm hằng ngày kèm từ mới lên màn hình và mở bản nghe mẫu; Việc em làm”; các cặp hỏi đáp về thời gian biểu của nhau rồi lên điền câu của mình",
    "integrations": [
     {
      "code": "NLS",
      "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Nhân vật"
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Giờ"
     },
     {
      "code": "KNS",
@@ -2045,7 +2040,7 @@
    "periodTo": 93,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 14 “Daily activities”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Spelling Bee, GV chiếu từ đã học lên màn hình rồi che đi, các nhóm đánh vần lại",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Vocabulary của Unit 14 “Daily activities”, GV chiếu tranh các việc làm trong ngày kèm từ mới lên màn hình và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Change chairs, GV chiếu câu lệnh lên màn hình để cả lớp cùng đọc; HS nghe và đổi chỗ nếu câu đúng với mình",
    "integrations": [
     {
      "code": "KNS",
@@ -2089,7 +2084,7 @@
    "periodTo": 95,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 14 “Daily activities”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Spelling Bee, GV chiếu từ đã học lên màn hình rồi che đi, các nhóm đánh vần lại",
    "integrations": [
     {
      "code": "KNS",
@@ -2138,7 +2133,7 @@
    "periodTo": 97,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 14 “Daily activities”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Spelling Bee, GV chiếu từ đã học lên màn hình rồi che đi, các nhóm đánh vần lại",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 15 “My family's weekends”, GV chiếu tranh các địa điểm trong thị trấn kèm tên gọi lên màn hình và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Nơi đến cuối tuần; Việc làm ở đó”; các cặp hỏi đáp rồi lên điền câu của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -2182,7 +2177,7 @@
    "periodTo": 99,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 15 “My family's weekends”, GV mở bản nghe mẫu, cho nghe chậm rồi nghe lại tốc độ thường và chiếu câu có đánh dấu trọng âm…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Matching, GV chiếu hai cột từ và tranh bị xáo trộn; các nhóm nối thử rồi bấm kiểm tra",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 15, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu nơi gia đình bạn nhỏ đến; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát Where do they go on Saturdays? có lời chạy trên màn hình cho cả lớp hát",
    "integrations": [
     {
      "code": "KNS",
@@ -2226,13 +2221,8 @@
    "periodTo": 101,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 15 “My family's weekends”, GV mở bản nghe mẫu, cho nghe chậm rồi nghe lại tốc độ thường và chiếu câu có đánh dấu trọng âm…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Matching, GV chiếu hai cột từ và tranh bị xáo trộn; các nhóm nối thử rồi bấm kiểm tra",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Warm-up trò chơi Matching, GV chiếu hai cột từ."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2275,7 +2265,7 @@
    "periodTo": 103,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 15 “My family's weekends”, GV chiếu tranh các địa điểm trong thị trấn kèm tên gọi lên màn hình và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Nơi đến cuối tuần; Việc làm ở đó”; các cặp hỏi đáp rồi lên điền câu của mình",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Listen and tick của Review 3, GV chiếu tranh lên màn hình và mở bản nghe các tình huống giao tiếp đã học, dừng sau mỗi tình huống để HS chọn; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát và bản chant của Unit 15 có lời chạy trên màn hình; các nhóm chọn một bài",
    "integrations": [
     {
      "code": "KNS",
@@ -2297,7 +2287,7 @@
    "periodTo": 104,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Fun time của Review 3, GV chiếu lần lượt các từ và câu đã học lên màn hình cho HS đọc nối tiếp; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần luyện tập, GV mở bài tập tương tác nối câu hỏi với câu trả lời; HS chọn rồi bấm kiểm tra",
    "integrations": [],
    "note": ""
   },
@@ -2417,7 +2407,7 @@
    "periodTo": 110,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 16 “Weather”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu kiểu thời tiết; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát What was the weather like? có lời chạy trên màn hình cho cả lớp hát",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 16 “Weather”, GV mở bản nghe mẫu hai âm được học, cho nghe chậm rồi nghe lại tốc độ thường và chiếu câu ví dụ có…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Slap the board, GV chiếu các từ đã học lên màn hình; hai đội nghe GV đọc rồi lên chạm đúng từ",
    "integrations": [
     {
      "code": "KNS",
@@ -2461,12 +2451,12 @@
    "periodTo": 112,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Vocabulary của Unit 16 “Weather”, GV chiếu tranh các kiểu thời tiết kèm từ mới lên màn hình và mở bản nghe mẫu; Thời tiết hôm nay; Câu nói bằng tiếng Anh”; các cặp hỏi đáp rồi lên điền",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 17 “In the city”, GV chiếu tranh các địa điểm trong thành phố kèm tên gọi lên màn hình và mở bản nghe mẫu; Việc làm ở đó”; các cặp hỏi đáp rồi lên điền câu của mình",
    "integrations": [
     {
      "code": "NLS",
      "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Nơi"
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Địa điểm"
     },
     {
      "code": "KNS",
@@ -2510,13 +2500,8 @@
    "periodTo": 114,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 17 “In the city”, GV chiếu tranh các địa điểm trong thành phố kèm tên gọi lên màn hình và mở bản nghe mẫu; Việc làm ở đó”; các cặp hỏi đáp rồi lên điền câu của mình",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 17 “In the city”, GV chiếu sơ đồ đường phố lên màn hình và mở bản nghe mẫu các câu chỉ đường; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bản đồ khu phố có đánh dấu điểm xuất phát và đích đến; các cặp thay nhau chỉ đường bằng tiếng Anh",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Địa điểm"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2559,7 +2544,7 @@
    "periodTo": 116,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 17 “In the city”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu nơi được nhắc tới; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Memory game, GV chiếu bộ thẻ từ chỉ đường và địa điểm rồi giấu dần từng thẻ; các nhóm nhớ và gọi tên thẻ đã mất",
    "integrations": [
     {
      "code": "KNS",
@@ -2603,12 +2588,12 @@
    "periodTo": 118,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 17 “In the city”, GV chiếu tranh các địa điểm trong thành phố kèm tên gọi lên màn hình và mở bản nghe mẫu; Việc làm ở đó”; các cặp hỏi đáp rồi lên điền câu của mình",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 18 “At the shopping centre”, GV chiếu tranh trung tâm mua sắm kèm tên các gian hàng và mở bản nghe mẫu; Thứ mua được ở đó”; các cặp hỏi đáp rồi lên điền câu của mình",
    "integrations": [
     {
      "code": "NLS",
      "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Địa điểm"
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Gian hàng"
     },
     {
      "code": "KNS",
@@ -2657,7 +2642,7 @@
    "periodTo": 120,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 18 “At the shopping centre”, GV mở bản nghe mẫu, cho nghe chậm rồi nghe lại tốc độ thường và chiếu câu có đánh dấu chỗ…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Guess the price, GV chiếu ảnh món hàng cùng vài mức giá; các nhóm đoán giá bằng tiếng Anh rồi bấm chọn",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 18, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần ôn số, GV chiếu các số 20, 50, 80, 90 lên màn hình rồi yêu cầu HS thêm từ thousand và đọc to",
    "integrations": [
     {
      "code": "KNS",
@@ -2750,8 +2735,13 @@
    "periodTo": 124,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 19 “The animal world”, GV chiếu tranh các loài vật kèm tên gọi lên màn hình và mở bản nghe mẫu; Nơi sống; Đặc điểm”; các cặp hỏi đáp rồi lên điền câu của mình",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Con vật"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2799,13 +2789,8 @@
    "periodTo": 126,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 19 “The animal world”, GV chiếu tranh các loài vật kèm tên gọi lên màn hình và mở bản nghe mẫu; Nơi sống; Đặc điểm”; các cặp hỏi đáp rồi lên điền câu của mình",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 19 “The animal world”, GV chiếu tranh loài vật lên màn hình và mở bản nghe mẫu các câu mô tả; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi đoán con vật, GV chiếu ảnh bị che phần lớn; các nhóm đoán tên bằng tiếng Anh rồi giơ tay trả lời",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Con vật"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2848,8 +2833,13 @@
    "periodTo": 128,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 19, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu con vật được nhắc tới; Nơi sống; Thức ăn”; các cặp hỏi đáp rồi lên điền câu của mình",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Con vật"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2897,13 +2887,8 @@
    "periodTo": 130,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 19 “The animal world”, GV chiếu tranh các loài vật kèm tên gọi lên màn hình và mở bản nghe mẫu; Nơi sống; Đặc điểm”; các cặp hỏi đáp rồi lên điền câu của mình",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 20 “At summer camp”, GV chiếu tranh các hoạt động ở trại hè kèm tên gọi và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Hoạt động ở trại hè; Vì sao em thích”; các cặp hỏi đáp rồi lên điền câu của mình",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Con vật"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2946,7 +2931,7 @@
    "periodTo": 132,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 20 “At summer camp”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần luyện tập, GV mở bài tập tương tác nối hoạt động với đồ dùng cần mang theo; HS chọn rồi bấm kiểm tra",
    "integrations": [
     {
      "code": "KNS",
@@ -3034,7 +3019,7 @@
    "periodTo": 136,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Listen and tick của Review 4, GV chiếu tranh lên màn hình và mở bản nghe các tình huống đã học, dừng sau mỗi tình huống để HS chọn; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Choose and throw, GV chiếu các phương án trả lời lên màn hình; hai đội chọn rồi ném bóng dính vào ô mình chọn",
    "integrations": [
     {
      "code": "KNS",
@@ -3381,14 +3366,14 @@
  "attachment": {
   "file": "assets/docs/lop4/Tieng Anh - Lop 4.docx",
   "name": "Tieng Anh - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 50923,
-  "updated": "2026-09-08"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
+  "size": 51379,
+  "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Tieng Anh - Lop 4.xlsx",
   "name": "Tieng Anh - Lop 4.xlsx",
-  "size": 18498,
-  "updated": "2026-09-08"
+  "size": 19062,
+  "updated": "2026-09-09"
  }
 }

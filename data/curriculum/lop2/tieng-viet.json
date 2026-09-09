@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-08"
+  "importedAt": "2026-09-09"
  },
  "summary": {
   "totalPeriods": 350,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 257,
-  "integrations": 113
+  "integrations": 111
  },
  "lessons": [
   {
@@ -159,7 +159,7 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI 2.A1.2: HS nhận biết công cụ AI có thể hỗ trợ gợi ý từ ngữ hoặc dàn ý khi viết đoạn văn tả đồ vật, nhưng chỉ dùng để tham khảo; HS tự viết bằng lời của mình, không sao chép nguyên văn và không nhập thông tin riêng tư; Năng lực số 1.1 CB1b: HS nhìn hình vật được quay trực tiếp trên màn hình và nêu được các chi tiết về màu sắc, hình dáng, chất liệu",
+   "adjustments": "Năng lực số 1.1 CB1a: HS chọn bài đọc về thiếu nhi trong kho sách điện tử GV mở sẵn và nói vì sao chọn bài đó",
    "integrations": [],
    "note": ""
   },
@@ -456,19 +456,8 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "biết tìm đọc câu chuyện về thiên nhiên trên nguồn học liệu số do GV/cha mẹ cung cấp, chọn nội dung phù hợp và không bấm vào liên kết lạ",
-   "integrations": [
-    {
-     "code": "GDMT",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1a: HS biết tìm kiếm nội dung đơn giản trong môi trường số"
-    },
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1a: HS biết tìm kiếm nội dung đơn giản trong môi trường số"
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS xác định được nhu cầu thông tin và thực hiện tìm kiếm đơn giản trong môi trường số dưới sự hướng dẫn; biết tìm bài thơ/câu chuyện thiếu nhi phù hợp, chọn nguồn đọc an toàn, rõ tên bài, tác giả hoặc địa chỉ nguồn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -607,19 +596,8 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "biết tìm đọc bài thơ về vẻ đẹp thiên nhiên trên nguồn học liệu số do GV/cha mẹ cung cấp, chọn nội dung phù hợp và không bấm vào liên kết lạ",
-   "integrations": [
-    {
-     "code": "GDMT",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1a: HS biết tìm kiếm nội dung đơn giản trong môi trường số"
-    },
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1a: HS biết tìm kiếm nội dung đơn giản trong môi trường số"
-    }
-   ],
+   "adjustments": "Năng lực số 1.2 CB1a: HS biết chọn nguồn thông tin số đơn giản, tin cậy và tôn trọng bản quyền khi tìm bài viết/hình ảnh về hoạt động thể thao; không tự ý tải hình ảnh lạ, không sao chép tùy tiện và biết ghi nhớ tên bài, nguồn đọc",
+   "integrations": [],
    "note": ""
   },
   {
@@ -763,7 +741,7 @@
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI 2.C3.1: HS nhận biết AI có thể hỗ trợ nhận diện hoặc phân loại con vật qua hình ảnh nhưng có thể nhầm; HS cần quan sát đặc điểm và kiểm tra lại với nguồn tin đáng tin cậy; Năng lực số 1.1 CB1a: HS biết tìm kiếm nội dung đơn giản về động vật hoang dã trên nguồn học liệu an toàn; biết ghi tên loài vật, thức ăn, nơi sống theo sơ đồ gợi ý",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nêu được điểm giống nhau giữa tấm thiệp, lời cảm ơn viết trên giấy và tin nhắn gửi bằng điện thoại",
    "integrations": [],
    "note": ""
   },
@@ -1060,7 +1038,7 @@
    "periodTo": 70,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.2 CB1a: HS nêu được điểm giống nhau giữa tấm thiệp, lời cảm ơn viết trên giấy và tin nhắn gửi bằng điện thoại",
+   "adjustments": "Năng lực số 3.1 CB1a: HS đọc bài viết được chiếu trên màn hình, nói được một câu kể rõ việc của bạn và một chỗ cần bổ sung",
    "integrations": [],
    "note": ""
   },
@@ -1206,8 +1184,14 @@
    "periodTo": 80,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI 2.A1.2: HS nhận biết AI có thể gợi ý dàn ý/từ ngữ khi viết đoạn văn bảo vệ môi trường, nhưng chỉ dùng tham khảo; HS phải tự viết bằng trải nghiệm thật và không nhập thông tin riêng tư; Năng lực số 3.1 CB1a: HS đọc bài viết được chiếu trên màn hình, nói được một câu kể rõ việc của bạn và một chỗ cần bổ sung",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS quan sát ảnh phóng to và nêu được chi tiết mình sẽ đưa vào bài tả"
+    }
+   ],
    "note": ""
   },
   {
@@ -2942,7 +2926,7 @@
    "periodTo": 210,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV chiếu phóng to tranh minh hoạ bài đọc “Một giờ học” và mở bản đọc mẫu lời thầy giáo, lời bạn Quang; Năng lực số Miền 2 (Cơ bản, bậc 1): GV ghi âm lượt đọc phân vai của một nhóm rồi mở lại cho cả lớp nghe; các em nhận ra giọng thầy giáo phải chậm và ấm, giọng Quang lúc đầu ngập ngừng",
+   "adjustments": "Năng lực số 1.1 CB1a: HS xác định được nhu cầu thông tin và thực hiện tìm kiếm đơn giản trong môi trường số dưới sự hướng dẫn; biết tìm bài thơ/câu chuyện thiếu nhi phù hợp, chọn nguồn đọc an toàn, rõ tên bài, tác giả hoặc địa chỉ nguồn",
    "integrations": [],
    "note": ""
   },
@@ -3105,7 +3089,7 @@
    "periodTo": 220,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Trước bài đọc “Cầu thủ dự bị”, GV chiếu tranh minh hoạ phóng to và một đoạn phim ngắn về trận bóng của thiếu nhi để HS gọi tên môn thể thao; Năng lực số Miền 2 (Cơ bản, bậc 1): GV ghi âm lượt đọc phân vai của một nhóm rồi mở lại cho cả lớp nghe; các em nhận ra chỗ nào là lời người kể, chỗ nào là lời nhân vật",
+   "adjustments": "Năng lực số 1.2 CB1a: HS biết chọn nguồn thông tin số đơn giản, tin cậy và tôn trọng bản quyền khi tìm bài viết/hình ảnh về hoạt động thể thao; không tự ý tải hình ảnh lạ, không sao chép tùy tiện và biết ghi nhớ tên bài, nguồn đọc",
    "integrations": [],
    "note": ""
   },
@@ -3971,7 +3955,7 @@
    "periodTo": 290,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI 2.A1.2: HS biết AI có thể gợi ý câu/đoạn văn, nhưng phải tin tưởng ở mức hợp lí, kiểm tra lại và tự viết bằng trải nghiệm thật của mình; Năng lực số 1.1 CB1b: HS nhìn đoạn văn mẫu được tô màu và nêu được đoạn văn kể việc gồm mấy phần",
+   "adjustments": "Tích hợp năng lực số/an toàn thiết bị: Biết đọc một số thông tin đơn giản trên bản hướng dẫn sử dụng; nhận biết cần hỏi người lớn trước khi dùng thiết bị điện, thiết bị số; Tích hợp AI; YCCĐ 2.A3.2: Biết công cụ AI có thể gợi ý thông tin nhưng cần người lớn hướng dẫn, kiểm tra; không tự làm theo hướng dẫn nguy hiểm hoặc chia sẻ thông tin riêng tư",
    "integrations": [],
    "note": ""
   },
@@ -4117,7 +4101,7 @@
    "periodTo": 300,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1b: HS nói ý theo từng ô của sơ đồ để GV gõ vào, rồi dựa vào dàn ý trên màn hình mà viết đoạn văn của mình",
+   "adjustments": "Năng lực số 2.2 CB1a: HS nêu được vì sao phải kiểm tra tên người nhận trước khi gửi và vì sao mình cần nhờ bố mẹ gửi giúp",
    "integrations": [],
    "note": ""
   },
@@ -4409,8 +4393,14 @@
    "periodTo": 320,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI 2.A1.1: HS biết công cụ AI có thể gợi ý từ ngữ/câu văn, nhưng HS phải tự viết bằng trải nghiệm thật của mình và không nhập thông tin riêng tư của người thân; Năng lực số 2.2 CB1a: HS nêu được điểm giống nhau giữa đoạn văn viết trong vở và lời yêu thương gửi qua tin nhắn, tấm thiệp",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS quan sát ảnh phóng to và nêu được chi tiết mình sẽ đưa vào bài tả"
+    }
+   ],
    "note": ""
   },
   {
@@ -4555,7 +4545,7 @@
    "periodTo": 330,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát GV tìm sách theo chủ đề trên máy và nêu được tên một cuốn sách mình muốn đọc",
+   "adjustments": "Năng lực số 5.2 CB1b: HS nói ý theo từng ô của sơ đồ để GV gõ vào, rồi dựa vào dàn ý trên màn hình mà viết đoạn văn của mình",
    "integrations": [],
    "note": ""
   },
@@ -5070,14 +5060,14 @@
  "attachment": {
   "file": "assets/docs/lop2/Tieng Viet - Lop 2.docx",
   "name": "Tieng Viet - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 63700,
-  "updated": "2026-09-08"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
+  "size": 63171,
+  "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Tieng Viet - Lop 2.xlsx",
   "name": "Tieng Viet - Lop 2.xlsx",
-  "size": 33399,
-  "updated": "2026-09-08"
+  "size": 32916,
+  "updated": "2026-09-09"
  }
 }
