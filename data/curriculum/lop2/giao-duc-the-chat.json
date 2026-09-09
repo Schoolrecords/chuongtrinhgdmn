@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát theo Sách giáo viên (07/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-08"
+  "importedAt": "2026-09-09"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 44
+  "integrations": 38
  },
  "lessons": [
   {
@@ -117,7 +117,7 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được trên sơ đồ đường di chuyển của tổ mình trong “Chuyển đội hình hàng ngang thành đội hình vòng tròn và ngược lại”",
+   "adjustments": "",
    "integrations": [
     {
      "code": "KNS",
@@ -139,7 +139,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được trên sơ đồ đường di chuyển của tổ mình trong “Chuyển đội hình hàng dọc thành đội hình vòng tròn và ngược lại”",
+   "adjustments": "Năng lực số 1.1 CB1b: HS chỉ được trên sơ đồ đường di chuyển của tổ mình trong “Chuyển đội hình hàng ngang thành đội hình vòng tròn và ngược lại”",
    "integrations": [
     {
      "code": "KNS",
@@ -185,11 +185,6 @@
    "lessonPeriods": 5,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Giậm chân tại chỗ, đứng lại” đã chọn sẵn, cho chạy chậm."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -320,7 +315,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Năng lực số 5.2 CB1b: HS tập “Động tác vươn thở, động tác tay” đúng theo nhịp phát ra và tự nhận ra khi mình lệch nhịp",
+   "adjustments": "",
    "integrations": [
     {
      "code": "KNS",
@@ -454,7 +449,7 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.4 CB1a: HS đọc được bảng theo dõi phần đội hình đội ngũ và một số động tác bài thể dục và nói được mình tiến bộ ở nội dung nào",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -494,11 +489,6 @@
    "lessonPeriods": 5,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Bài tập phối hợp di chuyển vòng trái, vòng phải” đã chọn sẵn, cho chạy chậm."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -541,7 +531,7 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ thẳng” mà mình hay làm sai",
+   "adjustments": "",
    "integrations": [
     {
      "code": "KNS",
@@ -631,11 +621,6 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Các động tác quỳ, ngồi cơ bản” đã chọn sẵn, cho chạy chậm."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -848,7 +833,7 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Năng lực số 3.1 CB1a: HS xem lại clip mình thực hiện “Động tác di chuyển không bóng” cho chạy chậm và chỉ ra được chỗ mình làm chưa đúng",
+   "adjustments": "",
    "integrations": [
     {
      "code": "KNS",
@@ -914,7 +899,7 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Năng lực số 5.2 CB1b: HS tập “Động tác di chuyển không bóng” đúng theo nhịp phát ra và tự nhận ra khi mình lệch nhịp",
+   "adjustments": "",
    "integrations": [
     {
      "code": "KNS",
@@ -961,11 +946,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở phần Hình thành kiến thức bài “Động tác dẫn bóng” của chủ đề Bóng rổ, GV chiếu trên tivi video mẫu."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
@@ -985,7 +965,7 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Động tác dẫn bóng” mà mình hay làm sai",
+   "adjustments": "",
    "integrations": [
     {
      "code": "KNS",
@@ -1126,13 +1106,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Động tác tung và bắt bóng bằng hai tay” đã chọn sẵn, cho chạy chậm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1163,7 +1137,7 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.4 CB1a: HS đọc được bảng theo dõi phần kĩ năng vận động với bóng (thể thao tự chọn) và nói được mình tiến bộ ở nội dung nào",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -1179,7 +1153,7 @@
    "periodTo": 57,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.4 CB1a: HS đọc được bảng theo dõi phần kĩ năng vận động với bóng (thể thao tự chọn) và nói được mình tiến bộ ở nội dung nào",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -1260,13 +1234,7 @@
    "periods": 1,
    "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Chiếu clip mẫu “Động tác ném rổ bằng hai tay trước ngực” đã chọn sẵn, cho chạy chậm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1377,7 +1345,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1b: HS chọn và ghi được hai việc rèn luyện ở nhà gắn với các nội dung đã học trong năm",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -1670,14 +1638,14 @@
  "attachment": {
   "file": "assets/docs/lop2/Giao duc the chat - Lop 2.docx",
   "name": "Giao duc the chat - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 43855,
-  "updated": "2026-09-08"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
+  "size": 43373,
+  "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Giao duc the chat - Lop 2.xlsx",
   "name": "Giao duc the chat - Lop 2.xlsx",
-  "size": 10190,
-  "updated": "2026-09-08"
+  "size": 9756,
+  "updated": "2026-09-09"
  }
 }
