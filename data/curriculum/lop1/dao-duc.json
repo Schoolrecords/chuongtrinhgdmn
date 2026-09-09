@@ -281,14 +281,14 @@
    "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở bài “Giữ trật tự trong trường, lớp”, GV chiếu clip ngắn cảnh xếp hàng vào lớp ngay ngắn và cảnh chen lấn xô đẩy do thầy cô dựng lại; Năng lực số Miền 5 (Cơ bản, bậc 1): GV chiếu các tình huống trong lớp như bạn nói chuyện riêng, bạn chạy trong hành lang; HS chọn cách ứng xử phù hợp, máy báo đúng",
    "integrations": [
     {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Lồng ghép GDĐP"
-    },
-    {
      "code": "QPAN",
      "level": "",
-     "text": "GDQP an ninh"
+     "text": "Lồng ghép GDĐP - GDQP an ninh"
+    },
+    {
+     "code": "GDĐP",
+     "level": "",
+     "text": "Lồng ghép GDĐP - GDQP an ninh"
     },
     {
      "code": "QPAN",
@@ -996,7 +996,7 @@
   "file": "assets/docs/lop1/Dao duc - Lop 1.docx",
   "name": "Dao duc - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 44692,
+  "size": 44691,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {

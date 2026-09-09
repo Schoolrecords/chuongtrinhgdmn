@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 25
+  "integrations": 16
  },
  "lessons": [
   {
@@ -29,7 +29,7 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; 1.A2.1: Nhận biết và kể tên được một số thiết bị có sử dụng AI (như rô-bốt); nhận biết nhân vật Rô-bốt trong sách là một đại diện tiêu biểu của AI hỗ trợ con người học tập; Năng lực số 1.1 CB1b: HS gọi tên và nói được cách dùng các đồ dùng học Toán qua ảnh chiếu trên màn hình",
+   "adjustments": "Tích hợp AI - 1.A2.1: Nhận biết và kể tên được một số thiết bị có sử dụng AI (như rô-bốt); nhận biết nhân vật Rô-bốt trong sách là một đại diện tiêu biểu của AI hỗ trợ con người học tập; Năng lực số 1.1 CB1b: HS gọi tên và nói được cách dùng các đồ dùng học Toán qua ảnh chiếu trên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -141,13 +141,8 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; 1.D2.1: Nhận biết máy thông minh có thể thực hiện một việc như nhận biết, so sánh hình ảnh; bước đầu hiểu AI có thể xử lí hình ảnh để so sánh số lượng vật thể nhanh chóng; 4.3CB1a: Phân biệt được cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất, tinh thần khi sử dụng công nghệ số",
+   "adjustments": "Tích hợp AI - 1.D2.1: Nhận biết máy thông minh có thể thực hiện một việc như nhận biết, so sánh hình ảnh; bước đầu hiểu AI có thể xử lí hình ảnh để so sánh số lượng vật thể nhanh chóng; Năng lực số - 4.3CB1a: Phân biệt được cách thức đơn giản để tránh rủi ro và đe dọa đến sức khỏe thể chất, tinh thần khi sử dụng công nghệ số",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -360,7 +355,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; 1.C1.3: Hiểu AI có thể xử lí hình ảnh nhận được từ camera để nhận diện đồ vật có dạng hình vuông, hình tròn, hình tam giác, hình chữ nhật; Năng lực số 1.1 CB1b: HS nhận ra đúng hình vuông, hình tròn, hình tam giác, hình chữ nhật dù hình được xoay hay đổi kích thước",
+   "adjustments": "Tích hợp AI - 1.C1.3: Hiểu AI có thể xử lí hình ảnh nhận được từ camera để nhận diện đồ vật có dạng hình vuông, hình tròn, hình tam giác, hình chữ nhật; Năng lực số 1.1 CB1b: HS nhận ra đúng hình vuông, hình tròn, hình tam giác, hình chữ nhật dù hình được xoay hay đổi kích thước",
    "integrations": [],
    "note": ""
   },
@@ -392,7 +387,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; 1.C1.2: Hiểu camera là “mắt” giúp thiết bị/robot thu nhận hình ảnh; AI có thể xử lí hình ảnh để nhận diện các mảnh ghép khi thực hiện nhiệm vụ xếp hình; Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
+   "adjustments": "Tích hợp AI - 1.C1.2: Hiểu camera là “mắt” giúp thiết bị/robot thu nhận hình ảnh; AI có thể xử lí hình ảnh để nhận diện các mảnh ghép khi thực hiện nhiệm vụ xếp hình; Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
    "integrations": [],
    "note": ""
   },
@@ -408,7 +403,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; 1.C1.2: Hiểu camera là “mắt” giúp thiết bị/robot thu nhận hình ảnh; AI có thể xử lí hình ảnh để nhận diện các mảnh ghép khi thực hiện nhiệm vụ xếp hình; Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
+   "adjustments": "Tích hợp AI - 1.C1.2: Hiểu camera là “mắt” giúp thiết bị/robot thu nhận hình ảnh; AI có thể xử lí hình ảnh để nhận diện các mảnh ghép khi thực hiện nhiệm vụ xếp hình; Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
    "integrations": [],
    "note": ""
   },
@@ -440,14 +435,8 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "tách trên màn hình và nói được phép tính tương ứng với hình",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp"
-    }
-   ],
+   "adjustments": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp - tách trên màn hình và nói được phép tính tương ứng với hình",
+   "integrations": [],
    "note": ""
   },
   {
@@ -478,14 +467,8 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "tách trên màn hình và nói được phép tính tương ứng với hình",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp"
-    }
-   ],
+   "adjustments": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp - tách trên màn hình và nói được phép tính tương ứng với hình",
+   "integrations": [],
    "note": ""
   },
   {
@@ -500,14 +483,8 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "tách trên màn hình và nói được phép tính tương ứng với hình",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp"
-    }
-   ],
+   "adjustments": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp - tách trên màn hình và nói được phép tính tương ứng với hình",
+   "integrations": [],
    "note": ""
   },
   {
@@ -554,14 +531,8 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "tách trên màn hình và nói được phép tính tương ứng với hình",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp"
-    }
-   ],
+   "adjustments": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp - tách trên màn hình và nói được phép tính tương ứng với hình",
+   "integrations": [],
    "note": ""
   },
   {
@@ -608,14 +579,8 @@
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "tách trên màn hình và nói được phép tính tương ứng với hình",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp"
-    }
-   ],
+   "adjustments": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp - tách trên màn hình và nói được phép tính tương ứng với hình",
+   "integrations": [],
    "note": ""
   },
   {
@@ -630,14 +595,8 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "tách trên màn hình và nói được phép tính tương ứng với hình",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp"
-    }
-   ],
+   "adjustments": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp - tách trên màn hình và nói được phép tính tương ứng với hình",
+   "integrations": [],
    "note": ""
   },
   {
@@ -668,13 +627,8 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "tách trên màn hình và nói được phép tính tương ứng với hình",
+   "adjustments": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp - tách trên màn hình và nói được phép tính tương ứng với hình",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -695,14 +649,8 @@
    "periodTo": 39,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "tách trên màn hình và nói được phép tính tương ứng với hình",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp"
-    }
-   ],
+   "adjustments": "Năng lực số 5.1 CB1a: HS quan sát mô phỏng gộp - tách trên màn hình và nói được phép tính tương ứng với hình",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2116,13 +2064,13 @@
   "file": "assets/docs/lop1/Toan - Lop 1.docx",
   "name": "Toan - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 46528,
+  "size": 46467,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop1/Toan - Lop 1.xlsx",
   "name": "Toan - Lop 1.xlsx",
-  "size": 13503,
+  "size": 13502,
   "updated": "2026-09-09"
  }
 }

@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 41
+  "integrations": 38
  },
  "lessons": [
   {
@@ -849,7 +849,7 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập tại chỗ tung; bắt bóng bằng hai tay” mà mình hay làm sai",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập tại chỗ tung - bắt bóng bằng hai tay” mà mình hay làm sai",
    "integrations": [
     {
      "code": "KNS",
@@ -937,7 +937,7 @@
    "periodTo": 45,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập di chuyển tung; bắt bóng bằng hai tay” mà mình hay làm sai",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập di chuyển tung - bắt bóng bằng hai tay” mà mình hay làm sai",
    "integrations": [
     {
      "code": "KNS",
@@ -1249,7 +1249,7 @@
    "periodTo": 63,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập phối hợp dẫn bóng; ném bóng rổ hai tay trước ngực” mà mình hay làm sai",
+   "adjustments": "Năng lực số 1.1 CB1b: HS quan sát clip chạy chậm và nói được một chi tiết trong “Bài tập phối hợp dẫn bóng - ném bóng rổ hai tay trước ngực” mà mình hay làm sai",
    "integrations": [],
    "note": ""
   },
@@ -1265,7 +1265,7 @@
    "periodTo": 64,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "Năng lực số 1.1 CB1b: HS nêu được 2-3 điều luật của trò chơi gắn với “Bài tập phối hợp dẫn bóng; ném bóng rổ hai tay trước ngực” sau khi xem hình sân và bảng luật",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nêu được 2-3 điều luật của trò chơi gắn với “Bài tập phối hợp dẫn bóng - ném bóng rổ hai tay trước ngực” sau khi xem hình sân và bảng luật",
    "integrations": [],
    "note": ""
   },
@@ -1281,14 +1281,8 @@
    "periodTo": 65,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "dừng; ném, chỉ ra chỗ phải hạ thấp trọng tâm",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS xem clip chậm pha dẫn bóng"
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem clip chậm pha dẫn bóng – dừng – ném, chỉ ra chỗ phải hạ thấp trọng tâm",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1303,14 +1297,8 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "dừng; ném, chỉ ra chỗ phải hạ thấp trọng tâm",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS xem clip chậm pha dẫn bóng"
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem clip chậm pha dẫn bóng – dừng – ném, chỉ ra chỗ phải hạ thấp trọng tâm",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1325,14 +1313,8 @@
    "periodTo": 67,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "dừng; ném, chỉ ra chỗ phải hạ thấp trọng tâm",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS xem clip chậm pha dẫn bóng"
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS xem clip chậm pha dẫn bóng – dừng – ném, chỉ ra chỗ phải hạ thấp trọng tâm",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1657,13 +1639,13 @@
   "file": "assets/docs/lop3/Giao duc the chat - Lop 3.docx",
   "name": "Giao duc the chat - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 43721,
+  "size": 43702,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Giao duc the chat - Lop 3.xlsx",
   "name": "Giao duc the chat - Lop 3.xlsx",
-  "size": 10098,
+  "size": 10095,
   "updated": "2026-09-09"
  }
 }

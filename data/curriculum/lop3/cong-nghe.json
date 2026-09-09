@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 20
+  "integrations": 16
  },
  "lessons": [
   {
@@ -160,13 +160,8 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
+   "adjustments": "Năng lực số 1.1 CB1b: HS bấm nút mở – tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS bấm nút mở"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -187,14 +182,8 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS bấm nút mở"
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS bấm nút mở – tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
+   "integrations": [],
    "note": ""
   },
   {
@@ -209,14 +198,8 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS bấm nút mở"
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS bấm nút mở – tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
+   "integrations": [],
    "note": ""
   },
   {
@@ -231,14 +214,8 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS bấm nút mở"
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1b: HS bấm nút mở – tắt, chỉnh âm lượng, dò kênh của máy thu thanh theo hướng dẫn từng bước của GV",
+   "integrations": [],
    "note": ""
   },
   {
@@ -967,13 +944,13 @@
   "file": "assets/docs/lop3/Cong nghe - Lop 3.docx",
   "name": "Cong nghe - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 42736,
+  "size": 42714,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Cong nghe - Lop 3.xlsx",
   "name": "Cong nghe - Lop 3.xlsx",
-  "size": 8555,
+  "size": 8556,
   "updated": "2026-09-09"
  }
 }

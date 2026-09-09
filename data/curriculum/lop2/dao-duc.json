@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 15
+  "integrations": 14
  },
  "lessons": [
   {
@@ -51,7 +51,7 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.1: HS biết dùng công cụ có hỗ trợ AI để tìm kiếm hình ảnh, thông tin đẹp về quê hương mình dưới sự hướng dẫn của GV; Năng lực số 1.1 CB1b: HS chỉ được vị trí quê mình trên bản đồ số và gọi tên vài nơi quen thuộc nhìn thấy trên màn hình",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.1: HS biết dùng công cụ có hỗ trợ AI để tìm kiếm hình ảnh, thông tin đẹp về quê hương mình dưới sự hướng dẫn của GV; Năng lực số 1.1 CB1b: HS chỉ được vị trí quê mình trên bản đồ số và gọi tên vài nơi quen thuộc nhìn thấy trên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -67,7 +67,7 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.1: HS biết dùng công cụ có hỗ trợ AI để tìm kiếm hình ảnh, thông tin đẹp về quê hương dưới sự hướng dẫn của GV; biết kiểm tra kết quả và không cung cấp thông tin cá nhân; Năng lực số 3.1 CB1a: HS kể được việc mình đã làm cho quê hương khi ảnh của mình hiện lên màn hình",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.1: HS biết dùng công cụ có hỗ trợ AI để tìm kiếm hình ảnh, thông tin đẹp về quê hương dưới sự hướng dẫn của GV; biết kiểm tra kết quả và không cung cấp thông tin cá nhân; Năng lực số 3.1 CB1a: HS kể được việc mình đã làm cho quê hương khi ảnh của mình hiện lên màn hình",
    "integrations": [
     {
      "code": "QPAN",
@@ -121,7 +121,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS hiểu AI có thể hỗ trợ thầy cô giảng bài nhưng tình cảm, sự quan tâm và động viên của thầy cô là điều AI không thể thay thế",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS hiểu AI có thể hỗ trợ thầy cô giảng bài nhưng tình cảm, sự quan tâm và động viên của thầy cô là điều AI không thể thay thế",
    "integrations": [],
    "note": ""
   },
@@ -153,7 +153,7 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A3.1: HS nhận thức cần duy trì thái độ lịch sự khi tương tác với công nghệ để AI học được điều tích cực; biết dùng lời nói phù hợp, không xúc phạm và không cung cấp thông tin cá nhân",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A3.1: HS nhận thức cần duy trì thái độ lịch sự khi tương tác với công nghệ để AI học được điều tích cực; biết dùng lời nói phù hợp, không xúc phạm và không cung cấp thông tin cá nhân",
    "integrations": [],
    "note": ""
   },
@@ -277,13 +277,8 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "sau và nói được mình đã giữ gìn đồ dùng của mình thế nào",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nhìn cặp ảnh trước - sau và nói được mình đã giữ gìn đồ dùng của mình thế nào",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS nhìn cặp ảnh trước"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -940,7 +935,7 @@
   "file": "assets/docs/lop2/Dao duc - Lop 2.docx",
   "name": "Dao duc - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 44093,
+  "size": 44079,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {

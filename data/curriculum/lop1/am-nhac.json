@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 23
+  "integrations": 22
  },
  "lessons": [
   {
@@ -67,14 +67,8 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Rê; Mi trên màn hình và nghe tiếng đàn để nói được nốt nào cao, nốt nào thấp",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1a: HS nhìn hình bậc thang Đô"
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB1a: HS nhìn hình bậc thang Đô – Rê – Mi trên màn hình và nghe tiếng đàn để nói được nốt nào cao, nốt nào thấp",
+   "integrations": [],
    "note": ""
   },
   {
@@ -89,12 +83,12 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "nhỏ của lớp và nghe lại",
+   "adjustments": "",
    "integrations": [
     {
      "code": "NLS",
      "level": "",
-     "text": "Năng lực số 3.1 CB1a: HS cùng GV tạo bản ghi âm đoạn đọc to"
+     "text": "Năng lực số 3.1 CB1a: HS cùng GV tạo bản ghi âm đoạn đọc to – nhỏ của lớp và nghe lại"
     },
     {
      "code": "KNS",
@@ -442,12 +436,12 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "ngắn để GV ghi âm, nghe lại và nhận xét",
+   "adjustments": "",
    "integrations": [
     {
      "code": "NLS",
      "level": "",
-     "text": "Năng lực số 3.1 CB1a: HS thể hiện âm thanh dài"
+     "text": "Năng lực số 3.1 CB1a: HS thể hiện âm thanh dài – ngắn để GV ghi âm, nghe lại và nhận xét"
     },
     {
      "code": "KNS",
@@ -985,7 +979,7 @@
   "file": "assets/docs/lop1/Am nhac - Lop 1.docx",
   "name": "Am nhac - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 43651,
+  "size": 43622,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {

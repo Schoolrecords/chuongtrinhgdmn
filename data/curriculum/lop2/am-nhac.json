@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 21
+  "integrations": 19
  },
  "lessons": [
   {
@@ -301,19 +301,8 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Luyện tập chủ đề “Tuổi thơ”, GV chiếu hình tiết tấu phóng to lên màn hình và mở bản gõ mẫu từ học liệu số; Sáng tạo, GV dùng điện thoại ghi âm phần hoà tấu của từng nhóm với thanh phách, song loan, trống con rồi mở lại cho cả lớp nghe",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá"
-    },
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Vận dụng"
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá – Luyện tập chủ đề “Tuổi thơ”, GV chiếu hình tiết tấu phóng to lên màn hình và mở bản gõ mẫu từ học liệu số; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Vận dụng – Sáng tạo, GV dùng điện thoại ghi âm phần hoà tấu của từng nhóm với thanh phách, song loan, trống con rồi mở lại cho cả lớp nghe",
+   "integrations": [],
    "note": ""
   },
   {
@@ -976,7 +965,7 @@
   "file": "assets/docs/lop2/Am nhac - Lop 2.docx",
   "name": "Am nhac - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 42972,
+  "size": 42960,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {

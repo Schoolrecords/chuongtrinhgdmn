@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 15
+  "integrations": 10
  },
  "lessons": [
   {
@@ -83,13 +83,8 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Sáng tạo tổng kết chủ đề “Âm thanh ngày mới”, mỗi nhóm dàn dựng tiết mục hát kết hợp gõ đệm và vận động; Năng lực số Miền 2 (Cơ bản, bậc 2): Cả lớp xem lại bản quay và nhận xét theo ba tiêu chí chiếu sẵn trên màn hình: hát đúng giai điệu, gõ đệm đúng phách, vận động khớp nhạc",
+   "adjustments": "Năng lực số Miền 3 (Cơ bản, bậc 2): Ở tiết Vận dụng – Sáng tạo tổng kết chủ đề “Âm thanh ngày mới”, mỗi nhóm dàn dựng tiết mục hát kết hợp gõ đệm và vận động; Năng lực số Miền 2 (Cơ bản, bậc 2): Cả lớp xem lại bản quay và nhận xét theo ba tiêu chí chiếu sẵn trên màn hình: hát đúng giai điệu, gõ đệm đúng phách, vận động khớp nhạc",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 3 (Cơ bản, bậc 2): Ở tiết Vận dụng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -304,13 +299,8 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Khởi động tổng kết chủ đề “Vui đón Tết”, GV mở lần lượt các đoạn giai điệu đã học từ học liệu số cho HS nghe đoán tên bài; Sáng tạo, GV quay lại tiết mục mừng xuân của từng nhóm bằng điện thoại rồi chiếu lên tivi; các nhóm tự xem lại phần hát, gõ đệm",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Khởi động tổng kết chủ đề “Vui đón Tết”, GV mở lần lượt các đoạn giai điệu đã học từ học liệu số cho HS nghe đoán tên bài; Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Vận dụng – Sáng tạo, GV quay lại tiết mục mừng xuân của từng nhóm bằng điện thoại rồi chiếu lên tivi; các nhóm tự xem lại phần hát, gõ đệm",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Vận dụng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -411,13 +401,8 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Khởi động tổng kết chủ đề “Thiên nhiên tươi đẹp”, GV mở lần lượt các đoạn giai điệu đã học từ học liệu số cho HS nghe đoán tên bài; Sáng tạo, GV quay tiết mục của từng nhóm bằng điện thoại rồi chiếu lên tivi; các nhóm tự xem lại phần hát, gõ đệm",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Khởi động tổng kết chủ đề “Thiên nhiên tươi đẹp”, GV mở lần lượt các đoạn giai điệu đã học từ học liệu số cho HS nghe đoán tên bài; Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Vận dụng – Sáng tạo, GV quay tiết mục của từng nhóm bằng điện thoại rồi chiếu lên tivi; các nhóm tự xem lại phần hát, gõ đệm",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Vận dụng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -486,13 +471,8 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Khởi động tổng kết chủ đề “Tình bạn tuổi thơ”, GV mở lần lượt các đoạn giai điệu đã học từ học liệu số cho HS nghe đoán tên bài; Sáng tạo, GV quay tiết mục của từng nhóm rồi chiếu lên tivi; các nhóm tự xem lại phần hát, gõ đệm",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Khởi động tổng kết chủ đề “Tình bạn tuổi thơ”, GV mở lần lượt các đoạn giai điệu đã học từ học liệu số cho HS nghe đoán tên bài; Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Vận dụng – Sáng tạo, GV quay tiết mục của từng nhóm rồi chiếu lên tivi; các nhóm tự xem lại phần hát, gõ đệm",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Vận dụng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -561,13 +541,8 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Khởi động tổng kết chủ đề “Âm nhạc nước ngoài”, GV mở lần lượt các đoạn giai điệu đã học từ học liệu số cho HS nghe đoán tên bài; Sáng tạo, GV quay tiết mục của từng nhóm rồi chiếu lên tivi; các nhóm tự xem lại phần hát, gõ đệm",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Khởi động tổng kết chủ đề “Âm nhạc nước ngoài”, GV mở lần lượt các đoạn giai điệu đã học từ học liệu số cho HS nghe đoán tên bài; Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Vận dụng – Sáng tạo, GV quay tiết mục của từng nhóm rồi chiếu lên tivi; các nhóm tự xem lại phần hát, gõ đệm",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Vận dụng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -936,7 +911,7 @@
   "file": "assets/docs/lop4/Am nhac - Lop 4.docx",
   "name": "Am nhac - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 43282,
+  "size": 43246,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {

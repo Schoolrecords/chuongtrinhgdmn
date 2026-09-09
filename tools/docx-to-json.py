@@ -104,8 +104,12 @@ def _strip(text):
 def phrases_to_integrations(text):
     """Tách phần văn bản tự do thành (điều chỉnh còn lại, [tích hợp nhận diện theo cụm từ])."""
     keep, items = [], []
-    for seg in re.split(r"\s*;\s*|\n|\s+[-–—]\s+", text or ""):
-        seg = seg.strip(" .,")
+    # 9/9/2026: CHỈ cắt ở dấu ";" , xuống dòng, và gạch đầu dòng ĐẦU DÒNG.
+    # Trước đây cắt ở mọi dấu gạch có hai khoảng trắng ("\s+[-–—]\s+") nên câu Năng lực số bị xé
+    # giữa chừng: "HS quan sát flashcard rồi hỏi – đáp theo cặp…" thành hai mẩu, mẩu đầu ≤90 kí tự
+    # lại bị nhận là nhãn tích hợp; câu có tên bài trong ngoặc kép ("My friends — Lesson 2") cũng đứt.
+    for seg in re.split(r"\s*;\s*|\n\s*[-–—]?\s*", text or ""):
+        seg = seg.strip(" .,").lstrip("-–— ")
         if not seg:
             continue
         n = _strip(seg)

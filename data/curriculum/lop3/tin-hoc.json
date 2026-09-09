@@ -61,12 +61,12 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Xử lí; Kết quả",
+   "adjustments": "",
    "integrations": [
     {
      "code": "NLS",
      "level": "",
-     "text": "Năng lực số 5.2 CB1b: HS đặt đúng một việc quen thuộc vào sơ đồ Thu nhận"
+     "text": "Năng lực số 5.2 CB1b: HS đặt đúng một việc quen thuộc vào sơ đồ Thu nhận – Xử lí – Kết quả"
     }
    ],
    "note": ""
@@ -976,13 +976,13 @@
   "file": "assets/docs/lop3/Tin hoc - Lop 3.docx",
   "name": "Tin hoc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 43197,
+  "size": 43189,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Tin hoc - Lop 3.xlsx",
   "name": "Tin hoc - Lop 3.xlsx",
-  "size": 9043,
+  "size": 9044,
   "updated": "2026-09-09"
  }
 }

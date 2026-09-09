@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 25
+  "integrations": 23
  },
  "lessons": [
   {
@@ -250,12 +250,7 @@
     {
      "code": "GDĐP",
      "level": "",
-     "text": "Nội dung giáo dục địa phương"
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "đối chiếu tài liệu GDĐP của tỉnh"
+     "text": "Nội dung giáo dục địa phương — đối chiếu tài liệu GDĐP của tỉnh"
     },
     {
      "code": "QPAN",
@@ -859,14 +854,8 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Tìm hiểu vùng đất hội tụ nhiều di sản của bài “Một số nét văn hoá ở vùng Bắc Trung Bộ và Nam Trung Bộ”; Nơi có; Nét đặc sắc”; các nhóm lên điền rồi đọc bảng của nhau",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động nhóm, GV chiếu bảng chung “Di sản"
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Tìm hiểu vùng đất hội tụ nhiều di sản của bài “Một số nét văn hoá ở vùng Bắc Trung Bộ và Nam Trung Bộ”; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động nhóm, GV chiếu bảng chung “Di sản – Nơi có – Nét đặc sắc”; các nhóm lên điền rồi đọc bảng của nhau",
+   "integrations": [],
    "note": ""
   },
   {
@@ -897,7 +886,7 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Mở đầu bài “Truyền thống yêu nước, cách mạng của đồng bào Bắc Trung Bộ và Nam Trung Bộ”, GV chiếu trò chơi lật mảnh ghép trên màn hình; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động nhóm, GV chiếu bảng chung “Di tích, nhân vật; Nơi có; Điều đáng nhớ”; các nhóm lên điền rồi đọc bảng của nhau",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Mở đầu bài “Truyền thống yêu nước, cách mạng của đồng bào Bắc Trung Bộ và Nam Trung Bộ”, GV chiếu trò chơi lật mảnh ghép trên màn hình; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động nhóm, GV chiếu bảng chung “Di tích, nhân vật – Nơi có – Điều đáng nhớ”; các nhóm lên điền rồi đọc bảng của nhau",
    "integrations": [
     {
      "code": "QPAN",
@@ -1559,13 +1548,13 @@
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.docx",
   "name": "Lich su va Dia li - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 44690,
+  "size": 44681,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.xlsx",
   "name": "Lich su va Dia li - Lop 4.xlsx",
-  "size": 10979,
+  "size": 10982,
   "updated": "2026-09-09"
  }
 }

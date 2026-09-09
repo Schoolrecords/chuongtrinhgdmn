@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 92
+  "integrations": 87
  },
  "lessons": [
   {
@@ -83,7 +83,7 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.1: Nhận biết và mô tả được một số tình huống trong cuộc sống mà AI có thể hỗ trợ con người hiệu quả như tìm kiếm thông tin nhanh; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.1: Nhận biết và mô tả được một số tình huống trong cuộc sống mà AI có thể hỗ trợ con người hiệu quả như tìm kiếm thông tin nhanh; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -175,7 +175,7 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: HS nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: HS nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -229,7 +229,7 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; hiểu máy tính/AI có thể tính nhanh nhưng kết quả phụ thuộc vào số liệu nhập và cần được con người kiểm tra",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; hiểu máy tính/AI có thể tính nhanh nhưng kết quả phụ thuộc vào số liệu nhập và cần được con người kiểm tra",
    "integrations": [],
    "note": ""
   },
@@ -261,14 +261,8 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "sai và tự sửa lại phép tính sai",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng"
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng - sai và tự sửa lại phép tính sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -299,7 +293,7 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: Thể hiện thái độ đúng đắn khi sử dụng AI; biết tin tưởng vào công nghệ ở mức hợp lí nhưng vẫn có trách nhiệm kiểm soát kết quả; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: Thể hiện thái độ đúng đắn khi sử dụng AI; biết tin tưởng vào công nghệ ở mức hợp lí nhưng vẫn có trách nhiệm kiểm soát kết quả; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -434,7 +428,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: Nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: Nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -478,14 +472,8 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "sai và tự sửa lại phép tính sai",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng"
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng - sai và tự sửa lại phép tính sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -500,7 +488,7 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: Nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: Nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -522,7 +510,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: Thể hiện được thái độ đúng đắn khi sử dụng",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: Thể hiện được thái độ đúng đắn khi sử dụng",
    "integrations": [
     {
      "code": "AI-NB",
@@ -657,7 +645,7 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.B1.1: Nhận biết khái niệm công bằng của AI thông qua việc so sánh các giá trị dữ liệu. Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.B1.1: Nhận biết khái niệm công bằng của AI thông qua việc so sánh các giá trị dữ liệu. Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -695,14 +683,8 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "sai và tự sửa lại phép tính sai",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng"
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng - sai và tự sửa lại phép tính sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -717,14 +699,8 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "sai và tự sửa lại phép tính sai",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng"
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng - sai và tự sửa lại phép tính sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -739,14 +715,8 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "sai và tự sửa lại phép tính sai",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng"
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB1b: HS nêu cách tách số để GV thao tác trên máy, xem máy báo đúng - sai và tự sửa lại phép tính sai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -761,7 +731,7 @@
    "periodTo": 39,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Năng lực số 5.2 CB1a: Nhận ra được các công cụ số đơn giản có thể có để giải quyết nhu cầu cá nhân; Tích hợp AI; YCCĐ 2.A2.1: Nhận biết các thiết bị thông minh (AI) hỗ trợ đo lường trong gia đình và đời sống; Mục tiêu tích hợp",
+   "adjustments": "Năng lực số 5.2 CB1a: Nhận ra được các công cụ số đơn giản có thể có để giải quyết nhu cầu cá nhân; Tích hợp AI - YCCĐ 2.A2.1: Nhận biết các thiết bị thông minh (AI) hỗ trợ đo lường trong gia đình và đời sống; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -783,7 +753,7 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A2.1: Nhận biết và mô tả được một số thiết bị trong gia đình có sử dụng",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A2.1: Nhận biết và mô tả được một số thiết bị trong gia đình có sử dụng",
    "integrations": [
     {
      "code": "AI-NB",
@@ -832,7 +802,7 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A2.1: HS biết AI hỗ trợ con người điều khiển các thiết bị đo lường chất lỏng tự động; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A2.1: HS biết AI hỗ trợ con người điều khiển các thiết bị đo lường chất lỏng tự động; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "NLS",
@@ -875,7 +845,7 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: Biết được AI có thể phân loại đồ vật bằng cách sử dụng các công cụ máy học; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: Biết được AI có thể phân loại đồ vật bằng cách sử dụng các công cụ máy học; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -941,7 +911,7 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: Thể hiện được thái độ đúng đắn khi sử dụng",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: Thể hiện được thái độ đúng đắn khi sử dụng",
    "integrations": [
     {
      "code": "AI-NB",
@@ -1022,7 +992,7 @@
    "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: Thể hiện được thái độ đúng đắn khi sử dụng",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: Thể hiện được thái độ đúng đắn khi sử dụng",
    "integrations": [
     {
      "code": "AI-NB",
@@ -1087,7 +1057,7 @@
    "periodTo": 54,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: Nêu được vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: Nêu được vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -1109,7 +1079,7 @@
    "periodTo": 55,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A3.1: Hiểu rằng AI học hỏi từ các phản hồi và tương tác đúng đắn của con người; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A3.1: Hiểu rằng AI học hỏi từ các phản hồi và tương tác đúng đắn của con người; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -1131,7 +1101,7 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI/công cụ số trong học tập; biết xem kết quả do AI đưa ra là thông tin tham khảo, không chép máy móc, biết tự kiểm tra bằng thao tác que tính, đặt tính và giải thích bước mượn 1 chục trong phép trừ có nhớ; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI/công cụ số trong học tập; biết xem kết quả do AI đưa ra là thông tin tham khảo, không chép máy móc, biết tự kiểm tra bằng thao tác que tính, đặt tính và giải thích bước mượn 1 chục trong phép trừ có nhớ; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -1217,7 +1187,7 @@
    "periodTo": 61,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS biết xem kết quả do công cụ số/AI đưa ra là thông tin tham khảo, cần tự kiểm tra bằng đặt tính, tính nhẩm và giải thích cách làm",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS biết xem kết quả do công cụ số/AI đưa ra là thông tin tham khảo, cần tự kiểm tra bằng đặt tính, tính nhẩm và giải thích cách làm",
    "integrations": [],
    "note": ""
   },
@@ -1351,7 +1321,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: HS biết AI có thể hỗ trợ nhận diện, phân loại hình học trong ảnh/hình vẽ; đồng thời biết so sánh kết quả AI gợi ý với cách quan sát, đếm cạnh và nhận biết hình của con người; Năng lực số 1.1 CB1b: HS nêu được số đoạn thẳng của đường gấp khúc và dấu hiệu nhận ra hình tứ giác",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: HS biết AI có thể hỗ trợ nhận diện, phân loại hình học trong ảnh/hình vẽ; đồng thời biết so sánh kết quả AI gợi ý với cách quan sát, đếm cạnh và nhận biết hình của con người; Năng lực số 1.1 CB1b: HS nêu được số đoạn thẳng của đường gấp khúc và dấu hiệu nhận ra hình tứ giác",
    "integrations": [],
    "note": ""
   },
@@ -1437,7 +1407,7 @@
    "periodTo": 74,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.3 CB1a: HS nhận biết được ứng dụng Lịch hoặc đồng hồ số trên thiết bị điện tử là nơi sắp xếp dữ liệu, thông tin thời gian đơn giản, có cấu trúc; biết đọc thời điểm của một hoạt động và trình bày thời gian biểu cá nhân phù hợp; Tích hợp AI; YCCĐ 2.A2.2: HS biết AI như loa thông minh/trợ lí ảo có thể hỗ trợ nhắc nhở lịch trình cho các thành viên trong gia đình, giúp mọi người thức dậy, học tập, sinh hoạt đúng giờ; HS hiểu công nghệ chỉ hỗ trợ, bản thân vẫn phải tự giác thực hiện thời gian biểu",
+   "adjustments": "Năng lực số 1.3 CB1a: HS nhận biết được ứng dụng Lịch hoặc đồng hồ số trên thiết bị điện tử là nơi sắp xếp dữ liệu, thông tin thời gian đơn giản, có cấu trúc; biết đọc thời điểm của một hoạt động và trình bày thời gian biểu cá nhân phù hợp; Tích hợp AI - YCCĐ 2.A2.2: HS biết AI như loa thông minh/trợ lí ảo có thể hỗ trợ nhắc nhở lịch trình cho các thành viên trong gia đình, giúp mọi người thức dậy, học tập, sinh hoạt đúng giờ; HS hiểu công nghệ chỉ hỗ trợ, bản thân vẫn phải tự giác thực hiện thời gian biểu",
    "integrations": [
     {
      "code": "KNS",
@@ -1459,7 +1429,7 @@
    "periodTo": 75,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A2.2: HS nhận biết và kể tên được các đối tượng trong gia đình mà AI có thể hỗ trợ như người già, trẻ em; biết loa thông minh/trợ lí ảo có thể nhắc giờ uống thuốc, giờ học, giờ ngủ, giờ thức dậy để mọi thành viên sinh hoạt tiện nghi và đúng giờ hơn; Năng lực số 5.1 CB1a: HS đọc được giờ trên đồng hồ kim mô phỏng và trên đồng hồ hiện số, nói được hai cách ghi cùng một thời điểm",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A2.2: HS nhận biết và kể tên được các đối tượng trong gia đình mà AI có thể hỗ trợ như người già, trẻ em; biết loa thông minh/trợ lí ảo có thể nhắc giờ uống thuốc, giờ học, giờ ngủ, giờ thức dậy để mọi thành viên sinh hoạt tiện nghi và đúng giờ hơn; Năng lực số 5.1 CB1a: HS đọc được giờ trên đồng hồ kim mô phỏng và trên đồng hồ hiện số, nói được hai cách ghi cùng một thời điểm",
    "integrations": [],
    "note": ""
   },
@@ -1519,7 +1489,7 @@
    "periodTo": 78,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A2.2: HS nhận biết AI như loa thông minh/robot nhắc việc có thể hỗ trợ con người quản lí thời gian để cuộc sống tiện nghi hơn; Năng lực số 1.3 CB1a: HS tìm được ngày hôm nay, thứ trong tuần, ngày lễ trên lịch chiếu từ máy và đối chiếu với lịch giấy",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A2.2: HS nhận biết AI như loa thông minh/robot nhắc việc có thể hỗ trợ con người quản lí thời gian để cuộc sống tiện nghi hơn; Năng lực số 1.3 CB1a: HS tìm được ngày hôm nay, thứ trong tuần, ngày lễ trên lịch chiếu từ máy và đối chiếu với lịch giấy",
    "integrations": [
     {
      "code": "KNS",
@@ -1584,7 +1554,7 @@
    "periodTo": 81,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "SGV 4 tiết; bớt 1 tiết cho kiểm tra định kì; Tích hợp AI; YCCĐ 2.A1.2: HS hiểu AI/công cụ số có thể tạo câu ôn tập nhanh, nhưng HS phải tự làm, tự kiểm tra bằng tính nhẩm hoặc đặt tính, không chép kết quả máy móc",
+   "adjustments": "SGV 4 tiết; bớt 1 tiết cho kiểm tra định kì; Tích hợp AI - YCCĐ 2.A1.2: HS hiểu AI/công cụ số có thể tạo câu ôn tập nhanh, nhưng HS phải tự làm, tự kiểm tra bằng tính nhẩm hoặc đặt tính, không chép kết quả máy móc",
    "integrations": [
     {
      "code": "NLS",
@@ -1666,7 +1636,7 @@
    "periodTo": 85,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: HS biết AI có thể phân loại đồ vật/hình ảnh, nhưng cần so sánh cách AI nhận diện với cách con người phân loại dựa vào đặc điểm hình học; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: HS biết AI có thể phân loại đồ vật/hình ảnh, nhưng cần so sánh cách AI nhận diện với cách con người phân loại dựa vào đặc điểm hình học; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -1726,7 +1696,7 @@
    "periodTo": 88,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D2.1: HS nhận thức con người cần cung cấp dữ liệu chính xác để AI học và làm việc hiệu quả; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D2.1: HS nhận thức con người cần cung cấp dữ liệu chính xác để AI học và làm việc hiệu quả; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -1786,7 +1756,7 @@
    "periodTo": 91,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C1.2: Giải thích được “dữ liệu” là những ví dụ mà con người dùng để dạy cho AI; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C1.2: Giải thích được “dữ liệu” là những ví dụ mà con người dùng để dạy cho AI; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -1824,7 +1794,7 @@
    "periodTo": 93,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C1.2: HS hiểu Robot cần con người gọi tên đúng các thành phần dữ liệu để xử lí quy luật; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C1.2: HS hiểu Robot cần con người gọi tên đúng các thành phần dữ liệu để xử lí quy luật; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "NLS",
@@ -1905,7 +1875,7 @@
    "periodTo": 97,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.1: Nhận biết AI hỗ trợ con người ghi nhớ và tra cứu thông tin nhanh chóng; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.1: Nhận biết AI hỗ trợ con người ghi nhớ và tra cứu thông tin nhanh chóng; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "NLS",
@@ -1953,7 +1923,7 @@
    "periodTo": 99,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: Nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: Nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -1997,7 +1967,7 @@
    "periodTo": 101,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.1: HS nhận biết AI hỗ trợ tìm kiếm thông tin và xử lý các bài toán chia dữ liệu nhanh; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.1: HS nhận biết AI hỗ trợ tìm kiếm thông tin và xử lý các bài toán chia dữ liệu nhanh; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -2019,12 +1989,12 @@
    "periodTo": 102,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "chia",
+   "adjustments": "",
    "integrations": [
     {
      "code": "NLS",
      "level": "",
-     "text": "Năng lực số 5.2 CB1a: Sử dụng công cụ số đơn giản để trình bày mối quan hệ nhân"
+     "text": "Năng lực số 5.2 CB1a: Sử dụng công cụ số đơn giản để trình bày mối quan hệ nhân - chia"
     }
    ],
    "note": ""
@@ -2144,7 +2114,7 @@
    "periodTo": 107,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: Nêu được các vấn đề đơn giản trong thực tế có thể áp dụng máy thông minh để giải quyết; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: Nêu được các vấn đề đơn giản trong thực tế có thể áp dụng máy thông minh để giải quyết; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -2230,7 +2200,7 @@
    "periodTo": 112,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "có ý thức phân loại, thu gom rác thải công nghệ như pin cũ có dạng khối trụ; Tích hợp AI; YCCĐ 2.C3.2: HS hiểu rằng AI có thể nhận diện và phân loại sai nếu hình ảnh không rõ hoặc dữ liệu còn thiếu",
+   "adjustments": "có ý thức phân loại, thu gom rác thải công nghệ như pin cũ có dạng khối trụ; Tích hợp AI - YCCĐ 2.C3.2: HS hiểu rằng AI có thể nhận diện và phân loại sai nếu hình ảnh không rõ hoặc dữ liệu còn thiếu",
    "integrations": [
     {
      "code": "GDMT",
@@ -2262,7 +2232,7 @@
    "periodTo": 113,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.2: Biết được rằng AI có thể phân loại sai; HS hiểu khi hình ảnh không rõ ràng hoặc dữ liệu thiếu, AI có thể nhầm khối trụ với khối cầu, vì vậy cần quan sát và kiểm tra lại bằng kiến thức đã học; Năng lực số 1.1 CB1b: HS quan sát mô hình xoay được trên màn hình và nhận ra đồ vật quanh mình có dạng khối trụ, khối cầu",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.2: Biết được rằng AI có thể phân loại sai; HS hiểu khi hình ảnh không rõ ràng hoặc dữ liệu thiếu, AI có thể nhầm khối trụ với khối cầu, vì vậy cần quan sát và kiểm tra lại bằng kiến thức đã học; Năng lực số 1.1 CB1b: HS quan sát mô hình xoay được trên màn hình và nhận ra đồ vật quanh mình có dạng khối trụ, khối cầu",
    "integrations": [
     {
      "code": "STEM",
@@ -2348,7 +2318,7 @@
    "periodTo": 118,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: HS biết AI có thể phân loại đồ vật/số bằng cách sử dụng công cụ máy học; nhận biết AI có thể phân loại số theo đặc điểm nhưng cần dựa vào cấu tạo số để kiểm tra số tròn trăm, số tròn chục; Năng lực số 1.1 CB1b: HS nêu số khối, số thanh, số tấm cần kéo để GV thao tác rồi đọc và viết lại số hiện trên màn hình",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: HS biết AI có thể phân loại đồ vật/số bằng cách sử dụng công cụ máy học; nhận biết AI có thể phân loại số theo đặc điểm nhưng cần dựa vào cấu tạo số để kiểm tra số tròn trăm, số tròn chục; Năng lực số 1.1 CB1b: HS nêu số khối, số thanh, số tấm cần kéo để GV thao tác rồi đọc và viết lại số hiện trên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -2412,7 +2382,7 @@
    "periodTo": 122,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D2.1: HS hiểu vai trò của việc cung cấp dữ liệu chính xác để AI đưa ra kết quả đúng; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D2.1: HS hiểu vai trò của việc cung cấp dữ liệu chính xác để AI đưa ra kết quả đúng; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -2531,7 +2501,7 @@
    "periodTo": 128,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; biết tin tưởng vào công nghệ ở mức hợp lý nhưng vẫn có trách nhiệm kiểm tra kết quả; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; biết tin tưởng vào công nghệ ở mức hợp lý nhưng vẫn có trách nhiệm kiểm tra kết quả; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -2553,7 +2523,7 @@
    "periodTo": 129,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A3.1: HS biết AI ghi nhận dữ liệu để học hỏi từ mỗi lần con người tương tác, tìm kiếm; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A3.1: HS biết AI ghi nhận dữ liệu để học hỏi từ mỗi lần con người tương tác, tìm kiếm; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -2613,7 +2583,7 @@
    "periodTo": 132,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: HS nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết. Trong bài học, HS nhận biết bản đồ thông minh, thước đo thông minh hoặc ứng dụng đo khoảng cách có thể hỗ trợ ước lượng quãng đường nhanh hơn; tuy nhiên khi làm toán, HS phải tự đọc số đo trong SGK, xác định đúng đơn vị dm, m, km, thực hiện phép tính và giải thích cách làm. HS hiểu kết quả do công cụ thông minh đưa ra chỉ dùng để tham khảo, không thay thế việc tự suy nghĩ, tự tính toán và tự kiểm tra bằng kiến thức đã học; Năng lực số 1.1 CB1b: HS nêu được quan hệ giữa đề-xi-mét, mét và đọc được số ki-lô-mét trên biển báo",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: HS nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết. Trong bài học, HS nhận biết bản đồ thông minh, thước đo thông minh hoặc ứng dụng đo khoảng cách có thể hỗ trợ ước lượng quãng đường nhanh hơn; tuy nhiên khi làm toán, HS phải tự đọc số đo trong SGK, xác định đúng đơn vị dm, m, km, thực hiện phép tính và giải thích cách làm. HS hiểu kết quả do công cụ thông minh đưa ra chỉ dùng để tham khảo, không thay thế việc tự suy nghĩ, tự tính toán và tự kiểm tra bằng kiến thức đã học; Năng lực số 1.1 CB1b: HS nêu được quan hệ giữa đề-xi-mét, mét và đọc được số ki-lô-mét trên biển báo",
    "integrations": [],
    "note": ""
   },
@@ -2645,7 +2615,7 @@
    "periodTo": 134,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.3 CB1a: HS xác định được một số dịch vụ số đơn giản có thể tham gia vào xã hội, gần gũi với đời sống hằng ngày như quét mã QR, thanh toán số tại quầy hàng hoặc trên hóa đơn. HS nhận biết thanh toán số có thể giúp giao dịch nhanh, tiện lợi, hạn chế cầm nhiều tiền mặt; đồng thời hiểu học sinh lớp 2 chỉ quan sát, nhận biết ở mức đơn giản, không tự ý quét mã, chuyển tiền, cung cấp thông tin cá nhân hoặc sử dụng thiết bị thanh toán khi chưa có người lớn hướng dẫn; Tích hợp AI; YCCĐ 2.A2.2: HS nhận biết mục tiêu của AI là hỗ trợ con người sống an toàn, thuận tiện và bình đẳng hơn, trong đó có người khiếm thị hoặc người gặp khó khăn khi nhận biết mệnh giá tiền. GV cho HS xem video/ảnh minh họa ứng dụng AI đọc mệnh giá tiền bằng giọng nói; HS hiểu AI chỉ hỗ trợ nhận biết ban đầu, khi giao dịch vẫn cần kiểm tra lại, hỏi người lớn và sử dụng tiền đúng mục đích",
+   "adjustments": "Năng lực số 2.3 CB1a: HS xác định được một số dịch vụ số đơn giản có thể tham gia vào xã hội, gần gũi với đời sống hằng ngày như quét mã QR, thanh toán số tại quầy hàng hoặc trên hóa đơn. HS nhận biết thanh toán số có thể giúp giao dịch nhanh, tiện lợi, hạn chế cầm nhiều tiền mặt; đồng thời hiểu học sinh lớp 2 chỉ quan sát, nhận biết ở mức đơn giản, không tự ý quét mã, chuyển tiền, cung cấp thông tin cá nhân hoặc sử dụng thiết bị thanh toán khi chưa có người lớn hướng dẫn; Tích hợp AI - YCCĐ 2.A2.2: HS nhận biết mục tiêu của AI là hỗ trợ con người sống an toàn, thuận tiện và bình đẳng hơn, trong đó có người khiếm thị hoặc người gặp khó khăn khi nhận biết mệnh giá tiền. GV cho HS xem video/ảnh minh họa ứng dụng AI đọc mệnh giá tiền bằng giọng nói; HS hiểu AI chỉ hỗ trợ nhận biết ban đầu, khi giao dịch vẫn cần kiểm tra lại, hỏi người lớn và sử dụng tiền đúng mục đích",
    "integrations": [
     {
      "code": "KNS",
@@ -2705,7 +2675,7 @@
    "periodTo": 137,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: HS so sánh được cách AI/ứng dụng đo đạc tự động nhận diện, ước lượng vật thể với cách con người đo thủ công; biết kết quả công cụ số chỉ để tham khảo, khi làm toán cần kiểm tra lại bằng thước, đếm khoảng và tính toán; Năng lực số 5.2 CB1b: HS đặt tính đúng cột trên bài tập tương tác và sửa lại khi máy báo lệch hàng",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: HS so sánh được cách AI/ứng dụng đo đạc tự động nhận diện, ước lượng vật thể với cách con người đo thủ công; biết kết quả công cụ số chỉ để tham khảo, khi làm toán cần kiểm tra lại bằng thước, đếm khoảng và tính toán; Năng lực số 5.2 CB1b: HS đặt tính đúng cột trên bài tập tương tác và sửa lại khi máy báo lệch hàng",
    "integrations": [],
    "note": ""
   },
@@ -2737,7 +2707,7 @@
    "periodTo": 139,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI/công cụ số; biết tin tưởng công nghệ ở mức hợp lí nhưng vẫn có trách nhiệm kiểm soát kết quả bằng cách đặt tính thẳng hàng trăm, chục, đơn vị và tự tính lại",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI/công cụ số; biết tin tưởng công nghệ ở mức hợp lí nhưng vẫn có trách nhiệm kiểm soát kết quả bằng cách đặt tính thẳng hàng trăm, chục, đơn vị và tự tính lại",
    "integrations": [],
    "note": ""
   },
@@ -2769,7 +2739,7 @@
    "periodTo": 141,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS biết tin tưởng AI/công cụ số ở mức hợp lí nhưng vẫn có trách nhiệm tự kiểm soát kết quả; khi công cụ hoặc người dùng nhập số lệch hàng, HS biết dùng kiến thức đặt tính thẳng cột để phát hiện và sửa lỗi",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS biết tin tưởng AI/công cụ số ở mức hợp lí nhưng vẫn có trách nhiệm tự kiểm soát kết quả; khi công cụ hoặc người dùng nhập số lệch hàng, HS biết dùng kiến thức đặt tính thẳng cột để phát hiện và sửa lỗi",
    "integrations": [],
    "note": ""
   },
@@ -2871,7 +2841,7 @@
    "periodTo": 147,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS hiểu con người là trung tâm, AI/công cụ số chỉ hỗ trợ tính nhanh; HS cần tự kiểm tra kết quả bằng kiến thức đã học, đặc biệt là bước “mượn” khi trừ có nhớ",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS hiểu con người là trung tâm, AI/công cụ số chỉ hỗ trợ tính nhanh; HS cần tự kiểm tra kết quả bằng kiến thức đã học, đặc biệt là bước “mượn” khi trừ có nhớ",
    "integrations": [],
    "note": ""
   },
@@ -2935,7 +2905,7 @@
    "periodTo": 151,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: HS nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; nhận biết AI có thể hỗ trợ phân loại dạng toán tổng hợp nhưng HS phải tự đọc đề, xác định dữ kiện, chọn phép tính và giải thích cách làm; Mục tiêu tích hợp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: HS nêu được một số vấn đề đơn giản trong đời sống có thể áp dụng AI để giải quyết; nhận biết AI có thể hỗ trợ phân loại dạng toán tổng hợp nhưng HS phải tự đọc đề, xác định dữ kiện, chọn phép tính và giải thích cách làm; Mục tiêu tích hợp",
    "integrations": [
     {
      "code": "AI-NB",
@@ -2973,7 +2943,7 @@
    "periodTo": 153,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 3.2 CB1a: HS biết chọn cách sửa đổi, tinh chỉnh, cải thiện nội dung đơn giản để tạo ra thông tin mới; biết nhập số liệu kiểm đếm vào bảng dữ liệu số/Google Form và quan sát kết quả tổng hợp; Tích hợp AI; YCCĐ 2.D2.1: HS giải thích được vai trò của dữ liệu chính xác trong việc “dạy” AI học tập; hiểu rằng dữ liệu nhập sai sẽ làm kết quả tổng hợp, biểu đồ hoặc gợi ý của AI bị sai lệch",
+   "adjustments": "Năng lực số 3.2 CB1a: HS biết chọn cách sửa đổi, tinh chỉnh, cải thiện nội dung đơn giản để tạo ra thông tin mới; biết nhập số liệu kiểm đếm vào bảng dữ liệu số/Google Form và quan sát kết quả tổng hợp; Tích hợp AI - YCCĐ 2.D2.1: HS giải thích được vai trò của dữ liệu chính xác trong việc “dạy” AI học tập; hiểu rằng dữ liệu nhập sai sẽ làm kết quả tổng hợp, biểu đồ hoặc gợi ý của AI bị sai lệch",
    "integrations": [],
    "note": ""
   },
@@ -3021,7 +2991,7 @@
    "periodTo": 156,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1a: HS xác định nhu cầu hoàn thành nhiệm vụ học tập, lựa chọn công cụ số phù hợp (Quizizz/Wordwall) để trình bày đáp án về khả năng xảy ra của sự kiện; biết xem phản hồi đúng/sai của công cụ, tự kiểm tra và điều chỉnh cách dùng các từ “chắc chắn”, “có thể”, “không thể”; Tích hợp AI; YCCĐ 2.C3.2: HS nhận biết dự đoán của AI trong đời sống (gợi ý bài hát, phim, trò chơi, nội dung học tập) chỉ mang tính “có thể”; không xem gợi ý của AI là điều chắc chắn đúng hoặc chắc chắn phù hợp với bản thân, cần suy nghĩ, kiểm chứng và tự lựa chọn có trách nhiệm",
+   "adjustments": "Năng lực số 5.2 CB1a: HS xác định nhu cầu hoàn thành nhiệm vụ học tập, lựa chọn công cụ số phù hợp (Quizizz/Wordwall) để trình bày đáp án về khả năng xảy ra của sự kiện; biết xem phản hồi đúng/sai của công cụ, tự kiểm tra và điều chỉnh cách dùng các từ “chắc chắn”, “có thể”, “không thể”; Tích hợp AI - YCCĐ 2.C3.2: HS nhận biết dự đoán của AI trong đời sống (gợi ý bài hát, phim, trò chơi, nội dung học tập) chỉ mang tính “có thể”; không xem gợi ý của AI là điều chắc chắn đúng hoặc chắc chắn phù hợp với bản thân, cần suy nghĩ, kiểm chứng và tự lựa chọn có trách nhiệm",
    "integrations": [
     {
      "code": "STEM",
@@ -3043,7 +3013,7 @@
    "periodTo": 157,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV cùng HS kiểm đếm số liệu thật của lớp (số bạn thích mỗi loại quả, số bạn đi bộ; đi xe đạp; đi ô tô) rồi nhập ngay vào bảng trên…; Năng lực số Miền 5 (Cơ bản, bậc 1): GV sửa thử một số liệu trong bảng, biểu đồ tranh trên màn hình đổi theo ngay; HS nhận ra biểu đồ vẽ đúng hay sai là do số liệu nhập vào",
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): GV cùng HS kiểm đếm số liệu thật của lớp (số bạn thích mỗi loại quả, số bạn đi bộ - đi xe đạp - đi ô tô) rồi nhập ngay vào bảng trên…; Năng lực số Miền 5 (Cơ bản, bậc 1): GV sửa thử một số liệu trong bảng, biểu đồ tranh trên màn hình đổi theo ngay; HS nhận ra biểu đồ vẽ đúng hay sai là do số liệu nhập vào",
    "integrations": [],
    "note": ""
   },
@@ -3103,7 +3073,7 @@
    "periodTo": 160,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; biết AI/công cụ thông minh có thể gợi ý hoặc tạo nhanh phép tính ôn tập, nhưng HS không phụ thuộc, phải tự thực hiện phép tính, tự kiểm tra bằng tính nhẩm, đặt tính hoặc phép tính ngược trước khi kết luận; Năng lực số 5.2 CB1b: HS tham gia thi tiếp sức và theo dõi được bảng điểm hiện trên màn hình",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; biết AI/công cụ thông minh có thể gợi ý hoặc tạo nhanh phép tính ôn tập, nhưng HS không phụ thuộc, phải tự thực hiện phép tính, tự kiểm tra bằng tính nhẩm, đặt tính hoặc phép tính ngược trước khi kết luận; Năng lực số 5.2 CB1b: HS tham gia thi tiếp sức và theo dõi được bảng điểm hiện trên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -3119,7 +3089,7 @@
    "periodTo": 161,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; biết AI/trợ lí ảo có thể đọc đề bài, gợi ý bước làm hoặc hiển thị nhanh kết quả, nhưng kết quả đó chỉ dùng để tham khảo. HS phải tự đọc lại dữ kiện, tự tóm tắt bài toán, lựa chọn phép cộng hoặc phép trừ phù hợp, trình bày lời giải bằng suy nghĩ của mình và kiểm tra lại kết quả trước khi nộp bài; Năng lực số 5.2 CB1b: HS tham gia thi tiếp sức và theo dõi được bảng điểm hiện trên màn hình",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; biết AI/trợ lí ảo có thể đọc đề bài, gợi ý bước làm hoặc hiển thị nhanh kết quả, nhưng kết quả đó chỉ dùng để tham khảo. HS phải tự đọc lại dữ kiện, tự tóm tắt bài toán, lựa chọn phép cộng hoặc phép trừ phù hợp, trình bày lời giải bằng suy nghĩ của mình và kiểm tra lại kết quả trước khi nộp bài; Năng lực số 5.2 CB1b: HS tham gia thi tiếp sức và theo dõi được bảng điểm hiện trên màn hình",
    "integrations": [],
    "note": ""
   },
@@ -3199,7 +3169,7 @@
    "periodTo": 166,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì; Tích hợp AI; YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; biết tin tưởng công nghệ ở mức hợp lí nhưng vẫn có trách nhiệm kiểm soát kết quả bằng kiến thức toán học. HS nhận biết công cụ thông minh có thể gợi ý phép nhân, phép chia từ các nhóm bằng nhau, nhưng cần tự quan sát, đếm số nhóm, số phần tử trong mỗi nhóm và đối chiếu lại với bảng nhân, bảng chia đã học; Năng lực số 5.2 CB1b: HS tham gia vòng thi và biết mình đã thuộc chắc hay còn phải nhẩm lâu",
+   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì; Tích hợp AI - YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI; biết tin tưởng công nghệ ở mức hợp lí nhưng vẫn có trách nhiệm kiểm soát kết quả bằng kiến thức toán học. HS nhận biết công cụ thông minh có thể gợi ý phép nhân, phép chia từ các nhóm bằng nhau, nhưng cần tự quan sát, đếm số nhóm, số phần tử trong mỗi nhóm và đối chiếu lại với bảng nhân, bảng chia đã học; Năng lực số 5.2 CB1b: HS tham gia vòng thi và biết mình đã thuộc chắc hay còn phải nhẩm lâu",
    "integrations": [],
    "note": ""
   },
@@ -3269,7 +3239,7 @@
    "periodTo": 170,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI/thiết bị thông minh trong học tập đo lường; biết tin tưởng ở mức hợp lí, nhưng vẫn phải tự kiểm tra bằng kiến thức về đơn vị đo và chọn công cụ đo phù hợp; Năng lực số 5.2 CB1b: HS chọn đúng đơn vị đo cho từng vật trong bài tập tương tác và tự sửa khi máy báo sai",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: HS thể hiện thái độ đúng đắn khi sử dụng AI/thiết bị thông minh trong học tập đo lường; biết tin tưởng ở mức hợp lí, nhưng vẫn phải tự kiểm tra bằng kiến thức về đơn vị đo và chọn công cụ đo phù hợp; Năng lực số 5.2 CB1b: HS chọn đúng đơn vị đo cho từng vật trong bài tập tương tác và tự sửa khi máy báo sai",
    "integrations": [],
    "note": ""
   },
@@ -3627,7 +3597,7 @@
   "file": "assets/docs/lop2/Toan - Lop 2.docx",
   "name": "Toan - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 56069,
+  "size": 56044,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {

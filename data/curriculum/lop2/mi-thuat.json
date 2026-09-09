@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 21
+  "integrations": 20
  },
  "lessons": [
   {
@@ -313,14 +313,8 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá kĩ thuật in của chủ đề “Sắc màu thiên nhiên”, GV chiếu ảnh chụp gần mặt sau chiếc lá bàng, lát thân chuối; Sáng tạo, GV dùng điện thoại chụp sản phẩm in của các nhóm rồi chiếu lên màn hình thành một bộ sưu tập nhỏ, cả lớp cùng xem",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Luyện tập"
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 1): Ở hoạt động Khám phá kĩ thuật in của chủ đề “Sắc màu thiên nhiên”, GV chiếu ảnh chụp gần mặt sau chiếc lá bàng, lát thân chuối; Năng lực số Miền 3 (Cơ bản, bậc 1): Ở hoạt động Luyện tập – Sáng tạo, GV dùng điện thoại chụp sản phẩm in của các nhóm rồi chiếu lên màn hình thành một bộ sưu tập nhỏ, cả lớp cùng xem",
+   "integrations": [],
    "note": ""
   },
   {
@@ -976,13 +970,13 @@
   "file": "assets/docs/lop2/Mi thuat - Lop 2.docx",
   "name": "Mi thuat - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 43614,
+  "size": 43596,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Mi thuat - Lop 2.xlsx",
   "name": "Mi thuat - Lop 2.xlsx",
-  "size": 9402,
+  "size": 9401,
   "updated": "2026-09-09"
  }
 }

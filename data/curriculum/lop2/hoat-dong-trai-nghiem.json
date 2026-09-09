@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 90
+  "integrations": 87
  },
  "lessons": [
   {
@@ -51,7 +51,7 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.6 CB1a: HS chọn được ảnh phù hợp để giới thiệu về mình và nói vì sao không đăng ảnh riêng tư; Tích hợp AI; YCCĐ 2.A1.2: HS hiểu AI chỉ mô phỏng, không có cảm xúc thật như con người",
+   "adjustments": "Năng lực số 2.6 CB1a: HS chọn được ảnh phù hợp để giới thiệu về mình và nói vì sao không đăng ảnh riêng tư; Tích hợp AI - YCCĐ 2.A1.2: HS hiểu AI chỉ mô phỏng, không có cảm xúc thật như con người",
    "integrations": [
     {
      "code": "KNS",
@@ -138,7 +138,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: So sánh được cách AI phân loại cảm xúc với cách con người cảm nhận; Năng lực số 1.1 CB1b: HS đọc được biểu đồ sơ kết tuần và nói được tổ mình cần cố gắng điều gì",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: So sánh được cách AI phân loại cảm xúc với cách con người cảm nhận; Năng lực số 1.1 CB1b: HS đọc được biểu đồ sơ kết tuần và nói được tổ mình cần cố gắng điều gì",
    "integrations": [],
    "note": ""
   },
@@ -186,7 +186,7 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C1.2: Hiểu AI cần “học” từ các ví dụ (dữ liệu) để thực hiện nhiệm vụ; Năng lực số 3.1 CB1a: HS xem triển lãm ảnh sản phẩm của lớp, bình chọn và nói được vì sao mình chọn sản phẩm đó",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C1.2: Hiểu AI cần “học” từ các ví dụ (dữ liệu) để thực hiện nhiệm vụ; Năng lực số 3.1 CB1a: HS xem triển lãm ảnh sản phẩm của lớp, bình chọn và nói được vì sao mình chọn sản phẩm đó",
    "integrations": [],
    "note": ""
   },
@@ -245,7 +245,7 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C1.2: Hiểu AI cần “học” từ các ví dụ (dữ liệu) để thực hiện nhiệm vụ; Năng lực số 3.1 CB1a: HS xem triển lãm ảnh sản phẩm của lớp, bình chọn và nói được vì sao mình chọn sản phẩm đó",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C1.2: Hiểu AI cần “học” từ các ví dụ (dữ liệu) để thực hiện nhiệm vụ; Năng lực số 3.1 CB1a: HS xem triển lãm ảnh sản phẩm của lớp, bình chọn và nói được vì sao mình chọn sản phẩm đó",
    "integrations": [],
    "note": ""
   },
@@ -293,7 +293,7 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: Hình thành ý tưởng về máy thông minh hỗ trợ các hoạt động lễ hội; Năng lực số 3.1 CB1a: HS xem triển lãm ảnh sản phẩm của lớp, bình chọn và nói được vì sao mình chọn sản phẩm đó",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: Hình thành ý tưởng về máy thông minh hỗ trợ các hoạt động lễ hội; Năng lực số 3.1 CB1a: HS xem triển lãm ảnh sản phẩm của lớp, bình chọn và nói được vì sao mình chọn sản phẩm đó",
    "integrations": [],
    "note": ""
   },
@@ -325,14 +325,8 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "sau, nói được mình đã sắp xếp lại những gì và sẽ giữ gìn thế nào",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 3.1 CB1a: HS xem cặp ảnh trước"
-    }
-   ],
+   "adjustments": "Năng lực số 3.1 CB1a: HS xem cặp ảnh trước - sau, nói được mình đã sắp xếp lại những gì và sẽ giữ gìn thế nào",
+   "integrations": [],
    "note": ""
   },
   {
@@ -347,7 +341,7 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.3 CB1a: Nhận biết được nơi để sắp xếp dữ liệu, thông tin một cách đơn giản trong môi trường có cấu trúc; Tích hợp AI; YCCĐ 2.A2.1: Nhận biết các thiết bị thông minh (AI) hỗ trợ việc học tập tiện nghi hơn",
+   "adjustments": "Năng lực số 1.3 CB1a: Nhận biết được nơi để sắp xếp dữ liệu, thông tin một cách đơn giản trong môi trường có cấu trúc; Tích hợp AI - YCCĐ 2.A2.1: Nhận biết các thiết bị thông minh (AI) hỗ trợ việc học tập tiện nghi hơn",
    "integrations": [],
    "note": ""
   },
@@ -379,14 +373,8 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "sau, nói được mình đã sắp xếp lại những gì và sẽ giữ gìn thế nào",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 3.1 CB1a: HS xem cặp ảnh trước"
-    }
-   ],
+   "adjustments": "Năng lực số 3.1 CB1a: HS xem cặp ảnh trước - sau, nói được mình đã sắp xếp lại những gì và sẽ giữ gìn thế nào",
+   "integrations": [],
    "note": ""
   },
   {
@@ -401,7 +389,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: So sánh khả năng phân loại, sắp xếp đồ vật nhanh của AI với vai trò chủ động, trách nhiệm của con người; Năng lực số 5.2 CB1b: HS sắp xếp được sách vở, đồ dùng gọn gàng trong thời gian đồng hồ đếm ngược trên màn hình",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: So sánh khả năng phân loại, sắp xếp đồ vật nhanh của AI với vai trò chủ động, trách nhiệm của con người; Năng lực số 5.2 CB1b: HS sắp xếp được sách vở, đồ dùng gọn gàng trong thời gian đồng hồ đếm ngược trên màn hình",
    "integrations": [
     {
      "code": "KNS",
@@ -450,13 +438,8 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "sau, nói được mình đã sắp xếp lại những gì và sẽ giữ gìn thế nào",
+   "adjustments": "Năng lực số 3.1 CB1a: HS xem cặp ảnh trước - sau, nói được mình đã sắp xếp lại những gì và sẽ giữ gìn thế nào",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 3.1 CB1a: HS xem cặp ảnh trước"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -477,7 +460,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.3 CB1a: Nhận biết một số dịch vụ số đơn giản như thanh toán bằng mã QR hoặc ví điện tử và biết chỉ sử dụng dưới sự hướng dẫn của người lớn; Tích hợp AI; YCCĐ 2.A2.2: Nhận biết ứng dụng AI hỗ trợ người khiếm thị nhận diện mệnh giá tiền, nhưng con người vẫn phải kiểm tra và bảo đảm an toàn",
+   "adjustments": "Năng lực số 2.3 CB1a: Nhận biết một số dịch vụ số đơn giản như thanh toán bằng mã QR hoặc ví điện tử và biết chỉ sử dụng dưới sự hướng dẫn của người lớn; Tích hợp AI - YCCĐ 2.A2.2: Nhận biết ứng dụng AI hỗ trợ người khiếm thị nhận diện mệnh giá tiền, nhưng con người vẫn phải kiểm tra và bảo đảm an toàn",
    "integrations": [
     {
      "code": "KNS",
@@ -531,7 +514,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: Phân biệt tương tác máy móc và tình bạn chân thành giữa người với người; Năng lực số 3.1 CB1a: HS kể được một việc bạn đã giúp mình để GV ghi vào nhật kí tình bạn của lớp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A1.2: Phân biệt tương tác máy móc và tình bạn chân thành giữa người với người; Năng lực số 3.1 CB1a: HS kể được một việc bạn đã giúp mình để GV ghi vào nhật kí tình bạn của lớp",
    "integrations": [
     {
      "code": "KNS",
@@ -591,7 +574,7 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.3 CB1a: Giao tiếp, hợp tác trong môi trường số bằng hình thức đơn giản, phù hợp; biết lưu lại và báo người lớn khi nhận tin nhắn làm mình buồn; Tích hợp AI; YCCĐ 2.A1.1: Nhận biết AI không thể thay thế con người trong sự thấu cảm và hòa giải",
+   "adjustments": "Năng lực số 2.3 CB1a: Giao tiếp, hợp tác trong môi trường số bằng hình thức đơn giản, phù hợp; biết lưu lại và báo người lớn khi nhận tin nhắn làm mình buồn; Tích hợp AI - YCCĐ 2.A1.1: Nhận biết AI không thể thay thế con người trong sự thấu cảm và hòa giải",
    "integrations": [
     {
      "code": "KNS",
@@ -755,7 +738,7 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A2.1: Biết mục đích của AI là hỗ trợ tiết kiệm thời gian; con người vẫn cần tự lập trong các việc cá nhân để trưởng thành; Năng lực số 5.2 CB1b: HS chọn được cách ứng phó đúng trong từng tình huống và đọc thuộc các số gọi khẩn cấp",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A2.1: Biết mục đích của AI là hỗ trợ tiết kiệm thời gian; con người vẫn cần tự lập trong các việc cá nhân để trưởng thành; Năng lực số 5.2 CB1b: HS chọn được cách ứng phó đúng trong từng tình huống và đọc thuộc các số gọi khẩn cấp",
    "integrations": [],
    "note": ""
   },
@@ -831,7 +814,7 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.D1.1: HS nêu được một số vấn đề gần gũi có thể áp dụng AI để hỗ trợ giải quyết; hiểu AI chỉ nhắc nhở, con người vẫn quyết định và chịu trách nhiệm; Năng lực số 5.2 CB1b: HS chọn được cách ứng phó an toàn trong trò đố vui và giải thích được vì sao",
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: HS nêu được một số vấn đề gần gũi có thể áp dụng AI để hỗ trợ giải quyết; hiểu AI chỉ nhắc nhở, con người vẫn quyết định và chịu trách nhiệm; Năng lực số 5.2 CB1b: HS chọn được cách ứng phó an toàn trong trò đố vui và giải thích được vì sao",
    "integrations": [
     {
      "code": "KNS",
@@ -869,7 +852,7 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.C3.1: HS biết AI hỗ trợ phân loại, gợi ý trang phục dựa trên dữ liệu; con người phải kiểm tra và quyết định; Năng lực số 1.1 CB1b: HS đọc bản tin thời tiết chiếu trên màn hình và chọn được trang phục, đồ dùng hợp với thời tiết những ngày tới",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: HS biết AI hỗ trợ phân loại, gợi ý trang phục dựa trên dữ liệu; con người phải kiểm tra và quyết định; Năng lực số 1.1 CB1b: HS đọc bản tin thời tiết chiếu trên màn hình và chọn được trang phục, đồ dùng hợp với thời tiết những ngày tới",
    "integrations": [],
    "note": ""
   },
@@ -1049,7 +1032,7 @@
    "periodTo": 53,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A2.2: HS nhận biết một số thiết bị AI có thể hỗ trợ người thân, đặc biệt người cao tuổi, nhưng không thay thế sự quan tâm của con người; Năng lực số 3.1 CB1a: HS kể được một câu về ngày đáng nhớ của gia đình khi ảnh của mình được chiếu lên",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A2.2: HS nhận biết một số thiết bị AI có thể hỗ trợ người thân, đặc biệt người cao tuổi, nhưng không thay thế sự quan tâm của con người; Năng lực số 3.1 CB1a: HS kể được một câu về ngày đáng nhớ của gia đình khi ảnh của mình được chiếu lên",
    "integrations": [],
    "note": ""
   },
@@ -1169,7 +1152,7 @@
    "periodTo": 59,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 4.2 CB1a: HS xin phép trước khi dùng/chia sẻ ảnh gia đình, không đăng công khai khi chưa được đồng ý; Tích hợp AI; YCCĐ 2.A3.1: HS nhận biết AI có thể ghép ảnh thành video kỉ niệm dựa trên dữ liệu và lựa chọn của con người",
+   "adjustments": "Năng lực số 4.2 CB1a: HS xin phép trước khi dùng/chia sẻ ảnh gia đình, không đăng công khai khi chưa được đồng ý; Tích hợp AI - YCCĐ 2.A3.1: HS nhận biết AI có thể ghép ảnh thành video kỉ niệm dựa trên dữ liệu và lựa chọn của con người",
    "integrations": [],
    "note": ""
   },
@@ -1289,7 +1272,7 @@
    "periodTo": 65,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A2.1: Nhận biết các ứng dụng AI giúp nâng cao sự an toàn cho gia đình như camera AI và cảm biến báo khói; Năng lực số 1.1 CB1b: HS xem hình vi khuẩn, vi rút phóng đại và làm đúng các bước rửa tay theo hình động",
+   "adjustments": "Tích hợp AI - YCCĐ 2.A2.1: Nhận biết các ứng dụng AI giúp nâng cao sự an toàn cho gia đình như camera AI và cảm biến báo khói; Năng lực số 1.1 CB1b: HS xem hình vi khuẩn, vi rút phóng đại và làm đúng các bước rửa tay theo hình động",
    "integrations": [],
    "note": ""
   },
@@ -1435,7 +1418,7 @@
    "periodTo": 71,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1a: Sử dụng công cụ số đơn giản để giải quyết nhu cầu cá nhân dưới sự hướng dẫn; biết điện thoại thông minh, bản đồ hoặc định vị có thể hỗ trợ tìm đường, gửi vị trí cho người thân khi gặp sự cố; biết địa chỉ nhà, số điện thoại của bố mẹ và thông tin liên lạc khẩn cấp chỉ dùng để nhờ người tin cậy hỗ trợ, không đăng công khai lên mạng; Tích hợp AI; YCCĐ 2.A1.1: Biết sử dụng công cụ tìm kiếm hoặc bản đồ AI để tìm trợ giúp khi cần",
+   "adjustments": "Năng lực số 5.2 CB1a: Sử dụng công cụ số đơn giản để giải quyết nhu cầu cá nhân dưới sự hướng dẫn; biết điện thoại thông minh, bản đồ hoặc định vị có thể hỗ trợ tìm đường, gửi vị trí cho người thân khi gặp sự cố; biết địa chỉ nhà, số điện thoại của bố mẹ và thông tin liên lạc khẩn cấp chỉ dùng để nhờ người tin cậy hỗ trợ, không đăng công khai lên mạng; Tích hợp AI - YCCĐ 2.A1.1: Biết sử dụng công cụ tìm kiếm hoặc bản đồ AI để tìm trợ giúp khi cần",
    "integrations": [
     {
      "code": "NLS",
@@ -1630,7 +1613,7 @@
    "periodTo": 80,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 4.3 CB1a: Nhận biết những công nghệ số góp phần tăng cường thịnh vượng xã hội và sự hòa hợp; biết AI đọc văn bản, kính thông minh, chân tay giả cảm biến có thể hỗ trợ người yếu thế hòa nhập cuộc sống; Tích hợp AI; YCCĐ 2.A2.2: Nhận biết các ứng dụng AI hỗ trợ xóa bỏ rào cản cho người yếu thế",
+   "adjustments": "Năng lực số 4.3 CB1a: Nhận biết những công nghệ số góp phần tăng cường thịnh vượng xã hội và sự hòa hợp; biết AI đọc văn bản, kính thông minh, chân tay giả cảm biến có thể hỗ trợ người yếu thế hòa nhập cuộc sống; Tích hợp AI - YCCĐ 2.A2.2: Nhận biết các ứng dụng AI hỗ trợ xóa bỏ rào cản cho người yếu thế",
    "integrations": [
     {
      "code": "KNS",
@@ -1899,7 +1882,7 @@
    "periodTo": 92,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: Nhận biết trong nghề nghiệp thực tế, AI có thể hỗ trợ nhưng con người phải giám sát và chịu trách nhiệm; Năng lực số 1.1 CB1b: HS xem phim, gọi tên được một số nghề và nêu đức tính cần có của người làm nghề đó",
+   "adjustments": "Tích hợp AI – YCCĐ 2.A1.2: Nhận biết trong nghề nghiệp thực tế, AI có thể hỗ trợ nhưng con người phải giám sát và chịu trách nhiệm; Năng lực số 1.1 CB1b: HS xem phim, gọi tên được một số nghề và nêu đức tính cần có của người làm nghề đó",
    "integrations": [
     {
      "code": "KNS",
@@ -2051,7 +2034,7 @@
    "periodTo": 98,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1a: Xác định nhu cầu cá nhân và sử dụng công cụ số đơn giản để trình bày kết quả; dưới sự hướng dẫn của GV, HS biết dùng bảng hoặc biểu tượng số đơn giản để trình bày kết quả khảo sát khu vực sạch; chưa sạch",
+   "adjustments": "Năng lực số 5.2 CB1a: Xác định nhu cầu cá nhân và sử dụng công cụ số đơn giản để trình bày kết quả; dưới sự hướng dẫn của GV, HS biết dùng bảng hoặc biểu tượng số đơn giản để trình bày kết quả khảo sát khu vực sạch - chưa sạch",
    "integrations": [
     {
      "code": "QPAN",
@@ -2149,7 +2132,7 @@
    "periodTo": 102,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI; YCCĐ 2.A1.2: HS biết AI/máy tự động có thể hỗ trợ lao động nhưng có thể sai; con người phải quan sát, kiểm tra và chịu trách nhiệm dừng khi có nguy cơ",
+   "adjustments": "Tích hợp AI – YCCĐ 2.A1.2: HS biết AI/máy tự động có thể hỗ trợ lao động nhưng có thể sai; con người phải quan sát, kiểm tra và chịu trách nhiệm dừng khi có nguy cơ",
    "integrations": [
     {
      "code": "NLS",
@@ -2492,13 +2475,13 @@
   "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.docx",
   "name": "Hoat dong trai nghiem - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 49632,
+  "size": 49628,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.xlsx",
   "name": "Hoat dong trai nghiem - Lop 2.xlsx",
-  "size": 16444,
+  "size": 16443,
   "updated": "2026-09-09"
  }
 }
