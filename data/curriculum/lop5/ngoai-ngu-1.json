@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-11"
+  "importedAt": "2026-09-12"
  },
  "summary": {
   "totalPeriods": 140,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 129
+  "integrations": 1
  },
  "lessons": [
   {
@@ -29,7 +29,7 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS xem sách điện tử Tiếng Anh 5 trên tivi, chỉ được các phần Unit, Lesson và nói tên phần sẽ học",
+   "adjustments": "Digital competence 1.1 CB2c: Pupils look at the English 5 e-book on the TV, point to the Unit and Lesson sections and say the name of the part they will learn",
    "integrations": [],
    "note": ""
   },
@@ -45,14 +45,8 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV mở bản ghi âm bản ngữ bài hát Back to school trong bài “Starter — A. Back to school”, chiếu lời trên tivi, HS nghe hai lượt rồi hát theo; Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu mẫu My goal tree trên tivi, mỗi HS nói ba mục tiêu This year I want to… rồi cả lớp thống nhất quy tắc lớp học số: giơ tay trước khi nói",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): The teacher plays the native-speaker audio of the song Back to school in the lesson “Starter — A. Back to school” and shows the lyrics on the TV; pupils listen twice and then sing along; Digital competence Domain 2 (Basic, level 2): The teacher shows the My goal tree template on the TV; each pupil says three goals This year I want to… and then the whole class agrees on the digital classroom rules: raise your hand before speaking; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -67,7 +61,7 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trong bài “Starter — B. Last summer”, GV chiếu video các địa điểm nổi tiếng cho trò Let’s travel!, HS xem và nói tên địa điểm bằng tiếng Anh; Năng lực số Miền 2 (Cơ bản, bậc 2): GV cho HS chọn một ảnh kì nghỉ hè (ảnh chụp hoặc tranh trong học liệu số) chiếu trên tivi, nói hai câu I was in… / It was fun. cho cả lớp nghe",
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the lesson “Starter — B. Last summer”, the teacher shows videos of famous places for the game Let’s travel!, and pupils watch and say the names of the places in English; Digital competence Domain 2 (Basic, level 2): The teacher has pupils choose a summer holiday picture (a photo or a picture from the digital learning resources) shown on the TV and say two sentences I was in… / It was fun. to the class",
    "integrations": [],
    "note": ""
   },
@@ -83,7 +77,7 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Với bài “Starter — C. Classroom instructions”, GV chiếu flashcard số các lệnh Open your book, Close your book, Stand up, Sit down, mỗi thẻ kèm hình minh hoạ; Năng lực số Miền 3 (Cơ bản, bậc 2): HS đọc chant theo bản ghi âm bản ngữ chiếu trên tivi, GV dùng điện thoại ghi âm lớp đọc chant rồi mở lại để HS so với bản mẫu về trọng âm, nhịp",
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): For the lesson “Starter — C. Classroom instructions”, the teacher shows digital flashcards of the commands Open your book, Close your book, Stand up, Sit down, each card with an illustration; Digital competence Domain 3 (Basic, level 2): Pupils say the chant along with the native-speaker audio played on the TV; the teacher uses a phone to record the class chanting and plays it back so pupils can compare it with the model for stress and rhythm",
    "integrations": [],
    "note": ""
   },
@@ -99,14 +93,8 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.1 CB2a: HS quan sát flashcard số (city, countryside…) rồi hỏi – đáp theo cặp về nơi mình đang sống",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence 2.1 CB2a: Pupils look at the digital flashcards (city, countryside…) and then ask and answer in pairs about where they live; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -121,14 +109,8 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -143,14 +125,8 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Trong bài “Unit 1: All about me! — Lesson 2 (1, 2, 3)”, GV chiếu flashcard số dolphin, pink, sandwich, table tennis cho trò Bingo; Năng lực số Miền 3 (Cơ bản, bậc 2): GV chiếu mẫu tin nhắn ngắn gửi bạn trên tivi: Hi Nam! My favourite colour is pink. My favourite food is sandwich. What about you?; HS viết một tin nhắn tương tự vào phiếu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the lesson “Unit 1: All about me! — Lesson 2 (1, 2, 3)”, the teacher shows digital flashcards dolphin, pink, sandwich, table tennis for a Bingo game; Digital competence Domain 3 (Basic, level 2): The teacher shows a sample short message to a friend on the TV: Hi Nam! My favourite colour is pink. My favourite food is sandwich. What about you?; pupils write a similar message on a worksheet; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -165,14 +141,8 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -187,14 +157,8 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài Unit 1 All about me, GV chiếu tranh kèm tệp ghi âm phần nghe về đất nước, môn thể thao, con vật yêu thích; HS nghe lần một nắm ý chung; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt hỏi đáp theo cặp về sở thích rồi mở lại cho cả lớp nghe; HS tự đánh giá theo tiêu chí chiếu sẵn là nói đủ câu, phát âm rõ",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In Unit 1 All about me, the teacher shows pictures with the audio file of the listening part about favourite countries, sports and animals; pupils listen the first time for the general idea; Digital competence Domain 2 (Basic, level 2): The teacher records pairs asking and answering about hobbies and plays the recordings back to the class; pupils assess themselves using the criteria shown on the screen: full sentences, clear pronunciation; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -209,14 +173,8 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -231,19 +189,8 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 2 Our homes, GV chiếu ảnh các kiểu nhà ở như nhà phố, chung cư, nhà sàn và mở tệp ghi âm mẫu câu hỏi, câu đáp về nơi ở; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để GV đánh dấu vào bảng",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu bảng khảo sát nhanh của lớp về kiểu nhà ở"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): To start Unit 2 Our homes, the teacher shows pictures of types of homes such as town houses, flats and stilt houses and plays the model audio of questions and answers about where people live; Digital competence Domain 2 (Basic, level 2): The teacher shows a quick class survey table about types of homes; pairs of pupils ask and answer in English, then read out their answers for the teacher to tick in the table; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -258,14 +205,8 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -280,14 +221,8 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài Unit 2 Our homes, GV chiếu ảnh các kiểu nhà ở và sơ đồ các phòng trong nhà, mở tệp ghi âm mẫu hỏi đáp về nơi ở; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nghe chọn tranh và ghép từ chỉ phòng với đồ vật thường có trong phòng đó; máy chấm ngay nên HS biết mình còn nhầm từ nào",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In Unit 2 Our homes, the teacher shows photos of types of houses and a plan of the rooms in a house and plays the model audio asking and answering about where people live; Digital competence Domain 5 (Basic, level 2): The teacher opens an interactive exercise: listen and choose the picture, and match room words with things usually found in those rooms; the computer marks it instantly, so pupils know which words they still confuse; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -302,14 +237,8 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -324,14 +253,8 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần luyện nói bài Unit 2 Our homes, GV chiếu bảng khảo sát của lớp về kiểu nhà và phòng mà mỗi bạn thích nhất; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi nhóm làm một trang giới thiệu ngôi nhà mơ ước: chọn hoặc vẽ hình các phòng, ghi tên phòng bằng tiếng Anh và viết hai câu giới thiệu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 2 (Basic, level 2): In the speaking part of Unit 2 Our homes, the teacher shows a class survey table about the type of home and the room each pupil likes best; Digital competence Domain 3 (Basic, level 2): Each group makes a page introducing their dream house: choose or draw pictures of the rooms, write the room names in English and write two sentences to introduce it; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -346,14 +269,8 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -368,14 +285,8 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 3 My foreign friends, GV chiếu bản đồ thế giới và ảnh cờ một số nước kèm tệp ghi âm mẫu; HS nghe rồi chỉ đúng nước trên bản đồ; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nối tên nước với lá cờ và điền từ còn thiếu vào câu hỏi bạn đến từ đâu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): To start Unit 3 My foreign friends, the teacher shows a world map and pictures of some countries' flags with the model audio; pupils listen and point to the right country on the map; Digital competence Domain 5 (Basic, level 2): The teacher opens an interactive exercise to match country names with flags and fill in the missing words in questions asking where a friend is from; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -390,14 +301,8 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -412,14 +317,8 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở bài Unit 3 phần tả ngoại hình bạn bè, GV chiếu bộ tranh nhân vật lên màn hình; từng cặp HS hỏi đáp bằng tiếng Anh về dáng người; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nghe rồi chọn đúng tranh nhân vật được tả; máy chấm ngay nên HS nhận ra mình còn nhầm từ chỉ đặc điểm gần nghĩa",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 2 (Basic, level 2): In Unit 3, part describing friends' appearance, the teacher shows a set of character pictures on the screen; each pair asks and answers in English about their build; Digital competence Domain 5 (Basic, level 2): The teacher opens an interactive exercise to listen and choose the right picture of the character described; the computer marks it instantly, so pupils notice when they still confuse words for similar characteristics; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -434,14 +333,8 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -456,14 +349,8 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần kĩ năng của bài Unit 3 My foreign friends, GV mở tệp ghi âm đoạn hội thoại tả tính cách bạn bè và chiếu tranh kèm từ khoá; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nối từ chỉ tính cách với tình huống minh hoạ và điền từ còn thiếu vào câu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the skills part of Unit 3 My foreign friends, the teacher plays the audio file of a conversation describing friends' personalities and shows pictures with key words; Digital competence Domain 5 (Basic, level 2): The teacher opens an interactive exercise to match personality words with example situations and fill in the missing words in sentences; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -478,14 +365,8 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -500,19 +381,8 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 4 Our free-time activities, GV chiếu bộ tranh hoạt động rảnh rỗi kèm tệp ghi âm mẫu; HS nghe rồi nối hoạt động với tranh; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô đánh dấu",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu bảng khảo sát hoạt động rảnh rỗi của lớp"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): To start Unit 4 Our free-time activities, the teacher shows a set of pictures of free-time activities with the model audio; pupils listen and match the activities with the pictures; Digital competence Domain 2 (Basic, level 2): The teacher shows a survey table of the class's free-time activities; pairs of pupils ask and answer in English, then read out their answers for the teacher to tick; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -527,14 +397,8 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -549,14 +413,8 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần kĩ năng của bài Unit 4 Our free-time activities, GV mở tệp ghi âm đoạn hội thoại và chiếu tranh kèm từ khoá; HS nghe lần một nắm ý chung; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi nhóm làm một trang giới thiệu hoạt động rảnh rỗi của nhóm: chọn biểu tượng hoạt động, ghi tần suất và viết hai câu tiếng Anh",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the skills part of Unit 4 Our free-time activities, the teacher plays the audio file of the conversation and shows pictures with key words; pupils listen the first time for the general idea; Digital competence Domain 3 (Basic, level 2): Each group makes a page about the group's free-time activities: choose activity icons, write how often and write two sentences in English; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -571,14 +429,8 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần luyện tập bài Unit 4 Our free-time activities, GV mở bài tập tương tác nghe chọn tranh và ghép hoạt động rảnh rỗi với tần suất; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt hỏi đáp về hoạt động rảnh rỗi của vài cặp rồi mở cho cả lớp nghe; các em nhận xét theo tiêu chí nói đủ câu, phát âm rõ",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 5 (Basic, level 2): In the practice part of Unit 4 Our free-time activities, the teacher opens an interactive exercise: listen and choose the picture and match free-time activities with how often they are done; Digital competence Domain 2 (Basic, level 2): The teacher records a few pairs asking and answering about free-time activities and plays them to the class; pupils comment using the criteria: full sentences, clear pronunciation; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -593,14 +445,8 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần kĩ năng của bài Unit 3 My foreign friends, GV mở tệp ghi âm đoạn hội thoại tả tính cách bạn bè và chiếu tranh kèm từ khoá; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nối từ chỉ tính cách với tình huống minh hoạ và điền từ còn thiếu vào câu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the skills part of Unit 3 My foreign friends, the teacher plays the audio file of a conversation describing friends' personalities and shows pictures with key words; Digital competence Domain 5 (Basic, level 2): The teacher opens an interactive exercise to match personality words with example situations and fill in the missing words in sentences; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -615,14 +461,8 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -637,19 +477,8 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 5 My future job, GV chiếu bộ tranh nghề nghiệp kèm tệp ghi âm mẫu; HS nghe rồi nối tên nghề với tranh; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô đánh dấu",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu bảng khảo sát nghề mơ ước của lớp"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): To start Unit 5 My future job, the teacher shows a set of job pictures with model audio; pupils listen and match the job names with the pictures; Digital competence Domain 2 (Basic, level 2): The teacher shows the class survey table of dream jobs; each pair asks and answers in English and then reads out the answers for the teacher to tick; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -664,14 +493,8 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -686,14 +509,8 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần luyện tập bài Unit 5 My future job, GV mở bài tập tương tác nghe chọn tranh và ghép nghề với việc người làm nghề đó thường làm; Năng lực số Miền 6 (Cơ bản, bậc 2): GV hỏi công cụ trí tuệ nhân tạo xem một nghề cần những kĩ năng gì rồi chiếu câu trả lời",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 5 (Basic, level 2): In the practice part of Unit 5 My future job, the teacher opens an interactive exercise to listen and choose pictures and match jobs with what people in those jobs usually do; Digital competence Domain 6 (Basic, level 2): The teacher asks an artificial intelligence (AI) tool what skills a job needs and then shows the answer; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -708,14 +525,8 @@
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -730,19 +541,8 @@
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 5 My future job, GV chiếu bộ tranh nghề nghiệp kèm tệp ghi âm mẫu; HS nghe rồi nối tên nghề với tranh; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô đánh dấu",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu bảng khảo sát nghề mơ ước của lớp"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): To start Unit 5 My future job, the teacher shows a set of job pictures with model audio; pupils listen and match the job names with the pictures; Digital competence Domain 2 (Basic, level 2): The teacher shows the class survey table of dream jobs; each pair asks and answers in English and then reads out the answers for the teacher to tick; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -757,14 +557,8 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần kĩ năng của bài Unit 5 My future job, GV mở bài tập tương tác nghe chọn tranh nghề nghiệp và điền từ còn thiếu vào câu nói về nghề mơ ước; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi HS làm một tấm thẻ nghề mơ ước gồm tên nghề bằng tiếng Anh, một hình minh hoạ và hai câu nêu lí do",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 5 (Basic, level 2): In the skills part of Unit 5 My future job, the teacher opens an interactive exercise to listen and choose job pictures and fill in the missing words in sentences about dream jobs; Digital competence Domain 3 (Basic, level 2): Each pupil makes a dream job card with the job name in English, an illustration and two sentences giving reasons; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -795,8 +589,14 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở tiết Review 1, GV mở bộ bài tập tương tác tổng hợp các chủ điểm đã học; sau mỗi câu máy báo đúng; Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu bảng tổng hợp từ vựng và mẫu câu theo từng chủ điểm, bấm sáng dần từng nhóm; HS nhìn bảng để ôn lại có hệ thống",
-   "integrations": [],
+   "adjustments": "Digital competence Domain 5 (Basic, level 2): In Review 1, the teacher opens a set of interactive exercises covering the topics learnt; after each question the computer shows right; Digital competence Domain 1 (Basic, level 2): The teacher shows a summary table of vocabulary and sentence patterns by topic, highlighting one group at a time",
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "pupils look at the table to review systematically"
+    }
+   ],
    "note": ""
   },
   {
@@ -811,7 +611,7 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở tiết hoạt động mở rộng, GV mở bộ bài tập tương tác ôn từ vựng về nghề nghiệp và nơi làm việc; sau mỗi câu máy báo đúng; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi nhóm làm một bảng ghép nghề với nơi làm việc bằng hình và từ khoá; các nhóm đổi bảng cho nhau chơi thử, ai ghép nhanh và đúng thì thắng",
+   "adjustments": "Digital competence Domain 5 (Basic, level 2): In the extension activity lesson, the teacher opens a set of interactive exercises revising vocabulary about jobs and workplaces; after each question the computer shows whether the answer is correct; Digital competence Domain 3 (Basic, level 2): Each group makes a table matching jobs with workplaces using pictures and key words; groups swap tables and try them out, and whoever matches fastest and correctly wins",
    "integrations": [],
    "note": ""
   },
@@ -827,19 +627,8 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 6 Our school rooms, GV chiếu sơ đồ các tầng của trường có chú thích phòng bằng tiếng Anh kèm tệp ghi âm; từng cặp HS hỏi đáp bằng tiếng Anh xem phòng nào ở tầng nào rồi đọc để thầy cô điền",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu bảng hai cột tên phòng và tầng"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): To start Unit 6 Our school rooms, the teacher shows a floor plan of the school with the rooms labelled in English together with the audio recording; Digital competence Domain 2 (Basic, level 2): The teacher shows a two-column table of rooms and floors; each pair asks and answers in English about which room is on which floor and then reads out the answers for the teacher to fill in; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -854,14 +643,8 @@
    "periodTo": 39,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -876,14 +659,8 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở bài Unit 6 phần luyện tập, GV mở bài tập tương tác nghe chọn tranh và ghép câu hỏi với câu trả lời về vị trí các phòng; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt hỏi đáp chỉ đường trong trường của vài cặp rồi mở cho cả lớp nghe; các em nhận xét theo tiêu chí nói đủ câu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 5 (Basic, level 2): In the practice part of Unit 6, the teacher opens an interactive exercise: listen and choose the picture and match questions with answers about where the rooms are; Digital competence Domain 2 (Basic, level 2): The teacher records a few pairs asking for and giving directions in the school and plays them for the whole class; pupils comment using the criteria: full sentences; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -898,14 +675,8 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -920,14 +691,8 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần kĩ năng của bài Unit 6 Our school rooms, GV chiếu tranh kèm từ khoá và mở tệp ghi âm; HS nghe lần một nắm ý chung; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nghe chọn tranh và điền từ chỉ vị trí còn thiếu; máy chấm ngay nên HS nhận ra mình còn nhầm tầng, nhầm hướng",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the skills part of Unit 6 Our school rooms, the teacher shows pictures with key words and plays the audio file; pupils listen the first time for the main idea; Digital competence Domain 5 (Basic, level 2): The teacher opens an interactive exercise: listen and choose the picture, and fill in the missing position words; the computer marks it instantly, so pupils notice when they still confuse floors or directions; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -942,14 +707,8 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -964,19 +723,8 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 7 về hoạt động yêu thích ở trường, GV chiếu bộ tranh hoạt động kèm tệp ghi âm mẫu; HS nghe rồi nối hoạt động với tranh; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô đánh dấu",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu bảng khảo sát hoạt động yêu thích của lớp"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): To start Unit 7 about favourite school activities, the teacher shows a set of activity pictures with model audio; pupils listen and match the activities with the pictures; Digital competence Domain 2 (Basic, level 2): The teacher shows the class survey table of favourite activities; each pair asks and answers in English and then reads out the answers for the teacher to tick; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -991,14 +739,8 @@
    "periodTo": 45,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1013,14 +755,8 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 2 (Cơ bản, bậc 2): Ở bài Unit 7 về hoạt động yêu thích, GV mở bài hát của bài học trên màn hình cho cả lớp hát theo; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nghe chọn tranh và ghép câu hỏi lí do với câu trả lời; máy chấm ngay nên HS nhận ra mình còn nhầm cách dùng từ nối",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 2 (Basic, level 2): In Unit 7 about favourite activities, the teacher plays the lesson's song on the screen for the whole class to sing along; Digital competence Domain 5 (Basic, level 2): The teacher opens an interactive exercise to listen and choose pictures and match questions about reasons with answers; the computer marks it instantly, so pupils notice when they still misuse linking words; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1035,14 +771,8 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1057,14 +787,8 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần kĩ năng của bài Unit 7, GV chiếu tranh kèm từ khoá và mở tệp ghi âm đoạn hội thoại; HS nghe lần một nắm ý chung; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi nhóm làm một trang giới thiệu hoạt động yêu thích ở trường: chọn hình, ghi tên hoạt động và viết hai câu nêu lí do bằng tiếng Anh",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the skills part of Unit 7, the teacher shows pictures with key words and plays the audio file of the dialogue; pupils listen the first time for the main idea; Digital competence Domain 3 (Basic, level 2): Each group makes a page about a favourite school activity: choose a picture, write the activity name and write two sentences in English giving reasons; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1079,14 +803,8 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1101,19 +819,8 @@
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 8 In our classroom, GV chiếu ảnh lớp học có chú thích đồ vật bằng tiếng Anh kèm tệp ghi âm; HS nghe rồi chỉ đúng đồ vật trên ảnh; từng cặp HS hỏi đáp bằng tiếng Anh xem lớp mình có gì, ở đâu rồi đọc để thầy cô điền",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu bảng liệt kê đồ dùng trong lớp"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): To start Unit 8 In our classroom, the teacher shows a photo of a classroom with the objects labelled in English, with audio files; pupils listen, then point to the right objects in the photo; Digital competence Domain 2 (Basic, level 2): The teacher shows a table listing classroom things; each pair of pupils asks and answers in English about what the classroom has and where, then reads out the answers for the teacher to fill in; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1128,14 +835,8 @@
    "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1150,14 +851,8 @@
    "periodTo": 52,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở bài Unit 8 phần hỏi vị trí đồ vật, GV mở bài tập tương tác nghe chọn tranh và kéo đồ vật về đúng vị trí theo lời mô tả; Năng lực số Miền 2 (Cơ bản, bậc 2): GV ghi âm lượt hỏi đáp về vị trí đồ vật của vài cặp rồi mở cho cả lớp nghe; các em nhận xét theo tiêu chí nói đủ câu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 5 (Basic, level 2): In Unit 8, part asking about the positions of things, the teacher opens an interactive exercise to listen and choose pictures and drag objects to the right positions according to the description; Digital competence Domain 2 (Basic, level 2): The teacher records a few pairs' questions and answers about where things are and plays them for the whole class; pupils comment using the criteria: full sentences; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1172,14 +867,8 @@
    "periodTo": 53,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1194,14 +883,8 @@
    "periodTo": 54,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần kĩ năng của bài Unit 8 In our classroom, GV chiếu tranh lớp học kèm từ khoá và mở tệp ghi âm; HS nghe lần một nắm ý chung; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nghe rồi kéo đồ vật về đúng vị trí và điền từ chỉ vị trí còn thiếu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the skills part of Unit 8 In our classroom, the teacher shows a classroom picture with key words and plays the audio file; pupils listen the first time for the general idea; Digital competence Domain 5 (Basic, level 2): The teacher opens an interactive exercise: listen, drag the things to the right positions and fill in the missing location words; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1216,14 +899,8 @@
    "periodTo": 55,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1238,14 +915,8 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Vào bài Unit 9 Our outdoor activities, GV chiếu bộ tranh hoạt động ngoài trời và tên địa điểm kèm tệp ghi âm mẫu; HS nghe rồi nối hoạt động với nơi diễn ra; Năng lực số Miền 2 (Cơ bản, bậc 2): GV chiếu bảng khảo sát hoạt động ngoài trời mà lớp thích; từng cặp HS hỏi đáp bằng tiếng Anh rồi đọc để thầy cô đánh dấu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): To start Unit 9 Our outdoor activities, the teacher shows a set of pictures of outdoor activities and place names with the model audio; pupils listen and match the activities with where they take place; Digital competence Domain 2 (Basic, level 2): The teacher shows a survey table of the outdoor activities the class likes; each pair asks and answers in English and then reads out the answers for the teacher to tick; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1260,14 +931,8 @@
    "periodTo": 57,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1282,14 +947,8 @@
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Let's sing của Unit 9 “Our outdoor activities”, GV mở bài hát What did you do? kèm lời chạy trên màn hình; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động Read and write, GV chiếu đoạn văn còn chỗ trống lên màn hình; các nhóm bàn nhau rồi lên điền từ vào chỗ trống",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Let's sing activity of Unit 9 “Our outdoor activities”, the teacher plays the song What did you do? with scrolling lyrics on the screen; Digital competence Domain 2 (Basic, level 2): In the Read and write activity, the teacher shows a text with blanks on the screen; groups discuss and then come up to fill in the blanks; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1304,14 +963,8 @@
    "periodTo": 59,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1326,14 +979,8 @@
    "periodTo": 60,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần kĩ năng của bài Unit 8 In our classroom, GV chiếu tranh lớp học kèm từ khoá và mở tệp ghi âm; HS nghe lần một nắm ý chung; Năng lực số Miền 5 (Cơ bản, bậc 2): GV mở bài tập tương tác nghe rồi kéo đồ vật về đúng vị trí và điền từ chỉ vị trí còn thiếu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the skills part of Unit 8 In our classroom, the teacher shows a classroom picture with key words and plays the audio file; pupils listen the first time for the general idea; Digital competence Domain 5 (Basic, level 2): The teacher opens an interactive exercise: listen, drag the things to the right positions and fill in the missing location words; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1348,14 +995,8 @@
    "periodTo": 61,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1370,14 +1011,8 @@
    "periodTo": 62,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 10 “Our school trip”, GV chiếu tranh chuyến đi tham quan lên màn hình và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up Let's chant, GV mở bản chant có chữ chạy theo nhịp trên màn hình cho cả lớp đọc đồng thanh",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 10 “Our school trip”, the teacher shows pictures of the school trip on the screen and plays the model audio; Digital competence Domain 2 (Basic, level 2): In the Warm-up Let's chant, the teacher plays the chant with the words scrolling in rhythm on the screen for the whole class to chant together; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1392,14 +1027,8 @@
    "periodTo": 63,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1414,14 +1043,8 @@
    "periodTo": 64,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 10 “Our school trip”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Secret boxes, GV chiếu các hộp bí mật trên màn hình; HS chọn hộp, đặt câu hỏi Did they go to…? để đoán nơi bên trong",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and tick activity of Unit 10 “Our school trip”, the teacher shows the pictures on the screen and plays the audio, pausing after each part so pupils tick; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Secret boxes, the teacher shows secret boxes on the screen; pupils choose a box and ask Did they go to…? to guess the place inside; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1436,14 +1059,8 @@
    "periodTo": 65,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1458,14 +1075,8 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 10 “Our school trip”, GV chiếu tranh chuyến đi tham quan lên màn hình và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up Let's chant, GV mở bản chant có chữ chạy theo nhịp trên màn hình cho cả lớp đọc đồng thanh",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 10 “Our school trip”, the teacher shows pictures of the school trip on the screen and plays the model audio; Digital competence Domain 2 (Basic, level 2): In the Warm-up Let's chant, the teacher plays the chant with the words scrolling in rhythm on the screen for the whole class to chant together; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1480,14 +1091,8 @@
    "periodTo": 67,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 10 “Our school trip”, GV mở bản nghe mẫu hai từ November, December và chiếu chữ có đánh dấu trọng âm ở âm tiết thứ hai…; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Whisper, sau mỗi lượt truyền tin GV chiếu câu gốc lên màn hình; hai đội đối chiếu câu mình nói với câu gốc",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and repeat activity of Unit 10 “Our school trip”, the teacher plays the model audio of the two words November, December and shows the words with the stress marked on the second syllable…; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Whisper, after each round of passing the message the teacher shows the original sentence on the screen; the two teams compare what they said with the original sentence; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1518,7 +1123,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Read and match của Review 2, GV chiếu các câu và tranh lên màn hình, cho hiện lần lượt từng cặp để HS đọc và nối thử; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Hot seat, GV chiếu từ khoá lên màn hình cho cả lớp nhìn trừ bạn ngồi ghế nóng; các nhóm gợi ý bằng tiếng Anh để bạn đoán",
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Read and match part of Review 2, the teacher shows the sentences and pictures on the screen, revealing each pair in turn for pupils to read and try matching; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Hot seat, the teacher shows a key word on the screen for everyone except the pupil in the hot seat; groups give hints in English for that pupil to guess",
    "integrations": [],
    "note": ""
   },
@@ -1534,7 +1139,7 @@
    "periodTo": 70,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 5 (Cơ bản, bậc 2): Ở tiết hoạt động mở rộng, GV mở bộ bài tập tương tác ôn từ vựng về nghề nghiệp và nơi làm việc; sau mỗi câu máy báo đúng; Năng lực số Miền 3 (Cơ bản, bậc 2): Mỗi nhóm làm một bảng ghép nghề với nơi làm việc bằng hình và từ khoá; các nhóm đổi bảng cho nhau chơi thử, ai ghép nhanh và đúng thì thắng",
+   "adjustments": "Digital competence Domain 5 (Basic, level 2): In the extension activity lesson, the teacher opens a set of interactive exercises revising vocabulary about jobs and workplaces; after each question the computer shows whether the answer is correct; Digital competence Domain 3 (Basic, level 2): Each group makes a table matching jobs with workplaces using pictures and key words; groups swap tables and try them out, and whoever matches fastest and correctly wins",
    "integrations": [],
    "note": ""
   },
@@ -1550,7 +1155,7 @@
    "periodTo": 71,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Read của Extension activities 2, GV chiếu đoạn đọc lên màn hình và tô sáng dần các từ khoá về chuyến đi; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Multiple choice, GV chiếu từng câu hỏi cùng bốn phương án; các nhóm chọn đáp án rồi bấm kiểm tra",
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Read activity of Extension activities 2, the teacher shows the reading text on the screen and gradually highlights the key words about the trip; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Multiple choice, the teacher shows each question with four options; groups choose an answer and then click check",
    "integrations": [],
    "note": ""
   },
@@ -1582,14 +1187,8 @@
    "periodTo": 73,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 11 “Family time”, GV chiếu tranh các việc gia đình cùng làm và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up Let's sing, GV mở bài hát có lời chạy trên màn hình cho cả lớp hát kèm động tác",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the activity Look, listen and repeat of Unit 11 “Family time”, the teacher shows pictures of things families do together and plays the model audio; Digital competence Domain 2 (Basic, level 2): In the Warm-up Let's sing, the teacher plays the song with scrolling lyrics on the screen for the whole class to sing with actions; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1604,14 +1203,8 @@
    "periodTo": 74,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1626,14 +1219,8 @@
    "periodTo": 75,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 11 “Family time”, GV chiếu tranh lên màn hình và mở bản nghe mẫu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Whisper, sau mỗi lượt truyền tin GV chiếu câu gốc lên màn hình; hai đội đối chiếu câu mình nói với câu gốc",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and repeat activity of Unit 11 “Family time”, the teacher shows the pictures on the screen and plays the model audio; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Whisper, after each round of passing the message the teacher shows the original sentence on the screen; the two teams compare what they said with the original sentence; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1648,14 +1235,8 @@
    "periodTo": 76,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1670,14 +1251,8 @@
    "periodTo": 77,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 11 “Family time”, GV chiếu tranh lên màn hình và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát Did you swim last Sunday? có lời chạy trên màn hình cho cả lớp hát kèm động tác",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and repeat activity of Unit 11 “Family time”, the teacher shows the pictures on the screen and plays the model audio; Digital competence Domain 2 (Basic, level 2): In the Warm-up, the teacher plays the song Did you swim last Sunday? with scrolling lyrics on the screen for the whole class to sing with actions; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1692,14 +1267,8 @@
    "periodTo": 78,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1714,14 +1283,8 @@
    "periodTo": 79,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần mở đầu Unit 12 “Our Tet holiday”, GV chiếu bức tranh chủ đề phóng to lên màn hình, cho hiện dần từng chi tiết như bánh chưng, hoa đào; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Việc gia đình làm ngày Tết – Câu nói bằng tiếng Anh”; các cặp hỏi đáp rồi lên điền câu của mình",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): At the start of Unit 12 “Our Tet holiday”, the teacher shows the enlarged topic picture on the screen, revealing each detail one by one, such as banh chung, peach blossoms; Digital competence Domain 2 (Basic, level 2): In the speaking activity, the teacher shows the shared table “Things families do at Tet – Sentence in English”; pairs ask and answer and then come up to fill in their sentences; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1736,14 +1299,8 @@
    "periodTo": 80,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1758,14 +1315,8 @@
    "periodTo": 81,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 12 “Our Tet holiday”, GV chiếu tranh các việc chuẩn bị Tết và mở bản nghe mẫu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Missing letters, GV chiếu các cụm từ về ngày Tết bị khuyết chữ cái; các nhóm điền chữ còn thiếu trên màn hình rồi bấm kiểm tra",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 12 “Our Tet holiday”, the teacher shows pictures of Tet preparations and plays the model audio; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Missing letters, the teacher shows Tet phrases with missing letters; groups fill in the missing letters on the screen and then click check; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1780,14 +1331,8 @@
    "periodTo": 82,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1802,14 +1347,8 @@
    "periodTo": 83,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Warm-up của Unit 12 “Our Tet holiday”, GV chiếu đoạn phim ngắn về Tết ở các vùng miền lấy từ nguồn tin cậy; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Vùng miền – Hoạt động ngày Tết”; các nhóm lên điền điều xem được từ đoạn phim và điều mình biết",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Warm-up activity of Unit 12 “Our Tet holiday”, the teacher shows a short video about Tet in different regions taken from a reliable source; Digital competence Domain 2 (Basic, level 2): In the speaking activity, the teacher shows a shared table “Region – Tet activities”; groups come up to fill in what they saw in the video and what they know; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1824,14 +1363,8 @@
    "periodTo": 84,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1846,14 +1379,8 @@
    "periodTo": 85,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 13 “Our special days”, GV chiếu tranh các ngày lễ và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up Let's chant, GV mở bản chant có chữ chạy theo nhịp trên màn hình cho cả lớp đọc đồng thanh",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 13 “Our special days”, the teacher shows pictures of special days and plays the model audio; Digital competence Domain 2 (Basic, level 2): In the Warm-up Let's chant, the teacher plays the chant with the words scrolling in rhythm on the screen for the whole class to chant together; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1868,14 +1395,8 @@
    "periodTo": 86,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1890,14 +1411,8 @@
    "periodTo": 87,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 12 “Our Tet holiday”, GV chiếu tranh các việc chuẩn bị Tết và mở bản nghe mẫu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Missing letters, GV chiếu các cụm từ về ngày Tết bị khuyết chữ cái; các nhóm điền chữ còn thiếu trên màn hình rồi bấm kiểm tra",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 12 “Our Tet holiday”, the teacher shows pictures of Tet preparations and plays the model audio; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Missing letters, the teacher shows Tet phrases with missing letters; groups fill in the missing letters on the screen and then click check; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1912,14 +1427,8 @@
    "periodTo": 88,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1934,14 +1443,8 @@
    "periodTo": 89,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 13 “Our special days”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi đoán món ăn, đồ uống, GV chiếu lần lượt ảnh bị che một phần; ba đội đoán tên bằng tiếng Anh",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and tick activity of Unit 13 “Our special days”, the teacher shows the pictures on the screen and plays the audio, pausing after each part so pupils can tick; Digital competence Domain 5 (Basic, level 2): In the Warm-up game guessing food and drinks, the teacher shows partly covered photos one by one; three teams guess the names in English; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1956,14 +1459,8 @@
    "periodTo": 90,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1978,14 +1475,8 @@
    "periodTo": 91,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Warm-up của Unit 14 “Staying healthy”, GV chiếu bộ ảnh món ăn lên màn hình và cho HS phân loại đồ ăn có lợi và ít có lợi cho sức khoẻ; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Món ăn – Có lợi hay ít có lợi – Vì sao”; các nhóm lên điền rồi đọc bảng của nhau",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Warm-up of Unit 14 “Staying healthy”, the teacher shows a set of food pictures on the screen and asks pupils to sort the foods into healthy and less healthy ones; Digital competence Domain 2 (Basic, level 2): In the speaking activity, the teacher shows a shared table “Food – Healthy or less healthy – Why”; groups come up to fill it in and then read each other's tables; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2000,14 +1491,8 @@
    "periodTo": 92,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2022,14 +1507,8 @@
    "periodTo": 93,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 14 “Staying healthy”, GV chiếu tranh lên màn hình và mở bản nghe mẫu lời khuyên giữ sức khoẻ; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Look and choose, GV chiếu tranh cùng ba phương án từ vựng; các nhóm chọn phương án đúng rồi bấm kiểm tra",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 14 “Staying healthy”, the teacher shows the picture on the screen and plays the model audio of advice on staying healthy; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Look and choose, the teacher shows a picture with three vocabulary options; groups choose the right option and click to check; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2044,14 +1523,8 @@
    "periodTo": 94,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2066,14 +1539,8 @@
    "periodTo": 95,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and number của Unit 14 “Staying healthy”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh số; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát Staying healthy có lời chạy trên màn hình cho cả lớp hát, sau đó chia hai nhóm hát nối tiếp theo phần lời đang sáng và nghe…",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and number activity of Unit 14 “Staying healthy”, the teacher shows the pictures on the screen and plays the audio, pausing after each part so pupils can number them; Digital competence Domain 2 (Basic, level 2): In the Warm-up, the teacher plays the song Staying healthy with scrolling lyrics on the screen for the whole class to sing, then divides the class into two groups to sing in turn following the highlighted lyrics and listen…; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2088,14 +1555,8 @@
    "periodTo": 96,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2110,14 +1571,8 @@
    "periodTo": 97,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 15 “Our health”, GV chiếu tranh các biểu hiện sức khoẻ và mở bản nghe mẫu; Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Warm-up trình bày dự án, các nhóm chiếu bài giới thiệu lối sống lành mạnh của mình lên màn hình bằng vài trang trình chiếu đơn giản",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 15 “Our health”, the teacher shows pictures of health problems and plays the model audio; Digital competence Domain 3 (Basic, level 2): In the Warm-up project presentation, groups show their presentations about a healthy lifestyle on the screen using a few simple slides; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2132,14 +1587,8 @@
    "periodTo": 98,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2154,14 +1603,8 @@
    "periodTo": 99,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 15 “Our health”, GV chiếu tranh lên màn hình và mở bản nghe mẫu mẫu câu What's the matter?; Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Warm-up, GV chiếu lời bài hát What's the matter? còn khuyết từ trên màn hình; các nhóm bàn nhau điền từ còn thiếu rồi cùng hát lại cả bài theo lời vừa…",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the activity Listen and repeat of Unit 15 “Our health”, the teacher shows the picture on the screen and plays the model audio of What's the matter?; Digital competence Domain 3 (Basic, level 2): In the Warm-up, the teacher shows the lyrics of the song What's the matter? with missing words on the screen; groups discuss and fill in the missing words and then sing the whole song again with the newly…; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2176,14 +1619,8 @@
    "periodTo": 100,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2198,14 +1635,8 @@
    "periodTo": 101,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Warm-up của Unit 15 “Our health”, GV chiếu bảng từ vựng về sức khoẻ và lời khuyên lên màn hình để HS tra lại khi quên từ; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động Conversation making, GV chiếu khung hội thoại mẫu lên màn hình; các cặp dựng đoạn hội thoại của mình theo khung rồi trình bày",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Warm-up of Unit 15 “Our health”, the teacher shows a table of vocabulary about health and advice on the screen for pupils to look up when they forget a word; Digital competence Domain 2 (Basic, level 2): In the Conversation making activity, the teacher shows a model conversation frame on the screen; pairs build their own conversations following the frame and present them; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2220,14 +1651,8 @@
    "periodTo": 102,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2242,7 +1667,7 @@
    "periodTo": 103,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Listen and tick của Review 3, GV chiếu tranh lên màn hình và mở bản nghe các tình huống từ Unit 11 đến Unit 15; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Colourful butterflies, GV chiếu bảng nhiều chủ đề lên màn hình; các nhóm chọn đúng chủ đề mình muốn ôn rồi lấy mẫu câu tương ứng",
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In Listen and tick of Review 3, the teacher shows the pictures on the screen and plays the audio of situations from Unit 11 to Unit 15; Digital competence Domain 2 (Basic, level 2): In the Warm-up game Colourful butterflies, the teacher shows a board of many topics on the screen; groups choose the topic they want to revise and take the matching sentence patterns",
    "integrations": [],
    "note": ""
   },
@@ -2258,7 +1683,7 @@
    "periodTo": 104,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Warm-up của Review 3, GV mở bài hát Staying healthy có lời chạy trên màn hình; sau khi hát; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Fun time, GV mở bài tập tương tác nối câu hỏi với câu trả lời của các đơn vị đã học; HS chọn rồi bấm kiểm tra",
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Warm-up of Review 3, the teacher plays the song Staying healthy with scrolling lyrics on the screen; after singing; Digital competence Domain 5 (Basic, level 2): In the Fun time part, the teacher opens an interactive exercise to match questions with answers from the units learnt; pupils choose and click to check",
    "integrations": [],
    "note": ""
   },
@@ -2290,14 +1715,8 @@
    "periodTo": 106,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 16 “Seasons and the weather”, GV chiếu tranh bốn mùa và mở bản nghe mẫu; Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Warm-up trình bày dự án, các nhóm chiếu bài khảo sát về vấn đề sức khoẻ và lời khuyên lên màn hình bằng vài trang trình chiếu đơn giản",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the activity Look, listen and repeat of Unit 16 “Seasons and the weather”, the teacher shows pictures of the four seasons and plays the model audio; Digital competence Domain 3 (Basic, level 2): In the Warm-up project presentation, groups show their survey on health problems and advice on the screen using a few simple slides; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2312,14 +1731,8 @@
    "periodTo": 107,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2334,14 +1747,8 @@
    "periodTo": 108,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Warm-up của Unit 15 “Our health”, GV chiếu bảng từ vựng về sức khoẻ và lời khuyên lên màn hình để HS tra lại khi quên từ; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động Conversation making, GV chiếu khung hội thoại mẫu lên màn hình; các cặp dựng đoạn hội thoại của mình theo khung rồi trình bày",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Warm-up of Unit 15 “Our health”, the teacher shows a table of vocabulary about health and advice on the screen for pupils to look up when they forget a word; Digital competence Domain 2 (Basic, level 2): In the Conversation making activity, the teacher shows a model conversation frame on the screen; pairs build their own conversations following the frame and present them; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2356,14 +1763,8 @@
    "periodTo": 109,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2378,14 +1779,8 @@
    "periodTo": 110,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 16 “Seasons and the weather”, GV chiếu tranh bốn mùa cùng trang phục tương ứng lên màn hình và mở bản nghe mẫu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Matching pairs, GV chiếu các thẻ mùa và thẻ trang phục úp xuống; các nhóm lật tìm cặp phù hợp",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and repeat activity of Unit 16 “Seasons and the weather”, the teacher shows pictures of the four seasons with matching clothes on the screen and plays the model audio; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Matching pairs, the teacher shows face-down season cards and clothes cards; groups turn them over to find matching pairs; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2400,14 +1795,8 @@
    "periodTo": 111,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2422,14 +1811,8 @@
    "periodTo": 112,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 16 “Seasons and the weather”, GV chiếu tranh bốn mùa và mở bản nghe mẫu; Năng lực số Miền 3 (Cơ bản, bậc 2): Ở phần Warm-up trình bày dự án, các nhóm chiếu bài khảo sát về vấn đề sức khoẻ và lời khuyên lên màn hình bằng vài trang trình chiếu đơn giản",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the activity Look, listen and repeat of Unit 16 “Seasons and the weather”, the teacher shows pictures of the four seasons and plays the model audio; Digital competence Domain 3 (Basic, level 2): In the Warm-up project presentation, groups show their survey on health problems and advice on the screen using a few simple slides; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2444,14 +1827,8 @@
    "periodTo": 113,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2466,14 +1843,8 @@
    "periodTo": 114,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 17 “Stories for children”, GV chiếu tranh các nhân vật chính trong truyện và mở bản nghe mẫu mẫu câu Who are the main characters…?; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Car Racing, GV chiếu câu hỏi về nhân vật chính lên màn hình; các nhóm trả lời để xe tiến lên",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 17 “Stories for children”, the teacher shows pictures of the main characters in the story and plays the model audio of the pattern Who are the main characters…?; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Car Racing, the teacher shows questions about the main characters on the screen; groups answer to move their cars forward; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2488,14 +1859,8 @@
    "periodTo": 115,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2510,14 +1875,8 @@
    "periodTo": 116,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 16 “Seasons and the weather”, GV chiếu tranh bốn mùa cùng trang phục tương ứng lên màn hình và mở bản nghe mẫu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Matching pairs, GV chiếu các thẻ mùa và thẻ trang phục úp xuống; các nhóm lật tìm cặp phù hợp",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and repeat activity of Unit 16 “Seasons and the weather”, the teacher shows pictures of the four seasons with matching clothes on the screen and plays the model audio; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Matching pairs, the teacher shows face-down season cards and clothes cards; groups turn them over to find matching pairs; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2532,14 +1891,8 @@
    "periodTo": 117,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2554,14 +1907,8 @@
    "periodTo": 118,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 18 “Means of transport”, GV chiếu ảnh một số danh thắng Việt Nam kèm tên nơi chốn và phương tiện đến đó; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Nơi đến – Phương tiện – Vì sao chọn”; các cặp hỏi đáp rồi lên điền",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 18 “Means of transport”, the teacher shows pictures of some places of interest in Viet Nam with the place names and the means of transport to get there; Digital competence Domain 2 (Basic, level 2): In the speaking activity, the teacher shows a shared table “Destination – Means of transport – Why I chose it”; pairs ask and answer, then come up to fill it in; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2576,14 +1923,8 @@
    "periodTo": 119,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2598,14 +1939,8 @@
    "periodTo": 120,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 17 “Stories for children”, GV chiếu tranh các nhân vật chính trong truyện và mở bản nghe mẫu mẫu câu Who are the main characters…?; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Car Racing, GV chiếu câu hỏi về nhân vật chính lên màn hình; các nhóm trả lời để xe tiến lên",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 17 “Stories for children”, the teacher shows pictures of the main characters in the story and plays the model audio of the pattern Who are the main characters…?; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Car Racing, the teacher shows questions about the main characters on the screen; groups answer to move their cars forward; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2620,14 +1955,8 @@
    "periodTo": 121,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 18, GV chiếu tranh phương tiện lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Slow motion, GV chiếu ảnh danh thắng hiện ra thật chậm; các nhóm đoán tên nơi chốn bằng tiếng Anh",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and tick activity of Unit 18, the teacher shows pictures of means of transport on the screen and plays the audio, pausing after each part so pupils tick; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Slow motion, the teacher shows a photo of a famous place appearing very slowly; groups guess the name of the place in English; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2642,19 +1971,8 @@
    "periodTo": 122,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở hoạt động Listen and repeat của Unit 18 “Means of transport”, GV chiếu tranh phương tiện lên màn hình."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence – Information and data literacy (Basic 2): In the Listen and repeat activity of Unit 18 “Means of transport”, the teacher shows pictures of means of transport on the screen; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2669,14 +1987,8 @@
    "periodTo": 123,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2691,14 +2003,8 @@
    "periodTo": 124,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and repeat của Unit 18 “Means of transport”, GV chiếu tranh phương tiện lên màn hình và mở bản nghe mẫu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát Where do you want to visit? có lời chạy trên màn hình cho cả lớp hát",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the activity Listen and repeat of Unit 18 “Means of transport”, the teacher shows pictures of means of transport on the screen and plays the model audio; Digital competence Domain 2 (Basic, level 2): In the Warm-up, the teacher plays the song Where do you want to visit? with scrolling lyrics on the screen for the whole class to sing; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2713,14 +2019,8 @@
    "periodTo": 125,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2735,14 +2035,8 @@
    "periodTo": 126,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 19 “Places of interest”, GV chiếu ảnh các địa danh lên màn hình và mở bản nghe mẫu mẫu câu What do you think of…?; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát What do you think of…? có lời chạy trên màn hình cho cả lớp hát",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 19 “Places of interest”, the teacher shows photos of the places on the screen and plays the model audio of the pattern What do you think of…?; Digital competence Domain 2 (Basic, level 2): In the Warm-up, the teacher plays the song What do you think of…? with scrolling lyrics on the screen for the whole class to sing; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2757,14 +2051,8 @@
    "periodTo": 127,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2779,14 +2067,8 @@
    "periodTo": 128,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 19, GV chiếu tranh địa danh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động luyện nói, GV chiếu bảng chung “Địa danh – Cảm nghĩ của em – Vì sao”; các cặp hỏi đáp rồi lên điền",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the activity Listen and tick of Unit 19, the teacher shows pictures of places on the screen and plays the audio, pausing after each part for pupils to tick; Digital competence Domain 2 (Basic, level 2): In the speaking activity, the teacher shows the shared table “Place – My feelings – Why”; pairs ask and answer and then come up to fill it in; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2801,14 +2083,8 @@
    "periodTo": 129,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2823,14 +2099,8 @@
    "periodTo": 130,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 20 “Our summer holidays”, GV chiếu tranh các nơi có thể đi nghỉ hè kèm tên gọi và mở bản nghe mẫu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi đoán nơi chốn, GV chiếu ảnh bị che một phần; các nhóm đoán tên bằng tiếng Anh rồi bấm chọn",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 20 “Our summer holidays”, the teacher shows pictures of places to go on summer holiday with their names and plays the model audio; Digital competence Domain 5 (Basic, level 2): In the Warm-up game guessing places, the teacher shows partly covered photos; groups guess the names in English and then click to choose; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2845,14 +2115,8 @@
    "periodTo": 131,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2867,14 +2131,8 @@
    "periodTo": 132,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Look, listen and repeat của Unit 19 “Places of interest”, GV chiếu ảnh các địa danh lên màn hình và mở bản nghe mẫu mẫu câu What do you think of…?; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát What do you think of…? có lời chạy trên màn hình cho cả lớp hát",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Look, listen and repeat activity of Unit 19 “Places of interest”, the teacher shows photos of the places on the screen and plays the model audio of the pattern What do you think of…?; Digital competence Domain 2 (Basic, level 2): In the Warm-up, the teacher plays the song What do you think of…? with scrolling lyrics on the screen for the whole class to sing; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2889,14 +2147,8 @@
    "periodTo": 133,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2911,14 +2163,8 @@
    "periodTo": 134,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Listen and tick của Unit 20 “Our summer holidays”, GV chiếu tranh lên màn hình và mở bản nghe, dừng sau mỗi đoạn để HS đánh dấu; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up, GV chiếu các câu hỏi đã học lên màn hình; hai đội thi trả lời nhanh, sau mỗi lượt máy hiện đáp án và số câu đúng để các nhóm biết…",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and tick activity of Unit 20 “Our summer holidays”, the teacher shows the pictures on the screen and plays the audio, pausing after each part so pupils can tick; Digital competence Domain 5 (Basic, level 2): In the Warm-up, the teacher shows the learnt questions on the screen; two teams compete to answer quickly, and after each turn the computer shows the answer and the number of correct answers so the groups know…; Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2933,14 +2179,8 @@
    "periodTo": 135,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
-    }
-   ],
+   "adjustments": "Life skills: Communication skills: confidently greet others and introduce themselves in simple sentences",
+   "integrations": [],
    "note": ""
   },
   {
@@ -2955,7 +2195,7 @@
    "periodTo": 136,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Listen and tick của Review 4, GV chiếu tranh lên màn hình và mở bản nghe các tình huống từ Unit 16 đến Unit 20; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở phần Warm-up, GV mở bài hát Where are you going to go this summer? có lời chạy trên màn hình cho cả lớp hát",
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In the Listen and tick part of Review 4, the teacher shows the pictures on the screen and plays the audio of the situations from Unit 16 to Unit 20; Digital competence Domain 2 (Basic, level 2): In the Warm-up, the teacher plays the song Where are you going to go this summer? with scrolling lyrics on the screen for the whole class to sing",
    "integrations": [],
    "note": ""
   },
@@ -2971,7 +2211,7 @@
    "periodTo": 137,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở phần Review 4, GV chiếu lần lượt các mẫu câu đã học trong năm lên màn hình cho HS đọc lại theo nhóm; Năng lực số Miền 5 (Cơ bản, bậc 2): Ở phần Warm-up trò chơi Racing game, GV chiếu câu hỏi lên màn hình; các nhóm trả lời để xe tiến lên",
+   "adjustments": "Digital competence Domain 1 (Basic, level 2): In Review 4, the teacher shows the sentence patterns learnt during the year on the screen one by one for pupils to read again in groups; Digital competence Domain 5 (Basic, level 2): In the Warm-up game Racing game, the teacher shows questions on the screen; groups answer to move their cars forward",
    "integrations": [],
    "note": ""
   },
@@ -3296,14 +2536,14 @@
  "attachment": {
   "file": "assets/docs/lop5/Tieng Anh - Lop 5.docx",
   "name": "Tieng Anh - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-11",
-  "size": 50019,
-  "updated": "2026-09-11"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-12",
+  "size": 50048,
+  "updated": "2026-09-12"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop5/Tieng Anh - Lop 5.xlsx",
   "name": "Tieng Anh - Lop 5.xlsx",
-  "size": 17334,
-  "updated": "2026-09-11"
+  "size": 16971,
+  "updated": "2026-09-12"
  }
 }
