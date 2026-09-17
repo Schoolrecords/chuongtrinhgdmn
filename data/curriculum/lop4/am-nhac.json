@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-09-17"
  },
  "summary": {
   "totalPeriods": 35,
@@ -76,7 +76,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 1: Âm thanh ngày mới",
-   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
+   "title": "Chủ đề 1: Âm thanh ngày mới — Vận dụng – Sáng tạo (Tổng kết chủ đề 1)",
    "content": "",
    "periodLabel": "Tiết 4 (1 tiết)",
    "periodFrom": 4,
@@ -152,7 +152,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 2: Giai điệu quê hương",
-   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
+   "title": "Chủ đề 2: Giai điệu quê hương — Vận dụng – Sáng tạo (Tổng kết chủ đề 2)",
    "content": "",
    "periodLabel": "Tiết 8 (1 tiết)",
    "periodFrom": 8,
@@ -162,9 +162,9 @@
    "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở tiết tổng kết chủ đề “Giai điệu quê hương”, GV mở bản thu các bài đã học và một vài trích đoạn dân ca cùng vùng miền; HS nghe đoán tên bài; Năng lực số Miền 3 (Cơ bản, bậc 2): Các nhóm dàn dựng tiết mục hát kết hợp gõ đệm, vận động; GV quay lại rồi chiếu cho cả lớp xem",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "QPAN",
      "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
+     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -222,7 +222,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề 3: Thầy cô với chúng em",
-   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
+   "title": "Chủ đề 3: Thầy cô với chúng em — Vận dụng – Sáng tạo (Tổng kết chủ đề 3)",
    "content": "",
    "periodLabel": "Tiết 12 (1 tiết)",
    "periodFrom": 12,
@@ -292,7 +292,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 4: Vui đón Tết",
-   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
+   "title": "Chủ đề 4: Vui đón Tết — Vận dụng – Sáng tạo (Tổng kết chủ đề 4)",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -394,7 +394,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 5: Thiên nhiên tươi đẹp",
-   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
+   "title": "Chủ đề 5: Thiên nhiên tươi đẹp — Vận dụng – Sáng tạo (Tổng kết chủ đề 5)",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -464,7 +464,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 6: Tình bạn tuổi thơ",
-   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
+   "title": "Chủ đề 6: Tình bạn tuổi thơ — Vận dụng – Sáng tạo (Tổng kết chủ đề 6)",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -534,7 +534,7 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 7: Âm nhạc nước ngoài",
-   "title": "Tổ chức hoạt động Vận dụng – Sáng tạo",
+   "title": "Chủ đề 7: Âm nhạc nước ngoài — Vận dụng – Sáng tạo (Tổng kết chủ đề 7)",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
@@ -910,14 +910,14 @@
  "attachment": {
   "file": "assets/docs/lop4/Am nhac - Lop 4.docx",
   "name": "Am nhac - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 43246,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-17",
+  "size": 43303,
+  "updated": "2026-09-17"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Am nhac - Lop 4.xlsx",
   "name": "Am nhac - Lop 4.xlsx",
-  "size": 9085,
-  "updated": "2026-09-15"
+  "size": 9132,
+  "updated": "2026-09-17"
  }
 }
