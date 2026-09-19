@@ -1,6 +1,6 @@
 {
  "schoolYear": "2026-2027",
- "generatedAt": "2026-09-17",
+ "generatedAt": "2026-09-19",
  "items": [
   {
    "grade": 1,
@@ -163,29 +163,29 @@
    "file": "curriculum/lop1/ngoai-ngu-1.json",
    "status": "reviewed",
    "summary": {
-    "totalPeriods": 35,
+    "totalPeriods": 70,
     "weeks": 35,
     "semester1Weeks": 18,
     "semester2Weeks": 17,
-    "lessons": 35,
+    "lessons": 70,
     "integrations": 0
    },
    "source": {
     "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-    "importedAt": "2026-09-15"
+    "importedAt": "2026-09-19"
    },
    "attachment": {
     "file": "assets/docs/lop1/Tieng Anh - Lop 1.docx",
     "name": "Tieng Anh - Lop 1.docx",
-    "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-    "updated": "2026-09-15",
-    "size": 39523
+    "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-19",
+    "updated": "2026-09-19",
+    "size": 41326
    },
    "attachmentXlsx": {
     "file": "assets/docs/lop1/Tieng Anh - Lop 1.xlsx",
     "name": "Tieng Anh - Lop 1.xlsx",
-    "size": 8479,
-    "updated": "2026-09-15"
+    "size": 10882,
+    "updated": "2026-09-19"
    }
   },
   {
