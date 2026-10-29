@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 20
+  "integrations": 18
  },
  "lessons": [
   {
@@ -67,7 +67,7 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được đặc điểm tạo hình của chạm khắc đình làng qua ảnh phóng to",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -122,13 +122,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB2c: HS nêu được cách diễn tả không gian riêng của tranh dân gian"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -144,13 +138,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB2c: HS nêu được cách diễn tả không gian riêng của tranh dân gian"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -967,14 +955,14 @@
  "attachment": {
   "file": "assets/docs/lop4/Mi thuat - Lop 4.docx",
   "name": "Mi thuat - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 42758,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 42762,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Mi thuat - Lop 4.xlsx",
   "name": "Mi thuat - Lop 4.xlsx",
   "size": 8424,
-  "updated": "2026-09-15"
+  "updated": "2026-10-30"
  }
 }

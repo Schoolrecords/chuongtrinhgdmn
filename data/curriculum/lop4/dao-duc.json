@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 8
+  "integrations": 7
  },
  "lessons": [
   {
@@ -185,14 +185,8 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài “Yêu lao động”, GV chiếu bộ ảnh người lao động ở nhiều nghề và ảnh HS làm việc vừa sức như trực nhật, tưới cây, gấp quần áo; Năng lực số Miền 2 (Cơ bản, bậc 2): GV gõ lên màn hình những việc HS kể thành bảng hai cột việc ở nhà và việc ở trường; cả lớp cùng đọc",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
-    }
-   ],
+   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài “Yêu lao động”, GV chiếu bộ ảnh người lao động ở nhiều nghề và ảnh HS làm việc vừa sức như trực nhật, tưới cây, gấp quần áo; Năng lực số Miền 2 (Cơ bản, bậc 2): GV gõ lên màn hình những việc HS kể thành bảng hai cột việc ở nhà và việc ở trường; cả lớp cùng đọc; Học tập và làm theo Bác: Điều 2 “Học tập tốt, lao động tốt” (mạch 2): khi kể tấm gương yêu lao động, HS nêu điều mình học được và tự nhận một việc lao động vừa sức, làm đều đặn trong tuần ở nhà hoặc ở lớp",
+   "integrations": [],
    "note": ""
   },
   {
@@ -897,14 +891,14 @@
  "attachment": {
   "file": "assets/docs/lop4/Dao duc - Lop 4.docx",
   "name": "Dao duc - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 42650,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 42750,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Dao duc - Lop 4.xlsx",
   "name": "Dao duc - Lop 4.xlsx",
-  "size": 8424,
-  "updated": "2026-09-15"
+  "size": 8550,
+  "updated": "2026-10-30"
  }
 }

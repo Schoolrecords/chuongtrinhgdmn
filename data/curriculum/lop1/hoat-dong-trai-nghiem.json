@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 60
+  "integrations": 59
  },
  "lessons": [
   {
@@ -506,14 +506,8 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu hình ảnh chú bộ đội Quân đội nhân dân, chú công an Công an nhân dân và di tích lịch sử ở địa phương."
-    }
-   ],
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô; Học tập và làm theo Bác: Điều 3 “Đoàn kết tốt, kỉ luật tốt” (mạch 3): HS nói một việc thân thiện đã làm cho bạn hôm nay (chào bạn, cho bạn mượn bút, rủ bạn chơi cùng); GV chốt: đó là làm theo lời Bác dạy “đoàn kết tốt”",
+   "integrations": [],
    "note": ""
   },
   {
@@ -550,7 +544,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Học tập và làm theo Bác: Năm điều Bác Hồ dạy (mạch 1–5): HS cả trường đọc đồng thanh Năm điều; mỗi lớp chọn một điều làm nội dung thi đua của lớp trong tháng và nói một việc cụ thể sẽ làm",
    "integrations": [
     {
      "code": "KNS",
@@ -572,7 +566,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô",
+   "adjustments": "Năng lực số 2.5 CB1a: HS xem phim tình huống và chọn được cách ứng xử phù hợp với bạn bè, thầy cô; Học tập và làm theo Bác: Năm điều Bác Hồ dạy (mạch 1–5): mỗi HS nhận một việc nhỏ theo một điều (VD điều 4: rửa tay trước khi ăn, giữ bàn học sạch), làm trong tuần và kể lại ở giờ sinh hoạt Sao cuối tuần",
    "integrations": [],
    "note": ""
   },
@@ -1615,7 +1609,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 8: Quê hương tươi đẹp",
-   "title": "Sinh hoạt dướ cờ: Chăm sóc vườn cây nhà trường",
+   "title": "Sinh hoạt dưới cờ: Chăm sóc vườn cây nhà trường",
    "content": "",
    "periodLabel": "Tiết 85 (1 tiết)",
    "periodFrom": 85,
@@ -2325,14 +2319,14 @@
  "attachment": {
   "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.docx",
   "name": "Hoat dong trai nghiem - Lop 1.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 47284,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 47569,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.xlsx",
   "name": "Hoat dong trai nghiem - Lop 1.xlsx",
-  "size": 14341,
-  "updated": "2026-09-15"
+  "size": 14634,
+  "updated": "2026-10-30"
  }
 }

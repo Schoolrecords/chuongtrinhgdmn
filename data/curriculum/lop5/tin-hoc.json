@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 14
+  "integrations": 15
  },
  "lessons": [
   {
@@ -517,7 +517,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 5.2 CB2b: HS tự kiểm thử đủ các trường hợp và sửa được trường hợp chương trình xử lí sai",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Trò chơi điều khiển robot tránh chướng ngại vật (Tin học – Toán – Công nghệ) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -933,14 +939,14 @@
  "attachment": {
   "file": "assets/docs/lop5/Tin hoc - Lop 5.docx",
   "name": "Tin hoc - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 43121,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 43198,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop5/Tin hoc - Lop 5.xlsx",
   "name": "Tin hoc - Lop 5.xlsx",
-  "size": 8954,
-  "updated": "2026-09-15"
+  "size": 9041,
+  "updated": "2026-10-30"
  }
 }

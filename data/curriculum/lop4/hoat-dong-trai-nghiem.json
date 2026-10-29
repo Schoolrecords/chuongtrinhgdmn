@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 80
+  "integrations": 82
  },
  "lessons": [
   {
@@ -537,7 +537,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS khảo sát, tổng hợp được số liệu về cảnh quan trường lớp và chỉ ra việc cần làm",
+   "adjustments": "Năng lực số 1.1 CB2c: HS khảo sát, tổng hợp được số liệu về cảnh quan trường lớp và chỉ ra việc cần làm; Học tập và làm theo Bác: Điều 4 “Giữ gìn vệ sinh thật tốt” (mạch 4): khi lập kế hoạch giữ trường học xanh, sạch, đẹp, mỗi tổ ghi rõ việc, người làm, thời gian; HS thực hiện ở tiết sinh hoạt lớp cuối tuần",
    "integrations": [],
    "note": ""
   },
@@ -1029,7 +1029,7 @@
    "id": "l4-hoat-dong-trai-nghiem-055",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Mái ấm gia đình",
    "title": "Sinh hoạt dưới cờ: Đón Tết bên người thân",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
@@ -1045,7 +1045,7 @@
    "id": "l4-hoat-dong-trai-nghiem-056",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Mái ấm gia đình",
    "title": "Hoạt động giáo dục theo chủ đề: Sử dụng tiền tiết kiệm cá nhân",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
@@ -1067,7 +1067,7 @@
    "id": "l4-hoat-dong-trai-nghiem-057",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Mái ấm gia đình",
    "title": "Sinh hoạt lớp: Lựa chọn chi tiêu \"Cần, muốn và có thể\"",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
@@ -1089,7 +1089,7 @@
    "id": "l4-hoat-dong-trai-nghiem-058",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Mái ấm gia đình",
    "title": "Sinh hoạt dưới cờ: Chào xuân mới",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
@@ -1105,7 +1105,7 @@
    "id": "l4-hoat-dong-trai-nghiem-059",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Mái ấm gia đình",
    "title": "Hoạt động giáo dục theo chủ đề: Chi tiêu tiết kiệm trong gia đình",
    "content": "",
    "periodLabel": "Tiết 59 (1 tiết)",
@@ -1127,7 +1127,7 @@
    "id": "l4-hoat-dong-trai-nghiem-060",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Mái ấm gia đình",
    "title": "Sinh hoạt lớp: Mua sắm thông minh",
    "content": "",
    "periodLabel": "Tiết 60 (1 tiết)",
@@ -1653,7 +1653,7 @@
    "id": "l4-hoat-dong-trai-nghiem-082",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Sinh hoạt dưới cờ: Quê hương em tươi đẹp",
    "content": "",
    "periodLabel": "Tiết 82 (1 tiết)",
@@ -1675,7 +1675,7 @@
    "id": "l4-hoat-dong-trai-nghiem-083",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Hoạt động giáo dục theo chủ đề: Xây dựng Hành trình trải nghiệm",
    "content": "",
    "periodLabel": "Tiết 83 (1 tiết)",
@@ -1684,14 +1684,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB2c: HS xác định được vị trí cảnh quan địa phương trên bản đồ số và mô tả đặc điểm của nó",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-hoat-dong-trai-nghiem-084",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Sinh hoạt lớp: Hành trình trải nghiệm",
    "content": "",
    "periodLabel": "Tiết 84 (1 tiết)",
@@ -1700,14 +1706,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 2.1 CB2a: HS nhập, đọc số liệu thi đua và nhận xét dựa trên kết quả thật của tổ mình",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-hoat-dong-trai-nghiem-085",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Sinh hoạt dưới cờ: Bảo vệ cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 85 (1 tiết)",
@@ -1729,7 +1741,7 @@
    "id": "l4-hoat-dong-trai-nghiem-086",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Hoạt động giáo dục theo chủ đề: Cảnh quan thiên nhiên quê hương em",
    "content": "",
    "periodLabel": "Tiết 86 (1 tiết)",
@@ -1751,7 +1763,7 @@
    "id": "l4-hoat-dong-trai-nghiem-087",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Sinh hoạt lớp: Giới thiệu cảnh quan thiên nhiên ở địa phương",
    "content": "",
    "periodLabel": "Tiết 87 (1 tiết)",
@@ -1773,7 +1785,7 @@
    "id": "l4-hoat-dong-trai-nghiem-088",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Sinh hoạt dưới cờ: Chung tay bảo vệ cảnh quan địa phương",
    "content": "",
    "periodLabel": "Tiết 88 (1 tiết)",
@@ -1795,7 +1807,7 @@
    "id": "l4-hoat-dong-trai-nghiem-089",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Hoạt động giáo dục theo chủ đề: Khảo sát thực trạng cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 89 (1 tiết)",
@@ -1817,7 +1829,7 @@
    "id": "l4-hoat-dong-trai-nghiem-090",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Sinh hoạt lớp: Kết quả khảo sát thực trạng cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 90 (1 tiết)",
@@ -1839,7 +1851,7 @@
    "id": "l4-hoat-dong-trai-nghiem-091",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Sinh hoạt dưới cờ: Ngày hội sống xanh – Bảo vệ môi trường",
    "content": "",
    "periodLabel": "Tiết 91 (1 tiết)",
@@ -1861,7 +1873,7 @@
    "id": "l4-hoat-dong-trai-nghiem-092",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Hoạt động giáo dục theo chủ đề: Chăm sóc, bảo vệ cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 92 (1 tiết)",
@@ -1883,7 +1895,7 @@
    "id": "l4-hoat-dong-trai-nghiem-093",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: Kết nối cộng đồng",
+   "theme": "Chủ đề: Quê hương em tươi đẹp",
    "title": "Sinh hoạt lớp: Thực hiện kế hoạch chăm sóc, bảo vệ cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 93 (1 tiết)",
@@ -2436,14 +2448,14 @@
  "attachment": {
   "file": "assets/docs/lop4/Hoat dong trai nghiem - Lop 4.docx",
   "name": "Hoat dong trai nghiem - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 47057,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 47205,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Hoat dong trai nghiem - Lop 4.xlsx",
   "name": "Hoat dong trai nghiem - Lop 4.xlsx",
-  "size": 13825,
-  "updated": "2026-09-15"
+  "size": 13928,
+  "updated": "2026-10-30"
  }
 }

@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 22
+  "integrations": 23
  },
  "lessons": [
   {
@@ -368,14 +368,8 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.3 CB1a: HS sắp xếp đúng thứ tự các ảnh công đoạn và thuật lại quy trình bằng lời của mình",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "adjustments": "Năng lực số 1.3 CB1a: HS sắp xếp đúng thứ tự các ảnh công đoạn và thuật lại quy trình bằng lời của mình; Học tập và làm theo Bác: Điều 2 “Học tập tốt, lao động tốt” (mạch 2): HS kể một việc của người làm nông nghiệp ở địa phương, nói vì sao phải quý hạt gạo, mớ rau; nhận một việc nhỏ giúp gia đình (nhặt rau, cho gà ăn)",
+   "integrations": [],
    "note": ""
   },
   {
@@ -550,7 +544,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Các bộ phận thực vật (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+     "text": "Cây xanh trong chậu trong suốt (TNXH – Toán – Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -568,7 +562,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS xem video tua nhanh và ảnh phóng to, gọi đúng tên các bộ phận của cây, của con vật và nêu được chức năng từng bộ phận",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cây xanh trong chậu trong suốt (TNXH – Toán – Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -584,7 +584,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS xem video tua nhanh và ảnh phóng to, gọi đúng tên các bộ phận của cây, của con vật và nêu được chức năng từng bộ phận",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cây xanh trong chậu trong suốt (TNXH – Toán – Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -1537,14 +1543,14 @@
  "attachment": {
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.docx",
   "name": "Tu nhien va Xa hoi - Lop 3.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 45050,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 45219,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.xlsx",
   "name": "Tu nhien va Xa hoi - Lop 3.xlsx",
-  "size": 11510,
-  "updated": "2026-09-15"
+  "size": 11707,
+  "updated": "2026-10-30"
  }
 }

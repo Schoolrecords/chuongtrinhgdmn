@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 109
+  "integrations": 105
  },
  "lessons": [
   {
@@ -639,7 +639,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Học tập và làm theo Bác: Điều 5 “Khiêm tốn, thật thà, dũng cảm” (mạch 5): khi nêu vấn đề giữa thầy và trò, HS thật thà nói điều mình chưa hiểu, chưa làm được, mạnh dạn xin thầy cô giúp và biết nhận lỗi khi mình sai",
    "integrations": [
     {
      "code": "NLS",
@@ -801,7 +801,7 @@
    "id": "l5-hoat-dong-trai-nghiem-037",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Sinh hoạt dưới cờ: Chủ động tham gia tiết kiệm chi tiêu",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
@@ -823,7 +823,7 @@
    "id": "l5-hoat-dong-trai-nghiem-038",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Hoạt động giáo dục theo chủ đề: Sổ tay ghi chép chi tiêu trong gia đình",
    "content": "",
    "periodLabel": "Tiết 38 (1 tiết)",
@@ -850,7 +850,7 @@
    "id": "l5-hoat-dong-trai-nghiem-039",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Sinh hoạt lớp: Ghi chép chi tiêu",
    "content": "",
    "periodLabel": "Tiết 39 (1 tiết)",
@@ -872,7 +872,7 @@
    "id": "l5-hoat-dong-trai-nghiem-040",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Sinh hoạt dưới cờ: Phát triển thư viện",
    "content": "",
    "periodLabel": "Tiết 40 (1 tiết)",
@@ -881,14 +881,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-041",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Hoạt động giáo dục theo chủ đề: Ý tưởng kinh doanh",
    "content": "",
    "periodLabel": "Tiết 41 (1 tiết)",
@@ -910,7 +916,7 @@
    "id": "l5-hoat-dong-trai-nghiem-042",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Sinh hoạt lớp: Thực hiện khảo sát nhu cầu khách hàng",
    "content": "",
    "periodLabel": "Tiết 42 (1 tiết)",
@@ -919,20 +925,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.3 CB2a: HS nhập và đọc số liệu thi đua trên bảng theo dõi, nhận xét dựa trên số liệu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-043",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Sinh hoạt dưới cờ: Chào mừng ngày Thành lập Quân đội nhân dân Việt Nam 22-12",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
@@ -954,7 +954,7 @@
    "id": "l5-hoat-dong-trai-nghiem-044",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Hoạt động giáo dục theo chủ đề: Việc cần làm để thực hiện kế hoạch kinh doanh",
    "content": "",
    "periodLabel": "Tiết 44 (1 tiết)",
@@ -981,7 +981,7 @@
    "id": "l5-hoat-dong-trai-nghiem-045",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Sinh hoạt lớp: Kinh doanh hiệu quả",
    "content": "",
    "periodLabel": "Tiết 45 (1 tiết)",
@@ -990,20 +990,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.3 CB2a: HS nhập và đọc số liệu thi đua trên bảng theo dõi, nhận xét dựa trên số liệu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-046",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Sinh hoạt dưới cờ: Xây dựng Quỹ Nhân ái",
    "content": "",
    "periodLabel": "Tiết 46 (1 tiết)",
@@ -1019,7 +1013,7 @@
    "id": "l5-hoat-dong-trai-nghiem-047",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Hoạt động giáo dục theo chủ đề: Xây dựng kế hoạch kinh doanh",
    "content": "",
    "periodLabel": "Tiết 47 (1 tiết)",
@@ -1046,7 +1040,7 @@
    "id": "l5-hoat-dong-trai-nghiem-048",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Quản lí chi tiêu và lập kế hoạch kinh doanh",
    "title": "Sinh hoạt lớp: Kế hoạch kinh doanh của lớp",
    "content": "",
    "periodLabel": "Tiết 48 (1 tiết)",
@@ -1068,7 +1062,7 @@
    "id": "l5-hoat-dong-trai-nghiem-049",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Sinh hoạt dưới cờ: Gia đình yêu thương",
    "content": "",
    "periodLabel": "Tiết 49 (1 tiết)",
@@ -1084,7 +1078,7 @@
    "id": "l5-hoat-dong-trai-nghiem-050",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Hoạt động giáo dục theo chủ đề: Trách nhiệm của em trong gia đình",
    "content": "",
    "periodLabel": "Tiết 50 (1 tiết)",
@@ -1106,7 +1100,7 @@
    "id": "l5-hoat-dong-trai-nghiem-051",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Sinh hoạt lớp: Thể hiện trách nhiệm với gia đình",
    "content": "",
    "periodLabel": "Tiết 51 (1 tiết)",
@@ -1128,7 +1122,7 @@
    "id": "l5-hoat-dong-trai-nghiem-052",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Sinh hoạt dưới cờ: Lòng biết ơn",
    "content": "",
    "periodLabel": "Tiết 52 (1 tiết)",
@@ -1150,7 +1144,7 @@
    "id": "l5-hoat-dong-trai-nghiem-053",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Hoạt động giáo dục theo chủ đề: Biết ơn người thân trong gia đình",
    "content": "",
    "periodLabel": "Tiết 53 (1 tiết)",
@@ -1177,7 +1171,7 @@
    "id": "l5-hoat-dong-trai-nghiem-054",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề: Tôn sư trọng đạo",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Sinh hoạt lớp: Thể hiện lòng biết ơn với người thân",
    "content": "",
    "periodLabel": "Tiết 54 (1 tiết)",
@@ -1199,7 +1193,7 @@
    "id": "l5-hoat-dong-trai-nghiem-055",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Sinh hoạt dưới cờ: Tết đoàn viên",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
@@ -1215,7 +1209,7 @@
    "id": "l5-hoat-dong-trai-nghiem-056",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Hoạt động giáo dục theo chủ đề: Gia đình là tổ ấm",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
@@ -1237,7 +1231,7 @@
    "id": "l5-hoat-dong-trai-nghiem-057",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Sinh hoạt lớp: Vun đắp tình cảm gia đình",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
@@ -1259,7 +1253,7 @@
    "id": "l5-hoat-dong-trai-nghiem-058",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Sinh hoạt dưới cờ: Hội chợ Xuân gây Quỹ Nhân ái",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
@@ -1275,7 +1269,7 @@
    "id": "l5-hoat-dong-trai-nghiem-059",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Hoạt động giáo dục theo chủ đề: Ngày cuối tuần vui vẻ, đầm ấm",
    "content": "",
    "periodLabel": "Tiết 59 (1 tiết)",
@@ -1297,7 +1291,7 @@
    "id": "l5-hoat-dong-trai-nghiem-060",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình đầm ấm",
    "title": "Sinh hoạt lớp: Buổi tối nhà em",
    "content": "",
    "periodLabel": "Tiết 60 (1 tiết)",
@@ -1479,7 +1473,7 @@
    "periodTo": 68,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.3 CB2a: HS nhập và đọc số liệu thi đua trên bảng theo dõi, nhận xét dựa trên số liệu",
+   "adjustments": "Năng lực số 2.5 CB2a: HS chỉ ra được lời nhắn nào là tôn trọng, lời nhắn nào là trêu chọc, xúc phạm và chọn được cách trả lời phù hợp",
    "integrations": [
     {
      "code": "KNS",
@@ -1501,7 +1495,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 2.5 CB2a: HS chỉ ra được lời nhắn nào là tôn trọng, lời nhắn nào là trêu chọc, xúc phạm và chọn được cách trả lời phù hợp",
+   "adjustments": "Năng lực số 1.3 CB2a: HS nhập và đọc số liệu thi đua trên bảng theo dõi, nhận xét dựa trên số liệu",
    "integrations": [
     {
      "code": "KNS",
@@ -1782,7 +1776,7 @@
    "id": "l5-hoat-dong-trai-nghiem-082",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Sinh hoạt dưới cờ: Hình ảnh quê hương",
    "content": "",
    "periodLabel": "Tiết 82 (1 tiết)",
@@ -1804,7 +1798,7 @@
    "id": "l5-hoat-dong-trai-nghiem-083",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Hoạt động giáo dục theo chủ đề: Tự hào về cảnh quan thiên nhiên của quê hương, đất nước",
    "content": "",
    "periodLabel": "Tiết 83 (1 tiết)",
@@ -1831,7 +1825,7 @@
    "id": "l5-hoat-dong-trai-nghiem-084",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Sinh hoạt lớp: Việt Nam trong mắt em",
    "content": "",
    "periodLabel": "Tiết 84 (1 tiết)",
@@ -1842,9 +1836,9 @@
    "adjustments": "Năng lực số 1.3 CB2a: HS nhập và đọc số liệu thi đua trên bảng theo dõi, nhận xét dựa trên số liệu",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "QPAN",
      "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
     }
    ],
    "note": ""
@@ -1853,7 +1847,7 @@
    "id": "l5-hoat-dong-trai-nghiem-085",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Sinh hoạt dưới cờ: Bảo tồn cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 85 (1 tiết)",
@@ -1875,7 +1869,7 @@
    "id": "l5-hoat-dong-trai-nghiem-086",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Hoạt động giáo dục theo chủ đề: Biện pháp bảo tồn cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 86 (1 tiết)",
@@ -1902,7 +1896,7 @@
    "id": "l5-hoat-dong-trai-nghiem-087",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Sinh hoạt lớp: Tuyên truyền về việc bảo tồn cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 87 (1 tiết)",
@@ -1924,7 +1918,7 @@
    "id": "l5-hoat-dong-trai-nghiem-088",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Sinh hoạt dưới cờ: Sản phẩm tuyên truyền bảo tồn cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 88 (1 tiết)",
@@ -1932,7 +1926,7 @@
    "periodTo": 88,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.3 CB2a: HS nhận biết cách ghi lại, sắp xếp số liệu khảo sát môi trường (lượng rác, cây xanh…) một cách đơn giản trên bảng số",
+   "adjustments": "",
    "integrations": [
     {
      "code": "QPAN",
@@ -1946,7 +1940,7 @@
    "id": "l5-hoat-dong-trai-nghiem-089",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Hoạt động giáo dục theo chủ đề: Lập kế hoạch khảo sát thực trạng môi trường quanh em",
    "content": "",
    "periodLabel": "Tiết 89 (1 tiết)",
@@ -1973,7 +1967,7 @@
    "id": "l5-hoat-dong-trai-nghiem-090",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Sinh hoạt lớp: Chúng tôi lên tiếng vì môi trường",
    "content": "",
    "periodLabel": "Tiết 90 (1 tiết)",
@@ -1995,7 +1989,7 @@
    "id": "l5-hoat-dong-trai-nghiem-091",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Sinh hoạt dưới cờ: Ngày hội \"Chữa lành vết thương Trái Đất\"",
    "content": "",
    "periodLabel": "Tiết 91 (1 tiết)",
@@ -2011,7 +2005,7 @@
    "id": "l5-hoat-dong-trai-nghiem-092",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Hoạt động giáo dục theo chủ đề: Chung tay bảo vệ môi trường quanh ta",
    "content": "",
    "periodLabel": "Tiết 92 (1 tiết)",
@@ -2038,7 +2032,7 @@
    "id": "l5-hoat-dong-trai-nghiem-093",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Tự hào quê hương em",
    "title": "Sinh hoạt lớp: Mỗi hành động – Một chiếc lá",
    "content": "",
    "periodLabel": "Tiết 93 (1 tiết)",
@@ -2047,20 +2041,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.3 CB2a: HS nhập và đọc số liệu thi đua trên bảng theo dõi, nhận xét dựa trên số liệu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-094",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Sinh hoạt dưới cờ: Diễn đàn \"Nghề nghiệp tương lai\"",
    "content": "",
    "periodLabel": "Tiết 94 (1 tiết)",
@@ -2082,7 +2070,7 @@
    "id": "l5-hoat-dong-trai-nghiem-095",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Hoạt động giáo dục theo chủ đề: Nghề em mơ ước",
    "content": "",
    "periodLabel": "Tiết 95 (1 tiết)",
@@ -2109,7 +2097,7 @@
    "id": "l5-hoat-dong-trai-nghiem-096",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Sinh hoạt lớp: Câu chuyện của người làm nghề",
    "content": "",
    "periodLabel": "Tiết 96 (1 tiết)",
@@ -2131,7 +2119,7 @@
    "id": "l5-hoat-dong-trai-nghiem-097",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Sinh hoạt dưới cờ: Toạ đàm \"Chọn nghề – đường tới thành công\"",
    "content": "",
    "periodLabel": "Tiết 97 (1 tiết)",
@@ -2153,7 +2141,7 @@
    "id": "l5-hoat-dong-trai-nghiem-098",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Hoạt động giáo dục theo chủ đề: An toàn nghề nghiệp",
    "content": "",
    "periodLabel": "Tiết 98 (1 tiết)",
@@ -2180,7 +2168,7 @@
    "id": "l5-hoat-dong-trai-nghiem-099",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Sinh hoạt lớp: Thiết bị bảo hộ lao động",
    "content": "",
    "periodLabel": "Tiết 99 (1 tiết)",
@@ -2202,7 +2190,7 @@
    "id": "l5-hoat-dong-trai-nghiem-100",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Sinh hoạt dưới cờ: Kỉ niệm ngày sinh Bác Hồ kính yêu",
    "content": "",
    "periodLabel": "Tiết 100 (1 tiết)",
@@ -2211,14 +2199,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-101",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Hoạt động giáo dục theo chủ đề: Mơ ước nghề nghiệp của em",
    "content": "",
    "periodLabel": "Tiết 101 (1 tiết)",
@@ -2245,7 +2239,7 @@
    "id": "l5-hoat-dong-trai-nghiem-102",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Sinh hoạt lớp: Tấm danh thiếp tương lai",
    "content": "",
    "periodLabel": "Tiết 102 (1 tiết)",
@@ -2254,20 +2248,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.3 CB2a: HS nhập và đọc số liệu thi đua trên bảng theo dõi, nhận xét dựa trên số liệu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-103",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Sinh hoạt dưới cờ: Lễ tổng kết năm học",
    "content": "",
    "periodLabel": "Tiết 103 (1 tiết)",
@@ -2276,20 +2264,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 3.1 CB2b: HS chọn cách lưu giữ kỉ niệm tiểu học bằng một sản phẩm số đơn giản (an-bum ảnh, đoạn trình chiếu)",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-104",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Hoạt động giáo dục theo chủ đề: Hồ sơ trải nghiệm",
    "content": "",
    "periodLabel": "Tiết 104 (1 tiết)",
@@ -2311,7 +2293,7 @@
    "id": "l5-hoat-dong-trai-nghiem-105",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: Tham gia hoạt động xã hội",
+   "theme": "Chủ đề: Ước mơ nghề nghiệp",
    "title": "Sinh hoạt lớp: Chia tay trường tiểu học",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
@@ -2320,13 +2302,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.3 CB2a: HS nhập và đọc số liệu thi đua trên bảng theo dõi, nhận xét dựa trên số liệu",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ],
@@ -2602,14 +2578,14 @@
  "attachment": {
   "file": "assets/docs/lop5/Hoat dong trai nghiem - Lop 5.docx",
   "name": "Hoat dong trai nghiem - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 47181,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 47262,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop5/Hoat dong trai nghiem - Lop 5.xlsx",
   "name": "Hoat dong trai nghiem - Lop 5.xlsx",
-  "size": 14099,
-  "updated": "2026-09-15"
+  "size": 14237,
+  "updated": "2026-10-30"
  }
 }

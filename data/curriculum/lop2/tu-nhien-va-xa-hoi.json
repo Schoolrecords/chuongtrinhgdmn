@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 70,
@@ -347,14 +347,8 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: HS đề xuất ý tưởng dùng máy thông minh để nhắc nhở các bạn bỏ rác đúng nơi quy định; hiểu AI chỉ hỗ trợ nhắc nhở, còn con người vẫn phải tự giác hành động đúng",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; kể việc làm của các chú bộ đội, công an giúp dân ở địa phương."
-    }
-   ],
+   "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: HS đề xuất ý tưởng dùng máy thông minh để nhắc nhở các bạn bỏ rác đúng nơi quy định; hiểu AI chỉ hỗ trợ nhắc nhở, còn con người vẫn phải tự giác hành động đúng; Học tập và làm theo Bác: Điều 4 “Giữ gìn vệ sinh thật tốt” (mạch 4): HS nhận một việc giữ vệ sinh lớp, trường (nhặt rác ở góc lớp, xếp gọn dép, tưới cây) và làm ngay sau tiết học",
+   "integrations": [],
    "note": ""
   },
   {
@@ -497,7 +491,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "Các loại đường và phương tiện giao thông (TNXH – Mĩ thuật) — dạy thay cho tiết này."
+     "text": "Sa bàn giao thông an toàn (TNXH – Toán – Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
     },
     {
      "code": "QPAN",
@@ -525,6 +519,11 @@
      "code": "NLS",
      "level": "",
      "text": "Năng lực số 1.1 CB1b: HS gọi tên được các phương tiện giao thông và loại đường tương ứng"
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Sa bàn giao thông an toàn (TNXH – Toán – Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -1583,14 +1582,14 @@
  "attachment": {
   "file": "assets/docs/lop2/Tu nhien va Xa hoi - Lop 2.docx",
   "name": "Tu nhien va Xa hoi - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 48424,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 48545,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Tu nhien va Xa hoi - Lop 2.xlsx",
   "name": "Tu nhien va Xa hoi - Lop 2.xlsx",
-  "size": 15007,
-  "updated": "2026-09-15"
+  "size": 15128,
+  "updated": "2026-10-30"
  }
 }

@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop5.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 39
+  "integrations": 40
  },
  "lessons": [
   {
@@ -363,32 +363,59 @@
    "id": "l5-khoa-hoc-017",
    "semester": 1,
    "week": 9,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập giữa học kì I",
+   "theme": "Chủ đề 2: Năng lượng",
+   "title": "Bài 9. Mạch điện đơn giản. Vật dẫn điện và vật cách điện (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 17 (1 tiết)",
+   "periodLabel": "Tiết 17 (2 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.1 CB2a: HS lắp thử mạch điện trên phần mềm mô phỏng"
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Đèn ngủ mini – mạch điện đơn giản (Khoa học – Công nghệ – Toán) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN an toàn khi thực hành: làm đúng hướng dẫn, không tự ý thử nghiệm nguy hiểm."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-khoa-hoc-018",
    "semester": 1,
    "week": 9,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì giữa học kì I",
+   "theme": "Chủ đề 2: Năng lượng",
+   "title": "Bài 9. Mạch điện đơn giản. Vật dẫn điện và vật cách điện (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodLabel": "Tiết 18",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.1 CB2a: HS lắp thử mạch điện trên phần mềm mô phỏng"
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Đèn ngủ mini – mạch điện đơn giản (Khoa học – Công nghệ – Toán) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -396,7 +423,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề 2: Năng lượng",
-   "title": "Bài 9. Mạch điện đơn giản. Vật dẫn điện và vật cách điện (Tiết 1)",
+   "title": "Bài 10. Năng lượng chất đốt (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 19 (2 tiết)",
    "periodFrom": 19,
@@ -411,14 +438,9 @@
      "text": "Năng lực số 5.1 CB2a: HS lắp thử mạch điện trên phần mềm mô phỏng"
     },
     {
-     "code": "STEM",
-     "level": "",
-     "text": "Mạch điện đơn giản (Khoa học – Công nghệ) — dạy thay cho tiết này."
-    },
-    {
      "code": "KNS",
      "level": "",
-     "text": "KN an toàn khi thực hành: làm đúng hướng dẫn, không tự ý thử nghiệm nguy hiểm."
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -428,7 +450,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề 2: Năng lượng",
-   "title": "Bài 9. Mạch điện đơn giản. Vật dẫn điện và vật cách điện (Tiết 2)",
+   "title": "Bài 10. Năng lượng chất đốt (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 20",
    "periodFrom": 20,
@@ -450,13 +472,13 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 2: Năng lượng",
-   "title": "Bài 10. Năng lượng chất đốt (Tiết 1)",
+   "title": "Bài 11. Sử dụng năng lượng mặt trời, năng lượng gió, năng lượng nước chảy (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 21 (2 tiết)",
+   "periodLabel": "Tiết 21 (3 tiết)",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
     {
@@ -477,60 +499,11 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 2: Năng lượng",
-   "title": "Bài 10. Năng lượng chất đốt (Tiết 2)",
+   "title": "Bài 11. Sử dụng năng lượng mặt trời, năng lượng gió, năng lượng nước chảy (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 22",
    "periodFrom": 22,
    "periodTo": 22,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB2a: HS lắp thử mạch điện trên phần mềm mô phỏng"
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l5-khoa-hoc-023",
-   "semester": 1,
-   "week": 12,
-   "theme": "Chủ đề 2: Năng lượng",
-   "title": "Bài 11. Sử dụng năng lượng mặt trời, năng lượng gió, năng lượng nước chảy (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 23 (3 tiết)",
-   "periodFrom": 23,
-   "periodTo": 23,
-   "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.1 CB2a: HS lắp thử mạch điện trên phần mềm mô phỏng"
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l5-khoa-hoc-024",
-   "semester": 1,
-   "week": 12,
-   "theme": "Chủ đề 2: Năng lượng",
-   "title": "Bài 11. Sử dụng năng lượng mặt trời, năng lượng gió, năng lượng nước chảy (Tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 24",
-   "periodFrom": 24,
-   "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -549,15 +522,15 @@
    "note": ""
   },
   {
-   "id": "l5-khoa-hoc-025",
+   "id": "l5-khoa-hoc-023",
    "semester": 1,
-   "week": 13,
+   "week": 12,
    "theme": "Chủ đề 2: Năng lượng",
    "title": "Bài 11. Sử dụng năng lượng mặt trời, năng lượng gió, năng lượng nước chảy (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 25",
-   "periodFrom": 25,
-   "periodTo": 25,
+   "periodLabel": "Tiết 23",
+   "periodFrom": 23,
+   "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -565,18 +538,50 @@
    "note": ""
   },
   {
-   "id": "l5-khoa-hoc-026",
+   "id": "l5-khoa-hoc-024",
    "semester": 1,
-   "week": 13,
+   "week": 12,
    "theme": "Chủ đề 2: Năng lượng",
    "title": "Bài 12. Ôn tập chủ đề Năng lượng",
    "content": "",
-   "periodLabel": "Tiết 26 (1 tiết)",
+   "periodLabel": "Tiết 24 (1 tiết)",
+   "periodFrom": 24,
+   "periodTo": 24,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-khoa-hoc-025",
+   "semester": 1,
+   "week": 13,
+   "theme": "Chủ đề 3: Thực vật và động vật",
+   "title": "Bài 13. Sinh sản của thực vật có hoa (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 25 (2 tiết)",
+   "periodFrom": 25,
+   "periodTo": 25,
+   "periods": 1,
+   "lessonPeriods": 2,
+   "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được kết quả nhận diện của ứng dụng bằng đặc điểm trong SGK",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-khoa-hoc-026",
+   "semester": 1,
+   "week": 13,
+   "theme": "Chủ đề 3: Thực vật và động vật",
+   "title": "Bài 13. Sinh sản của thực vật có hoa (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 26",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được kết quả nhận diện của ứng dụng bằng đặc điểm trong SGK",
    "integrations": [],
    "note": ""
   },
@@ -585,15 +590,21 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 13. Sinh sản của thực vật có hoa (Tiết 1)",
+   "title": "Bài 14. Sự phát triển của cây con (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 27 (2 tiết)",
+   "periodLabel": "Tiết 27 (3 tiết)",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 3,
    "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được kết quả nhận diện của ứng dụng bằng đặc điểm trong SGK",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Trồng cây không cần hạt (Khoa học – Công nghệ) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -601,7 +612,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 13. Sinh sản của thực vật có hoa (Tiết 2)",
+   "title": "Bài 14. Sự phát triển của cây con (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 28",
    "periodFrom": 28,
@@ -617,21 +628,15 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 14. Sự phát triển của cây con (Tiết 1)",
+   "title": "Bài 14. Sự phát triển của cây con (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 29 (3 tiết)",
+   "periodLabel": "Tiết 29",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được kết quả nhận diện của ứng dụng bằng đặc điểm trong SGK",
-   "integrations": [
-    {
-     "code": "STEM",
-     "level": "",
-     "text": "Trồng cây không cần hạt (Khoa học – Công nghệ) — dạy thay cho tiết này."
-    }
-   ],
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
@@ -639,13 +644,13 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 14. Sự phát triển của cây con (Tiết 2)",
+   "title": "Bài 15. Sinh sản của động vật (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 30",
+   "periodLabel": "Tiết 30 (2 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được kết quả nhận diện của ứng dụng bằng đặc điểm trong SGK",
    "integrations": [],
    "note": ""
@@ -655,14 +660,14 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 14. Sự phát triển của cây con (Tiết 3)",
+   "title": "Bài 15. Sinh sản của động vật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 31",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được kết quả nhận diện của ứng dụng bằng đặc điểm trong SGK",
    "integrations": [],
    "note": ""
   },
@@ -671,7 +676,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 15. Sinh sản của động vật (Tiết 1)",
+   "title": "Bài 16. Vòng đời và sự phát triển của động vật (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 32 (2 tiết)",
    "periodFrom": 32,
@@ -679,7 +684,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được kết quả nhận diện của ứng dụng bằng đặc điểm trong SGK",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Vòng đời của động vật (Khoa học – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -687,7 +698,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 15. Sinh sản của động vật (Tiết 2)",
+   "title": "Bài 16. Vòng đời và sự phát triển của động vật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 33",
    "periodFrom": 33,
@@ -702,15 +713,15 @@
    "id": "l5-khoa-hoc-034",
    "semester": 1,
    "week": 17,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập cuối học kì I",
+   "theme": "Chủ đề 3: Thực vật và động vật",
+   "title": "Bài 17. Ôn tập chủ đề Thực vật và động vật",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2b: HS quan sát hình ảnh hiển vi, tra cứu có đối chiếu SGK và ghi rõ nguồn thông tin",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -719,7 +730,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì cuối học kì I",
+   "title": "Ôn tập học kì I",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -734,37 +745,31 @@
    "id": "l5-khoa-hoc-036",
    "semester": 1,
    "week": 18,
-   "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 16. Vòng đời và sự phát triển của động vật (Tiết 1)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
-   "periodLabel": "Tiết 36 (2 tiết)",
+   "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
    "periodTo": 36,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được kết quả nhận diện của ứng dụng bằng đặc điểm trong SGK",
-   "integrations": [
-    {
-     "code": "STEM",
-     "level": "",
-     "text": "Vòng đời của động vật (Khoa học – Mĩ thuật) — dạy thay cho tiết này."
-    }
-   ],
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-khoa-hoc-037",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 16. Vòng đời và sự phát triển của động vật (Tiết 2)",
+   "theme": "Chủ đề 4: Vi khuẩn",
+   "title": "Bài 18. Vi khuẩn xung quanh chúng ta (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 37",
+   "periodLabel": "Tiết 37 (2 tiết)",
    "periodFrom": 37,
    "periodTo": 37,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS kiểm chứng được kết quả nhận diện của ứng dụng bằng đặc điểm trong SGK",
+   "lessonPeriods": 2,
+   "adjustments": "Năng lực số 1.1 CB2b: HS quan sát hình ảnh hiển vi, tra cứu có đối chiếu SGK và ghi rõ nguồn thông tin",
    "integrations": [],
    "note": ""
   },
@@ -772,15 +777,15 @@
    "id": "l5-khoa-hoc-038",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề 3: Thực vật và động vật",
-   "title": "Bài 17. Ôn tập chủ đề Thực vật và động vật",
+   "theme": "Chủ đề 4: Vi khuẩn",
+   "title": "Bài 18. Vi khuẩn xung quanh chúng ta (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 38 (1 tiết)",
+   "periodLabel": "Tiết 38",
    "periodFrom": 38,
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2b: HS quan sát hình ảnh hiển vi, tra cứu có đối chiếu SGK và ghi rõ nguồn thông tin",
    "integrations": [],
    "note": ""
   },
@@ -789,7 +794,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 4: Vi khuẩn",
-   "title": "Bài 18. Vi khuẩn xung quanh chúng ta (Tiết 1)",
+   "title": "Bài 19. Vi khuẩn có ích trong chế biến thực phẩm (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 39 (2 tiết)",
    "periodFrom": 39,
@@ -797,7 +802,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "Năng lực số 1.1 CB2b: HS quan sát hình ảnh hiển vi, tra cứu có đối chiếu SGK và ghi rõ nguồn thông tin",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Vi khuẩn có ích trong chế biến thực phẩm (Khoa học – Công nghệ) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -805,7 +816,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 4: Vi khuẩn",
-   "title": "Bài 18. Vi khuẩn xung quanh chúng ta (Tiết 2)",
+   "title": "Bài 19. Vi khuẩn có ích trong chế biến thực phẩm (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 40",
    "periodFrom": 40,
@@ -821,7 +832,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 4: Vi khuẩn",
-   "title": "Bài 19. Vi khuẩn có ích trong chế biến thực phẩm (Tiết 1)",
+   "title": "Bài 20. Vi khuẩn gây bệnh ở người và cách phòng tránh (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 41 (2 tiết)",
    "periodFrom": 41,
@@ -831,9 +842,9 @@
    "adjustments": "Năng lực số 1.1 CB2b: HS quan sát hình ảnh hiển vi, tra cứu có đối chiếu SGK và ghi rõ nguồn thông tin",
    "integrations": [
     {
-     "code": "STEM",
+     "code": "KNS",
      "level": "",
-     "text": "Vi khuẩn có ích trong chế biến thực phẩm (Khoa học – Công nghệ) — dạy thay cho tiết này."
+     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -843,7 +854,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 4: Vi khuẩn",
-   "title": "Bài 19. Vi khuẩn có ích trong chế biến thực phẩm (Tiết 2)",
+   "title": "Bài 20. Vi khuẩn gây bệnh ở người và cách phòng tránh (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 42",
    "periodFrom": 42,
@@ -859,49 +870,11 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 4: Vi khuẩn",
-   "title": "Bài 20. Vi khuẩn gây bệnh ở người và cách phòng tránh (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 43 (2 tiết)",
-   "periodFrom": 43,
-   "periodTo": 43,
-   "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.1 CB2b: HS quan sát hình ảnh hiển vi, tra cứu có đối chiếu SGK và ghi rõ nguồn thông tin",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
-    }
-   ],
-   "note": ""
-  },
-  {
-   "id": "l5-khoa-hoc-044",
-   "semester": 2,
-   "week": 22,
-   "theme": "Chủ đề 4: Vi khuẩn",
-   "title": "Bài 20. Vi khuẩn gây bệnh ở người và cách phòng tránh (Tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 44",
-   "periodFrom": 44,
-   "periodTo": 44,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2b: HS quan sát hình ảnh hiển vi, tra cứu có đối chiếu SGK và ghi rõ nguồn thông tin",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l5-khoa-hoc-045",
-   "semester": 2,
-   "week": 23,
-   "theme": "Chủ đề 4: Vi khuẩn",
    "title": "Bài 21. Ôn tập chủ đề Vi khuẩn",
    "content": "",
-   "periodLabel": "Tiết 45 (1 tiết)",
-   "periodFrom": 45,
-   "periodTo": 45,
+   "periodLabel": "Tiết 43 (1 tiết)",
+   "periodFrom": 43,
+   "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -909,15 +882,15 @@
    "note": ""
   },
   {
-   "id": "l5-khoa-hoc-046",
+   "id": "l5-khoa-hoc-044",
    "semester": 2,
-   "week": 23,
+   "week": 22,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
    "title": "Bài 22. Sự hình thành cơ thể người (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 46 (2 tiết)",
-   "periodFrom": 46,
-   "periodTo": 46,
+   "periodLabel": "Tiết 44 (2 tiết)",
+   "periodFrom": 44,
+   "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
@@ -936,11 +909,55 @@
    "note": ""
   },
   {
+   "id": "l5-khoa-hoc-045",
+   "semester": 2,
+   "week": 23,
+   "theme": "Chủ đề 5: Con người và sức khoẻ",
+   "title": "Bài 22. Sự hình thành cơ thể người (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 45",
+   "periodFrom": 45,
+   "periodTo": 45,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS quan sát sơ đồ động về các giai đoạn phát triển"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-khoa-hoc-046",
+   "semester": 2,
+   "week": 23,
+   "theme": "Chủ đề 5: Con người và sức khoẻ",
+   "title": "Bài 23. Các giai đoạn phát triển chính của con người (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 46 (3 tiết)",
+   "periodFrom": 46,
+   "periodTo": 46,
+   "periods": 1,
+   "lessonPeriods": 3,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS quan sát sơ đồ động về các giai đoạn phát triển"
+    }
+   ],
+   "note": ""
+  },
+  {
    "id": "l5-khoa-hoc-047",
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 22. Sự hình thành cơ thể người (Tiết 2)",
+   "title": "Bài 23. Các giai đoạn phát triển chính của con người (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 47",
    "periodFrom": 47,
@@ -962,21 +979,15 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 23. Các giai đoạn phát triển chính của con người (Tiết 1)",
+   "title": "Bài 23. Các giai đoạn phát triển chính của con người (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 48 (3 tiết)",
+   "periodLabel": "Tiết 48",
    "periodFrom": 48,
    "periodTo": 48,
    "periods": 1,
-   "lessonPeriods": 3,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB2c: HS quan sát sơ đồ động về các giai đoạn phát triển"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -984,21 +995,15 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 23. Các giai đoạn phát triển chính của con người (Tiết 2)",
+   "title": "Bài 24. Nam và nữ (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 49",
+   "periodLabel": "Tiết 49 (2 tiết)",
    "periodFrom": 49,
    "periodTo": 49,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB2c: HS quan sát sơ đồ động về các giai đoạn phát triển"
-    }
-   ],
+   "lessonPeriods": 2,
+   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1006,14 +1011,14 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 23. Các giai đoạn phát triển chính của con người (Tiết 3)",
+   "title": "Bài 24. Nam và nữ (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 50",
    "periodFrom": 50,
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
    "integrations": [],
    "note": ""
   },
@@ -1022,59 +1027,11 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 24. Nam và nữ (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 51 (2 tiết)",
-   "periodFrom": 51,
-   "periodTo": 51,
-   "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l5-khoa-hoc-052",
-   "semester": 2,
-   "week": 26,
-   "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 24. Nam và nữ (Tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 52",
-   "periodFrom": 52,
-   "periodTo": 52,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l5-khoa-hoc-053",
-   "semester": 2,
-   "week": 27,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì giữa học kì II",
-   "content": "",
-   "periodLabel": "Tiết 53 (1 tiết)",
-   "periodFrom": 53,
-   "periodTo": 53,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l5-khoa-hoc-054",
-   "semester": 2,
-   "week": 27,
-   "theme": "Chủ đề 5: Con người và sức khoẻ",
    "title": "Bài 25. Chăm sóc sức khoẻ tuổi dậy thì (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 54 (3 tiết)",
-   "periodFrom": 54,
-   "periodTo": 54,
+   "periodLabel": "Tiết 51 (3 tiết)",
+   "periodFrom": 51,
+   "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
@@ -1093,11 +1050,59 @@
    "note": ""
   },
   {
+   "id": "l5-khoa-hoc-052",
+   "semester": 2,
+   "week": 26,
+   "theme": "Chủ đề 5: Con người và sức khoẻ",
+   "title": "Bài 25. Chăm sóc sức khoẻ tuổi dậy thì (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 52",
+   "periodFrom": 52,
+   "periodTo": 52,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-khoa-hoc-053",
+   "semester": 2,
+   "week": 27,
+   "theme": "Chủ đề 5: Con người và sức khoẻ",
+   "title": "Bài 25. Chăm sóc sức khoẻ tuổi dậy thì (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 53",
+   "periodFrom": 53,
+   "periodTo": 53,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-khoa-hoc-054",
+   "semester": 2,
+   "week": 27,
+   "theme": "Chủ đề 5: Con người và sức khoẻ",
+   "title": "Bài 26. Phòng tránh bị xâm hại (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 54 (4 tiết)",
+   "periodFrom": 54,
+   "periodTo": 54,
+   "periods": 1,
+   "lessonPeriods": 4,
+   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
+   "integrations": [],
+   "note": ""
+  },
+  {
    "id": "l5-khoa-hoc-055",
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 25. Chăm sóc sức khoẻ tuổi dậy thì (Tiết 2)",
+   "title": "Bài 26. Phòng tránh bị xâm hại (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 55",
    "periodFrom": 55,
@@ -1113,7 +1118,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 25. Chăm sóc sức khoẻ tuổi dậy thì (Tiết 3)",
+   "title": "Bài 26. Phòng tránh bị xâm hại (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 56",
    "periodFrom": 56,
@@ -1129,13 +1134,13 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 26. Phòng tránh bị xâm hại (Tiết 1)",
+   "title": "Bài 26. Phòng tránh bị xâm hại (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 57 (4 tiết)",
+   "periodLabel": "Tiết 57",
    "periodFrom": 57,
    "periodTo": 57,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 1,
    "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
    "integrations": [],
    "note": ""
@@ -1145,14 +1150,14 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 26. Phòng tránh bị xâm hại (Tiết 2)",
+   "title": "Bài 27. Ôn tập chủ đề Con người và sức khoẻ",
    "content": "",
-   "periodLabel": "Tiết 58",
+   "periodLabel": "Tiết 58 (1 tiết)",
    "periodFrom": 58,
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -1160,31 +1165,37 @@
    "id": "l5-khoa-hoc-059",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 26. Phòng tránh bị xâm hại (Tiết 3)",
+   "theme": "Chủ đề 6: Sinh vật và môi trường",
+   "title": "Bài 28. Chức năng của môi trường đối với sinh vật (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 59",
+   "periodLabel": "Tiết 59 (3 tiết)",
    "periodFrom": 59,
    "periodTo": 59,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
-   "integrations": [],
+   "lessonPeriods": 3,
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sự thay đổi của môi trường qua ảnh vệ tinh chụp nhiều thời điểm",
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-khoa-hoc-060",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 26. Phòng tránh bị xâm hại (Tiết 4)",
+   "theme": "Chủ đề 6: Sinh vật và môi trường",
+   "title": "Bài 28. Chức năng của môi trường đối với sinh vật (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 60",
    "periodFrom": 60,
    "periodTo": 60,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 4.2 CB2a: HS nêu được: ảnh và giọng nói trên mạng có thể do máy tạo giả, nên không gửi ảnh riêng tư cho bất kì ai",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sự thay đổi của môi trường qua ảnh vệ tinh chụp nhiều thời điểm",
    "integrations": [],
    "note": ""
   },
@@ -1192,10 +1203,10 @@
    "id": "l5-khoa-hoc-061",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 5: Con người và sức khoẻ",
-   "title": "Bài 27. Ôn tập chủ đề Con người và sức khoẻ",
+   "theme": "Chủ đề 6: Sinh vật và môi trường",
+   "title": "Bài 28. Chức năng của môi trường đối với sinh vật (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 61 (1 tiết)",
+   "periodLabel": "Tiết 61",
    "periodFrom": 61,
    "periodTo": 61,
    "periods": 1,
@@ -1209,7 +1220,7 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 6: Sinh vật và môi trường",
-   "title": "Bài 28. Chức năng của môi trường đối với sinh vật (Tiết 1)",
+   "title": "Bài 29. Tác động của con người và một số biện pháp bảo vệ môi trường (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 62 (3 tiết)",
    "periodFrom": 62,
@@ -1231,7 +1242,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 6: Sinh vật và môi trường",
-   "title": "Bài 28. Chức năng của môi trường đối với sinh vật (Tiết 2)",
+   "title": "Bài 29. Tác động của con người và một số biện pháp bảo vệ môi trường (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 63",
    "periodFrom": 63,
@@ -1247,7 +1258,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 6: Sinh vật và môi trường",
-   "title": "Bài 28. Chức năng của môi trường đối với sinh vật (Tiết 3)",
+   "title": "Bài 29. Tác động của con người và một số biện pháp bảo vệ môi trường (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 64",
    "periodFrom": 64,
@@ -1263,36 +1274,30 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 6: Sinh vật và môi trường",
-   "title": "Bài 29. Tác động của con người và một số biện pháp bảo vệ môi trường (Tiết 1)",
+   "title": "Bài 30. Ôn tập chủ đề Sinh vật và môi trường",
    "content": "",
-   "periodLabel": "Tiết 65 (3 tiết)",
+   "periodLabel": "Tiết 65 (1 tiết)",
    "periodFrom": 65,
    "periodTo": 65,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sự thay đổi của môi trường qua ảnh vệ tinh chụp nhiều thời điểm",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
-    }
-   ],
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-khoa-hoc-066",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề 6: Sinh vật và môi trường",
-   "title": "Bài 29. Tác động của con người và một số biện pháp bảo vệ môi trường (Tiết 2)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Ôn tập cuối năm (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 66",
+   "periodLabel": "Tiết 66 (1 tiết)",
    "periodFrom": 66,
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sự thay đổi của môi trường qua ảnh vệ tinh chụp nhiều thời điểm",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -1300,10 +1305,10 @@
    "id": "l5-khoa-hoc-067",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề 6: Sinh vật và môi trường",
-   "title": "Bài 29. Tác động của con người và một số biện pháp bảo vệ môi trường (Tiết 3)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Ôn tập cuối năm (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 67",
+   "periodLabel": "Tiết 67 (1 tiết)",
    "periodFrom": 67,
    "periodTo": 67,
    "periods": 1,
@@ -1316,8 +1321,8 @@
    "id": "l5-khoa-hoc-068",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề 6: Sinh vật và môi trường",
-   "title": "Bài 30. Ôn tập chủ đề Sinh vật và môi trường",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Ôn tập cuối năm (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
    "periodFrom": 68,
@@ -1333,7 +1338,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Ôn tập cuối năm học",
+   "title": "Ôn tập cuối năm (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
    "periodFrom": 69,
@@ -1633,14 +1638,14 @@
  "attachment": {
   "file": "assets/docs/lop5/Khoa hoc - Lop 5.docx",
   "name": "Khoa hoc - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 43847,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 43901,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop5/Khoa hoc - Lop 5.xlsx",
   "name": "Khoa hoc - Lop 5.xlsx",
-  "size": 10215,
-  "updated": "2026-09-15"
+  "size": 10228,
+  "updated": "2026-10-30"
  }
 }

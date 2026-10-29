@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 35,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 21
+  "integrations": 23
  },
  "lessons": [
   {
@@ -128,6 +128,11 @@
    "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài “Vật liệu và dụng cụ trồng hoa, cây cảnh trong chậu”, GV chiếu ảnh phóng to từng loại giá thể, phân bón, chậu và dụng cụ như xẻng nhỏ, bình tưới; Năng lực số Miền 5 (Cơ bản, bậc 2): GV chiếu vài tình huống trồng cây trong chậu và cho HS chọn bộ vật liệu, dụng cụ phù hợp cho từng loại cây; máy báo đúng",
    "integrations": [
     {
+     "code": "STEM",
+     "level": "",
+     "text": "Chậu hoa, cây cảnh mini (Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
@@ -235,6 +240,11 @@
    "lessonPeriods": 3,
    "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở bài “Chậu hoa và cây cảnh mini”, GV chiếu ảnh phóng to nhiều kiểu chậu mini cùng loại cây phù hợp với từng chậu; HS gọi tên cây; Năng lực số Miền 5 (Cơ bản, bậc 2): GV chiếu vài tình huống chọn chậu và cây cho góc học tập, ban công, lớp học; HS chọn phương án phù hợp rồi giải thích theo điều kiện ánh sáng, không gian",
    "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Chậu hoa, cây cảnh mini (Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -969,14 +979,14 @@
  "attachment": {
   "file": "assets/docs/lop4/Cong nghe - Lop 4.docx",
   "name": "Cong nghe - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 43036,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 43058,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Cong nghe - Lop 4.xlsx",
   "name": "Cong nghe - Lop 4.xlsx",
-  "size": 8871,
-  "updated": "2026-09-15"
+  "size": 8901,
+  "updated": "2026-10-30"
  }
 }

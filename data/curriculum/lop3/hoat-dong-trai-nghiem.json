@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 04/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop3.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 76
+  "integrations": 77
  },
  "lessons": [
   {
@@ -536,7 +536,7 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 4.2 CB1a: HS cùng lớp thống nhất nội quy ứng xử với bạn cả khi gặp mặt và khi nhắn tin",
+   "adjustments": "Năng lực số 4.2 CB1a: HS cùng lớp thống nhất nội quy ứng xử với bạn cả khi gặp mặt và khi nhắn tin; Học tập và làm theo Bác: Điều 3 “Đoàn kết tốt, kỉ luật tốt” (mạch 3): nhóm phân công trang trí lớp “xanh – sạch – đẹp”; mỗi HS nhận và làm đúng phần việc của mình, cùng bạn hoàn thành ý tưởng chung ở tiết sinh hoạt lớp",
    "integrations": [],
    "note": ""
   },
@@ -1070,7 +1070,7 @@
    "id": "l3-hoat-dong-trai-nghiem-055",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình yêu thương",
    "title": "Sinh hoạt dưới cờ: Cùng người thân sắm Tết",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
@@ -1086,7 +1086,7 @@
    "id": "l3-hoat-dong-trai-nghiem-056",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình yêu thương",
    "title": "Hoạt động giáo dục theo chủ đề: Lao động và thu nhập gia đình",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
@@ -1108,7 +1108,7 @@
    "id": "l3-hoat-dong-trai-nghiem-057",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình yêu thương",
    "title": "Sinh hoạt lớp: Mua sắm tiết kiệm",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
@@ -1130,7 +1130,7 @@
    "id": "l3-hoat-dong-trai-nghiem-058",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình yêu thương",
    "title": "Sinh hoạt dưới cờ: Ngày hội \"Gia đình\"",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
@@ -1146,7 +1146,7 @@
    "id": "l3-hoat-dong-trai-nghiem-059",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình yêu thương",
    "title": "Hoạt động giáo dục theo chủ đề: Tiết kiệm điện, nước trong gia đình",
    "content": "",
    "periodLabel": "Tiết 59 (1 tiết)",
@@ -1168,7 +1168,7 @@
    "id": "l3-hoat-dong-trai-nghiem-060",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình yêu thương",
    "title": "Sinh hoạt lớp: Sử dụng thiết bị điện, nước",
    "content": "",
    "periodLabel": "Tiết 60 (1 tiết)",
@@ -1416,7 +1416,7 @@
    "id": "l3-hoat-dong-trai-nghiem-073",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: Ăn uống an toàn, hợp vệ sinh",
+   "theme": "Chủ đề: Hoạt động vì cộng đồng",
    "title": "Sinh hoạt dưới cờ: Làng nghề truyền thống",
    "content": "",
    "periodLabel": "Tiết 73 (1 tiết)",
@@ -1443,7 +1443,7 @@
    "id": "l3-hoat-dong-trai-nghiem-074",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: Ăn uống an toàn, hợp vệ sinh",
+   "theme": "Chủ đề: Hoạt động vì cộng đồng",
    "title": "Hoạt động giáo dục theo chủ đề: Truyền thống quê hương em",
    "content": "",
    "periodLabel": "Tiết 74 (1 tiết)",
@@ -1465,7 +1465,7 @@
    "id": "l3-hoat-dong-trai-nghiem-075",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: Ăn uống an toàn, hợp vệ sinh",
+   "theme": "Chủ đề: Hoạt động vì cộng đồng",
    "title": "Sinh hoạt lớp: Tự hào về truyền thống quê hương",
    "content": "",
    "periodLabel": "Tiết 75 (1 tiết)",
@@ -1492,7 +1492,7 @@
    "id": "l3-hoat-dong-trai-nghiem-076",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: Ăn uống an toàn, hợp vệ sinh",
+   "theme": "Chủ đề: Hoạt động vì cộng đồng",
    "title": "Sinh hoạt dưới cờ: Phong trào \"Mùa đông ấm, mùa hè vui\"",
    "content": "",
    "periodLabel": "Tiết 76 (1 tiết)",
@@ -1511,6 +1511,11 @@
      "code": "STEM",
      "level": "",
      "text": "Hoạt động trải nghiệm STEM học kì II: ngày hội/câu lạc bộ/dự án STEM cấp lớp hoặc khối — tối thiểu 01 lần mỗi học kì (CV 3132/SGD&ĐT); HS trưng bày, giới thiệu sản phẩm từ các bài học STEM."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
     }
    ],
    "note": ""
@@ -1519,7 +1524,7 @@
    "id": "l3-hoat-dong-trai-nghiem-077",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: Ăn uống an toàn, hợp vệ sinh",
+   "theme": "Chủ đề: Hoạt động vì cộng đồng",
    "title": "Hoạt động giáo dục theo chủ đề: Mùa đông ấm, mùa hè vui",
    "content": "",
    "periodLabel": "Tiết 77 (1 tiết)",
@@ -1535,7 +1540,7 @@
    "id": "l3-hoat-dong-trai-nghiem-078",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: Ăn uống an toàn, hợp vệ sinh",
+   "theme": "Chủ đề: Hoạt động vì cộng đồng",
    "title": "Sinh hoạt lớp: Món quà tặng bạn",
    "content": "",
    "periodLabel": "Tiết 78 (1 tiết)",
@@ -1551,7 +1556,7 @@
    "id": "l3-hoat-dong-trai-nghiem-079",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: Ăn uống an toàn, hợp vệ sinh",
+   "theme": "Chủ đề: Hoạt động vì cộng đồng",
    "title": "Sinh hoạt dưới cờ: Câu chuyện về lòng nhân ái",
    "content": "",
    "periodLabel": "Tiết 79 (1 tiết)",
@@ -1567,7 +1572,7 @@
    "id": "l3-hoat-dong-trai-nghiem-080",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: Ăn uống an toàn, hợp vệ sinh",
+   "theme": "Chủ đề: Hoạt động vì cộng đồng",
    "title": "Hoạt động giáo dục theo chủ đề: Giúp đỡ người khuyết tật",
    "content": "",
    "periodLabel": "Tiết 80 (1 tiết)",
@@ -1589,7 +1594,7 @@
    "id": "l3-hoat-dong-trai-nghiem-081",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: Ăn uống an toàn, hợp vệ sinh",
+   "theme": "Chủ đề: Hoạt động vì cộng đồng",
    "title": "Sinh hoạt lớp: Đồng cảm với người khuyết tật",
    "content": "",
    "periodLabel": "Tiết 81 (1 tiết)",
@@ -2415,14 +2420,14 @@
  "attachment": {
   "file": "assets/docs/lop3/Hoat dong trai nghiem - Lop 3.docx",
   "name": "Hoat dong trai nghiem - Lop 3.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 49608,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 49737,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop3/Hoat dong trai nghiem - Lop 3.xlsx",
   "name": "Hoat dong trai nghiem - Lop 3.xlsx",
-  "size": 16438,
-  "updated": "2026-09-15"
+  "size": 16577,
+  "updated": "2026-10-30"
  }
 }

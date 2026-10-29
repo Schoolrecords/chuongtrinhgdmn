@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop1.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 16
+  "integrations": 30
  },
  "lessons": [
   {
@@ -196,7 +196,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS quan sát hình động và đặt đúng dấu lớn hơn, bé hơn, bằng nhau giữa hai số",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Dụng cụ so sánh số (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -212,7 +218,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS quan sát hình động và đặt đúng dấu lớn hơn, bé hơn, bằng nhau giữa hai số",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Dụng cụ so sánh số (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -324,7 +336,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành cùng thẻ học Toán (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -340,7 +358,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành cùng thẻ học Toán (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -388,7 +412,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "Tích hợp AI - 1.C1.2: Hiểu camera là “mắt” giúp thiết bị/robot thu nhận hình ảnh; AI có thể xử lí hình ảnh để nhận diện các mảnh ghép khi thực hiện nhiệm vụ xếp hình; Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành trang trí lớp học bằng các hình hình học (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -404,7 +434,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Tích hợp AI - 1.C1.2: Hiểu camera là “mắt” giúp thiết bị/robot thu nhận hình ảnh; AI có thể xử lí hình ảnh để nhận diện các mảnh ghép khi thực hiện nhiệm vụ xếp hình; Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành trang trí lớp học bằng các hình hình học (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -666,7 +702,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Dụng cụ tính cộng, tính trừ (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -682,7 +724,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Dụng cụ tính cộng, tính trừ (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -698,7 +746,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành tính nhẩm (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -714,7 +768,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Thực hành tính nhẩm (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -1426,7 +1486,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Mô hình tính hàng dọc (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -1442,7 +1508,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Mô hình tính hàng dọc (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -1492,6 +1564,11 @@
    "adjustments": "Tích hợp AI 1.A2.1: Kể tên được một số thiết bị có sử dụng AI như loa thông minh, trợ lý ảo; biết dưới sự hướng dẫn của giáo viên có thể hỏi trợ lý ảo về thời gian để hỗ trợ xem giờ và quản lí lịch trình cá nhân; Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
    "integrations": [
     {
+     "code": "STEM",
+     "level": "",
+     "text": "Đồng hồ tiện ích (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
@@ -1512,7 +1589,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS làm theo từng bước trong video hướng dẫn và hoàn thành sản phẩm của nhóm",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Đồng hồ tiện ích (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -2063,14 +2146,14 @@
  "attachment": {
   "file": "assets/docs/lop1/Toan - Lop 1.docx",
   "name": "Toan - Lop 1.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 46467,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 46690,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop1/Toan - Lop 1.xlsx",
   "name": "Toan - Lop 1.xlsx",
-  "size": 13503,
-  "updated": "2026-09-15"
+  "size": 13611,
+  "updated": "2026-10-30"
  }
 }

@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop2.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 105,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 86
+  "integrations": 79
  },
  "lessons": [
   {
@@ -301,7 +301,7 @@
    "id": "l2-hoat-dong-trai-nghiem-016",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề: Khám phá bản thân",
+   "theme": "Chủ đề: Rèn nếp sống",
    "title": "Sinh hoạt dưới cờ: Hát, đọc thơ về đồ dùng học tập",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
@@ -317,7 +317,7 @@
    "id": "l2-hoat-dong-trai-nghiem-017",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề: Khám phá bản thân",
+   "theme": "Chủ đề: Rèn nếp sống",
    "title": "Hoạt động giáo dục theo chủ đề: Góc học tập của em",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
@@ -333,7 +333,7 @@
    "id": "l2-hoat-dong-trai-nghiem-018",
    "semester": 1,
    "week": 6,
-   "theme": "Chủ đề: Khám phá bản thân",
+   "theme": "Chủ đề: Rèn nếp sống",
    "title": "Sinh hoạt lớp: Góc học tập của em",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
@@ -342,14 +342,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.3 CB1a: Nhận biết được nơi để sắp xếp dữ liệu, thông tin một cách đơn giản trong môi trường có cấu trúc; Tích hợp AI - YCCĐ 2.A2.1: Nhận biết các thiết bị thông minh (AI) hỗ trợ việc học tập tiện nghi hơn",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-019",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Rèn nếp sống",
    "title": "Sinh hoạt dưới cờ: Xem hoạt cảnh \"Đồ dùng ở đâu?\"",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
@@ -365,7 +371,7 @@
    "id": "l2-hoat-dong-trai-nghiem-020",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Rèn nếp sống",
    "title": "Hoạt động giáo dục theo chủ đề: Gọn gàng, ngăn nắp",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
@@ -381,7 +387,7 @@
    "id": "l2-hoat-dong-trai-nghiem-021",
    "semester": 1,
    "week": 7,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Rèn nếp sống",
    "title": "Sinh hoạt lớp: Gọn gàng, ngăn nắp",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
@@ -403,7 +409,7 @@
    "id": "l2-hoat-dong-trai-nghiem-022",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Rèn nếp sống",
    "title": "Sinh hoạt dưới cờ: Nghe chia sẻ về chủ đề \"Người tiêu dùng thông minh\"",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
@@ -430,7 +436,7 @@
    "id": "l2-hoat-dong-trai-nghiem-023",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Rèn nếp sống",
    "title": "Hoạt động giáo dục theo chủ đề: Quý trọng đồng tiền",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
@@ -452,7 +458,7 @@
    "id": "l2-hoat-dong-trai-nghiem-024",
    "semester": 1,
    "week": 8,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Rèn nếp sống",
    "title": "Sinh hoạt lớp: Quý trọng đồng tiền",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
@@ -474,7 +480,7 @@
    "id": "l2-hoat-dong-trai-nghiem-025",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Sinh hoạt dưới cờ: Tham dự phát động phong trào góp sách cho \"Tủ sách anh em\"",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
@@ -490,7 +496,7 @@
    "id": "l2-hoat-dong-trai-nghiem-026",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Hoạt động giáo dục theo chủ đề: Có bạn thật vui",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
@@ -506,7 +512,7 @@
    "id": "l2-hoat-dong-trai-nghiem-027",
    "semester": 1,
    "week": 9,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Sinh hoạt lớp: Có bạn thật vui",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
@@ -528,7 +534,7 @@
    "id": "l2-hoat-dong-trai-nghiem-028",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Sinh hoạt dưới cờ: Hưởng ứng phong trào \"Nhật kí tình bạn\"",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
@@ -550,7 +556,7 @@
    "id": "l2-hoat-dong-trai-nghiem-029",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Hoạt động giáo dục theo chủ đề: Tìm sự trợ giúp để giữ gìn tình bạn",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
@@ -566,7 +572,7 @@
    "id": "l2-hoat-dong-trai-nghiem-030",
    "semester": 1,
    "week": 10,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Sinh hoạt lớp: Tìm sự trợ giúp để giữ gìn tình bạn",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
@@ -588,7 +594,7 @@
    "id": "l2-hoat-dong-trai-nghiem-031",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Sinh hoạt dưới cờ: Hưởng ứng phong trào xây dựng \"Trường học hạnh phúc\"",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
@@ -610,7 +616,7 @@
    "id": "l2-hoat-dong-trai-nghiem-032",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Hoạt động giáo dục theo chủ đề: Trường học hạnh phúc",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
@@ -626,7 +632,7 @@
    "id": "l2-hoat-dong-trai-nghiem-033",
    "semester": 1,
    "week": 11,
-   "theme": "Chủ đề: 20/10",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Sinh hoạt lớp: Trường học hạnh phúc",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
@@ -648,7 +654,7 @@
    "id": "l2-hoat-dong-trai-nghiem-034",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Sinh hoạt dưới cờ: Tham gia hoạt động chào mừng ngày Nhà giáo Việt Nam 20-11",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
@@ -664,7 +670,7 @@
    "id": "l2-hoat-dong-trai-nghiem-035",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Hoạt động giáo dục theo chủ đề: Biết ơn thầy cô",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -686,7 +692,7 @@
    "id": "l2-hoat-dong-trai-nghiem-036",
    "semester": 1,
    "week": 12,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Em yêu trường em",
    "title": "Sinh hoạt lớp: Biết ơn thầy cô",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
@@ -708,7 +714,7 @@
    "id": "l2-hoat-dong-trai-nghiem-037",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt dưới cờ: Xem tiểu phẩm về chủ đề \"Tự phục vụ bản thân\"",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
@@ -730,7 +736,7 @@
    "id": "l2-hoat-dong-trai-nghiem-038",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Hoạt động giáo dục theo chủ đề: Em tự làm lấy việc của mình",
    "content": "",
    "periodLabel": "Tiết 38 (1 tiết)",
@@ -739,14 +745,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Tích hợp AI - YCCĐ 2.A2.1: Biết mục đích của AI là hỗ trợ tiết kiệm thời gian; con người vẫn cần tự lập trong các việc cá nhân để trưởng thành; Năng lực số 5.2 CB1b: HS chọn được cách ứng phó đúng trong từng tình huống và đọc thuộc các số gọi khẩn cấp",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-039",
    "semester": 1,
    "week": 13,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt lớp: Em tự làm lấy việc của mình",
    "content": "",
    "periodLabel": "Tiết 39 (1 tiết)",
@@ -755,20 +767,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 5.2 CB1b: HS chọn được cách ứng phó an toàn trong trò đố vui và giải thích được vì sao",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-040",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt dưới cờ: Nghe các chú cảnh sát PCCC hướng dẫn cách thoát hiểm khi xảy ra hoả hoạn",
    "content": "",
    "periodLabel": "Tiết 40 (1 tiết)",
@@ -777,20 +783,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 3.1 CB1b: HS chọn cách giới thiệu sản phẩm/hình ảnh theo chủ điểm bằng phương tiện số đơn giản",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-041",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Hoạt động giáo dục theo chủ đề: Nghĩ nhanh, làm giỏi",
    "content": "",
    "periodLabel": "Tiết 41 (1 tiết)",
@@ -806,7 +806,7 @@
    "id": "l2-hoat-dong-trai-nghiem-042",
    "semester": 1,
    "week": 14,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt lớp: Nghĩ nhanh, làm giỏi",
    "content": "",
    "periodLabel": "Tiết 42 (1 tiết)",
@@ -815,20 +815,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Tích hợp AI - YCCĐ 2.D1.1: HS nêu được một số vấn đề gần gũi có thể áp dụng AI để hỗ trợ giải quyết; hiểu AI chỉ nhắc nhở, con người vẫn quyết định và chịu trách nhiệm; Năng lực số 5.2 CB1b: HS chọn được cách ứng phó an toàn trong trò đố vui và giải thích được vì sao",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-043",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt dưới cờ: Tham gia trình diễn thời trang \"Vẻ đẹp học sinh\"",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
@@ -844,7 +838,7 @@
    "id": "l2-hoat-dong-trai-nghiem-044",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Hoạt động giáo dục theo chủ đề: Lựa chọn trang phục",
    "content": "",
    "periodLabel": "Tiết 44 (1 tiết)",
@@ -852,7 +846,7 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1a: Nhận biết công cụ số đơn giản như đồng hồ báo thức, lịch hoặc ứng dụng nhắc việc có thể hỗ trợ tự giác học tập, sinh hoạt dưới sự hướng dẫn của người lớn",
+   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: HS biết AI hỗ trợ phân loại, gợi ý trang phục dựa trên dữ liệu; con người phải kiểm tra và quyết định; Năng lực số 1.1 CB1b: HS đọc bản tin thời tiết chiếu trên màn hình và chọn được trang phục, đồ dùng hợp với thời tiết những ngày tới",
    "integrations": [],
    "note": ""
   },
@@ -860,7 +854,7 @@
    "id": "l2-hoat-dong-trai-nghiem-045",
    "semester": 1,
    "week": 15,
-   "theme": "Chủ đề: 20/11",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt lớp: Lựa chọn trang phục",
    "content": "",
    "periodLabel": "Tiết 45 (1 tiết)",
@@ -869,20 +863,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 5.2 CB1b: HS chọn được cách ứng phó an toàn trong trò đố vui và giải thích được vì sao",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-046",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: 22/12",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt dưới cờ: Tham dự phát động phong trào học tập và rèn luyện theo tác phong chú bộ đội",
    "content": "",
    "periodLabel": "Tiết 46 (1 tiết)",
@@ -890,7 +878,7 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 3.1 CB1b: HS chọn cách giới thiệu sản phẩm/hình ảnh theo chủ điểm bằng phương tiện số đơn giản",
+   "adjustments": "",
    "integrations": [
     {
      "code": "QPAN",
@@ -904,7 +892,7 @@
    "id": "l2-hoat-dong-trai-nghiem-047",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: 22/12",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Hoạt động giáo dục theo chủ đề: Việc của mình không cần ai nhắc",
    "content": "",
    "periodLabel": "Tiết 47 (1 tiết)",
@@ -912,7 +900,7 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: HS biết AI hỗ trợ phân loại, gợi ý trang phục dựa trên dữ liệu; con người phải kiểm tra và quyết định; Năng lực số 1.1 CB1b: HS đọc bản tin thời tiết chiếu trên màn hình và chọn được trang phục, đồ dùng hợp với thời tiết những ngày tới",
+   "adjustments": "Năng lực số 5.2 CB1a: Nhận biết công cụ số đơn giản như đồng hồ báo thức, lịch hoặc ứng dụng nhắc việc có thể hỗ trợ tự giác học tập, sinh hoạt dưới sự hướng dẫn của người lớn",
    "integrations": [],
    "note": ""
   },
@@ -920,7 +908,7 @@
    "id": "l2-hoat-dong-trai-nghiem-048",
    "semester": 1,
    "week": 16,
-   "theme": "Chủ đề: 22/12",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt lớp: Việc của mình không cần ai nhắc",
    "content": "",
    "periodLabel": "Tiết 48 (1 tiết)",
@@ -929,20 +917,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 3.1 CB1a: HS xem bộ ảnh trình diễn và nói được trang phục nào hợp với hoàn cảnh nào",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-049",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: 22/12",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt dưới cờ: Nghe hướng dẫn về cách chuẩn bị hành trang cho một chuyến đi",
    "content": "",
    "periodLabel": "Tiết 49 (1 tiết)",
@@ -951,20 +933,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-050",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: 22/12",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Hoạt động giáo dục theo chủ đề: Hành trang lên đường",
    "content": "",
    "periodLabel": "Tiết 50 (1 tiết)",
@@ -980,7 +956,7 @@
    "id": "l2-hoat-dong-trai-nghiem-051",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề: 22/12",
+   "theme": "Chủ đề: Tự phục vụ bản thân",
    "title": "Sinh hoạt lớp: Hành trang lên đường",
    "content": "",
    "periodLabel": "Tiết 51 (1 tiết)",
@@ -989,13 +965,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 3.1 CB1a: HS xem bộ ảnh trình diễn và nói được trang phục nào hợp với hoàn cảnh nào",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1062,7 +1032,7 @@
    "id": "l2-hoat-dong-trai-nghiem-055",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình thân thương",
    "title": "Sinh hoạt dưới cờ: Tham gia chương trình văn nghệ đón năm mới",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
@@ -1084,7 +1054,7 @@
    "id": "l2-hoat-dong-trai-nghiem-056",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình thân thương",
    "title": "Hoạt động giáo dục theo chủ đề: Tết Nguyên đán",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
@@ -1100,7 +1070,7 @@
    "id": "l2-hoat-dong-trai-nghiem-057",
    "semester": 2,
    "week": 19,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình thân thương",
    "title": "Sinh hoạt lớp: Tết Nguyên đán",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
@@ -1122,7 +1092,7 @@
    "id": "l2-hoat-dong-trai-nghiem-058",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình thân thương",
    "title": "Sinh hoạt dưới cờ: Nghe các thầy cô nhắc nhở về kế hoạch học tập sau Tết; biểu diễn văn nghệ chủ đề \"Gia đình\"",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
@@ -1144,7 +1114,7 @@
    "id": "l2-hoat-dong-trai-nghiem-059",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình thân thương",
    "title": "Hoạt động giáo dục theo chủ đề: Ngày đáng nhớ của gia đình",
    "content": "",
    "periodLabel": "Tiết 59 (1 tiết)",
@@ -1160,7 +1130,7 @@
    "id": "l2-hoat-dong-trai-nghiem-060",
    "semester": 2,
    "week": 20,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Gia đình thân thương",
    "title": "Sinh hoạt lớp: Ngày đáng nhớ của gia đình",
    "content": "",
    "periodLabel": "Tiết 60 (1 tiết)",
@@ -1182,7 +1152,7 @@
    "id": "l2-hoat-dong-trai-nghiem-061",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Sinh hoạt dưới cờ: Tham dự phát động phong trào \"Vì tầm vóc Việt\"",
    "content": "",
    "periodLabel": "Tiết 61 (1 tiết)",
@@ -1191,14 +1161,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-062",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Hoạt động giáo dục theo chủ đề: Tự chăm sóc sức khoẻ bản thân",
    "content": "",
    "periodLabel": "Tiết 62 (1 tiết)",
@@ -1220,7 +1196,7 @@
    "id": "l2-hoat-dong-trai-nghiem-063",
    "semester": 2,
    "week": 21,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Sinh hoạt lớp: Tự chăm sóc sức khoẻ bản thân",
    "content": "",
    "periodLabel": "Tiết 63 (1 tiết)",
@@ -1242,7 +1218,7 @@
    "id": "l2-hoat-dong-trai-nghiem-064",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Sinh hoạt dưới cờ: Nghe hướng dẫn cách phòng tránh các dịch bệnh thông thường",
    "content": "",
    "periodLabel": "Tiết 64 (1 tiết)",
@@ -1251,20 +1227,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-065",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Hoạt động giáo dục theo chủ đề: Những vật dụng bảo vệ em",
    "content": "",
    "periodLabel": "Tiết 65 (1 tiết)",
@@ -1280,7 +1250,7 @@
    "id": "l2-hoat-dong-trai-nghiem-066",
    "semester": 2,
    "week": 22,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Sinh hoạt lớp: Những vật dụng bảo vệ em",
    "content": "",
    "periodLabel": "Tiết 66 (1 tiết)",
@@ -1289,20 +1259,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 5.2 CB1b: HS trả lời đúng câu hỏi trong trò chơi và nêu được việc giữ vệ sinh có tác dụng gì",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-067",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Sinh hoạt dưới cờ: Xem tiểu phẩm \"Phòng chống bắt cóc trẻ em\"; nghe hướng dẫn cách phòng tránh bị bắt cóc",
    "content": "",
    "periodLabel": "Tiết 67 (1 tiết)",
@@ -1321,11 +1285,6 @@
      "code": "QTE",
      "level": "",
      "text": "trẻ em có quyền được bảo vệ khỏi mọi hình thức xâm hại; nhớ số của người thân và Tổng đài quốc gia bảo vệ trẻ em 111."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
     }
    ],
    "note": ""
@@ -1334,7 +1293,7 @@
    "id": "l2-hoat-dong-trai-nghiem-068",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Hoạt động giáo dục theo chủ đề: Phòng tránh bị bắt cóc",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
@@ -1342,13 +1301,8 @@
    "periodTo": 68,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1a: Sử dụng công cụ số đơn giản để giải quyết nhu cầu cá nhân dưới sự hướng dẫn; biết điện thoại thông minh, bản đồ hoặc định vị có thể hỗ trợ tìm đường, gửi vị trí cho người thân khi gặp sự cố; biết địa chỉ nhà, số điện thoại của bố mẹ và thông tin liên lạc khẩn cấp chỉ dùng để nhờ người tin cậy hỗ trợ, không đăng công khai lên mạng; Tích hợp AI - YCCĐ 2.A1.1: Biết sử dụng công cụ tìm kiếm hoặc bản đồ AI để tìm trợ giúp khi cần",
+   "adjustments": "Năng lực số 4.2 CB1a: Nhận biết cách sử dụng và chia sẻ thông tin định danh cá nhân an toàn; không chia sẻ địa chỉ nhà, số điện thoại hoặc thông tin cá nhân cho người lạ trên môi trường số",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 4.2 CB1a: Nhận biết cách bảo vệ thông tin định danh cá nhân"
-    },
     {
      "code": "QTE",
      "level": "",
@@ -1366,7 +1320,7 @@
    "id": "l2-hoat-dong-trai-nghiem-069",
    "semester": 2,
    "week": 23,
-   "theme": "Chủ đề: Trước Tết",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Sinh hoạt lớp: Phòng tránh bị bắt cóc",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
@@ -1393,7 +1347,7 @@
    "id": "l2-hoat-dong-trai-nghiem-070",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Sinh hoạt dưới cờ: Văn nghệ chào mừng ngày Quốc tế Phụ nữ 8-3; xem tiểu phẩm \"Chú vịt xám lạc mẹ\"",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
@@ -1402,20 +1356,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-071",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Hoạt động giáo dục theo chủ đề: Câu chuyện lạc đường",
    "content": "",
    "periodLabel": "Tiết 71 (1 tiết)",
@@ -1423,8 +1371,13 @@
    "periodTo": 71,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 4.2 CB1a: Nhận biết cách sử dụng và chia sẻ thông tin định danh cá nhân an toàn; không chia sẻ địa chỉ nhà, số điện thoại hoặc thông tin cá nhân cho người lạ trên môi trường số",
+   "adjustments": "Năng lực số 5.2 CB1a: Sử dụng công cụ số đơn giản để giải quyết nhu cầu cá nhân dưới sự hướng dẫn; biết điện thoại thông minh, bản đồ hoặc định vị có thể hỗ trợ tìm đường, gửi vị trí cho người thân khi gặp sự cố; biết địa chỉ nhà, số điện thoại của bố mẹ và thông tin liên lạc khẩn cấp chỉ dùng để nhờ người tin cậy hỗ trợ, không đăng công khai lên mạng; Tích hợp AI - YCCĐ 2.A1.1: Biết sử dụng công cụ tìm kiếm hoặc bản đồ AI để tìm trợ giúp khi cần",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 4.2 CB1a: Nhận biết cách bảo vệ thông tin định danh cá nhân"
+    },
     {
      "code": "ATGT",
      "level": "",
@@ -1442,7 +1395,7 @@
    "id": "l2-hoat-dong-trai-nghiem-072",
    "semester": 2,
    "week": 24,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Tự chăm sóc và bảo vệ bản thân",
    "title": "Sinh hoạt lớp: Câu chuyện lạc đường",
    "content": "",
    "periodLabel": "Tiết 72 (1 tiết)",
@@ -1469,7 +1422,7 @@
    "id": "l2-hoat-dong-trai-nghiem-073",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Chia sẻ cộng đồng",
    "title": "Sinh hoạt dưới cờ: Hưởng ứng phong trào \"Giờ Trái Đất\"",
    "content": "",
    "periodLabel": "Tiết 73 (1 tiết)",
@@ -1480,9 +1433,14 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
+    },
+    {
      "code": "KNS",
      "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
     }
    ],
    "note": ""
@@ -1491,7 +1449,7 @@
    "id": "l2-hoat-dong-trai-nghiem-074",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Chia sẻ cộng đồng",
    "title": "Hoạt động giáo dục theo chủ đề: Những người bạn hàng xóm",
    "content": "",
    "periodLabel": "Tiết 74 (1 tiết)",
@@ -1507,7 +1465,7 @@
    "id": "l2-hoat-dong-trai-nghiem-075",
    "semester": 2,
    "week": 25,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Chia sẻ cộng đồng",
    "title": "Sinh hoạt lớp: Những người bạn hàng xóm",
    "content": "",
    "periodLabel": "Tiết 75 (1 tiết)",
@@ -1516,20 +1474,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS nghe sách nói và nói được cảm nhận của mình khi chỉ nghe mà không nhìn chữ",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-076",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Chia sẻ cộng đồng",
    "title": "Sinh hoạt dưới cờ: Phát động phong trào \"Học nhân ái, biết sẻ chia\"",
    "content": "",
    "periodLabel": "Tiết 76 (1 tiết)",
@@ -1551,7 +1503,7 @@
    "id": "l2-hoat-dong-trai-nghiem-077",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Chia sẻ cộng đồng",
    "title": "Hoạt động giáo dục theo chủ đề: Tôi luôn bên bạn",
    "content": "",
    "periodLabel": "Tiết 77 (1 tiết)",
@@ -1567,7 +1519,7 @@
    "id": "l2-hoat-dong-trai-nghiem-078",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Chia sẻ cộng đồng",
    "title": "Sinh hoạt lớp: Tôi luôn bên bạn",
    "content": "",
    "periodLabel": "Tiết 78 (1 tiết)",
@@ -1576,20 +1528,14 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "Năng lực số 1.1 CB1b: HS nghe sách nói và nói được cảm nhận của mình khi chỉ nghe mà không nhìn chữ",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-079",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Chia sẻ cộng đồng",
    "title": "Sinh hoạt dưới cờ: Phát động phong trào \"Chữ thập đỏ\"",
    "content": "",
    "periodLabel": "Tiết 79 (1 tiết)",
@@ -1605,7 +1551,7 @@
    "id": "l2-hoat-dong-trai-nghiem-080",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Chia sẻ cộng đồng",
    "title": "Hoạt động giáo dục theo chủ đề: Chia sẻ khó khăn với người khuyết tật",
    "content": "",
    "periodLabel": "Tiết 80 (1 tiết)",
@@ -1627,7 +1573,7 @@
    "id": "l2-hoat-dong-trai-nghiem-081",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề: 8/3",
+   "theme": "Chủ đề: Chia sẻ cộng đồng",
    "title": "Sinh hoạt lớp: Chia sẻ khó khăn với người khuyết tật",
    "content": "",
    "periodLabel": "Tiết 81 (1 tiết)",
@@ -1811,8 +1757,19 @@
    "periodTo": 89,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 5.2 CB1a: Xác định nhu cầu cá nhân và sử dụng công cụ số đơn giản để trình bày kết quả; dưới sự hướng dẫn của GV, HS biết dùng bảng hoặc biểu tượng số đơn giản để trình bày kết quả khảo sát khu vực sạch - chưa sạch",
-   "integrations": [],
+   "adjustments": "biết thu gom pin cũ, thiết bị điện tử hỏng đúng nơi quy định",
+   "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "Năng lực số 4.4 CB1a: Nhận biết tác động của công nghệ số đối với môi trường"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 4.4 CB1a: Nhận biết tác động của công nghệ số đối với môi trường"
+    }
+   ],
    "note": ""
   },
   {
@@ -1827,7 +1784,7 @@
    "periodTo": 90,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Tích hợp AI - YCCĐ 2.C3.1: HS biết AI có thể hỗ trợ phân loại rác thải tự động để bảo vệ môi trường; Năng lực số 3.1 CB1a: HS chụp ảnh và báo số liệu cho GV ghi vào sổ chăm sóc cây của tổ mình",
+   "adjustments": "Năng lực số 3.1 CB1a: HS chụp ảnh và báo số liệu cho GV ghi vào sổ chăm sóc cây của tổ mình",
    "integrations": [
     {
      "code": "KNS",
@@ -1841,7 +1798,7 @@
    "id": "l2-hoat-dong-trai-nghiem-091",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: Môi trường quanh em",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Sinh hoạt dưới cờ: Giao lưu với các cô bác phụ huynh về nghề nghiệp của họ",
    "content": "",
    "periodLabel": "Tiết 91 (1 tiết)",
@@ -1863,7 +1820,7 @@
    "id": "l2-hoat-dong-trai-nghiem-092",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: Môi trường quanh em",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Hoạt động giáo dục theo chủ đề: Nghề của mẹ, nghề của cha",
    "content": "",
    "periodLabel": "Tiết 92 (1 tiết)",
@@ -1871,18 +1828,8 @@
    "periodTo": 92,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "biết thu gom pin cũ, thiết bị điện tử hỏng đúng nơi quy định",
+   "adjustments": "Tích hợp AI – YCCĐ 2.A1.2: Nhận biết trong nghề nghiệp thực tế, AI có thể hỗ trợ nhưng con người phải giám sát và chịu trách nhiệm; Năng lực số 1.1 CB1b: HS xem phim, gọi tên được một số nghề và nêu đức tính cần có của người làm nghề đó",
    "integrations": [
-    {
-     "code": "GDMT",
-     "level": "",
-     "text": "Năng lực số 4.4 CB1a: Nhận biết tác động của công nghệ số đối với môi trường"
-    },
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 4.4 CB1a: Nhận biết tác động của công nghệ số đối với môi trường"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1895,7 +1842,7 @@
    "id": "l2-hoat-dong-trai-nghiem-093",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề: Môi trường quanh em",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Sinh hoạt lớp: Nghề của mẹ, nghề của cha",
    "content": "",
    "periodLabel": "Tiết 93 (1 tiết)",
@@ -1903,8 +1850,13 @@
    "periodTo": 93,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 3.1 CB1a: HS chụp ảnh và báo số liệu cho GV ghi vào sổ chăm sóc cây của tổ mình",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB1b: HS đoán đúng tên nghề qua câu đố và tiếng động trong trò chơi"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1917,7 +1869,7 @@
    "id": "l2-hoat-dong-trai-nghiem-094",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: Môi trường quanh em",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Sinh hoạt dưới cờ: Hát, đọc thơ về nghề nghiệp",
    "content": "",
    "periodLabel": "Tiết 94 (1 tiết)",
@@ -1944,7 +1896,7 @@
    "id": "l2-hoat-dong-trai-nghiem-095",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: Môi trường quanh em",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Hoạt động giáo dục theo chủ đề: Nghề nào tính nấy",
    "content": "",
    "periodLabel": "Tiết 95 (1 tiết)",
@@ -1966,7 +1918,7 @@
    "id": "l2-hoat-dong-trai-nghiem-096",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề: Môi trường quanh em",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Sinh hoạt lớp: Nghề nào tính nấy",
    "content": "",
    "periodLabel": "Tiết 96 (1 tiết)",
@@ -1993,7 +1945,7 @@
    "id": "l2-hoat-dong-trai-nghiem-097",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: Môi trường quanh em",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Sinh hoạt dưới cờ: Chào mừng ngày thành lập Đội TNTP Hồ Chí Minh 15-5; các Sao Nhi đồng cam kết giữ gìn vệ sinh môi trường",
    "content": "",
    "periodLabel": "Tiết 97 (1 tiết)",
@@ -2004,14 +1956,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 1.1 CB1b: HS tìm thông tin đơn giản về nghề nghiệp từ nguồn số phù hợp"
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
     }
    ],
    "note": ""
@@ -2020,7 +1972,7 @@
    "id": "l2-hoat-dong-trai-nghiem-098",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: Môi trường quanh em",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Hoạt động giáo dục theo chủ đề: Giữ gìn vệ sinh môi trường",
    "content": "",
    "periodLabel": "Tiết 98 (1 tiết)",
@@ -2028,7 +1980,7 @@
    "periodTo": 98,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB1b: HS xem phim, gọi tên được một số nghề và nêu đức tính cần có của người làm nghề đó",
+   "adjustments": "Năng lực số 5.2 CB1a: Xác định nhu cầu cá nhân và sử dụng công cụ số đơn giản để trình bày kết quả; dưới sự hướng dẫn của GV, HS biết dùng bảng hoặc biểu tượng số đơn giản để trình bày kết quả khảo sát khu vực sạch - chưa sạch",
    "integrations": [
     {
      "code": "QPAN",
@@ -2042,7 +1994,7 @@
    "id": "l2-hoat-dong-trai-nghiem-099",
    "semester": 2,
    "week": 33,
-   "theme": "Chủ đề: Môi trường quanh em",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Sinh hoạt lớp: Giữ gìn vệ sinh môi trường",
    "content": "",
    "periodLabel": "Tiết 99 (1 tiết)",
@@ -2069,7 +2021,7 @@
    "id": "l2-hoat-dong-trai-nghiem-100",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: 19/5",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Sinh hoạt dưới cờ: Kỉ niệm ngày sinh Bác Hồ 19-5; nghe kể chuyện về Bác Hồ đi tìm đường cứu nước",
    "content": "",
    "periodLabel": "Tiết 100 (1 tiết)",
@@ -2096,7 +2048,7 @@
    "id": "l2-hoat-dong-trai-nghiem-101",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: 19/5",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Hoạt động giáo dục theo chủ đề: Lao động an toàn",
    "content": "",
    "periodLabel": "Tiết 101 (1 tiết)",
@@ -2118,7 +2070,7 @@
    "id": "l2-hoat-dong-trai-nghiem-102",
    "semester": 2,
    "week": 34,
-   "theme": "Chủ đề: 19/5",
+   "theme": "Chủ đề: Em tìm hiểu nghề nghiệp",
    "title": "Sinh hoạt lớp: Lao động an toàn",
    "content": "",
    "periodLabel": "Tiết 102 (1 tiết)",
@@ -2145,7 +2097,7 @@
    "id": "l2-hoat-dong-trai-nghiem-103",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: 19/5",
+   "theme": "Chủ đề: Hoạt động tổng kết năm học",
    "title": "Sinh hoạt dưới cờ: xem dòng bổ sung bên dưới (tr. 28).",
    "content": "",
    "periodLabel": "Tiết 103 (1 tiết)",
@@ -2154,15 +2106,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l2-hoat-dong-trai-nghiem-104",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: 19/5",
-   "title": "Hoạt động giáo dục theo chủ đề: ",
+   "theme": "Chủ đề: Hoạt động tổng kết năm học",
+   "title": "Hoạt động giáo dục theo chủ đề: Đón mùa hè trải nghiệm",
    "content": "",
    "periodLabel": "Tiết 104 (1 tiết)",
    "periodFrom": 104,
@@ -2177,7 +2135,7 @@
    "id": "l2-hoat-dong-trai-nghiem-105",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề: 19/5",
+   "theme": "Chủ đề: Hoạt động tổng kết năm học",
    "title": "Sinh hoạt lớp: ",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
@@ -2468,14 +2426,14 @@
  "attachment": {
   "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.docx",
   "name": "Hoat dong trai nghiem - Lop 2.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 49684,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 49723,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.xlsx",
   "name": "Hoat dong trai nghiem - Lop 2.xlsx",
-  "size": 16479,
-  "updated": "2026-09-15"
+  "size": 16609,
+  "updated": "2026-10-30"
  }
 }

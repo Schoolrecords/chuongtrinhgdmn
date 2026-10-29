@@ -6,7 +6,7 @@
  "statusLabel": "Đã rà soát (bản tổ chuyên môn rà soát ngày 02/9/2026), chờ Hiệu trưởng phê duyệt",
  "source": {
   "file": "web/khgd-lop4.js (dữ liệu app Bút Xanh, nguồn gốc duy nhất)",
-  "importedAt": "2026-09-15"
+  "importedAt": "2026-10-30"
  },
  "summary": {
   "totalPeriods": 70,
@@ -14,7 +14,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 23
+  "integrations": 50
  },
  "lessons": [
   {
@@ -29,8 +29,14 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được ảnh tư liệu gốc với hình minh hoạ do máy tạo và biết ghi nguồn tư liệu",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "khai thác bản đồ Việt Nam, lược đồ khởi nghĩa Hai Bà Trưng để bồi dưỡng lòng yêu nước, tự hào dân tộc, ý thức bảo vệ chủ quyền, toàn vẹn lãnh thổ.\nTích hợp NLS 1.1.CB2a, 4.2.CB2b: HS quan sát bản đồ số/hình ảnh số/bảng số liệu GV trình chiếu; xác định được thông tin cần tìm; không nhập thông tin cá nhân khi sử dụng học liệu số."
+    }
+   ],
    "note": ""
   },
   {
@@ -45,8 +51,14 @@
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được ảnh tư liệu gốc với hình minh hoạ do máy tạo và biết ghi nguồn tư liệu",
-   "integrations": [],
+   "adjustments": "Gợi ý vận dụng AI (không làm tăng YCCĐ) – 4.A1.2 (QĐ 2422): GV dùng công cụ AI để chuẩn bị khung sơ đồ tư duy, câu hỏi gợi ý và phiếu phân hoá, kiểm duyệt trước khi in/chiếu; HS không trực tiếp dùng",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "chỉ dùng phiếu gợi ý trên giấy để tự hoàn thiện sản phẩm."
+    }
+   ],
    "note": ""
   },
   {
@@ -61,8 +73,13 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.1 CB2c: HS xác định được vị trí và đặc điểm nổi bật của địa phương mình trên bản đồ số, ảnh vệ tinh",
+   "adjustments": "Tích hợp",
    "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS nhận biết quyền được sống trong môi trường an toàn, trong lành; biết yêu quý, bảo vệ cảnh quan địa phương."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -83,7 +100,7 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS xác định được vị trí và đặc điểm nổi bật của địa phương mình trên bản đồ số, ảnh vệ tinh",
+   "adjustments": "Gợi ý vận dụng AI (không làm tăng YCCĐ) – 4.A1.1 (QĐ 2422): HS nhận diện được cách AI có thể hỗ trợ các hoạt động kinh tế như nông nghiệp, dịch vụ, du lịch ở địa phương; biết thông tin do AI gợi ý cần được kiểm chứng; Tích hợp NLS 1.2.CB2a, 2.2.CB2b: HS tìm thông tin cơ bản về địa phương từ nguồn GV giới thiệu, chọn lọc thông tin đáng tin cậy và ghi nguồn khi giới thiệu địa danh",
    "integrations": [],
    "note": ""
   },
@@ -99,8 +116,13 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.1 CB2c: HS xác định được vị trí và đặc điểm nổi bật của địa phương mình trên bản đồ số, ảnh vệ tinh",
+   "adjustments": "có ý thức giữ gìn truyền thống tốt đẹp của địa phương bằng lời nói, việc làm phù hợp với lứa tuổi",
    "integrations": [
+    {
+     "code": "ĐĐLS",
+     "level": "",
+     "text": "Tích hợp lý tưởng cách mạng, đạo đức, lối sống: HS tự hào, biết ơn các thế hệ đi trước"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -121,8 +143,14 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS xác định được vị trí và đặc điểm nổi bật của địa phương mình trên bản đồ số, ảnh vệ tinh",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục tinh thần yêu nước, ý thức trách nhiệm bảo vệ Tổ quốc trong thời đại hôm nay; biết ơn các thế hệ cha ông đã góp phần xây dựng và bảo vệ quê hương.\nTích hợp NLS 3.1.CB2a, 5.2.CB2b: HS trình bày ngắn gọn một di tích, lễ hội hoặc nhân vật địa phương bằng tranh, sơ đồ; nhận ra công cụ số (trang trình chiếu do GV thao tác) có thể giúp trình bày rõ hơn."
+    }
+   ],
    "note": ""
   },
   {
@@ -137,8 +165,13 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
+   "adjustments": "Tích hợp",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "HS nhận biết vị trí vùng biên giới phía Bắc; hình thành ý thức yêu quê hương, tôn trọng cột mốc, đường biên, chủ quyền lãnh thổ."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -159,8 +192,14 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS biết vai trò của rừng đầu nguồn, nguồn nước; có ý thức phòng tránh thiên tai, bảo vệ cảnh quan miền núi."
+    }
+   ],
    "note": ""
   },
   {
@@ -175,7 +214,7 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
+   "adjustments": "Tích hợp NLS 1.1.CB2c: HS quan sát lược đồ/bản đồ số do GV cung cấp, biết cách xem (phóng to, di chuyển) để đọc tên bản đồ, xem chú giải, xác định vị trí, địa hình, sông ngòi của vùng; biết đối chiếu với SGK, dùng nguồn an toàn và không nhập thông tin cá nhân; Tích hợp tiết kiệm và bảo vệ nguồn nước: HS liên hệ một số việc làm bảo vệ thiên nhiên, sử dụng nước hợp lí và phòng, chống thiên tai",
    "integrations": [],
    "note": ""
   },
@@ -191,7 +230,7 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.1 CB2c: HS lập bảng và đọc được biểu đồ dân cư, từ đó giải thích sự phân bố dân cư của vùng",
+   "adjustments": "Tích hợp QCN: HS tôn trọng sự đa dạng dân tộc, bình đẳng giữa các cộng đồng; không kì thị phong tục, trang phục, tiếng nói của các dân tộc; Gợi ý vận dụng AI (không làm tăng YCCĐ) – 4.C2.1 (QĐ 2422): HS hiểu AI có thể hỗ trợ thống kê, sắp xếp, tạo bảng/biểu đồ và gợi ý nhận xét dữ liệu dân cư; biết kiểm chứng với SGK, lược đồ, nguồn chính thống, không sao chép máy móc và không nhập thông tin cá nhân",
    "integrations": [
     {
      "code": "QPAN",
@@ -213,7 +252,7 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS lập bảng và đọc được biểu đồ dân cư, từ đó giải thích sự phân bố dân cư của vùng",
+   "adjustments": "Tích hợp tiết kiệm và bảo vệ nguồn nước: HS hiểu sản xuất nông nghiệp, thủy điện, khai thác khoáng sản cần gắn với bảo vệ rừng, đất, nước; biết sử dụng nước hợp lí và không làm ô nhiễm nguồn nước",
    "integrations": [],
    "note": ""
   },
@@ -229,8 +268,14 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS lập bảng và đọc được biểu đồ dân cư, từ đó giải thích sự phân bố dân cư của vùng",
-   "integrations": [],
+   "adjustments": "Tích hợp NLS 1.2.CB2a, 2.2.CB2b: HS chọn hình ảnh/thông tin về dân tộc, hoạt động sản xuất từ nguồn GV giới thiệu; nhận biết nguồn đáng tin cậy, chọn lọc thông tin đúng trọng tâm và ghi nguồn hình ảnh đã dùng; Gợi ý vận dụng AI (không làm tăng YCCĐ) – 4.A1.2 (QĐ 2422): GV dùng công cụ AI soạn trước bộ câu hỏi tự kiểm tra, kiểm duyệt rồi in/chiếu; HS không trực tiếp dùng",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "chỉ dùng câu hỏi trên giấy để rà soát và tự chỉnh sửa phần chia sẻ."
+    }
+   ],
    "note": ""
   },
   {
@@ -245,13 +290,8 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được nét đặc sắc của lễ hội, nét văn hoá vùng miền nhờ phim tư liệu chính thống",
+   "adjustments": "Tích hợp QCN: HS biết tôn trọng quyền giữ gìn bản sắc văn hoá của các dân tộc; ứng xử văn minh khi quan sát, giới thiệu lễ hội, làn điệu dân ca, trang phục và phong tục của các dân tộc",
    "integrations": [
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Nội dung giáo dục địa phương — đối chiếu tài liệu GDĐP của tỉnh"
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -272,7 +312,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được nét đặc sắc của lễ hội, nét văn hoá vùng miền nhờ phim tư liệu chính thống",
+   "adjustments": "Tích hợp NLS 1.2.CB2a, 4.2.CB2b: HS xem hình ảnh/video văn hoá từ nguồn GV cung cấp; biết chọn lọc thông tin phù hợp, không chia sẻ thông tin cá nhân hoặc hình ảnh người khác lên môi trường số khi chưa được phép",
    "integrations": [],
    "note": ""
   },
@@ -288,7 +328,7 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được nét đặc sắc của lễ hội, nét văn hoá vùng miền nhờ phim tư liệu chính thống",
+   "adjustments": "Tích hợp lý tưởng cách mạng, đạo đức, lối sống: HS bồi dưỡng lòng biết ơn cội nguồn, tự hào truyền thống dựng nước và giữ nước; có ý thức học tập, giữ gìn và giới thiệu đúng về di tích Đền Hùng, lễ giỗ Tổ Hùng Vương",
    "integrations": [
     {
      "code": "QPAN",
@@ -310,7 +350,7 @@
    "periodTo": 16,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được nét đặc sắc của lễ hội, nét văn hoá vùng miền nhờ phim tư liệu chính thống",
+   "adjustments": "Tích hợp NLS 1.1.CB2a, 1.1.CB2b: HS xác định được thông tin cần tìm về truyền thuyết thời Hùng Vương; cùng GV tìm kiếm đơn giản từ nguồn GV giới thiệu, chọn lọc thông tin phù hợp, không sao chép máy móc",
    "integrations": [],
    "note": ""
   },
@@ -318,32 +358,21 @@
    "id": "l4-lich-su-va-dia-li-017",
    "semester": 1,
    "week": 9,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì giữa học kì I",
-   "content": "",
-   "periodLabel": "Tiết 17 (1 tiết)",
-   "periodFrom": 17,
-   "periodTo": 17,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-018",
-   "semester": 1,
-   "week": 9,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
    "title": "Bài 8. Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 18 (3 tiết)",
-   "periodFrom": 18,
-   "periodTo": 18,
+   "periodLabel": "Tiết 17 (3 tiết)",
+   "periodFrom": 17,
+   "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
+   "adjustments": "Tích hợp",
    "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS nhận biết vẻ đẹp, vai trò của thiên nhiên vùng Đồng bằng Bắc Bộ; có thái độ yêu quý sông ngòi, đất phù sa, sinh vật và cảnh quan tự nhiên."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -353,18 +382,34 @@
    "note": ""
   },
   {
+   "id": "l4-lich-su-va-dia-li-018",
+   "semester": 1,
+   "week": 9,
+   "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
+   "title": "Bài 8. Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 18",
+   "periodFrom": 18,
+   "periodTo": 18,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp tiết kiệm và bảo vệ nguồn nước: HS biết vai trò của hệ thống sông ngòi, hồ đầm, kênh rạch; có ý thức tiết kiệm nước, không xả rác, bảo vệ nguồn nước trong sinh hoạt và sản xuất",
+   "integrations": [],
+   "note": ""
+  },
+  {
    "id": "l4-lich-su-va-dia-li-019",
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 8. Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 2)",
+   "title": "Bài 8. Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 19",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
+   "adjustments": "Tích hợp NLS 1.1.CB2a, 1.1.CB2b: HS xác định được thông tin cần tìm về một con sông ở vùng Đồng bằng Bắc Bộ; tìm kiếm đơn giản từ nguồn GV giới thiệu (tại lớp qua máy GV, ở nhà cùng người lớn), chọn lọc ý chính, không sao chép máy móc",
    "integrations": [],
    "note": ""
   },
@@ -373,30 +418,14 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 8. Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 3)",
+   "title": "Bài 9. Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 20",
+   "periodLabel": "Tiết 20 (3 tiết)",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-021",
-   "semester": 1,
-   "week": 11,
-   "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 9. Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 21 (3 tiết)",
-   "periodFrom": 21,
-   "periodTo": 21,
-   "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Bổ sung bài còn thiếu theo mục lục SGK (Tổ CM đối chiếu SGK); Năng lực số Miền 1 (Cơ bản, bậc 2): HS tra số liệu dân số, mật độ dân cư của vùng trong bài “Dân cư và hoạt động sản xuất ở vùng đồng bằng Bắc Bộ” từ nguồn chính thống; Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu phim ngắn về hoạt động sản xuất tiêu biểu của vùng (trồng chè, khai thác khoáng sản, đánh bắt và nuôi trồng thuỷ sản, làm muối)",
+   "adjustments": "Tích hợp NLS 1.1.CB2c, 1.2.CB2a: HS bước đầu biết xác định thông tin cần tìm khi xem lược đồ/bản đồ số về dân cư; biết quan sát chú giải, năm số liệu, chọn lọc thông tin phù hợp và không kết luận vội khi chưa đối chiếu với SGK",
    "integrations": [
     {
      "code": "QPAN",
@@ -407,18 +436,34 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-022",
+   "id": "l4-lich-su-va-dia-li-021",
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
    "title": "Bài 9. Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 21",
+   "periodFrom": 21,
+   "periodTo": 21,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp NLS 1.1.CB2b, 1.2.CB2a, 2.2.CB2b: HS quan sát GV tìm kiếm hình ảnh/video về nghề thủ công truyền thống từ nguồn đáng tin cậy; biết chọn lọc thông tin, ghi nguồn và không chia sẻ nội dung sai sự thật",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-022",
+   "semester": 1,
+   "week": 11,
+   "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
+   "title": "Bài 9. Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 22",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Tích hợp NLS 1.1.CB2a, 1.2.CB2a, 2.2.CB2b: HS biết xác định thông tin cần tìm khi sưu tầm hình ảnh sản phẩm thủ công truyền thống; chọn nguồn đáng tin cậy, ghi nguồn, tóm tắt bằng lời của mình và chia sẻ an toàn, có trách nhiệm",
    "integrations": [],
    "note": ""
   },
@@ -427,15 +472,21 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 9. Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 3)",
+   "title": "Bài 10. Một số nét văn hoá ở vùng Đồng bằng Bắc Bộ (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 23",
+   "periodLabel": "Tiết 23 (2 tiết)",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "lessonPeriods": 2,
+   "adjustments": "Tích hợp QCN: HS tôn trọng quyền tham gia, thụ hưởng đời sống văn hoá; biết ứng xử văn minh, tôn trọng không gian văn hoá chung và không chen lấn, xả rác khi tham gia lễ hội",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
@@ -443,21 +494,15 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 10. Một số nét văn hoá ở vùng Đồng bằng Bắc Bộ (Tiết 1)",
+   "title": "Bài 10. Một số nét văn hoá ở vùng Đồng bằng Bắc Bộ (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 24 (2 tiết)",
+   "periodLabel": "Tiết 24",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): GV chiếu phim tư liệu về “Một số nét văn hóa ở vùng đồng bằng Bắc Bộ” do đài truyền hình, cơ quan văn hoá công bố: phần lễ, phần hội, trang phục; Năng lực số Miền 3 (Cơ bản, bậc 2): HS làm một sản phẩm số nhỏ giới thiệu lễ hội hoặc nét văn hoá vừa học: trang chiếu có ảnh và chú thích, hoặc đoạn thuyết minh ghi âm",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp NLS 3.1.CB2a: HS tạo thẻ thông tin/tranh giới thiệu một nét văn hoá vùng Đồng bằng Bắc Bộ theo mẫu GV hướng dẫn; biết chọn hình ảnh, sắp xếp thông tin đơn giản, ghi nguồn và trình bày rõ ràng",
+   "integrations": [],
    "note": ""
   },
   {
@@ -465,30 +510,14 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 10. Một số nét văn hoá ở vùng Đồng bằng Bắc Bộ (Tiết 2)",
+   "title": "Bài 11. Sông Hồng và văn minh sông Hồng (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 25",
+   "periodLabel": "Tiết 25 (2 tiết)",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được nét đặc sắc của lễ hội, nét văn hoá vùng miền nhờ phim tư liệu chính thống",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-026",
-   "semester": 1,
-   "week": 13,
-   "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 11. Sông Hồng và văn minh sông Hồng (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 26 (2 tiết)",
-   "periodFrom": 26,
-   "periodTo": 26,
-   "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "adjustments": "Tích hợp tiết kiệm và bảo vệ nguồn nước: HS nhận biết vai trò của sông Hồng đối với đời sống, sản xuất; biết sử dụng nước tiết kiệm, không xả rác, không đổ chất thải xuống sông, kênh rạch; Gợi ý vận dụng AI (không làm tăng YCCĐ) – 4.A1.2 (QĐ 2422): GV dùng công cụ AI tạo một số tranh gợi ý về đời sống người Việt cổ qua hoa văn trống đồng và trình chiếu; HS quan sát, đối chiếu với hình trong SGK, nhận xét chi tiết đúng/chưa đúng và vẽ lại, chỉnh sửa trên giấy (HS không tự sử dụng công cụ AI)",
    "integrations": [
     {
      "code": "QPAN",
@@ -499,34 +528,34 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-027",
+   "id": "l4-lich-su-va-dia-li-026",
    "semester": 1,
-   "week": 14,
+   "week": 13,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
    "title": "Bài 11. Sông Hồng và văn minh sông Hồng (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 27",
-   "periodFrom": 27,
-   "periodTo": 27,
+   "periodLabel": "Tiết 26",
+   "periodFrom": 26,
+   "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "adjustments": "Tích hợp lý tưởng cách mạng, đạo đức, lối sống: HS tự hào về văn minh sông Hồng, trân trọng lao động của người Việt cổ; biết giữ gìn phong tục tốt đẹp, sống có trách nhiệm với cội nguồn và cộng đồng",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-028",
+   "id": "l4-lich-su-va-dia-li-027",
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
    "title": "Bài 12. Thăng Long – Hà Nội (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 28 (3 tiết)",
-   "periodFrom": 28,
-   "periodTo": 28,
+   "periodLabel": "Tiết 27 (3 tiết)",
+   "periodFrom": 27,
+   "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "adjustments": "Tích hợp lý tưởng cách mạng: HS nhận biết Hà Nội là Thủ đô, trung tâm chính trị - văn hoá; bồi dưỡng tình yêu Tổ quốc, niềm tự hào về truyền thống lịch sử của dân tộc",
    "integrations": [
     {
      "code": "QPAN",
@@ -537,19 +566,41 @@
    "note": ""
   },
   {
+   "id": "l4-lich-su-va-dia-li-028",
+   "semester": 1,
+   "week": 14,
+   "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
+   "title": "Bài 12. Thăng Long – Hà Nội (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 28",
+   "periodFrom": 28,
+   "periodTo": 28,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp NLS 1.2.CB2a, 2.2.CB2b: HS chọn tư liệu đơn giản về Thăng Long – Hà Nội từ nguồn tin cậy, ghi tên nguồn; biết chọn lọc thông tin phù hợp và không sao chép máy móc",
+   "integrations": [],
+   "note": ""
+  },
+  {
    "id": "l4-lich-su-va-dia-li-029",
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 12. Thăng Long – Hà Nội (Tiết 2)",
+   "title": "Bài 12. Thăng Long – Hà Nội (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 29",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "HS hiểu Hà Nội là Thủ đô, trung tâm chính trị quan trọng của đất nước; biết trân trọng các sự kiện lịch sử, giữ gìn di tích, công trình công cộng và có ý thức góp phần bảo vệ Thủ đô."
+    }
+   ],
    "note": ""
   },
   {
@@ -557,14 +608,14 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 12. Thăng Long – Hà Nội (Tiết 3)",
+   "title": "Bài 13. Văn Miếu – Quốc Tử Giám (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 30",
+   "periodLabel": "Tiết 30 (2 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "lessonPeriods": 2,
+   "adjustments": "Tích hợp lý tưởng cách mạng, đạo đức, lối sống: HS hình thành tinh thần hiếu học, kính trọng thầy cô, trân trọng truyền thống tôn sư trọng đạo; Gợi ý vận dụng AI (không làm tăng YCCĐ) – 4.A2.2 (QĐ 2422): HS nêu ý tưởng (bằng lời, trên giấy) về ứng dụng AI như trợ lý ảo hỗ trợ người khiếm thị hoặc khách tham quan tìm hiểu lịch sử tại Văn Miếu - Quốc Tử Giám",
    "integrations": [],
    "note": ""
   },
@@ -573,14 +624,14 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 13. Văn Miếu – Quốc Tử Giám (Tiết 1)",
+   "title": "Bài 13. Văn Miếu – Quốc Tử Giám (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 31 (2 tiết)",
+   "periodLabel": "Tiết 31",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp NLS 3.1.CB2a, 5.2.CB2b: HS trình bày sơ đồ/phiếu giới thiệu di tích trên giấy; nhận ra công cụ số (trang trình chiếu do GV thao tác) giúp chia sẻ sản phẩm rõ ràng hơn",
    "integrations": [],
    "note": ""
   },
@@ -589,14 +640,14 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 13. Văn Miếu – Quốc Tử Giám (Tiết 2)",
+   "title": "Bài 14. Ôn tập",
    "content": "",
-   "periodLabel": "Tiết 32",
+   "periodLabel": "Tiết 32 (1 tiết)",
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "adjustments": "Tích hợp NLS 2.1.CB2a: GV dùng Quizizz/Google Forms (câu hỏi có thể do AI gợi ý, GV đã kiểm duyệt) ở chế độ trình chiếu trên máy của lớp; HS trả lời, xem phản hồi đúng/sai, tự nhận xét mức độ nắm bài (HS không tự đăng nhập tài khoản)",
    "integrations": [],
    "note": ""
   },
@@ -604,8 +655,8 @@
    "id": "l4-lich-su-va-dia-li-033",
    "semester": 1,
    "week": 17,
-   "theme": "Chủ đề 3: Đồng bằng Bắc Bộ",
-   "title": "Bài 14. Ôn tập",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
    "periodFrom": 33,
@@ -621,7 +672,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì cuối học kì I",
+   "title": "Nhận xét, chữa bài kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -644,8 +695,18 @@
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
+   "adjustments": "Tích hợp",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "HS xác định vị trí vùng ven biển, quần đảo Hoàng Sa, Trường Sa; bồi dưỡng ý thức chủ quyền biển, đảo Việt Nam.\nTích hợp"
+    },
+    {
+     "code": "AI-NB",
+     "level": "4.C2.1",
+     "text": "HS hiểu được lòng cảm thông cần đi đôi với công nghệ: AI giúp dự báo chính xác, góp phần giảm thiệt hại cho đồng bào miền Trung."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -666,7 +727,7 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
+   "adjustments": "Tích hợp tiết kiệm và bảo vệ nguồn nước: HS nhận biết tác động của mưa, bão, hạn hán đến nguồn nước; biết sử dụng nước tiết kiệm, không làm ô nhiễm nguồn nước và thực hiện việc làm phù hợp để bảo vệ nguồn nước",
    "integrations": [],
    "note": ""
   },
@@ -682,7 +743,7 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
+   "adjustments": "Tích hợp NLS 1.1.CB2a: HS đọc bản đồ/lược đồ để xác định sông ngòi, đất, rừng, biển đảo của vùng",
    "integrations": [],
    "note": ""
   },
@@ -698,7 +759,7 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Tích hợp tiết kiệm và bảo vệ nguồn nước: HS nêu việc làm giữ gìn rừng, nguồn nước, bờ biển; không khai thác tài nguyên bừa bãi; biết bảo vệ nguồn nước trước tác động của bão, lũ, hạn hán",
    "integrations": [],
    "note": ""
   },
@@ -714,8 +775,14 @@
    "periodTo": 39,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "HS nhận biết phòng, chống thiên tai góp phần bảo vệ đời sống nhân dân; biết chấp hành hướng dẫn của người lớn, lực lượng chức năng và chia sẻ phù hợp với đồng bào vùng bão lũ."
+    }
+   ],
    "note": ""
   },
   {
@@ -730,7 +797,7 @@
    "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Tích hợp NLS 1.2.CB2a: GV dùng hình ảnh/video/AI mô phỏng thiên tai đã kiểm duyệt; HS phân biệt thông tin đáng tin cậy và thông tin cần kiểm chứng",
    "integrations": [],
    "note": ""
   },
@@ -746,7 +813,7 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 5,
-   "adjustments": "Năng lực số 1.1 CB2c: HS lập bảng và đọc được biểu đồ dân cư, từ đó giải thích sự phân bố dân cư của vùng",
+   "adjustments": "Tích hợp QCN: HS tôn trọng sự đa dạng cộng đồng dân cư, biết đoàn kết và không phân biệt vùng miền",
    "integrations": [
     {
      "code": "QPAN",
@@ -768,8 +835,19 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS lập bảng và đọc được biểu đồ dân cư, từ đó giải thích sự phân bố dân cư của vùng",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "HS hiểu hoạt động biển gắn với ý thức bảo vệ chủ quyền, chấp hành quy định của địa phương và lực lượng chức năng.\nTích hợp"
+    },
+    {
+     "code": "ATGT",
+     "level": "",
+     "text": "HS biết tuân thủ quy định an toàn khi tham gia giao thông đường biển, đường thủy."
+    }
+   ],
    "note": ""
   },
   {
@@ -784,7 +862,7 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS lập bảng và đọc được biểu đồ dân cư, từ đó giải thích sự phân bố dân cư của vùng",
+   "adjustments": "Tích hợp NLS 1.1.CB2a, 3.1.CB2a: HS tìm thông tin du lịch/kinh tế biển từ nguồn GV cung cấp, trình bày bằng bảng hoặc sơ đồ đơn giản",
    "integrations": [],
    "note": ""
   },
@@ -800,8 +878,14 @@
    "periodTo": 44,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS hiểu sản xuất nông nghiệp, công nghiệp, thuỷ điện cần gắn với bảo vệ tài nguyên, môi trường và sinh kế bền vững."
+    }
+   ],
    "note": ""
   },
   {
@@ -832,8 +916,13 @@
    "periodTo": 46,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.1 CB2c: HS lập bảng và đọc được biểu đồ dân cư, từ đó giải thích sự phân bố dân cư của vùng",
+   "adjustments": "Tích hợp",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "1.1.CB2a",
+     "text": "tìm kiếm, lựa chọn và kiểm chứng thông tin số về di sản theo nguồn do GV hướng dẫn."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -854,8 +943,14 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Tìm hiểu vùng đất hội tụ nhiều di sản của bài “Một số nét văn hoá ở vùng Bắc Trung Bộ và Nam Trung Bộ”; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động nhóm, GV chiếu bảng chung “Di sản – Nơi có – Nét đặc sắc”; các nhóm lên điền rồi đọc bảng của nhau",
-   "integrations": [],
+   "adjustments": "Tích hợp",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "giáo dục ý thức trân trọng công lao đội Hoàng Sa, trách nhiệm bảo vệ chủ quyền biển đảo qua Lễ Khao lề thế lính Hoàng Sa.\nTích hợp tiết kiệm và bảo vệ nguồn nước: liên hệ hành vi văn minh, không xả rác, dùng nước tiết kiệm khi tham gia lễ hội gắn với biển, sông, bến nước."
+    }
+   ],
    "note": ""
   },
   {
@@ -870,7 +965,7 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Tích hợp tiết kiệm và bảo vệ nguồn nước: giáo dục HS biết sử dụng nước tiết kiệm, giữ vệ sinh nguồn nước ở gia đình, trường học và cộng đồng; Tích hợp NLS - 1.1.CB2a: HS biết tìm kiếm, chọn lọc hình ảnh/thông tin đơn giản về nét văn hoá dưới sự hướng dẫn của GV và ghi nguồn thông tin phù hợp",
    "integrations": [],
    "note": ""
   },
@@ -886,8 +981,13 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số Miền 1 (Cơ bản, bậc 2): Ở hoạt động Mở đầu bài “Truyền thống yêu nước, cách mạng của đồng bào Bắc Trung Bộ và Nam Trung Bộ”, GV chiếu trò chơi lật mảnh ghép trên màn hình; Năng lực số Miền 2 (Cơ bản, bậc 2): Ở hoạt động nhóm, GV chiếu bảng chung “Di tích, nhân vật – Nơi có – Điều đáng nhớ”; các nhóm lên điền rồi đọc bảng của nhau",
+   "adjustments": "Tích hợp",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "giáo dục HS tự hào về truyền thống đấu tranh bảo vệ quê hương, biết kính trọng những người có công với đất nước."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -908,8 +1008,14 @@
    "periodTo": 50,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS đối chiếu ảnh tư liệu về nhân vật, di tích đã sưu tầm với thông tin trong SGK, chọn ảnh có nguồn tin cậy và ghi rõ nguồn khi kể chuyện trước lớp",
-   "integrations": [],
+   "adjustments": "Tích hợp lý tưởng cách mạng, đạo đức, lối sống: Giáo dục HS biết trân trọng lòng dũng cảm, tinh thần đoàn kết, ý chí bảo vệ buôn làng, quê hương của các nhân vật lịch sử; Tích hợp",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "4.A1.2",
+     "text": "HS quan sát GV dùng công cụ AI gợi ý dàn ý/kịch bản kể chuyện đơn giản; nhận biết AI chỉ hỗ trợ, không thay thế tư duy của con người; cùng GV kiểm tra lại thông tin bằng SGK và nguồn chính thống, không sao chép máy móc."
+    }
+   ],
    "note": ""
   },
   {
@@ -924,7 +1030,7 @@
    "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "adjustments": "Tích hợp lý tưởng cách mạng, đạo đức, lối sống: HS biết giữ gìn di tích, cảnh quan, ứng xử văn minh khi tham quan Cố đô Huế; trân trọng lịch sử và văn hoá dân tộc; Tích hợp AI 4.A3.1: HS thảo luận về việc AI có thể hỗ trợ thuyết minh, tìm hiểu di sản nhưng không thay thế hoàn toàn hướng dẫn viên thực sự tại các di sản văn hoá",
    "integrations": [
     {
      "code": "QPAN",
@@ -946,7 +1052,7 @@
    "periodTo": 52,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "adjustments": "Tích hợp NLS 3.1.CB2a: HS tạo thẻ giới thiệu ngắn về Cố đô Huế bằng tranh, sơ đồ hoặc slide đơn giản; biết chọn hình ảnh phù hợp, ghi nguồn và kiểm tra lại thông tin bằng SGK trước khi trình bày",
    "integrations": [],
    "note": ""
   },
@@ -962,7 +1068,7 @@
    "periodTo": 53,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "adjustments": "Tích hợp lý tưởng cách mạng, đạo đức, lối sống: HS biết trân trọng di sản văn hoá, ứng xử văn minh khi tham quan phố cổ Hội An; không xả rác, không làm hư hại công trình kiến trúc; Tích hợp AI 4.A3.1: HS thảo luận về việc có nên dùng AI để thay thế hướng dẫn viên thực sự tại các di sản văn hóa hay không; biết AI có thể hỗ trợ tìm hiểu di sản nhưng thông tin cần được GV kiểm duyệt và đối chiếu với nguồn chính thống",
    "integrations": [],
    "note": ""
   },
@@ -978,7 +1084,7 @@
    "periodTo": 54,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "adjustments": "Tích hợp NLS 1.2.CB2a: HS đối chiếu thông tin/hình ảnh về Hội An từ SGK với nguồn GV cung cấp; biết ghi nguồn, không sử dụng hình ảnh sai chú thích hoặc thông tin chưa kiểm chứng khi giới thiệu di sản",
    "integrations": [],
    "note": ""
   },
@@ -986,31 +1092,37 @@
    "id": "l4-lich-su-va-dia-li-055",
    "semester": 2,
    "week": 28,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì giữa học kì II",
+   "theme": "Chủ đề 4: Bắc Trung Bộ và Nam Trung Bộ",
+   "title": "Bài 21. Lễ hội Cồng chiêng Tây Nguyên",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
    "periodFrom": 55,
    "periodTo": 55,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "adjustments": "Tích hợp QCN: HS tôn trọng quyền giữ gìn bản sắc văn hoá của đồng bào Tây Nguyên; biết ứng xử văn minh, không chế giễu, không chia sẻ hình ảnh thiếu tôn trọng về lễ hội, trang phục, nhạc cụ của các dân tộc",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-lich-su-va-dia-li-056",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 4: Bắc Trung Bộ và Nam Trung Bộ",
-   "title": "Bài 21. Lễ hội Cồng chiêng Tây Nguyên",
+   "theme": "Chủ đề 5: Nam Bộ",
+   "title": "Bài 22. Thiên nhiên vùng Nam Bộ (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 56 (1 tiết)",
+   "periodLabel": "Tiết 56 (3 tiết)",
    "periodFrom": 56,
    "periodTo": 56,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được nét đặc sắc của lễ hội, nét văn hoá vùng miền nhờ phim tư liệu chính thống",
+   "lessonPeriods": 3,
+   "adjustments": "Tích hợp tiết kiệm và bảo vệ nguồn nước: HS nhận biết vùng Nam Bộ có hệ thống sông ngòi, kênh rạch, vùng trũng và biển rộng; từ đó có ý thức không xả rác xuống sông, kênh rạch, biết sử dụng nước tiết kiệm; Tích hợp AI 4.D1.1: HS đề xuất ý tưởng dùng cảm biến/AI để theo dõi mực nước, độ mặn, ngập lụt nhằm hỗ trợ người dân Nam Bộ phòng tránh thiên tai và bảo vệ nguồn nước",
    "integrations": [
     {
      "code": "QPAN",
@@ -1025,15 +1137,58 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 22. Thiên nhiên vùng Nam Bộ (Tiết 1)",
+   "title": "Bài 22. Thiên nhiên vùng Nam Bộ (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 57 (3 tiết)",
+   "periodLabel": "Tiết 57",
    "periodFrom": 57,
    "periodTo": 57,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp NLS 1.1.CB2a: HS đọc lược đồ/bản đồ số do GV cung cấp để xác định vị trí sông ngòi, vùng đất, vùng biển đảo của Nam Bộ; biết đọc chú giải, kiểm tra thông tin bằng SGK và không tự truy cập nguồn lạ",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-058",
+   "semester": 2,
+   "week": 29,
+   "theme": "Chủ đề 5: Nam Bộ",
+   "title": "Bài 22. Thiên nhiên vùng Nam Bộ (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 58",
+   "periodFrom": 58,
+   "periodTo": 58,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp",
    "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS nhận biết thuận lợi và khó khăn của môi trường thiên nhiên Nam Bộ; biết nêu việc làm bảo vệ rừng, đất, nguồn nước, kênh rạch, sông biển và giảm tác động của lũ lụt, sạt lở, hạn hán, xâm nhập mặn."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-059",
+   "semester": 2,
+   "week": 30,
+   "theme": "Chủ đề 5: Nam Bộ",
+   "title": "Bài 23. Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 59 (3 tiết)",
+   "periodFrom": 59,
+   "periodTo": 59,
+   "periods": 1,
+   "lessonPeriods": 3,
+   "adjustments": "Tích hợp QCN: HS tôn trọng sự đa dạng dân cư, văn hoá, nghề nghiệp của người dân Nam Bộ; biết đoàn kết, không phân biệt vùng miền, dân tộc, tiếng nói, phong tục; Tích hợp",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "4.A1.1",
+     "text": "HS nhận diện sự hiện diện của AI trong các khu công nghiệp hiện đại và các trang trại trái cây xuất khẩu ở Nam Bộ."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -1043,55 +1198,23 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-058",
-   "semester": 2,
-   "week": 29,
-   "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 22. Thiên nhiên vùng Nam Bộ (Tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 58",
-   "periodFrom": 58,
-   "periodTo": 58,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-059",
-   "semester": 2,
-   "week": 30,
-   "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 22. Thiên nhiên vùng Nam Bộ (Tiết 3)",
-   "content": "",
-   "periodLabel": "Tiết 59",
-   "periodFrom": 59,
-   "periodTo": 59,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS thao tác được các lớp bản đồ số, ảnh vệ tinh để mô tả đặc điểm thiên nhiên của vùng",
-   "integrations": [],
-   "note": ""
-  },
-  {
    "id": "l4-lich-su-va-dia-li-060",
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 23. Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 1)",
+   "title": "Bài 23. Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 60 (3 tiết)",
+   "periodLabel": "Tiết 60",
    "periodFrom": 60,
    "periodTo": 60,
    "periods": 1,
-   "lessonPeriods": 3,
-   "adjustments": "Năng lực số 1.1 CB2c: HS lập bảng và đọc được biểu đồ dân cư, từ đó giải thích sự phân bố dân cư của vùng",
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp tiết kiệm và bảo vệ nguồn nước: HS hiểu sản xuất nông nghiệp, nuôi trồng thủy sản, công nghiệp ở vùng sông nước cần sử dụng nước tiết kiệm, xử lí nước thải đúng cách, không làm ô nhiễm kênh rạch, sông biển; Tích hợp",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+     "code": "AI-NB",
+     "level": "4.A1.1",
+     "text": "HS nhận diện sự hiện diện của AI trong các khu công nghiệp hiện đại và các trang trại trái cây xuất khẩu ở Nam Bộ."
     }
    ],
    "note": ""
@@ -1101,15 +1224,21 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 23. Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 2)",
+   "title": "Bài 23. Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 61",
    "periodFrom": 61,
    "periodTo": 61,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS lập bảng và đọc được biểu đồ dân cư, từ đó giải thích sự phân bố dân cư của vùng",
-   "integrations": [],
+   "adjustments": "Tích hợp NLS 3.1.CB2a: HS dùng bảng/sơ đồ số đơn giản để phân loại hoạt động sản xuất; GV kiểm duyệt thông tin trước khi HS sử dụng; HS biết đối chiếu thông tin với SGK, hình 1, hình 4 và nguồn do GV cung cấp; Tích hợp BVMT và",
+   "integrations": [
+    {
+     "code": "ATGT",
+     "level": "",
+     "text": "HS biết sản xuất, giao thông đường thủy cần gắn với bảo vệ môi trường, không xả rác xuống sông, kênh rạch; biết đội áo phao, ngồi ngay ngắn, đi theo hướng dẫn của người lớn và lực lượng chức năng khi tham gia phương tiện đường thủy."
+    }
+   ],
    "note": ""
   },
   {
@@ -1117,31 +1246,25 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 23. Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 3)",
+   "title": "Bài 24. Một số nét văn hoá và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 62",
+   "periodLabel": "Tiết 62 (2 tiết)",
    "periodFrom": 62,
    "periodTo": 62,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mở lược đồ số của vùng trên máy chiếu, phóng to để tìm nơi phân bố các hoạt động sản xuất và điền vào sơ đồ tư duy của nhóm",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-063",
-   "semester": 2,
-   "week": 32,
-   "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 24. Một số nét văn hoá và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 63 (2 tiết)",
-   "periodFrom": 63,
-   "periodTo": 63,
-   "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được nét đặc sắc của lễ hội, nét văn hoá vùng miền nhờ phim tư liệu chính thống",
+   "adjustments": "",
    "integrations": [
+    {
+     "code": "ATGT",
+     "level": "",
+     "text": "Tích hợp ATGT đường thuỷ và"
+    },
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "HS nhận biết đời sống sông nước gắn với an toàn, trật tự, giao thông đường thuỷ; biết chấp hành quy định khi đi ghe, xuồng, phà, bến tàu; có ý thức giữ gìn kênh rạch, không xả rác xuống sông để góp phần bảo vệ môi trường và cuộc sống bình yên của cộng đồng."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -1151,19 +1274,47 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-064",
+   "id": "l4-lich-su-va-dia-li-063",
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 5: Nam Bộ",
    "title": "Bài 24. Một số nét văn hoá và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 64",
+   "periodLabel": "Tiết 63",
+   "periodFrom": 63,
+   "periodTo": 63,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp lý tưởng cách mạng, đạo đức, lối sống: HS biết trân trọng tinh thần yêu nước, lòng dũng cảm, sự kiên trung của các nhân vật lịch sử; biết biến lòng biết ơn thành hành động cụ thể như chăm học, sống trung thực, đoàn kết, giữ gìn truyền thống tốt đẹp của quê hương; Tích hợp",
+   "integrations": [
+    {
+     "code": "AI-NB",
+     "level": "4.A1.2",
+     "text": "HS quan sát GV dùng công cụ AI gợi ý dàn ý cho đoạn văn bày tỏ cảm nghĩ; nhận biết AI chỉ hỗ trợ, không thay thế suy nghĩ, cảm xúc của người viết; cùng GV kiểm tra lại thông tin bằng SGK; HS tự viết bằng lời của mình."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-064",
+   "semester": 2,
+   "week": 32,
+   "theme": "Chủ đề 5: Nam Bộ",
+   "title": "Bài 25. Thành phố Hồ Chí Minh (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 64 (2 tiết)",
    "periodFrom": 64,
    "periodTo": 64,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được nét đặc sắc của lễ hội, nét văn hoá vùng miền nhờ phim tư liệu chính thống",
-   "integrations": [],
+   "lessonPeriods": 2,
+   "adjustments": "Tích hợp lý tưởng cách mạng: HS tự hào về Thành phố Hồ Chí Minh, thành phố mang tên Bác; biết giữ gìn hình ảnh đô thị văn minh, nghĩa tình; Tích hợp AI 4.A2.1: HS nhận diện Thành phố Hồ Chí Minh là thành phố thông minh, nơi AI hỗ trợ điều hành giao thông và dịch vụ công",
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+    }
+   ],
    "note": ""
   },
   {
@@ -1171,21 +1322,15 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 25. Thành phố Hồ Chí Minh (Tiết 1)",
+   "title": "Bài 25. Thành phố Hồ Chí Minh (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 65 (2 tiết)",
+   "periodLabel": "Tiết 65",
    "periodFrom": 65,
    "periodTo": 65,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ vai trò của mỗi vùng đối với quốc phòng, an ninh; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp NLS 3.1.CB2a: Học sinh sử dụng thông tin, hình ảnh từ SGK và nguồn học liệu do giáo viên cung cấp để lập thẻ/sơ đồ/slide giới thiệu địa danh; biết ghi nguồn, kiểm tra thông tin và không chia sẻ hình ảnh sai chú thích",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1193,31 +1338,20 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 25. Thành phố Hồ Chí Minh (Tiết 2)",
+   "title": "Bài 26. Địa đạo Củ Chi",
    "content": "",
-   "periodLabel": "Tiết 66",
+   "periodLabel": "Tiết 66 (1 tiết)",
    "periodFrom": 66,
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l4-lich-su-va-dia-li-067",
-   "semester": 2,
-   "week": 34,
-   "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 26. Địa đạo Củ Chi",
-   "content": "",
-   "periodLabel": "Tiết 67 (1 tiết)",
-   "periodFrom": 67,
-   "periodTo": 67,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS phân biệt được hiện vật, tư liệu gốc với hình phục dựng do máy tạo",
+   "adjustments": "Tích hợp",
    "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "HS biết ơn chiến sĩ cách mạng, hiểu giá trị lịch sử của Địa đạo Củ Chi; có ý thức giữ gìn di tích."
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -1227,18 +1361,34 @@
    "note": ""
   },
   {
-   "id": "l4-lich-su-va-dia-li-068",
+   "id": "l4-lich-su-va-dia-li-067",
    "semester": 2,
    "week": 34,
    "theme": "Chủ đề 5: Nam Bộ",
    "title": "Bài 27. Ôn tập (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 68 (2 tiết)",
+   "periodLabel": "Tiết 67 (2 tiết)",
+   "periodFrom": 67,
+   "periodTo": 67,
+   "periods": 1,
+   "lessonPeriods": 2,
+   "adjustments": "Tích hợp NLS 1.1.CB2a: HS quan sát bản đồ số Việt Nam do GV trình chiếu để đối chiếu vị trí hai vùng khi phân loại thông tin và hoàn thành bảng so sánh",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l4-lich-su-va-dia-li-068",
+   "semester": 2,
+   "week": 34,
+   "theme": "Chủ đề 5: Nam Bộ",
+   "title": "Bài 27. Ôn tập (Tiết 2)",
+   "content": "",
+   "periodLabel": "Tiết 68",
    "periodFrom": 68,
    "periodTo": 68,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "Năng lực số 1.1 CB2c: HS mở bản đồ số Việt Nam trên máy chiếu, phóng to để chỉ vị trí và kể tên các tỉnh, thành phố của vùng Bắc Trung Bộ và Nam Trung Bộ rồi điền vào phiếu ôn tập",
+   "lessonPeriods": 1,
+   "adjustments": "Tích hợp lý tưởng cách mạng, đạo đức, lối sống: khi đóng vai hướng dẫn viên, HS giới thiệu đúng, thể hiện niềm tự hào về di sản, truyền thống lịch sử của các vùng; có ý thức giữ gìn di tích, ứng xử văn minh",
    "integrations": [],
    "note": ""
   },
@@ -1246,15 +1396,15 @@
    "id": "l4-lich-su-va-dia-li-069",
    "semester": 2,
    "week": 35,
-   "theme": "Chủ đề 5: Nam Bộ",
-   "title": "Bài 27. Ôn tập (Tiết 2)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì cuối năm học",
    "content": "",
-   "periodLabel": "Tiết 69",
+   "periodLabel": "Tiết 69 (1 tiết)",
    "periodFrom": 69,
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Năng lực số 1.2 CB2a: HS chọn tranh ảnh về vùng Nam Bộ có nguồn tin cậy trong số tư liệu đã sưu tầm để làm bài giới thiệu và ghi rõ nguồn dưới mỗi ảnh",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -1263,7 +1413,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
-   "title": "Kiểm tra định kì cuối năm học",
+   "title": "Nhận xét, chữa bài kiểm tra định kì cuối năm học",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,
@@ -1547,14 +1697,14 @@
  "attachment": {
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.docx",
   "name": "Lich su va Dia li - Lop 4.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-15",
-  "size": 44681,
-  "updated": "2026-09-15"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-10-30",
+  "size": 49403,
+  "updated": "2026-10-30"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.xlsx",
   "name": "Lich su va Dia li - Lop 4.xlsx",
-  "size": 10979,
-  "updated": "2026-09-15"
+  "size": 15600,
+  "updated": "2026-10-30"
  }
 }
